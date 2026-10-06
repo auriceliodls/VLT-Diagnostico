@@ -1,0 +1,149 @@
+=========================================
+MANUAL: kluber-isoflex-nb-52datasheet.pdf
+=========================================
+
+--- kluber-isoflex-nb-52datasheet.pdf | PÁGINA 1 ---
+ 
+ISOFLEX® TOPAS NB 52 
+ 
+Synthetic long-term grease for rolling and plain bearings 
+The data in this product information is based on our general experience and knowledge at the time of printing and is intended t o give information of possible applications to a reader 
+with technical experience. It constitutes neither an assurance of product properties nor does it release the user from the obli gation of performing preliminary tests with the selected 
+product. We recommend contacting our Technical Consulting Staff to discuss your specific application. If required and possible we will be pleased to provide a sample for testing. 
+Klüber products are continually improved. Therefore, Klüber Lubrication reserves the right to change all the technical data in this product information at any time without notice. 
+ 
+ 
+ 
+Klüber Lubrication, a member of the Freudenberg group
+ 
+ 
+ 
+Publisher and Copyright: Reprints, total or in part, are permitted if source Klüber Lubrication München KG 
+Klüber Lubrication München KG is indicated and voucher copy is forwarded. Geisenhausenerstraße 7, 81379 München, Deutschland 
+   +49 89 7876-0, Telefax +49 89 7876-333, www.klueber.com 
+ 
+ 
+ 
+ 
+ 
+ 
+Product information    5.322 e Edition 03.06, replaces edition 05.02 
+Article number: 004131 GATE-B/SP 
+Description 
+ 
+ISOFLEX TOPAS NB 52 is a 
+lubricating grease with a wide 
+service temperature range for plain 
+and rolling bearings. It consists of 
+synthetic hydrocarbon oil and barium 
+complex soap. It is resistant to 
+water, ambient media, oxidation and 
+ageing, and it protects reliably 
+against corrosion. 
+ 
+ 
+Application 
+ 
+ISOFLEX TOPAS NB 52 is used  
+in high-speed, high-load plain and 
+rolling bearings; also suitable for low 
+temperatures. 
+ 
+It is also suitable for electric con-
+tacts and components. Properly 
+applied, ISOFLEX TOPAS NB 52 
+reduces electrical resistance in  
+the lubrication point (e.g. electro- 
+conductive flexible roller bearings, 
+interrupter tubes). 
+ 
+In addition, the product is resistant to 
+many synthetic materials. 
+ 
+Owing to the different compositions 
+of elastomers and plastic materials, 
+compatibility tests are indispensable 
+before series application. 
+ 
+ 
+Application notes 
+ 
+The lubricant is applied by brush, 
+spatula, or grease gun. 
+ 
+ 
+Minimum shelf life 
+ 
+The minimum shelf life is approx. 36 
+months if the product is stored in its 
+unopened original container in a dry 
+place. 
+ 
+Package sizes 
+ 
+400 g cartridge 
+1 kg can 
+25 kg bucket 
+ 
+ 
+Material safety data sheets can be 
+downloaded or requested via our 
+website www.klueber.com. You may 
+also obtain them through your 
+contact person at Klüber. 
+ 
+ 
+ISOFLEX TOPAS NB 520 
+ 
+• Synthetic grease for plain 
+and rolling bearings for a 
+wide temperature range 
+• Also suitable for low 
+temperatures 
+• Good pressure absorption 
+• Good resistance to water 
+and ambient media 
+• Good corrosion protection 
+• Good resistance to 
+oxidation and ageing 
+Product data 
+ 
+Colour beige 
+Texture homogeneous, 
+short-fibred 
+Density at 20 °C, g/cm3, approx. 0.96 
+Service temperature range*, °C, approx. – 50 to 120 
+Drop point, DIN ISO 2176, °C > 240 
+Worked penetration, DIN ISO 2137, 
+(ASTM D 217); 0.1 mm 
+ 
+265 to 295 
+Corrosion protection (Emcor test),  
+DIN 51 802, 1 week, distilled water, 
+corrosion rating 
+ 
+ 
+0 
+Base oil viscosity, DIN 51 562/1  
+at   40 °C, mm2/s, approx. 
+at 100 °C, mm2/s, approx. 
+ 
+30.0 
+  5.9 
+Speed factor** 
+(n x dm), mm x min–1, approx. 
+ 
+1,000,000 
+Apparent dynamic viscosity, 
+Klüber viscosity grade*** 
+ 
+M 
+ 
+* Service temperatures are guide values which depend on the lubricant’s composition, the intended use and the applica- 
+  tion method. Lubricants change their consistency, apparent dynamic viscosity or viscosity depending on the mechano- 
+  dynamical loads, time, pressure and temperature. These changes in product characteristics may affect the function of a 
+  component. 
+** Speed factors are guide values which depend on the type and size of the rolling bearing type and the local operating 
+  conditions, which is why they have to be confirmed in tests carried out by the user in each individual case. 
+*** Klüber viscosity grades: EL = extra light lubricating grease; L = light lubricating grease; M = medium lubricating grease;  
+  S = heavy lubricating grease; ES = extra heavy lubricating grease 

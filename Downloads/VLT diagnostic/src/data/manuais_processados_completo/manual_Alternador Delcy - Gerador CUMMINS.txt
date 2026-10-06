@@ -1,0 +1,537 @@
+# MANUAL: Alternador Delcy - Gerador CUMMINS.pdf
+
+--- INÍCIO DA PÁGINA 1 ---
+Instruction Sheet
+10524919
+08FE24 C0008709 REV4
+24SI™ ALTERNATOR INSTALLATION INSTRUCTIONS
+24SI™ FEATURES
+HIGH OUTPUT: 12V - 100,135,145,160 Ampere Ratings REMOTE SENSE™ TECHNOLOGY (AVAILABLE)
+24V - 70, 100 Ampere Ratings CONNECTION: Three (3) available options
+TWO MOUNTING OPTIONS: Pad & Delco Remy® Standard Hinge
+198mm (7.8 inch) BATTERY ISOLATOR BULLETIN AVAILABLE
+WARNING!!!!ALWAYS USE PROPER EYE PROTECTION WHEN PERFORMING ANY MECHANICAL REPAIRS TO A VEHICLE
+-INCLUDING, BUT NOT LIMITED TO, ANY INSTALLATION AND OR REPAIRS TO THE DELCO REMY® ALTERNATORS. FAILURE
+TO USE PROPER EYE PROTECTION CAN LEAD TO SERIOUS AND PERMANENT EYE DAMAGE.
+Only perform the mechanical functions that you are properly qualified to perform. Mechanical repairs that are beyond your technical
+capabilities should be handled by a professional installation specialist.
+DANGER!!! To avoid injury or damage, always disconnect the negative cable at the battery before removing or replacing the alternator.
+The alternator output terminal is always live (“hot”). If the battery is not disconnected, a tool accidentally touching this terminal and ground
+can quickly get hot enough to burn skin or damage tools and surrounding parts.
+FOLLOW ENGINE OR VEHICLE MANUFACTURER’S INSTRUCTIONS FOR REMOVING THE OLD ALTERNATOR FROM THE
+ENGINE AND INSTALLING THE NEW ALTERNATOR.
+NOTICE! This is an extremely high output Alternator. Always ensure your application is equipped with the appropriate size and gauge of
+cable. CHARGING LINE CABLE VOLTAGE DROP SHOULD NOT EXCEED 0.5 VOLTS (12V system), 1.0 Volts (24V system)
+(ALTERNATOR OUTPUT [B+] TERMINAL TO BATTERY POSITIVE TERMINAL AT FULL OUTPUT). FOR OBTAINING ADDITIONAL
+WIRING INSTALLATION INFORMATION, SEE HEAVY DUTY APPLICATION MANUALS OR CONTACT A REMY INC.
+REPRESENTATIVE.
+REMOVAL & INSTALLATION INSTRUCTIONS
+ Disconnect the negative (-) cable at the batteries.
+ Identify and tag all leads when removing the old alternator and install them on the same terminals of the new alternator.
+ Insure all leads are reconnected or contained where they cannot ground.
+ Torque all fasteners to values labeled in Figures 1 & 2 below.
+This alternator may have more terminals than the one being replaced had or used. It will charge properly with only the battery and ground
+leads connected. Use of the other terminals is optional based on need. See “TERMINAL DESCRIPTIONS” in figures 1, 2, 3 & 4, pages
+1 & 2. FIGURE 1 - 24SI™ (4-Pin connector) FIGURE 2 - 24SI™
+(4 -Terminal studs & 3 -Terminal studs & Pin)
+USE PULLEY FROM OLD ALTERNATOR NOTICE! DO NOT INSTALL AN EXTERNAL
+(SEE PULLEY INSTRUCTIONS PAGE 2 FAN ON A 24SI ALTERNATOR
+PHASE (RELAY) RELAY TERMINAL CONNECTOR – OBTAIN FROM
+INDICATOR LAMP DELPHI OR OTHE R APPROVED SOURCE
+EXTERNAL FIELD MONITOR
+REMOTE SENSE™
+REMOTE SENSE
+INDICATOR/IGNITION
+(OPTIONAL)
+RELAY (Optional pin terminal)
+Three (3) M5 terminal torque
+3.0–5.0 N-m (25-45) Lb in
+BA TTERY (+) Three (3) #10 terminal torque
+9.0 -14.0 N-m BATTERY (+) 3.0–5.0 N-m (15-25) Lb in
+(80 -125) Lb in 9.0-14.0 N-m
+(80-125) Lb in
+GROUND SCREW
+GROUND SCREW (-)
+12.0-16.0 N-m (106-141) Lb in
+12.0-16.0 N-m (106-141) Lb in
+NOTICE - Only licensed Delco Remy products and component parts should be used, and the use of other parts or modifications not approved by PHINIA
+will void all applicable warranties. The failure to carefully follow these Instructions, set forth herein, will void all applicable warranties. DELCO REMY is a
+registered trademark of General Motors LLC, licensed to PHINIA Technologies Inc.
+© 2023 PHINIA Inc. All rights reserved 1
+
+**Tabela 1 (Página 1):**
+| Instruction Sheet 10524919 08FE24 C0008709 REV4 |
+| 24SI™ ALTERNATOR INSTALLATION INSTRUCTIONS 24SI™ FEATURES HIGH OUTPUT: 12V - 100,135,145,160 Ampere Ratings REMOTE SENSE™ TECHNOLOGY (AVAILABLE) 24V - 70, 100 Ampere Ratings CONNECTION: Three (3) available options TWO MOUNTING OPTIONS: Pad & Delco Remy® Standard Hinge 198mm (7.8 inch) BATTERY ISOLATOR BULLETIN AVAILABLE WARNING!!!!ALWAYS USE PROPER EYE PROTECTION WHEN PERFORMING ANY MECHANICAL REPAIRS TO A VEHICLE -INCLUDING, BUT NOT LIMITED TO, ANY INSTALLATION AND OR REPAIRS TO THE DELCO REMY® ALTERNATORS. FAILURE TO USE PROPER EYE PROTECTION CAN LEAD TO SERIOUS AND PERMANENT EYE DAMAGE. Only perform the mechanical functions that you are properly qualified to perform. Mechanical repairs that are beyond your technical capabilities should be handled by a professional installation specialist. DANGER!!! To avoid injury or damage, always disconnect the negative cable at the battery before removing or replacing the alternator. The alternator output terminal is always live (“hot”). If the battery is not disconnected, a tool accidentally touching this terminal and ground can quickly get hot enough to burn skin or damage tools and surrounding parts. |
+| FOLLOW ENGINE OR VEHICLE MANUFACTURER’S INSTRUCTIONS FOR REMOVING THE OLD ALTERNATOR FROM THE ENGINE AND INSTALLING THE NEW ALTERNATOR. |
+| NOTICE! This is an extremely high output Alternator. Always ensure your application is equipped with the appropriate size and gauge of cable. CHARGING LINE CABLE VOLTAGE DROP SHOULD NOT EXCEED 0.5 VOLTS (12V system), 1.0 Volts (24V system) (ALTERNATOR OUTPUT [B+] TERMINAL TO BATTERY POSITIVE TERMINAL AT FULL OUTPUT). FOR OBTAINING ADDITIONAL WIRING INSTALLATION INFORMATION, SEE HEAVY DUTY APPLICATION MANUALS OR CONTACT A REMY INC. REPRESENTATIVE. REMOVAL & INSTALLATION INSTRUCTIONS  Disconnect the negative (-) cable at the batteries.  Identify and tag all leads when removing the old alternator and install them on the same terminals of the new alternator.  Insure all leads are reconnected or contained where they cannot ground.  Torque all fasteners to values labeled in Figures 1 & 2 below. This alternator may have more terminals than the one being replaced had or used. It will charge properly with only the battery and ground leads connected. Use of the other terminals is optional based on need. See “TERMINAL DESCRIPTIONS” in figures 1, 2, 3 & 4, pages 1 & 2. FIGURE 1 - 24SI™ (4-Pin connector) FIGURE 2 - 24SI™ (4 -Terminal studs & 3 -Terminal studs & Pin) USE PULLEY FROM OLD ALTERNATOR NOTICE! DO NOT INSTALL AN EXTERNAL (SEE PULLEY INSTRUCTIONS PAGE 2 FAN ON A 24SI ALTERNATOR PHASE (RELAY) RELAY TERMINAL CONNECTOR – OBTAIN FROM INDICATOR LAMP DELPHI OR OTHE R APPROVED SOURCE REMOTE SENSE™ EXTERNAL FIELD MONITOR REMOTE SENSE INDICATOR/IGNITION (OPTIONAL) RELAY (Optional pin terminal) Three (3) M5 terminal torque 3.0–5.0 N-m (25-45) Lb in BA TTERY (+) Three (3) #10 terminal torque 9.0 -14.0 N-m BATTERY (+) 3.0–5.0 N-m (15-25) Lb in (80 -125) Lb in 9.0-14.0 N-m (80-125) Lb in GROUND SCREW GROUND SCREW (-) 12.0-16.0 N-m (106-141) Lb in 12.0-16.0 N-m (106-141) Lb in |
+| NOTICE - Only licensed Delco Remy products and component parts should be used, and the use of other parts or modifications not approved by PHINIA will void all applicable warranties. The failure to carefully follow these Instructions, set forth herein, will void all applicable warranties. DELCO REMY is a registered trademark of General Motors LLC, licensed to PHINIA Technologies Inc. © 2023 PHINIA Inc. All rights reserved 1 |
+
+--- FIM DA PÁGINA 1 ---
+
+--- INÍCIO DA PÁGINA 2 ---
+PULLEY INSTRUCTIONS: Use pulley from old alternator if this alternator does not have a pulley or pulley supplied is different from the
+one on alternator being replaced. NOTICE! When changing the pulley, keep the alternator shaft in the horizontal position and do
+not apply any pressure to end of the shaft. Internal damage may occur if the shaft is pushed back and turned. If there were
+spacers when the fan and pulley were removed, make sure all spacers are replaced when installing the pulley on this alternator. Hold the
+shaft by placing a hex wrench in the hexagonal hole in the shaft while removing or installing the pulley. Tighten the pulley nut to 95-108
+N-m (70-80 lb ft).
+BELT TENSIONING INSTRUCTIONS: Improper belt tension can cause premature alternator failure. If the
+belt must be tightened manually, place a wood block between the alternator and pry bar, as illustrated at right.
+Pry as close to the center of the unit as possible. Use a torque wrench to tighten mounting bolts to the proper
+torque as specified in vehicle or engine manufacturer’s specifications for belt tension and mounting bolts
+torque. DO NOT OVER TIGHTEN BELT!
+FIGURE 3 -
+TYPICAL WIRING DIAGRAM STUD CONNECTORS
+NOTE: Remote sense is optional
+RELAY TERMINAL OUTPUT
+IS 1/ 2 SYSTEM VOLTAGE
+FIGURE 4 -
+TYPICAL WIRING DIAGRAM – 4 PIN PLUG
+NOTE: Remote sense is optional
+PHASE TERMINAL OUTPUT
+IS 1/ 2 SYSTEM VOLTAGE
+TERMINAL DESCRIPTIONS (P, L, F and S terminal
+connections are optional:
+“B+” Terminal - Output terminal connects to the positive
+(+) battery terminal.
+“S” Remote Sense™ Terminal – Connect to system
+voltage at the battery or a common distribution point.
+“P” Terminal – Relay / Phase terminal carries half system voltage and may be used for certain types of control relays, charge indicators,
+tachometers or similar devices. The current draw should not exceed four (4) amperes. Frequency = Alternator RPM/10
+“L” Terminal - The regulator Lamp terminal connects to the ignition switch through an indicator bulb or LED.
+On Stud terminal models can also serve as a 1.0 Amp current source, sink or both.
+Ground Screw – Ground lead ensures alternator is grounded and is strongly recommended for optimum performance
+ If installing an alternator with Remote Sense™ terminal in a vehicle that does not have a sense line, connect a fused (5 Amp)
+insulated wire from the Alternator Voltage Sense terminal to the positive (+) battery terminal or the common distribution point at
+the starter solenoid battery (+) terminal. Connection of this terminal is best for optimum performance; however, the alternator will
+function without Remote Sense™ connected.
+Use a #16 gauge red insulated wire, preferably with a 1/4” ID Convoluted Polyethylene Conduit. Also install a standard inline fuse
+holder with a protective cap. Use a low voltage automotive standard blade style fuse, 5 Amp.
+ Only connect the Remote Sense™ terminal line to the Remote Sense™ terminal. The “R” and “I” Terminals are not the Remote
+Sense™ Terminal!
+Technical support: USA 800 372 0222, Mexico 01 800 000 7378, Brazil 0800 703 3526, South America 55 11 3183 0384 or
+visit www.delcoremy.com
+NOTICE - Only licensed Delco Remy products and component parts should be used, and the use of other parts or modifications not approved by PHINIA
+will void all applicable warranties. The failure to carefully follow these Instructions, set forth herein, will void all applicable warranties. DELCO REMY is a
+registered trademark of General Motors LLC, licensed to PHINIA Technologies Inc.
+© 2023 PHINIA Inc. All rights reserved 2
+
+**Tabela 1 (Página 2):**
+| PULLEY INSTRUCTIONS: Use pulley from old alternator if this alternator does not have a pulley or pulley supplied is different from the one on alternator being replaced. NOTICE! When changing the pulley, keep the alternator shaft in the horizontal position and do not apply any pressure to end of the shaft. Internal damage may occur if the shaft is pushed back and turned. If there were spacers when the fan and pulley were removed, make sure all spacers are replaced when installing the pulley on this alternator. Hold the shaft by placing a hex wrench in the hexagonal hole in the shaft while removing or installing the pulley. Tighten the pulley nut to 95-108 N-m (70-80 lb ft). BELT TENSIONING INSTRUCTIONS: Improper belt tension can cause premature alternator failure. If the belt must be tightened manually, place a wood block between the alternator and pry bar, as illustrated at right. Pry as close to the center of the unit as possible. Use a torque wrench to tighten mounting bolts to the proper torque as specified in vehicle or engine manufacturer’s specifications for belt tension and mounting bolts torque. DO NOT OVER TIGHTEN BELT! FIGURE 3 - TYPICAL WIRING DIAGRAM STUD CONNECTORS NOTE: Remote sense is optional RELAY TERMINAL OUTPUT IS 1/ 2 SYSTEM VOLTAGE FIGURE 4 - TYPICAL WIRING DIAGRAM – 4 PIN PLUG NOTE: Remote sense is optional PHASE TERMINAL OUTPUT IS 1/ 2 SYSTEM VOLTAGE TERMINAL DESCRIPTIONS (P, L, F and S terminal connections are optional: “B+” Terminal - Output terminal connects to the positive (+) battery terminal. “S” Remote Sense™ Terminal – Connect to system voltage at the battery or a common distribution point. “P” Terminal – Relay / Phase terminal carries half system voltage and may be used for certain types of control relays, charge indicators, tachometers or similar devices. The current draw should not exceed four (4) amperes. Frequency = Alternator RPM/10 “L” Terminal - The regulator Lamp terminal connects to the ignition switch through an indicator bulb or LED. On Stud terminal models can also serve as a 1.0 Amp current source, sink or both. Ground Screw – Ground lead ensures alternator is grounded and is strongly recommended for optimum performance  If installing an alternator with Remote Sense™ terminal in a vehicle that does not have a sense line, connect a fused (5 Amp) insulated wire from the Alternator Voltage Sense terminal to the positive (+) battery terminal or the common distribution point at the starter solenoid battery (+) terminal. Connection of this terminal is best for optimum performance; however, the alternator will function without Remote Sense™ connected. Use a #16 gauge red insulated wire, preferably with a 1/4” ID Convoluted Polyethylene Conduit. Also install a standard inline fuse holder with a protective cap. Use a low voltage automotive standard blade style fuse, 5 Amp.  Only connect the Remote Sense™ terminal line to the Remote Sense™ terminal. The “R” and “I” Terminals are not the Remote Sense™ Terminal! Technical support: USA 800 372 0222, Mexico 01 800 000 7378, Brazil 0800 703 3526, South America 55 11 3183 0384 or visit www.delcoremy.com |
+| NOTICE - Only licensed Delco Remy products and component parts should be used, and the use of other parts or modifications not approved by PHINIA will void all applicable warranties. The failure to carefully follow these Instructions, set forth herein, will void all applicable warranties. DELCO REMY is a registered trademark of General Motors LLC, licensed to PHINIA Technologies Inc. © 2023 PHINIA Inc. All rights reserved 2 |
+
+--- FIM DA PÁGINA 2 ---
+
+--- INÍCIO DA PÁGINA 3 ---
+Hoja de Instrucción
+10524919
+08FE24 C0008709 REV4
+INSTRUCCIONS DE INSTALACIÓN DEL ALTERNADOR 24SI™
+CARACTERÍSTICAS 24SI™
+SALIDA ALTA: 12V - 100,135,145,160 Amperios TECNOLOGÍA REMOTE SENSE™ (DISPONIBLE)
+24V - 70, 100 Amperios CONEXION: Tres (3) opciones disponibles
+DOS OPCIONES DE MONTAJE: Almohadilla y bisagra estándar Delco
+Remy® 198mm (7,8 pulgadas) BOLETÍN AISLADOR DE BATERÍA
+DISPONIBLE
+ADVERTENCIA!!!! UTILICE SIEMPRE PROTECCIÓN OCULAR ADECUADA AL REALIZAR CUALQUIER REPARACIÓN MECÁNICA
+EN UN VEHÍCULO, INCLUIDA, ENTRE OTRAS, CUALQUIER INSTALACIÓN O REPARACIÓN DE LOS ALTERNADORES REMY® DE
+DELCO. LA NO UTILIZACIÓN DE UNA PROTECCIÓN OCULAR ADECUADA PUEDE PROVOCAR LESIONES OCULARES GRAVES
+Y PERMANENTES.
+Realice únicamente las funciones mecánicas para las que esté debidamente cualificado. Las reparaciones mecánicas que superen sus
+capacidades técnicas deben ser realizadas por un instalador profesional.
+PELIGRO!!! Para evitar lesiones o daños, desconecte siempre el cable negativo de la batería antes de desmontar o sustituir el alternador.
+El borne de salida del alternador está siempre bajo tensión ("caliente"). Si no se desconecta la batería, una herramienta que toque
+accidentalmente este terminal y la masa puede calentarse rápidamente lo suficiente como para quemar la piel o dañar las herramientas
+y las piezas circundantes.
+SIGA LAS INSTRUCCIONES DEL FABRICANTE DEL MOTOR O DEL VEHÍCULO PARA DESMONTAR EL ALTERNADOR VIEJO
+DEL MOTOR E INSTALAR EL ALTERNADOR NUEVO.
+IMPORTANTE! Este es un alternador de potencia extremadamente alta. Asegúrese siempre de que su aplicación está equipada con
+el tamaño y calibre de cable adecuados. LA CAÍDA DE VOLTAJE DEL CABLE DE LA LÍNEA DE CARGA NO DEBE EXCEDER LOS
+0,5 VOLTIOS (sistema de 12 V), 1,0 Voltios (sistema de 24 V) (TERMINAL DE SALIDA [B+] DEL ALTERNADOR AL TERMINAL
+POSITIVO DE LA BATERÍA A PLENA SALIDA). PARA OBTENER INFORMACIÓN ADICIONAL SOBRE LA INSTALACIÓN DEL
+CABLEADO, CONSULTE LOS MANUALES DE APLICACIÓN DE SERVICIO PESADO O PÓNGASE EN CONTACTO CON UN
+REPRESENTANTE DE REMY INC.
+INSTRUCCIONES DE DESMONTAJE E INSTALACIÓN
+ Desconecte el cable negativo (-) en las baterías.
+ Identifique y etiquete todos los cables al desmontar el alternador viejo e instalarlos en los mismos bornes del alternador nuevo.
+ Asegúrese que todos los cables estén conectados de nuevo o contenidos donde no puedan conectarse a tierra.
+ Apriete todos los tornillos a los valores etiquetados en las figuras 1 y 2 siguientes.
+Este alternador puede tener más bornes que los que tenía o utilizaba el que se sustituye. Se cargará correctamente sólo con la batería y
+los cables de masa conectados. El uso de los otros bornes es opcional en función de las necesidades. Ver "DESCRIPCIÓN DE LOS
+TERMINALES" en las figuras 1, 2, 3 y 4, páginas 1 y 2.
+FIGURA 1 - 24SI™ (Conector de 4 polos) FIGURA 2 - 24SI™ (4 - Pernos terminales y 3 - Pernos
+terminales y polo)
+UTILIZAR LA POLEA DEL ALTERNADOR VIEJO IMPORTANTE! NO INSTALE UN VENTILADOR
+(VER INSTRUCCIONES POLEA PÁGINA 2) EXTERNO EN UN ALTERNADOR 24SI
+FASE (RELÉ)
+CONECTOR DEL TERMINAL DEL RELÉ - OBTENER
+LAMPARA INDICADORA
+DE DELPHI O DE OTRA FUENTE APROBADA
+MONITO R D E CAMPO EXTERNO REMOTE SENSE™
+SENSOR REMOTO (OPCIONAL) INDICADOR/ENCENDIDO
+RELÉ (terminal de polos
+opcional)
+B
+9
+( 8
+.
+A
+0
+0
+T
+-
+-
+1
+1
+E
+4
+2
+R
+.
+5
+0
+I
+)
+A
+N
+L
+(
+b
+-
++
+m
+i
+)
+n
+B
+9
+( 8
+.
+A
+0
+0
+T
+-
+-
+1
+1
+E
+4
+2
+R
+.
+5
+0
+I
+)
+A
+N
+L
+(
+b
+-
++
+m
+i
+)
+n
+T
+T
+r
+h
+3
+3
+e
+r
+.
+.
+s
+e
+0
+0
+e
+–
+–
+( 3
+5
+5
+(
+)
+3
+.
+.
+0
+0
+M
+) #
+N
+N
+5
+1
+-
+-
+p
+0
+m
+m
+a
+p
+r
+(
+(
+a
+2
+1
+d
+r
+5
+5
+e
+d
+-
+-
+4
+2
+t
+e
+e
+5
+5
+r
+t
+)
+)
+m
+e
+L
+L
+r
+i
+m
+b
+b
+n a
+i
+i
+i
+n
+n
+n
+le
+a
+s
+le s
+TORNILLO DE TIERRA (-)
+TORNILLO DE TIERRA 12.0-16 .0 N-m (106-141) Lb in
+12.0-16.0 N-m (106-141) Lb in
+AVISO - Sólo deben utilizarse piezas de productos y componentes autorizados por DELCO REMY, Inc, y el uso de otras piezas o modificaciones no
+aprobadas por PHINIA Inc. anulará todas las garantías aplicables. El incumplimiento de estas instrucciones de instalación anulará todas las garantías
+aplicables. DELCO REMY es una marca registrada de General Motors Corporation, licenciada a PHINIA Inc.
+© 2023 PHINIA Inc. Todos los derechos reservados 3
+
+**Tabela 1 (Página 3):**
+| Hoja de Instrucción 10524919 08FE24 C0008709 REV4 |
+| INSTRUCCIONS DE INSTALACIÓN DEL ALTERNADOR 24SI™ CARACTERÍSTICAS 24SI™ SALIDA ALTA: 12V - 100,135,145,160 Amperios TECNOLOGÍA REMOTE SENSE™ (DISPONIBLE) 24V - 70, 100 Amperios CONEXION: Tres (3) opciones disponibles DOS OPCIONES DE MONTAJE: Almohadilla y bisagra estándar Delco Remy® 198mm (7,8 pulgadas) BOLETÍN AISLADOR DE BATERÍA DISPONIBLE ADVERTENCIA!!!! UTILICE SIEMPRE PROTECCIÓN OCULAR ADECUADA AL REALIZAR CUALQUIER REPARACIÓN MECÁNICA EN UN VEHÍCULO, INCLUIDA, ENTRE OTRAS, CUALQUIER INSTALACIÓN O REPARACIÓN DE LOS ALTERNADORES REMY® DE DELCO. LA NO UTILIZACIÓN DE UNA PROTECCIÓN OCULAR ADECUADA PUEDE PROVOCAR LESIONES OCULARES GRAVES Y PERMANENTES. Realice únicamente las funciones mecánicas para las que esté debidamente cualificado. Las reparaciones mecánicas que superen sus capacidades técnicas deben ser realizadas por un instalador profesional. PELIGRO!!! Para evitar lesiones o daños, desconecte siempre el cable negativo de la batería antes de desmontar o sustituir el alternador. El borne de salida del alternador está siempre bajo tensión ("caliente"). Si no se desconecta la batería, una herramienta que toque accidentalmente este terminal y la masa puede calentarse rápidamente lo suficiente como para quemar la piel o dañar las herramientas y las piezas circundantes. |
+| SIGA LAS INSTRUCCIONES DEL FABRICANTE DEL MOTOR O DEL VEHÍCULO PARA DESMONTAR EL ALTERNADOR VIEJO DEL MOTOR E INSTALAR EL ALTERNADOR NUEVO. |
+| IMPORTANTE! Este es un alternador de potencia extremadamente alta. Asegúrese siempre de que su aplicación está equipada con el tamaño y calibre de cable adecuados. LA CAÍDA DE VOLTAJE DEL CABLE DE LA LÍNEA DE CARGA NO DEBE EXCEDER LOS 0,5 VOLTIOS (sistema de 12 V), 1,0 Voltios (sistema de 24 V) (TERMINAL DE SALIDA [B+] DEL ALTERNADOR AL TERMINAL POSITIVO DE LA BATERÍA A PLENA SALIDA). PARA OBTENER INFORMACIÓN ADICIONAL SOBRE LA INSTALACIÓN DEL CABLEADO, CONSULTE LOS MANUALES DE APLICACIÓN DE SERVICIO PESADO O PÓNGASE EN CONTACTO CON UN REPRESENTANTE DE REMY INC. INSTRUCCIONES DE DESMONTAJE E INSTALACIÓN  Desconecte el cable negativo (-) en las baterías.  Identifique y etiquete todos los cables al desmontar el alternador viejo e instalarlos en los mismos bornes del alternador nuevo.  Asegúrese que todos los cables estén conectados de nuevo o contenidos donde no puedan conectarse a tierra.  Apriete todos los tornillos a los valores etiquetados en las figuras 1 y 2 siguientes. Este alternador puede tener más bornes que los que tenía o utilizaba el que se sustituye. Se cargará correctamente sólo con la batería y los cables de masa conectados. El uso de los otros bornes es opcional en función de las necesidades. Ver "DESCRIPCIÓN DE LOS TERMINALES" en las figuras 1, 2, 3 y 4, páginas 1 y 2. FIGURA 1 - 24SI™ (Conector de 4 polos) FIGURA 2 - 24SI™ (4 - Pernos terminales y 3 - Pernos terminales y polo) UTILIZAR LA POLEA DEL ALTERNADOR VIEJO IMPORTANTE! NO INSTALE UN VENTILADOR (VER INSTRUCCIONES POLEA PÁGINA 2) EXTERNO EN UN ALTERNADOR 24SI CONECTOR DEL TERMINAL DEL RELÉ - OBTENER FASE (RELÉ) DE DELPHI O DE OTRA FUENTE APROBADA LAMPARA INDICADORA MONITO R D E CAMPO EXTERNO REMOTE SENSE™ SENSOR REMOTO (OPCIONAL) INDICADOR/ENCENDIDO RELÉ (terminal de polos opcional) B A T E R I A ( + ) B A T E R I A ( + ) T r e s ( 3 ) M 5 p a r d e t e r m i n a le s 9 . 0 - 1 4 . 0 N - m 9 . 0 - 1 4 . 0 N - m 3 . 0 – 5 . 0 N - m ( 2 5 - 4 5 ) L b i n ( 8 0 - 1 2 5 ) L b i n ( 8 0 - 1 2 5 ) L b i n T h r e e ( 3 ) # 1 0 p a r d e t e r m i n a le s 3 . 0 – 5 . 0 N - m ( 1 5 - 2 5 ) L b i n TORNILLO DE TIERRA (-) TORNILLO DE TIERRA 12.0-16 .0 N-m (106-141) Lb in 12.0-16.0 N-m (106-141) Lb in |
+| AVISO - Sólo deben utilizarse piezas de productos y componentes autorizados por DELCO REMY, Inc, y el uso de otras piezas o modificaciones no aprobadas por PHINIA Inc. anulará todas las garantías aplicables. El incumplimiento de estas instrucciones de instalación anulará todas las garantías aplicables. DELCO REMY es una marca registrada de General Motors Corporation, licenciada a PHINIA Inc. © 2023 PHINIA Inc. Todos los derechos reservados 3 |
+
+**Tabela 2 (Página 3):**
+| CONECTOR DEL TERMINAL DEL RELÉ - OBTENER DE DELPHI O DE OTRA FUENTE APROBADA |  |
+|  |  |
+
+--- FIM DA PÁGINA 3 ---
+
+--- INÍCIO DA PÁGINA 4 ---
+INSTRUCCIONES DE LA POLEA: Utilice la polea del alternador antiguo si este alternador no tiene polea o si la polea suministrada es
+diferente de la del alternador que se sustituye. ATENCIÓN: Al cambiar la polea, mantenga el eje del alternador en posición horizontal
+y no ejerza ninguna presión sobre el extremo del eje. Pueden producirse daños internos si el eje se empuja hacia atrás y se gira.
+Si había espaciadores cuando se desmontaron el ventilador y la polea, asegúrese de sustituir todos los espaciadores cuando instale la
+polea en este alternador. Sujete el eje colocando una llave hexagonal en el orificio hexagonal del eje mientras desmonta o instala la polea.
+Apriete la tuerca de la polea a 95108 N-m (70-80 lb ft).
+INSTRUCCIONES PARA TENSAR LA CORREA: Una tensión incorrecta de la correa puede provocar la
+avería prematura del alternador. Si es necesario tensar la correa manualmente, coloque un bloque de madera
+entre el alternador y la palanca, como se ilustra a la derecha. Haga palanca lo más cerca posible del centro
+de la unidad. Utilice una llave dinamométrica para apretar los pernos de montaje al par de apriete adecuado,
+tal como se especifica en las especificaciones del fabricante del vehículo o del motor para la tensión de la
+correa y apriete los pernos de montaje. NO APRIETE DEMASIADO LA CORREA!
+FIGURA 3 -
+ESQUEMA ELÉCTRICO TÍPICO DE CONECTORES
+NOTA: El sensor remoto es opcional
+SALIDA DE TERMINAL DEL RELÉ
+ES 1/ 2 DEL VOLTAJE DEL SISTEMA
+FIGURA 4 -
+DIAGRAMA DE CABLEADO TÍPICO - ENCHUFE DE 4
+CLAVIJAS
+NOTA: El sensor remote es opcional
+SALIDA TERMINAL DE FASE
+ES 1/ 2 TENSIÓN DEL
+SISTEMA
+DESCRIPCIONES DE LOS TERMINALES (las conexiones de
+los terminales P, L, F y S son opcionales):
+Terminal "B+" - La terminal de salida se conecta a la terminal
+positiva (+) de la batería.
+Terminal "S" Remote Sense™ - Se conecta a la tensión del
+sistema en la batería o en un punto de distribución común.
+Terminal "P" - Relé / Terminal de fase lleva la mitad de la tensión del sistema y se puede utilizar para ciertos tipos de relés de control,
+indicadores de carga, tacómetros o dispositivos similares. El consumo de corriente no debe superar los cuatro (4) amperios. Frecuencia
+= RPM del alternador/10
+Terminal "L" - El terminal Lámpara del regulador se conecta al interruptor de encendido a través de una bombilla indicadora o LED. En
+los modelos con terminal de espárrago también puede servir como fuente de corriente de 1,0 amperios, sumidero o ambos.
+Tornillo de tierra - El cable de tierra asegura que el alternador está conectado a tierra y se recomienda encarecidamente para un
+rendimiento óptimo
+ Si instala un alternador con terminal Remote Sense™ en un vehículo que no dispone de línea de detección, conecte un cable
+aislado con fusible (5 amperios) desde la terminal de detección de tensión del alternador a la terminal positiva (+) de la batería o
+al punto de distribución común en la terminal (+) de la batería del solenoide de arranque. La conexión de esta terminal es la mejor
+para un rendimiento óptimo; sin embargo, el alternador funcionará sin Remote Sense™ conectado.
+Utilice un cable aislado rojo de calibre #16, preferiblemente con un conducto de polietileno convoluto de 1/4" de diámetro interior.
+Instale también un portafusibles en línea estándar con tapa protectora. Utilice un fusible estándar de bajo voltaje de 5 amperios.
+ Only conecte la línea de la terminal Remote Sense™ a la terminal Remote Sense™. Las terminales "R" e "I" no son la terminal
+Remote Sense™
+Soporte técnico: EE.UU. 800 854 0076, México 01 800 000 7378, Brasil 0800 703 3526, Sudamérica 55 11 2106 6510 o visite
+www.delcoremy.com
+AVISO - Sólo deben utilizarse piezas de productos y componentes autorizados por DELCO REMY, Inc, y el uso de otras piezas o modificaciones no
+aprobadas por PHINIA Inc. anulará todas las garantías aplicables. El incumplimiento de estas instrucciones de instalación anulará todas las garantías
+aplicables. DELCO REMY es una marca registrada de General Motors Corporation, licenciada a PHINIA Inc.
+© 2023 PHINIA Inc. Todos los derechos reservados 4
+
+**Tabela 1 (Página 4):**
+| INSTRUCCIONES DE LA POLEA: Utilice la polea del alternador antiguo si este alternador no tiene polea o si la polea suministrada es diferente de la del alternador que se sustituye. ATENCIÓN: Al cambiar la polea, mantenga el eje del alternador en posición horizontal y no ejerza ninguna presión sobre el extremo del eje. Pueden producirse daños internos si el eje se empuja hacia atrás y se gira. Si había espaciadores cuando se desmontaron el ventilador y la polea, asegúrese de sustituir todos los espaciadores cuando instale la polea en este alternador. Sujete el eje colocando una llave hexagonal en el orificio hexagonal del eje mientras desmonta o instala la polea. Apriete la tuerca de la polea a 95108 N-m (70-80 lb ft). INSTRUCCIONES PARA TENSAR LA CORREA: Una tensión incorrecta de la correa puede provocar la avería prematura del alternador. Si es necesario tensar la correa manualmente, coloque un bloque de madera entre el alternador y la palanca, como se ilustra a la derecha. Haga palanca lo más cerca posible del centro de la unidad. Utilice una llave dinamométrica para apretar los pernos de montaje al par de apriete adecuado, tal como se especifica en las especificaciones del fabricante del vehículo o del motor para la tensión de la correa y apriete los pernos de montaje. NO APRIETE DEMASIADO LA CORREA! FIGURA 3 - ESQUEMA ELÉCTRICO TÍPICO DE CONECTORES NOTA: El sensor remoto es opcional SALIDA DE TERMINAL DEL RELÉ ES 1/ 2 DEL VOLTAJE DEL SISTEMA FIGURA 4 - DIAGRAMA DE CABLEADO TÍPICO - ENCHUFE DE 4 CLAVIJAS NOTA: El sensor remote es opcional SALIDA TERMINAL DE FASE ES 1/ 2 TENSIÓN DEL SISTEMA DESCRIPCIONES DE LOS TERMINALES (las conexiones de los terminales P, L, F y S son opcionales): Terminal "B+" - La terminal de salida se conecta a la terminal positiva (+) de la batería. Terminal "S" Remote Sense™ - Se conecta a la tensión del sistema en la batería o en un punto de distribución común. Terminal "P" - Relé / Terminal de fase lleva la mitad de la tensión del sistema y se puede utilizar para ciertos tipos de relés de control, indicadores de carga, tacómetros o dispositivos similares. El consumo de corriente no debe superar los cuatro (4) amperios. Frecuencia = RPM del alternador/10 Terminal "L" - El terminal Lámpara del regulador se conecta al interruptor de encendido a través de una bombilla indicadora o LED. En los modelos con terminal de espárrago también puede servir como fuente de corriente de 1,0 amperios, sumidero o ambos. Tornillo de tierra - El cable de tierra asegura que el alternador está conectado a tierra y se recomienda encarecidamente para un rendimiento óptimo  Si instala un alternador con terminal Remote Sense™ en un vehículo que no dispone de línea de detección, conecte un cable aislado con fusible (5 amperios) desde la terminal de detección de tensión del alternador a la terminal positiva (+) de la batería o al punto de distribución común en la terminal (+) de la batería del solenoide de arranque. La conexión de esta terminal es la mejor para un rendimiento óptimo; sin embargo, el alternador funcionará sin Remote Sense™ conectado. Utilice un cable aislado rojo de calibre #16, preferiblemente con un conducto de polietileno convoluto de 1/4" de diámetro interior. Instale también un portafusibles en línea estándar con tapa protectora. Utilice un fusible estándar de bajo voltaje de 5 amperios.  Only conecte la línea de la terminal Remote Sense™ a la terminal Remote Sense™. Las terminales "R" e "I" no son la terminal Remote Sense™ Soporte técnico: EE.UU. 800 854 0076, México 01 800 000 7378, Brasil 0800 703 3526, Sudamérica 55 11 2106 6510 o visite www.delcoremy.com |
+| AVISO - Sólo deben utilizarse piezas de productos y componentes autorizados por DELCO REMY, Inc, y el uso de otras piezas o modificaciones no aprobadas por PHINIA Inc. anulará todas las garantías aplicables. El incumplimiento de estas instrucciones de instalación anulará todas las garantías aplicables. DELCO REMY es una marca registrada de General Motors Corporation, licenciada a PHINIA Inc. © 2023 PHINIA Inc. Todos los derechos reservados 4 |
+
+--- FIM DA PÁGINA 4 ---
+
+--- INÍCIO DA PÁGINA 5 ---
+Feuille d’instructions
+10524919
+08FE24 C0008709 REV4
+INSTRUCTIONS D’INSTALLATION D’ALTERNATEUR 24SIMT
+CARACTERISTIQUES 24SI TM
+SORTIE HAUTE : 12 V – 100,135,145,160 Ampères TECHNOLOGIE REMOTE SENSE TM (DISPONIBLE)
+24V – 70, 100 Ampères CONNEXION : Trois (3) options disponibles
+DEUX OPTIONS DE MONTAGE : Tampon et charnière
+standard Delco Remy 198mm (7,8 pouces) BULLETIN
+D’ISOLATION DE BATTERIE DISPONIBLE
+AVERTISSEMENT !!! UTILISEZ TOUJOURS DE PROTECTION OCULAIRE QUAND VOUS REALISEZ QUELQUE ACTIVITÉ EN
+RELATION AVEC LA REPARATION MECHANIQUE À UN VÉHICULE, EN COMPRENANT MAIS PAS LIMITÉ À QUELQUE
+RÉPARATION OU INSTALLATION DE MOTEURS D’ARRACHEMENT DELCO REMY. SI VOUS SAUTEZ L’UTILISATION DE L’USAGE
+DE PROTECTION OCULAIRE APPROPIÉE CELA PEUT PROVOQUER DE BLESSURES OCULAIRES GRAVES ET PERMANENTES.
+Exécutez seulement les fonctions mécaniques que vous soyez correctement qualifié pour les réaliser. Les réparations mécaniques que
+se trouvent dehors de vos capacités techniques doivent être gérés par un installateur professionnel.
+DANGER !!! Pour éviter de blessures ou dommages, toujours déconnectez le câble négatif de la batterie avant de retirer ou remplacer
+l’alternateur. La terminale de sortie de l’alternateur est toujours sous voltage (« chaud »). Si la batterie n’est pas débranchée, et un outil
+touche par accident ce terminal et terre peut se re chauffer rapidement et provoquer des brûlures de la peu ou abîmer les outils et pièces
+autour.
+SUIVEZ LES INSTRUCTIONS DU FABRICANT DU MOTEUR OU VÉHICULE POUR DÉMONTER L’ALTERNATEUR VIEUX DU
+MOTEUR ET INSTALLER LE NOUVEAU ALTERNATEUR.
+IMPORTANT! C’est un alternateur a de pouvoir extrêmement haut. Assurez-vous toujours de que son application soit équipée avec la
+taille et calibre de câble correctes. LA CHUTE DE VOLTAGE DU CÂBLE DE LA LIGNE DE CHARGE NE DOIT PAS DEPASSER LES
+0,5 VOLTS (système 12 V), 1,0 Volts (système de 24 V) (TERMINALE DE SORTIE [B+] DE L’ALTERNATEUR À LA TERMINALE
+POSITIVE DE LA BATTERIE À COMPLETE SORTIE). POUR OBTENIR INFORMATION ADDITIONNELLE SUR L’INSTALLATION DU
+CÂBLAGE, CONSULTEZ LES MANUELS D’APPLICATION DE SERVICE LOURD OU CONTACTEZ UN REPRÉSENTANTE DE
+REMY INC.
+INSTRUCTIONS DE DÉMONTAGE ET INSTALLATION
+• De connectez le câble négatif (-) sur les batteries.
+• Identifiez et étiquetez tous les câbles au démonter l’alternateur vieux et les installer sur les mêmes terminales du nouvel alternateur.
+• Assurez-vous que tous les câbles soient connectés une autre fois ou contenus ou ils ne peuvent pas se connecter à terre.
+• Serrez tous le vis aux valeurs étiquetés dans les figures 1 et 2 suivantes.
+Cet alternateur peut avoir plus de terminales qu’il avait ou utilisait ce qu’on remplace. Il sera chargé correctement seulement avec la
+batterie et les câbles de masse connectés. L’usage des autres terminales est optionnel en fonction des nécessités. Voir « DESCRIPTION
+DES TERMINALES » dans les figures 1 et 2.. FIGURE 2 – 24SI TM
+FIGURE 1 – 24SI TM (Connecteur de 4 (4 – Vis à capuchon terminales et 3 – vis à capuchon terminales et pôle)
+pôles)
+UTILISER LA POULIE DE L’ALTERNATEUR VIEUX
+IMPORTANT ! N’INSTALLEZ PAS UN VENTILATEUR
+(VOIR INSTRUCTIONS POLUIE PAGE 2)
+EXTERNE SUR UN ALTERNATEUR 24SI
+CONNECTEUR DE LA TERMINALE DU DE
+PHASE (RELAIS
+DELPHI OU D’AUTRE SOURCE APPROUVÉE
+LAMPE INDICATEUR REMOTE SENSE™
+MONITEUR DE CHAMP EXTERNE INDICATEUR/ALLUMÉ
+CAPTEUR REMOTE RELAIS (terminale de pôles
+(OPTIONNEL) optionnel)
+Trois (3) M5 pair de
+BATTERIE (+) terminales 3.0–5.0 N-m (25-
+BATTERIE (+)
+9.0-14.0 N-m 45) Lb in
+9.0-14.0 N-m
+(80-125) Lb in Trois (3) # 10 pair de
+(80-125) Lb in
+terminales 3.0–5.0 N-m (15-
+25) Lb in
+VIS DE TERRE
+12.0-16.0 N-m (106-141) VIS DE TERRE (-)
+Lb in 12.0-16.0 N- m (106-141) Lb
+in
+AVIS - Seuls les produits et composants Delco Remy sous licence doivent être utilisés, et l'utilisation d'autres pièces ou modifications non approuvées
+par PHINIA annulera toutes les garanties applicables. Le fait de ne pas suivre attentivement ces instructions annulera toutes les garanties
+applicables. DELCO REMY est une marque déposée de General Motors LLC, sous licence de PHINIA Technologies Inc.
+© 2023 PHINIA Inc. Tous droits réservés 5
+
+**Tabela 1 (Página 5):**
+| Feuille d’instructions 10524919 08FE24 C0008709 REV4 |
+| INSTRUCTIONS D’INSTALLATION D’ALTERNATEUR 24SIMT CARACTERISTIQUES 24SI TM SORTIE HAUTE : 12 V – 100,135,145,160 Ampères TECHNOLOGIE REMOTE SENSE TM (DISPONIBLE) 24V – 70, 100 Ampères CONNEXION : Trois (3) options disponibles DEUX OPTIONS DE MONTAGE : Tampon et charnière standard Delco Remy 198mm (7,8 pouces) BULLETIN D’ISOLATION DE BATTERIE DISPONIBLE AVERTISSEMENT !!! UTILISEZ TOUJOURS DE PROTECTION OCULAIRE QUAND VOUS REALISEZ QUELQUE ACTIVITÉ EN RELATION AVEC LA REPARATION MECHANIQUE À UN VÉHICULE, EN COMPRENANT MAIS PAS LIMITÉ À QUELQUE RÉPARATION OU INSTALLATION DE MOTEURS D’ARRACHEMENT DELCO REMY. SI VOUS SAUTEZ L’UTILISATION DE L’USAGE DE PROTECTION OCULAIRE APPROPIÉE CELA PEUT PROVOQUER DE BLESSURES OCULAIRES GRAVES ET PERMANENTES. Exécutez seulement les fonctions mécaniques que vous soyez correctement qualifié pour les réaliser. Les réparations mécaniques que se trouvent dehors de vos capacités techniques doivent être gérés par un installateur professionnel. DANGER !!! Pour éviter de blessures ou dommages, toujours déconnectez le câble négatif de la batterie avant de retirer ou remplacer l’alternateur. La terminale de sortie de l’alternateur est toujours sous voltage (« chaud »). Si la batterie n’est pas débranchée, et un outil touche par accident ce terminal et terre peut se re chauffer rapidement et provoquer des brûlures de la peu ou abîmer les outils et pièces autour. SUIVEZ LES INSTRUCTIONS DU FABRICANT DU MOTEUR OU VÉHICULE POUR DÉMONTER L’ALTERNATEUR VIEUX DU MOTEUR ET INSTALLER LE NOUVEAU ALTERNATEUR. IMPORTANT! C’est un alternateur a de pouvoir extrêmement haut. Assurez-vous toujours de que son application soit équipée avec la taille et calibre de câble correctes. LA CHUTE DE VOLTAGE DU CÂBLE DE LA LIGNE DE CHARGE NE DOIT PAS DEPASSER LES 0,5 VOLTS (système 12 V), 1,0 Volts (système de 24 V) (TERMINALE DE SORTIE [B+] DE L’ALTERNATEUR À LA TERMINALE POSITIVE DE LA BATTERIE À COMPLETE SORTIE). POUR OBTENIR INFORMATION ADDITIONNELLE SUR L’INSTALLATION DU CÂBLAGE, CONSULTEZ LES MANUELS D’APPLICATION DE SERVICE LOURD OU CONTACTEZ UN REPRÉSENTANTE DE REMY INC. INSTRUCTIONS DE DÉMONTAGE ET INSTALLATION • De connectez le câble négatif (-) sur les batteries. • Identifiez et étiquetez tous les câbles au démonter l’alternateur vieux et les installer sur les mêmes terminales du nouvel alternateur. • Assurez-vous que tous les câbles soient connectés une autre fois ou contenus ou ils ne peuvent pas se connecter à terre. • Serrez tous le vis aux valeurs étiquetés dans les figures 1 et 2 suivantes. Cet alternateur peut avoir plus de terminales qu’il avait ou utilisait ce qu’on remplace. Il sera chargé correctement seulement avec la batterie et les câbles de masse connectés. L’usage des autres terminales est optionnel en fonction des nécessités. Voir « DESCRIPTION DES TERMINALES » dans les figures 1 et 2.. FIGURE 2 – 24SI TM FIGURE 1 – 24SI TM (Connecteur de 4 (4 – Vis à capuchon terminales et 3 – vis à capuchon terminales et pôle) pôles) UTILISER LA POULIE DE L’ALTERNATEUR VIEUX IMPORTANT ! N’INSTALLEZ PAS UN VENTILATEUR (VOIR INSTRUCTIONS POLUIE PAGE 2) EXTERNE SUR UN ALTERNATEUR 24SI CONNECTEUR DE LA TERMINALE DU DE PHASE (RELAIS DELPHI OU D’AUTRE SOURCE APPROUVÉE LAMPE INDICATEUR REMOTE SENSE™ MONITEUR DE CHAMP EXTERNE INDICATEUR/ALLUMÉ CAPTEUR REMOTE RELAIS (terminale de pôles (OPTIONNEL) optionnel) Trois (3) M5 pair de BATTERIE (+) terminales 3.0–5.0 N-m (25- BATTERIE (+) 9.0-14.0 N-m 45) Lb in 9.0-14.0 N-m (80-125) Lb in Trois (3) # 10 pair de (80-125) Lb in terminales 3.0–5.0 N-m (15- 25) Lb in VIS DE TERRE 12.0-16.0 N-m (106-141) VIS DE TERRE (-) Lb in 12.0-16.0 N- m (106-141) Lb in |
+| AVIS - Seuls les produits et composants Delco Remy sous licence doivent être utilisés, et l'utilisation d'autres pièces ou modifications non approuvées par PHINIA annulera toutes les garanties applicables. Le fait de ne pas suivre attentivement ces instructions annulera toutes les garanties applicables. DELCO REMY est une marque déposée de General Motors LLC, sous licence de PHINIA Technologies Inc. © 2023 PHINIA Inc. Tous droits réservés 5 |
+
+--- FIM DA PÁGINA 5 ---
+
+--- INÍCIO DA PÁGINA 6 ---
+INSTRUCTIONS DE POULIE : Utilisez la poulie de l’alternateur vieux si cet alternateur n’a pas de poulie ou si la poulie fournit est différente
+de celle de l’alternateur qu’on remplace. ATTENTION : Quand vous changez la poulie, gardez l’axe de l’alternateur en position
+horizontal et n’exercez pas aucune pression sur l’extrême de l’axe. Il peut avoir des échecs internes si l’axe se pousse vers
+derrière et se tourne. S’il y avait d’espaceurs quand on a démonté le ventilateur et la poulie, assurez-vous de remplacer tous les espaceurs
+quand vous installez la poulie de cet alternateur. Pris l’axe en plaçant une clé hexagonale dans l’orifice hexagonal de l’axe pendant vous
+démontez ou installez la poulie. Serrez la noix de la poulie à 95-108 N-m (70-80 lb ft).
+INSTRUCTIONS POUR TENDRE LA CEINTURE : Une tension incorrecte de la ceinture peut provoquer un échec
+prémature de l’alternateur. S’il faut tendre la ceinture manuellement, placez un bloc de bois entre l’alternateur et le
+levier, comme on illustre à droite. Faites levier le plus proche possible du centre de l’unité. Utilisez une clé
+dynamométrique pour serrer les vis à capuchon au pair de pair de serrer correct, tel comme on montre dans les
+spécifications du fabricant du véhicule ou du moteur pour la tension de la ceinture et serrer les vis à capuchon de
+montage. NE SERREZ PAS BEAUCOUP LA CEINTURE !
+FIGURE 3 -
+SCHÈME ÉLECTRIQUE TYPIQUE DE CONNECTEURS
+NOTE : Le capteur remote est optionnel
+SORTIE DE LA TERMINALE
+RELAIS EST ½ DU VOLTAGE
+DU SYSTÈME
+FIGURE 4 -
+DIAGRAMME DE CÂBLAGE TYPIQUE – PRISE DE 4 CHEVILLES
+NOTE : Le capteur remote est optionnel
+SORTIE TERMINALE DE
+PHASE EST DE ½ TENSION
+DU SYSTÈME
+DESCRIPTIONS DES TERMINALES (les connexions des Terminales
+P, L, et S sont optionnels) :
+Terminal « B+ » - La terminale de sortie on la connecte à la terminal
+positive (+) de la batterie.
+Terminal « S » Remote Sense TM – On la connecte à la tension du
+système sur la batterie ou sur un point de distribution commun.
+Terminal « P » - Relais/Terminale de phase elle porte la moitié de la tension du système et on peut l’utiliser pour certains types de relais
+de contrôle, indicateurs de charge, tachymètres ou dispositifs similaires. La consommation de courante ne doit pas surmonter les quatre
+(4) ampères.) Fréquence = RPM de l’alternateur/10
+Terminal « L » - La terminale lampe du régulateur on la connecte à l’interrupteur d’allumer à travers d’une ampoule ou LED. Sur les
+modèles avec terminale d’asperge aussi peut servir comme source de courante de 1,0 ampères, couler ou tous les deux.
+Vis de terre – Le câble de terre assure que l’alternateur est connecté à terre et on recommande fortement pour une performance optime.
+ Si vous installez cet alternateur avec terminale Remote Sense TM dans un véhicule que n’a pas de ligne capteur, connectez un
+câble isolé avec fusible (5 ampères) depuis la terminale de détection de tension de l’alternateur à la terminale positive (+) de la
+batterie ou au point de distribution commun sur la terminale (+) de la batterie du solénoïde de démarrage. La connexion de cette
+terminale est la meilleure pour une performance optime ; cependant, l’alternateur fonctionnera sans Remote Sense TM connecté.
+Utilisez un câble isolé rouge de calibre #16, de préférence avec un conduit de polyéthylène alambiqué de ¼ de diamètre intérieur.
+Installez aussi un porte-fusibles en ligne standard avec couvercle protectrice. Utilisez un fusible standard de bas voltage de 5
+ampères.
+ Connectez seulement la ligne de la terminale Remote Sense TM à la terminale Remote Sense TM. Les terminales « R » et « I » ne
+sont pas la terminale Remote Sense TM
+Présence technique : États-Unis 800 272 0222, Mexique 01 800 000 7378, Brazil 0800 703 3526, Sud-Amérique 55 11 2106
+6510 ou visitez www.delcoremy.com
+AVIS - Seuls les produits et composants Delco Remy sous licence doivent être utilisés, et l'utilisation d'autres pièces ou modifications non approuvées
+par PHINIA annulera toutes les garanties applicables. Le fait de ne pas suivre attentivement ces instructions annulera toutes les garanties
+applicables. DELCO REMY est une marque déposée de General Motors LLC, sous licence de PHINIA Technologies Inc.
+© 2023 PHINIA Inc. Tous droits réservés 6
+
+**Tabela 1 (Página 6):**
+| INSTRUCTIONS DE POULIE : Utilisez la poulie de l’alternateur vieux si cet alternateur n’a pas de poulie ou si la poulie fournit est différente de celle de l’alternateur qu’on remplace. ATTENTION : Quand vous changez la poulie, gardez l’axe de l’alternateur en position horizontal et n’exercez pas aucune pression sur l’extrême de l’axe. Il peut avoir des échecs internes si l’axe se pousse vers derrière et se tourne. S’il y avait d’espaceurs quand on a démonté le ventilateur et la poulie, assurez-vous de remplacer tous les espaceurs quand vous installez la poulie de cet alternateur. Pris l’axe en plaçant une clé hexagonale dans l’orifice hexagonal de l’axe pendant vous démontez ou installez la poulie. Serrez la noix de la poulie à 95-108 N-m (70-80 lb ft). INSTRUCTIONS POUR TENDRE LA CEINTURE : Une tension incorrecte de la ceinture peut provoquer un échec prémature de l’alternateur. S’il faut tendre la ceinture manuellement, placez un bloc de bois entre l’alternateur et le levier, comme on illustre à droite. Faites levier le plus proche possible du centre de l’unité. Utilisez une clé dynamométrique pour serrer les vis à capuchon au pair de pair de serrer correct, tel comme on montre dans les spécifications du fabricant du véhicule ou du moteur pour la tension de la ceinture et serrer les vis à capuchon de montage. NE SERREZ PAS BEAUCOUP LA CEINTURE ! FIGURE 3 - SCHÈME ÉLECTRIQUE TYPIQUE DE CONNECTEURS NOTE : Le capteur remote est optionnel SORTIE DE LA TERMINALE RELAIS EST ½ DU VOLTAGE DU SYSTÈME FIGURE 4 - DIAGRAMME DE CÂBLAGE TYPIQUE – PRISE DE 4 CHEVILLES NOTE : Le capteur remote est optionnel SORTIE TERMINALE DE PHASE EST DE ½ TENSION DU SYSTÈME DESCRIPTIONS DES TERMINALES (les connexions des Terminales P, L, et S sont optionnels) : Terminal « B+ » - La terminale de sortie on la connecte à la terminal positive (+) de la batterie. Terminal « S » Remote Sense TM – On la connecte à la tension du système sur la batterie ou sur un point de distribution commun. Terminal « P » - Relais/Terminale de phase elle porte la moitié de la tension du système et on peut l’utiliser pour certains types de relais de contrôle, indicateurs de charge, tachymètres ou dispositifs similaires. La consommation de courante ne doit pas surmonter les quatre (4) ampères.) Fréquence = RPM de l’alternateur/10 Terminal « L » - La terminale lampe du régulateur on la connecte à l’interrupteur d’allumer à travers d’une ampoule ou LED. Sur les modèles avec terminale d’asperge aussi peut servir comme source de courante de 1,0 ampères, couler ou tous les deux. Vis de terre – Le câble de terre assure que l’alternateur est connecté à terre et on recommande fortement pour une performance optime.  Si vous installez cet alternateur avec terminale Remote Sense TM dans un véhicule que n’a pas de ligne capteur, connectez un câble isolé avec fusible (5 ampères) depuis la terminale de détection de tension de l’alternateur à la terminale positive (+) de la batterie ou au point de distribution commun sur la terminale (+) de la batterie du solénoïde de démarrage. La connexion de cette terminale est la meilleure pour une performance optime ; cependant, l’alternateur fonctionnera sans Remote Sense TM connecté. Utilisez un câble isolé rouge de calibre #16, de préférence avec un conduit de polyéthylène alambiqué de ¼ de diamètre intérieur. Installez aussi un porte-fusibles en ligne standard avec couvercle protectrice. Utilisez un fusible standard de bas voltage de 5 ampères.  Connectez seulement la ligne de la terminale Remote Sense TM à la terminale Remote Sense TM. Les terminales « R » et « I » ne sont pas la terminale Remote Sense TM Présence technique : États-Unis 800 272 0222, Mexique 01 800 000 7378, Brazil 0800 703 3526, Sud-Amérique 55 11 2106 6510 ou visitez www.delcoremy.com |
+| AVIS - Seuls les produits et composants Delco Remy sous licence doivent être utilisés, et l'utilisation d'autres pièces ou modifications non approuvées par PHINIA annulera toutes les garanties applicables. Le fait de ne pas suivre attentivement ces instructions annulera toutes les garanties applicables. DELCO REMY est une marque déposée de General Motors LLC, sous licence de PHINIA Technologies Inc. © 2023 PHINIA Inc. Tous droits réservés 6 |
+
+--- FIM DA PÁGINA 6 ---
+

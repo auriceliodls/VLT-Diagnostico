@@ -1,0 +1,788 @@
+=========================================
+MANUAL: DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf
+=========================================
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 1 ---
+ 
+ 
+ 
+K N O R R  B R E M S E  
+SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA.  
+ 
+ 
+ 
+Todos os direitos reservados. Qualquer aplicação in devida desta descrição, especificamente a reproduçã o ou transmissão a terceiros 
+de qualquer modo, poderá estar sujeita à punição conforme a lei civil ou processo penal. Confidencial, somente para uso interno! 
+Revisão Nº: 
+ 
+01 
+preparado/modificado 
+31/12/2011 
+Társis Tezza 
+verificado/liberado 
+31/12/2011 
+Flavio Pereira 
+Total 
+de páginas 
+17  
+Página 
+Nº 
+1 
+ 
+KNORR-BREMSE  Documentação nº: 
+DDTSE20344E01-BR Sistemas para Veículos Ferroviários Ltda. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introdução e Instruções Gerais  
+Mecanismo de Porta de Folha Dupla S3-E2  
+Conjuntos: 5080291AR01/02/03/04 
+Projeto: VLT (BOM SINAL) 
+ 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 2 ---
+Introdução e Instruções Gerais DDTSE20344E01-BR_01  
+ 
+Página 2/17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATENÇÃO 
+ 
+ 
+i. A fim de se proteger dos riscos recomendamos que  a instalação e/ou operação de 
+nossos produtos ou componentes seja executada somen te por pessoal treinado e 
+autorizado de acordo com as instruções apropriadas. 
+ 
+ 
+ii. Não nos responsabilizamos perante as leis por d anos diretos ou indiretos, decorrentes de 
+operação, instalação ou manuseio incorretos dos pro dutos ou componentes fornecidos 
+por nós. 
+ 
+ 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 3 ---
+DDTSE20344E01-BR_01 Introdução e Instruções Gerais  
+ 
+ 
+Página 3/17  
+ 
+ 
+Índice 
+ 
+Conteúdos Página  
+1 Documentos requeridos ..................................................................................................................... 4 
+2 Utilização dos documentos ................................................................................................................ 5 
+2.1  Detalhamento dos documentos ............................................................................................................. 5 
+2.2  Documentos utilizados .......................................................................................................................... 6 
+2.3  Status da revisão ................................................................................................................................... 6 
+3 Advertências gerais e recomendações ............................................................................................. 6 
+4 Introdução ............................................................................................................................................ 7 
+4.1  Observações de segurança ................................................................................................................... 7 
+4.2  Geral ...................................................................................................................................................... 7 
+4.3  Ferramentas especiais .......................................................................................................................... 8 
+4.4  Suprimentos auxiliares .......................................................................................................................... 8 
+5 Instrução de desembalagem / Aceitação .......................................................................................... 9 
+5.1  Conteúdo das embalagens .................................................................................................................... 9 
+5.2  Materiais danificados ............................................................................................................................. 9 
+6 Instrução de armazenamento ........................................................................................................... 10  
+6.1  Armazenamento das embalagens ....................................................................................................... 10  
+6.2  Armazenamento de componentes separados ..................................................................................... 10  
+7 Garantia .............................................................................................................................................. 12  
+7.1  Garantia ............................................................................................................................................... 12  
+7.2  Exceção de garantia ............................................................................................................................ 12  
+7.3  Perda de garantia ................................................................................................................................ 12  
+7.4  Formulário de requerimento de garantia ............................................................................................. 12  
+8 Embalagem marítima ........................................................................................................................ 14  
+9 Instruções gerais da KBB/IFE para inspeção da pintura superficial ........................................... 14  
+9.1  Inspeção realizada pelo cliente ........................................................................................................... 14  
+9.2  Premissas para garantia (pintura) ....................................................................................................... 14  
+10  Reparos realizados nos carros ........................................................................................................ 14  
+11  Substituição dos componentes elétricos ....................................................................................... 15  
+12  Acessibilidade dos componentes .................................................................................................... 15  
+13  Requisitos técnicos gerais ............................................................................................................... 15  
+14  Assistência técnica ao cliente .......................................................................................................... 16  
+15  Índice de revisões ............................................................................................................................. 17  
+ 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 4 ---
+Introdução e Instruções Gerais DDTSE20344E01-BR_01  
+ 
+Página 4/17 
+ 
+ 
+ 
+ 
+1 Documentos requeridos 
+ 
+Nº do documento / desenho  Descrição 
+  
+5080291AR01 Desenho de montagem 
+5080291AR03 Desenho de montagem 
+5080291AR01 Escopo de fornecimento 
+5080291AR02 Escopo de fornecimento 
+5080291AR03 Escopo de fornecimento 
+5080291AR04 Escopo de fornecimento 
+N401275R83 Instruções de reparo 
+N400887R17 Especificação de pintura 
+DDTSE20344E00-BR Manual do Sistema de Porta 
+DDTSE20344E03-BR Descrição de Funcionamento 
+DDTSE20344E04-BR Manual de Montagem e Ajuste 
+DDTSE20344E05-BR Manual de Lubrificação 
+DDTSE20344E06-BR Checklist 
+DDTSE20344E07-BR Manual de Configuração 
+DDTSE20344E09-BR Plano de manutenção 
+DDTSE20344E13-BR Manual de Diagnóstico de Falha 
+DDTSE20344E36-BR Checklist de Segurança 
+ED01029R11 Diagrama elétrico 
+ 
+ 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 5 ---
+DDTSE20344E01-BR_01 Introdução e Instruções Gerais  
+ 
+ 
+Página 5/17  
+ 
+ 
+2 Utilização dos documentos 
+ 
+2.1 Detalhamento dos documentos 
+ 
+A documentação técnica é dividida nas seguintes seções: 
+ 
+- O “Manual do Sistema de Porta” DDTSE20344E00-BR co ntém uma lista de todas os documentos 
+preparados para o produto correspondente. 
+- A “Introdução e Instruções Gerais” DDTSE20344E01-B R explica como usar a documentação. Contém, 
+adicionalmente, avisos gerais e recomendações para armazenamento dos produtos. 
+- A “Descrição do Funcionamento” DDTSE20344E03-BR ex plica como o sistema de controle da porta 
+funciona. 
+- O “Manual de Montagem e Ajuste” DDTSE20344E04-BR e xplica como instalar e ajustar todos os 
+componentes mecânicos, elétricos e pneumáticos existentes no sistema de porta. 
+- O “Manual de Lubrificação” DDTSE20344E05-BR contêm  os procedimentos de lubrificação essenciais e 
+os lubrificantes necessários. 
+- O “Checklist” DDTSE20344E06-BR serve para verifica ção do sistema de porta após a montagem e ajuste 
+ou após o trabalho de manutenção. 
+- O “Manual de Configuração” DDTSE20344E07-BR explic a passo a passo o procedimento de start-up 
+elétrico do sistema da porta. 
+- O “Plano de Manutenção” DDTSE20344E09-BR explica a s tarefas de manutenção a serem realizadas 
+bem como os seus períodos correspondentes. 
+- O “Manual de Diagnóstico de Falha” DDTSE20344E13-B R explica todas as falhas que poderão ocorrer, as 
+quais serão armazenadas pela unidade de controle da porta (DCU). 
+- O “Catálogo de Peças Sobressalentes” DDTSE20344E20 -BR irá auxiliar na localização de todos os 
+códigos dos componentes que constituem o sistema completo de porta. 
+- O “Checklist de Segurança” DDTSE20344E36-BR fornec e a base necessária para verificar todos os 
+componentes de segurança relevantes do sistema de porta IFE durante a operação. 
+ 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 6 ---
+Introdução e Instruções Gerais DDTSE20344E01-BR_01  
+ 
+Página 6/17 
+ 
+ 
+ 
+2.2 Documentos utilizados 
+ 
+Apenas os documentos fornecidos na totalidade confo rme a “Lista de Documentos” e contratualmente 
+acordados devem ser usados. Se a documentação técni ca for processada em forma eletrônica, arquivos no 
+formato PDF serão considerados como documentos originais e com bases legais. 
+ 
+Se os documentos tiverem sido traduzidos de acordo com o contrato, então, em caso de discrepâncias val em 
+as versões originais em alemão ou inglês. 
+ 
+ 
+2.3 Status da revisão 
+ 
+Para garantir que nenhuma confusão possa ocorrer qu ando a documentação for alterada, atribui-se um 
+número de revisão a qualquer documento que tenha sido alterado. 
+ 
+Este número de revisão deve ser inserido na descriç ão correspondente no rodapé "Nº de Revisão" e no 
+índice completo. 
+ 
+Caso alterações sejam feitas nos documentos, a corr eção correspondente será enviada na forma de 
+documentos revisados que irão substituir obsoletos. 
+ 
+ 
+3 Advertências gerais e recomendações 
+ 
+Este manual inclui os seguintes alertas categorizados em diferentes classes de risco: 
+ 
+ 
+PERIGO 
+O descumprimento destas instruções causará feriment os pessoais 
+irreversíveis ou morte. 
+ 
+ 
+ADVERTÊNCIA 
+O descumprimento destas instruções pode causar feri mentos pessoais 
+graves ou morte. 
+ 
+ 
+CUIDADO 
+O descumprimento destas instruções pode causar feri mentos pessoais, 
+bem como danos ao equipamento e/ou ambiente. 
+ 
+Explicação sobre a estrutura dos avisos (por exemplo, PERIGO): 
+ 
+ 
+PERIGO 
+Causa do perigo 
+Consequência do perigo 
+Medidas corretivas 
+ 
+As recomendações não contêm conteúdo relevante de s egurança. São listadas aqui para fins de 
+complementação. 
+ 
+ 
+OBSERVAÇÃO 
+As observações fornecem dicas úteis e informações a dicionais acerca do 
+equipamento. 
+ 
+Em caso de serviços especiais, os avisos em outros capítulos deste manual indicarão os riscos específi cos. 
+Geralmente, os avisos e recomendações precedem o procedimento abordado. 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 7 ---
+DDTSE20344E01-BR_01 Introdução e Instruções Gerais  
+ 
+ 
+Página 7/17  
+ 
+4 Introdução 
+ 
+4.1 Observações de segurança 
+ 
+ 
+ADVERTÊNCIA 
+Partes móveis do sistema de porta se movimentam de repente. 
+Risco de ferimentos graves para pessoas e/ou danos ao equipamento. 
+Desligue a alimentação de energia antes de iniciar qualquer atividade no 
+sistema de porta! 
+ 
+ 
+ADVERTÊNCIA 
+Durante a execução de algum trabalho nos componente s do sistema de 
+porta com fornecimento de energia temporário, a det ecção de obstrução 
+não estará ativa! 
+Risco de ferimentos graves para pessoas e/ou danos ao equipamento. 
+Desligue a alimentação de energia antes de iniciar qualquer atividade no 
+sistema de porta! 
+ 
+ 
+PERIGO 
+ALIMENTAÇÃO DE ENERGIA DO SISTEMA DE PORTA 
+Risco de ferimentos irreversíveis para pessoas que podem causar morte. 
+Antes de iniciar qualquer trabalho no sistema de po rta, o fornecimento de 
+energia deve ser interrompido em todos os pólos. Pa ra tanto, desligue o 
+disjuntor na cabine de controle elétrico e o interr uptor principal no 
+mecanismo. 
+Além disso, todos os fios do trem que estiverem ass ociados ao sistema da 
+porta devem ser desligados! 
+ 
+4.2 Geral 
+ 
+ 
+OBSERVAÇÃO 
+De acordo com essa instrução, as operações de monta gem, reparo, 
+manutenção e verificação do sistema da porta devem ser executadas 
+exclusivamente por pessoal treinado e autorizado. 
+ 
+ 
+OBSERVAÇÃO 
+Essa instrução se refere apenas aos componentes inc lusos no 
+fornecimento KBB/IFE. 
+ 
+ 
+OBSERVAÇÃO 
+Certifique-se de que os componentes do sistema de p orta em questão 
+estão facilmente acessíveis. Não é descrito como de smontar e montar os 
+revestimentos do carro (sanca, proteções); consulte o capítulo 12. 
+ 
+ 
+OBSERVAÇÃO 
+As ilustrações nessa instrução nem sempre exibem vi sões detalhadas do 
+sistema de porta; porém, seu propósito é fornecer a s informações 
+necessárias. 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 8 ---
+Introdução e Instruções Gerais DDTSE20344E01-BR_01  
+ 
+Página 8/17 
+ 
+ 
+ 
+4.3 Ferramentas especiais 
+ 
+Além das ferramentas habituais, algumas ferramentas  especiais são necessárias para montagem e ajuste 
+conforme item 3.3 do documento DDTSE20344E04-BR “Ma nual de Montagem e Ajuste”. Caso as 
+ferramentas especiais não estejam inclusas no escop o de fornecimento KBB/IFE, devem ser adquiridas 
+separadamente pelo cliente através da KBB: 
+ 
+KNORR-BREMSE SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA. 
+Via Cyrineu Tonolli, 1.519 - CEP: 13295-000 - Itupeva / SP 
+Depto de Engenharia de Aplicação de Sistemas de Porta 
+Telefone: (11) 4593-4400 
+www.knorr-bremse.com.br  
+ 
+ 
+ 
+4.4 Suprimentos auxiliares 
+ 
+Para montagem e ajuste, alguns suprimentos auxiliar es são necessários conforme item 3.4 do documento 
+DDTSE20344E04-BR “Manual de Montagem e Ajuste”. Os suprimentos auxiliares necessários não estão 
+inclusos no fornecimento KBB/IFE e devem ser adquiridos pelo cliente no comércio ou através da KBB: 
+ 
+KNORR-BREMSE SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA. 
+Via Cyrineu Tonolli, 1.519 - CEP: 13295-000 - Itupeva / SP 
+Depto de Engenharia de Aplicação de Sistemas de Porta 
+Telefone: (11) 4593-4400 
+www.knorr-bremse.com.br  
+ 
+ 
+ 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 9 ---
+DDTSE20344E01-BR_01 Introdução e Instruções Gerais  
+ 
+ 
+Página 9/17  
+ 
+ 
+5 Instrução de desembalagem / Aceitação 
+ 
+5.1 Conteúdo das embalagens 
+ 
+Uma lista de embalagem é incluída junto com cada no ta. Cada embalagem (caixa) é marcada com um 
+número de série (ex.: Embalagem 1). 
+ 
+Cada caixa contém todos os componentes que estão re lacionados na lista de embalagem correspondente, e 
+uma etiqueta impressa é anexada a cada grupo de componentes iguais, fornecendo as informações a seguir: 
+ 
+- Código do componente 
+- Descrição da componente 
+- Número do componente na lista de entrega 
+- Quantidade de componentes 
+ 
+5.2 Materiais danificados 
+ 
+A KBB/IFE possui garantia conforme condições estipu ladas para as mercadorias / documentos, de acordo 
+com as condições estabelecidas nos termos do capítu lo 7. As mercadorias / documentos devem ser 
+conferidas (estado e quantidades) no ato do recebimento. 
+ 
+Caso haja materiais faltantes estes deverão ser rep ortados por escrito imediatamente através do formul ário 
+de garantia RMA previsto no capítulo Erro! Fonte de referência não encontrada. . Além disso, caso a falta 
+cause urgência, a data e o número da nota de entrega deverão ser indicados. 
+ 
+Se ocorrerem danos devido ao transporte estes deverão ser anotados na nota de entrega da transportadora e 
+a KBB deve ser comunicada para que possam ser tomadas as medidas necessárias. 
+ 
+A aceitação geralmente ocorre em conformidade com o Incoterm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 10 ---
+Introdução e Instruções Gerais DDTSE20344E01-BR_01  
+ 
+Página 10/17 
+ 
+ 
+6 Instrução de armazenamento 
+ 
+6.1 Armazenamento das embalagens (armazenamento pre liminar para instalação posterior) 
+ 
+As embalagens devem ser armazenadas em local seco, sem poeira, e ventilado. Certifique-se de que as 
+caixas não sejam armazenadas de lado ou de ponta-ca beça. A temperatura do ambiente de armazenamento 
+deve estar entre 0°  C e +25° C. 
+ 
+ 
+OBSERVAÇÃO 
+Bens embalados em estruturas metálicas (p. ex.: fol has da porta) ou 
+caixas de madeira (p. ex.: mecanismos) não devem fi car armazenados 
+desta maneira por mais de seis meses. 
+ 
+ 
+OBSERVAÇÃO 
+Bens embalados em caixas de papelão (p. ex.: peças sobressalentes) 
+não devem ficar armazenados desta maneira por mais de um mês 
+(primeiro a entrar, primeiro a sair). 
+ 
+6.2 Armazenamento de componentes separados (p. ex.:  armazenamento de peças sobressalentes em 
+consignação) 
+ 
+6.2.1 Armazenamento de componentes mecânicas 
+ 
+Peças mecânicas devem ser armazenadas em local seco , embaladas em estojos e protegidas de danos 
+contra a pintura (ou tratamento superficial). Manca is (rolamentos, rótulas, etc.) guias e peças sem tr atamento 
+superficial devem ser armazenados em um local seco, protegidas contra corrosão. 
+ 
+6.2.2 Armazenamento de perfis de borracha 
+ 
+Local de armazenamento: 
+O local de armazenamento deve ser adequado, seco, sem poeira e ventilado. 
+ 
+Temperatura: 
+Perfis de borracha não devem ser armazenados em tem peraturas menores que -10°  C ou maiores que 
++25° C. 
+ 
+Iluminação: 
+Perfis de borracha devem estar protegidos contra lu z solar e luz artificial forte que contém altas tax as de 
+radiação ultravioleta. 
+ 
+O armazenamento das borrachas deve mantê-las retas; jamais as armazene enroladas. 
+ 
+6.2.3 Armazenamento de componentes pneumáticos 
+ 
+Local de armazenamento: 
+Componentes pneumáticos (válvulas, cilindros, etc.)  devem ser mantidos ou armazenados corretamente 
+embalados, em locais secos, sem poeira e bem ventilados. 
+Juntas pneumáticas devem ser mantidas fechadas com esses componentes (tampões, fita adesiva). 
+ 
+Temperatura: 
+Componentes pneumáticos não devem ser armazenados e m temperaturas menores que -10° C e maiores 
+que +35° C. 
+ 
+Umidade: 
+Atente para evitar condensação. A umidade relativa do ambiente não deve ultrapassar 50%. 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 11 ---
+DDTSE20344E01-BR_01 Introdução e Instruções Gerais  
+ 
+ 
+Página 11/17  
+ 
+ 
+Manutenção do material armazenado: 
+Após um prazo de armazenamento de 2 anos (contados a partir da data de fabricação indicada na etiqueta ) 
+deve ser realizado um teste funcional (p. ex.: test e de vazamento), bem como deve ser refeita a lubrif icação 
+dos itens pneumáticos para que o período de armazenagem possa ser renovado. 
+Ao final de um período de armazenamento de 5 anos, deve ser efetuada a troca dos elementos de vedação. 
+ 
+ 
+6.2.4 Armazenamento de componentes elétricos 
+ 
+Componentes elétricos (interruptores, controles elé tricos) devem ser mantidos embalados adequadamente,  
+em local seco, sem poeira e com a temperatura entre 0°  e +40° C. 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 12 ---
+Introdução e Instruções Gerais DDTSE20344E01-BR_01  
+ 
+Página 12/17 
+ 
+ 
+ 
+7 Garantia 
+ 
+7.1 Garantia 
+ 
+Consulte texto do contrato principal 
+ 
+ 
+7.2 Exceção de garantia 
+ 
+Durante o período de garantia, não haverá cobertura para as seguintes exceções: 
+ 
+- Peças de desgaste (embalagem, mancais, rolamentos,  buchas,...) 
+- Corrosão decorrente de uso impróprio e danos 
+- Danos causados por terceiros 
+ 
+7.3 Perda de garantia 
+ 
+O período de garantia para os produtos fornecidos, estipulado conforme o contrato principal perde vali dade 
+devido a uso impróprio dos equipamentos, instalação  ou manuseio inadequados, ou operação fora das 
+condições previstas pelo item 13 deste documento (Requisitos técnicos gerais). 
+ 
+Parafusos de fixação e ajuste: 
+Com exceção dos parafusos do rolete excêntrico e do  batoque de borracha que servem para regulagem fina l 
+do mecanismo, os demais parafusos de fixação ou aju ste (lacrados) somente poderão ser abertos mediante  
+consulta prévia ao serviço de atendimento KBB/IFE a após confirmação subseqüente por escrito deste último. 
+A abertura destes parafusos a revelia da KBB/IFE ca usará a perda do direito de garantia sobre os 
+equipamentos, bem como a garantia pelo funcionament o do sistema de porta. Além disso, a KBB/IFE se 
+isenta de qualquer responsabilidade em caso de lesões pessoais ou danos materiais. 
+ 
+ 
+7.4 Formulário de requerimento de garantia 
+ 
+No caso de requerimento de garantia e para assegura r que o processo ocorra de forma correta e 
+rapidamente, todos os campos do formulário RMA indi cados com asterisco (*) devem ser preenchidos e est e 
+formulário enviado para a KBB (ver item 7.4.1). 
+ 
+ 
+OBSERVAÇÃO 
+Para componentes que não estão identificados com um  número de série, 
+deve-se anotar o número de série do item em que est e componente está 
+associado (p. ex.: o número de série da folha da po rta é usado para o 
+botão de pressão, o número padrão módulo de acionam ento é usado 
+para o motor). 
+ 
+Após recebermos o formulário RMA preenchido correta mente, será enviado para o cliente um número de 
+requerimento KBB interno, o qual é utilizado para m arcar os itens requeridos, e somente a partir de en tão 
+estes serão enviados pela KBB para o cliente. 
+ 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 13 ---
+DDTSE20344E01-BR_01 Introdução e Instruções Gerais  
+ 
+ 
+Página 13/17  
+ 
+7.4.1 Formulário de requerimento RMA   
+ 
+ 
+Formulário de Requerimento RMA 
+Seu Endereço (Endereço Fatura) Seu endereço de entrega  
+Pessoa  Responsável: 
+Telefone : 
+Fax  
+e-mail:  
+Descrição  da falha: 
+Peça nº.: 
+Descrição  da peça 
+Informamos -lhe aqui, que nós não podemos processar com reivindicaçõesparcialmente preenchido no formulário. (= campos obrigatórios) 
+Tenho a honra de  informá-lo que nós podemos processar os pedidos desta forma parcialmente preenchido (= campos obrigatórios) 
+ 
+Fal ha notificada 
+Data do pedido  
+(durante a opera ção)  
+(montado) 
+Nº de  série: 
+Projeto  nº.: 
+Sua  peça nº: 
+Carro nº.: 
+Porta nº.: 
+Pedido d o cliente nº.: 
+Pedido d o cliente nº.: 
+Pedido d o cliente nº.: 
+Pedido nº.:  
+Pedido nº.:  
+Pedido nº.:  
+In ovações 
+Para  
+Entrada de Sistemas  
+ 
+Produtos encomendados : 
+Descrição  da peça 
+Descrição  da peça 
+Peça  nº.: 
+Peça  nº.: 
+Descrição  da falha: 
+Descrição  da falha: 
+Nº de  série: 
+Nº de  série: 
+Projeto  nº.: 
+Projeto  nº.: 
+Sua peça  nº: 
+Sua peça nº: 
+Carro nº.:  
+Carro nº.:  
+Porta nº.:  
+Porta nº.:  
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 14 ---
+Introdução e Instruções Gerais DDTSE20344E01-BR_01  
+ 
+Página 14/17 
+ 
+ 
+ 
+8 Embalagem marítima 
+ 
+Caso embalagens marítimas sejam previstas e requeridas, um agente de secagem (sílica) será adicionado no 
+interior da embalagem para cobrir um período de armazenamento padrão de seis meses. 
+ 
+Se o período de armazenamento for estendido é necessário um acordo e consulta prévia com a KBB/IFE. 
+ 
+ 
+9 Instruções gerais da KBB/IFE para inspeção da pin tura superficial 
+ 
+9.1 Inspeção realizada pelo cliente 
+ 
+As seguintes inspeções devem ser realizadas pelo cliente: 
+ 
+- Verificação visual de danos mecânicos a pintura. 
+- Correção dos defeitos na pintura causados por agen tes mecânicos conforme o procedimento de pintura 
+(limpeza da área de corrosão e re-pintura de acordo  com a instrução de reparo N401275R83 e instrução 
+de pintura N400887R17). 
+- Registre o dano no registro de serviço. 
+- Após quatro limpezas realizadas nas peças internas  e externas (o pH dos limpadores deve estar entre 5  e 
+7), é recomendada uma preservação das peças de acor do com o guia de usuário fornecido pelo fabricante 
+(pintura). 
+- Caso seja detectada corrosão não decorrente de dan os mecânicos durante a verificação visual, a KBB/IFE 
+deve ser informada imediatamente. 
+- Caso defeitos tenham de ser reparados devido a dan os mecânicos ou corrosão na qual esta é visível no 
+nível do piso, a KBB/IFE deve ser contatada a fim de se obter a informação correta para reparo do dano. 
+ 
+9.2 Premissas para garantia (pintura) 
+ 
+- O revestimento / pintura deve ser verificado ou re parado conforme instruções da KBB/IFE. 
+- Todos os limpadores que serão usados pelo cliente devem ser confirmados pela KBB/IFE ou fabricante 
+(pintura). 
+- Diferenças nas combinações ou no brilho, decorrent es de exposição à luz ultravioleta ou a limpadores não 
+serão aceitas como requerimento de garantia. 
+ 
+ 
+10 Reparos realizados nos carros 
+ 
+ 
+OBSERVAÇÃO 
+Em caso de torção da caixa ocasionada pela suspensã o do carro, o 
+ajuste do sistema de porta deve ser verificado conf orme a “Lista de 
+Verificação” DDTSE20344E06 (p. ex.: reparo ou substituição dos truques 
+articulados, etc.). 
+ 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 15 ---
+DDTSE20344E01-BR_01 Introdução e Instruções Gerais  
+ 
+ 
+Página 15/17  
+ 
+ 
+11 Substituição dos componentes elétricos  
+ 
+ 
+CUIDADO 
+Risco de danificar os componentes eletrônicos! 
+A troca dos componentes eletrônicos (sensor de fim de curso, unidade de 
+controle da porta, etc.) deve ser realizada com a a limentação de energia 
+elétrica desligada. 
+Desconecte o fornecimento de energia elétrica antes  de iniciar qualquer 
+trabalho nos componentes elétrico/eletrônicos! 
+ 
+ 
+12 Acessibilidade dos componentes 
+ 
+Os componentes dos sistemas de porta KBB/IFE devem estar facilmente acessíveis para manutenção, 
+montagem e trabalhos de reparo, deve se considerar um tempo máximo de 10 minutos para a exposição de 
+cada peça. Tal condição tem de ser assegurada pelo projeto de construção do carro, usando revestimento s 
+interiores de remoção prática e rápida. 
+ 
+Caso o responsável pelo projeto de construção não e steja apto a assegurar tal condição devido a fatore s do 
+projeto, a KBB/IFE não se responsabilizará por cust os adicionais de revestimentos interiores ou qualqu er tipo 
+de custo consequente. 
+ 
+ 
+ 
+13 Requisitos técnicos gerais 
+ 
+• variação de temperatura:   0°  C a + 40°  C 
+• variação de voltagem:   24 VCC ± 30 %  
+• umidade:   até 95 % (sem condensação) 
+• velocidade máxima do veículo:   100 km/h 
+• velocidade máxima de passagem do veículo: 100 km/h  
+ 
+ 
+OBSERVAÇÃO 
+Não são permitidos o uso de quaisquer aditivos (p. ex.: anticongelante, 
+sujeira, etc.) no fornecimento de ar para um sistem a pneumático 
+KBB/IFE. 
+ 
+ 
+ 
+OBSERVAÇÃO 
+A unidade de controle da porta (DCU) e o chicote el étrico correspondem 
+à classe de proteção IP 20 conforme norma DIN 40050. 
+ 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 16 ---
+Introdução e Instruções Gerais DDTSE20344E01-BR_01  
+ 
+Página 16/17 
+ 
+ 
+ 
+14 Assistência técnica ao cliente 
+ 
+Em caso de dúvidas e/ou necessidades técnicas, será  um prazer para nosso departamento de assistência 
+técnica atendê-lo. 
+ 
+Por favor, contate os seguintes endereços: 
+ 
+ 
+KNORR-BREMSE SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA. 
+Assistência Técnica 
+ 
+Via Cyrineu Tonolli, 1.519 - CEP: 13295-000 
+São Paulo / SP  
+ 
+ 
+Contatar: Engº Alessandro Novello 
+Tel.: (+55) 11 – 4593-4580 
+Cel: (+55) 11 – 99401-1325 
+email: alessandro.novello@knorr-bremse.com  
+ 
+
+--- DDTSE20344E01-BR_01 (Introdução e Instruções Gerais).pdf | PÁGINA 17 ---
+DDTSE20344E01-BR_01 Introdução e Instruções Gerais  
+ 
+ 
+Página 17/17  
+ 
+ 
+15 Índice de revisões 
+ 
+revisão data preparado verificado/liberado 
+ 
+00  31/12/2011 Társis Tezza  Flávio Pereira 
+01 04/03/2014 Flávio Pereira Talles Cristian 
+ 
+item modificação 
+00 Baseado no original em inglês DDTSE20344E01_00 
+01 Endereço KBB e novos códigos (R03 e R04) 
+ 
+ 
+ 
+ 
+ 
+ 
+  

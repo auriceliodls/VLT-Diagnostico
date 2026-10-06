@@ -1,0 +1,628 @@
+# MANUAL: Radiator Information 0908-0107_I4_201301.pdf
+
+--- INÍCIO DA PÁGINA 1 ---
+Addendum to
+Operation and Maintenance Manuals
+Radiator Information
+English – Original Instructions 01-2013 0908-0107 (Issue 4)
+
+--- FIM DA PÁGINA 1 ---
+
+--- INÍCIO DA PÁGINA 2 ---
+--- FIM DA PÁGINA 2 ---
+
+--- INÍCIO DA PÁGINA 3 ---
+Addendum to Operation and Maintenance Manuals Publication. No. 0908-0107
+Radiator Information Issue 04-01-2013
+To be read in conjunction with:
+PowerCommand® Control Operation and Maintenance manuals
+Note: Observe all health and safety notices, together with all Cautions and Warnings that are contained
+within the documentation for the generator set.
+Please take note of the following:
+The tasks in this manual are to be undertaken by suitably trained and qualified service personnel only.
+The following information on cleaning the radiator and the updated information regarding bearings has been
+provided by our supplier to enable efficient and prolonged life of the equipment.
+The following information regarding the correct choice and fitting of Hose Clips has been provided by our
+supplier to assist and guide the user.
+
+--- FIM DA PÁGINA 3 ---
+
+--- INÍCIO DA PÁGINA 4 ---
+Publication No. 0908-0107 Addendum to Operation and Maintenance Manuals
+Issue 04–01-2013 Radiator Information
+This is a Blank Page
+
+--- FIM DA PÁGINA 4 ---
+
+--- INÍCIO DA PÁGINA 5 ---
+Addendum to Operation and Maintenance Manuals Publication. No. 0908-0107
+Radiator Information Issue 04-01-2013
+CONTENTS
+Section Title Page
+1 Hose Clip Installation .....................................................................................................1 -1
+1.1 Installation Guidelines ................................................................................................................. 1-1
+1.1.1 Choosing the Right Hose Size .................................................................................................. 1-1
+1.1.2 Choosing the Right Clip ............................................................................................................ 1-1
+1.1.3 Fitting the Hose Clip .................................................................................................................. 1-2
+1.2 Types of Hose Clips .................................................................................................................... 1-4
+1.2.1 Constant Torque Clips .............................................................................................................. 1-4
+1.2.2 T-Clips ....................................................................................................................................... 1-5
+1.2.3 Worm Drive Clips ...................................................................................................................... 1-6
+2 Cleaning ..........................................................................................................................2 -1
+2.1 Dust Laden Environments ........................................................................................................... 2-1
+2.2 General Cleaning ........................................................................................................................ 2-2
+3 Bearing Health Check .....................................................................................................3 -1
+3.1 Relevant to Interference Fit and Non-Interference fit Bearings .................................................. 3-1
+3.1.1 Visual ........................................................................................................................................ 3-1
+3.1.2 Check inner ring set screws ...................................................................................................... 3-1
+3.1.3 External conditions .................................................................................................................... 3-1
+3.1.4 Maintenance .............................................................................................................................. 3-1
+4 Change of Bearing ..........................................................................................................4 -1
+4.1 Implementation Date ................................................................................................................... 4-1
+4.2 Fitting 4-1
+4.3 Grease and Grease Intervals ...................................................................................................... 4-2
+5 Lithium-based grease .....................................................................................................5 -1
+5.1 Greasing Schedule (pre 25th March 2004 manufacture) ............................................................. 5-1
+Contents Page i
+
+--- FIM DA PÁGINA 5 ---
+
+--- INÍCIO DA PÁGINA 6 ---
+Publication No. 0908-0107 Addendum to Operation and Maintenance Manuals
+Issue 04–01-2013 Radiator Information
+This is a Blank Page
+Page ii Contents
+
+--- FIM DA PÁGINA 6 ---
+
+--- INÍCIO DA PÁGINA 7 ---
+Addendum to Operation and Maintenance Manuals Publication. No. 0908-0107
+Radiator Information Issue 04-01-2013
+SECTION 1 – HOSE CLIP INSTALLATION
+1 Hose Clip Installation
+Note: This task is to be undertaken by suitably trained and qualified service personnel only.
+1.1 Installation Guidelines
+This section provides general installation guidelines for the correct positioning, orientation and
+torque figures required when fitting hose clips. Recommended hose and clip combinations are also
+included.
+1.1.1 Choosing the Right Hose Size
+The recommended fit for hose to pipe is a 0.5mm interference fit, i.e. the inner diameter of the
+hose should be 0.5mm smaller than the overall diameter of the pipe.
+1.1.2 Choosing the Right Clip
+Recommended Hose and Clip Combinations
+HOSE TYPE RECOMMENDED CLIP TYPE
+EPDM BRAIDED RUBBER Worm drive clip,
+(Black with white braiding). or T-clip.
+SILICONE NOMEX T-clip.
+(Can be red or blue).
+APT THICK WALLED RUBBER Constant torque clips either worm drive,
+(EXTRUDED POLYMER, black in colour). or T-clip.
+It is important that the correct clip is selected. The ideal fit is for the clip, when fully opened, to slide
+over the hose and swage without excessive play or interference. When the clip is torqued up to the
+required installation torque, the free band end should protrude as little as possible. In the case of
+T-clips, the bolt should protrude as little as possible after installation.
+Section 1 – Hose Clip Installation Page 1-1
+
+**Tabela 1 (Página 7):**
+| Recommended Hose and Clip Combinations |  |
+| HOSE TYPE | RECOMMENDED CLIP TYPE |
+| EPDM BRAIDED RUBBER (Black with white braiding). | Worm drive clip, or T-clip. |
+| SILICONE NOMEX (Can be red or blue). | T-clip. |
+| APT THICK WALLED RUBBER (EXTRUDED POLYMER, black in colour). | Constant torque clips either worm drive, or T-clip. |
+
+--- FIM DA PÁGINA 7 ---
+
+--- INÍCIO DA PÁGINA 8 ---
+Publication No. 0908-0107 Addendum to Operation and Maintenance Manuals
+Issue 04–01-2013 Radiator Information
+1.1.3 Fitting the Hose Clip
+WARNING: CONTACT WITH HOT COOLANT CAN RESULT IN SERIOUS
+BURNS.
+Caution: Incorrect fitting can cause leaks resulting in risk of burning or scalding to
+personnel, and cause severe damage to the engine through overheating.
+• It is important that the clips are fitted as part of the pipe assembly and not fully opened as
+shown here.
+• If the clips are opened up during installation this will cause the band top to become distorted
+and will reduce the effectiveness of the clip.
+Page 1-2 Section 1 – Hose Clip Installation
+
+--- FIM DA PÁGINA 8 ---
+
+--- INÍCIO DA PÁGINA 9 ---
+Addendum to Operation and Maintenance Manuals Publication. No. 0908-0107
+Radiator Information Issue 04-01-2013
+• It is essential for the clip’s performance that it is correctly positioned and orientated on the
+hose. The clip should be assembled to sit perpendicular to the pipe, and should be positioned
+just behind the pipe swage (if fitted), but not in contact with it.
+HOSE CLIPS
+HOSE
+TANK
+PIPE SWAGES
+(If Fitted)
+Note: Pipes may not contain the swage feature.
+Section 1 – Hose Clip Installation Page 1-3
+
+**Tabela 1 (Página 9):**
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+
+--- FIM DA PÁGINA 9 ---
+
+--- INÍCIO DA PÁGINA 10 ---
+Publication No. 0908-0107 Addendum to Operation and Maintenance Manuals
+Issue 04–01-2013 Radiator Information
+1.2 Types of Hose Clips
+1.2.1 Constant Torque Clips
+DIA. RANGE PIPE DIA. INSTALLATION
+BOLT SIZE HOSE TYPE
+(mm) (mm) TORQUE
+25.4 – 44.4 3/8” 25.4 EPDM RUBBER 8 Nm
+31.7 – 54.1 3/8” 38.1 APT THICK WALL 14 Nm
+31.7 – 54.1 3/8” 38.1 EPDM RUBBER 14 Nm
+31.7 – 54.1 3/8” 38.1 SILICONE NOMEX 14 Nm
+57.1 – 79.5 3/8” 57.1 EPDM RUBBER 14 Nm
+57.1 – 79.5 3/8” 57.1 APT THICK WALL 14 Nm
+69.8 – 92.2 3/8” 76.2 APT THICK WALL 14 Nm
+69.8 – 92.2 3/8” 76.2 SILICONE NOMEX 14 Nm
+69.8 – 92.2 3/8” 76.2 EPDM RUBBER 14 Nm
+82.5 – 104.9 3/8” 88.9 APT THICK WALL 14 Nm
+95.2 – 117.65 3/8” 101.6 APT THICK WALL 14 Nm
+95.2 – 117.65 3/8” 101.6 SILICONE NOMEX 14 Nm
+95.2 – 117.65 3/8” 101.6 EPDM RUBBER 14 Nm
+133.3 – 155.7 3/8” 127 APT THICK WALL 14 Nm
+Page 1-4 Section 1 – Hose Clip Installation
+
+**Tabela 1 (Página 10):**
+| DIA. RANGE (mm) | BOLT SIZE | PIPE DIA. (mm) | HOSE TYPE | INSTALLATION TORQUE |
+| 25.4 – 44.4 | 3/8” | 25.4 | EPDM RUBBER | 8 Nm |
+| 31.7 – 54.1 | 3/8” | 38.1 | APT THICK WALL | 14 Nm |
+| 31.7 – 54.1 | 3/8” | 38.1 | EPDM RUBBER | 14 Nm |
+| 31.7 – 54.1 | 3/8” | 38.1 | SILICONE NOMEX | 14 Nm |
+| 57.1 – 79.5 | 3/8” | 57.1 | EPDM RUBBER | 14 Nm |
+| 57.1 – 79.5 | 3/8” | 57.1 | APT THICK WALL | 14 Nm |
+| 69.8 – 92.2 | 3/8” | 76.2 | APT THICK WALL | 14 Nm |
+| 69.8 – 92.2 | 3/8” | 76.2 | SILICONE NOMEX | 14 Nm |
+| 69.8 – 92.2 | 3/8” | 76.2 | EPDM RUBBER | 14 Nm |
+| 82.5 – 104.9 | 3/8” | 88.9 | APT THICK WALL | 14 Nm |
+| 95.2 – 117.65 | 3/8” | 101.6 | APT THICK WALL | 14 Nm |
+| 95.2 – 117.65 | 3/8” | 101.6 | SILICONE NOMEX | 14 Nm |
+| 95.2 – 117.65 | 3/8” | 101.6 | EPDM RUBBER | 14 Nm |
+| 133.3 – 155.7 | 3/8” | 127 | APT THICK WALL | 14 Nm |
+
+--- FIM DA PÁGINA 10 ---
+
+--- INÍCIO DA PÁGINA 11 ---
+Addendum to Operation and Maintenance Manuals Publication. No. 0908-0107
+Radiator Information Issue 04-01-2013
+1.2.2 T-Clips
+DIA. RANGE PIPE DIA. INSTALLATION
+BOLT SIZE HOSE TYPE
+(mm) (mm) TORQUE
+43 – 47 M6 X 50 38.1 SILICONE NOMEX 4 Nm
+63 – 68 M7 X 60 57.1 EPDM RUBBER 4 Nm
+68 – 73 M8 X 80 63.5 EPDM RUBBER 12 Nm
+97 -104 M8 X 80 88.9 SILICONE NOMEX 12 Nm
+121 – 130 M8 X 80 114.3 EPDM RUBBER 12 Nm
+121 – 130 M8 X 80 114.3 SILICONE NOMEX 12 Nm
+130 – 140 M8 X 80 127 EPDM RUBBER 12 Nm
+130 – 140 M8 X 80 127 SILICONE NOMEX 12 Nm
+162 - 174 M10 X 110 152.4 SILICONE NOMEX 30 Nm
+Section 1 – Hose Clip Installation Page 1-5
+
+**Tabela 1 (Página 11):**
+| DIA. RANGE (mm) | BOLT SIZE | PIPE DIA. (mm) | HOSE TYPE | INSTALLATION TORQUE |
+| 43 – 47 | M6 X 50 | 38.1 | SILICONE NOMEX | 4 Nm |
+| 63 – 68 | M7 X 60 | 57.1 | EPDM RUBBER | 4 Nm |
+| 68 – 73 | M8 X 80 | 63.5 | EPDM RUBBER | 12 Nm |
+| 97 -104 | M8 X 80 | 88.9 | SILICONE NOMEX | 12 Nm |
+| 121 – 130 | M8 X 80 | 114.3 | EPDM RUBBER | 12 Nm |
+| 121 – 130 | M8 X 80 | 114.3 | SILICONE NOMEX | 12 Nm |
+| 130 – 140 | M8 X 80 | 127 | EPDM RUBBER | 12 Nm |
+| 130 – 140 | M8 X 80 | 127 | SILICONE NOMEX | 12 Nm |
+| 162 - 174 | M10 X 110 | 152.4 | SILICONE NOMEX | 30 Nm |
+
+--- FIM DA PÁGINA 11 ---
+
+--- INÍCIO DA PÁGINA 12 ---
+Publication No. 0908-0107 Addendum to Operation and Maintenance Manuals
+Issue 04–01-2013 Radiator Information
+1.2.3 Worm Drive Clips
+DIA. RANGE INSTALLATION SOCKET
+HOSE TYPE
+(mm) TORQUE REQUIRED
+8 - 16 3 Nm 7mm EPDM Rubber
+12 - 20 3 Nm 7mm EPDM Rubber
+16 - 25 4.5 Nm 7mm EPDM Rubber
+25 - 40 4.5 Nm 7mm EPDM Rubber
+20 - 32 4.5 Nm 7mm EPDM Rubber
+32 - 50 4.5 Nm 7mm EPDM Rubber
+40 - 60 4.5 Nm 7mm EPDM Rubber
+50 - 70 4.5 Nm 7mm EPDM Rubber
+60 - 80 4.5 Nm 7mm EPDM Rubber
+70 - 90 4.5 Nm 7mm EPDM Rubber
+80 - 100 4.5 Nm 7mm EPDM Rubber
+90 - 110 4.5 Nm 7mm EPDM Rubber
+100 - 120 4.5 Nm 7mm EPDM Rubber
+120 - 140 4.5 Nm 7mm EPDM Rubber
+Page 1-6 Section 1 – Hose Clip Installation
+
+**Tabela 1 (Página 12):**
+| DIA. RANGE (mm) | INSTALLATION TORQUE | SOCKET REQUIRED | HOSE TYPE |
+| 8 - 16 | 3 Nm | 7mm | EPDM Rubber |
+| 12 - 20 | 3 Nm | 7mm | EPDM Rubber |
+| 16 - 25 | 4.5 Nm | 7mm | EPDM Rubber |
+| 25 - 40 | 4.5 Nm | 7mm | EPDM Rubber |
+| 20 - 32 | 4.5 Nm | 7mm | EPDM Rubber |
+| 32 - 50 | 4.5 Nm | 7mm | EPDM Rubber |
+| 40 - 60 | 4.5 Nm | 7mm | EPDM Rubber |
+| 50 - 70 | 4.5 Nm | 7mm | EPDM Rubber |
+| 60 - 80 | 4.5 Nm | 7mm | EPDM Rubber |
+| 70 - 90 | 4.5 Nm | 7mm | EPDM Rubber |
+| 80 - 100 | 4.5 Nm | 7mm | EPDM Rubber |
+| 90 - 110 | 4.5 Nm | 7mm | EPDM Rubber |
+| 100 - 120 | 4.5 Nm | 7mm | EPDM Rubber |
+| 120 - 140 | 4.5 Nm | 7mm | EPDM Rubber |
+
+--- FIM DA PÁGINA 12 ---
+
+--- INÍCIO DA PÁGINA 13 ---
+Addendum to Operation and Maintenance Manuals Publication. No. 0908-0107
+Radiator Information Issue 04-01-2013
+SECTION 2 - CLEANING
+2 Cleaning
+Note: This task is to be undertaken by suitably trained and qualified service personnel only.
+2.1 Dust Laden Environments
+Specific Instructions for the Cleaning of Radiator Cores Working in an Environment Subjected to
+Crushed Aggregate or Ceramic Dust Contamination.
+Inspect the exterior of the radiator for obstructions. During the service life of a radiator a build up of
+foreign matter can obstruct the flow of air through the radiator cores, reducing the cooling
+capability. To ensure the continued efficiency of the radiator the core will require cleaning.
+Unless the radiator can be dismantled and the core treated in a professional caustic immersion
+cleaning system, the radiator should not be “wet” cleaned. This is because of the tendency of this
+type of contamination to coalesce and become extremely difficult to remove.
+The correct procedure is to regularly blow through the entire core area with low pressure
+compressed air (against the direction of cooling airflow). It is very important to ensure that resultant
+debris blown from the core is subsequently removed and disposed of before engine start-up. An
+industrial vacuum cleaner will achieve this requirement. In most installations it will necessary to
+remove cowls and guarding.
+To prevent damage to fins and resultant loss of cooling, it is important to ensure that the air gun
+used is maintained at right angles to the core face.
+Figure 2-1 Fins damaged by compressed air at acute angles to core face
+Immediately after this procedure has been effectively carried out, with only the lightest of dust,
+remaining, if deemed essential, it may be followed by procedure in the following Section 1.2. (This
+section covers the Cleaning of Radiator Cores Using Pressurised Water Equipment).
+Caution: It is vitally important that the core is thoroughly dried before start-up.
+Section 2 - Cleaning Page 2-1
+
+--- FIM DA PÁGINA 13 ---
+
+--- INÍCIO DA PÁGINA 14 ---
+Publication No. 0908-0107 Addendum to Operation and Maintenance Manuals
+Issue 04–01-2013 Radiator Information
+2.2 General Cleaning
+The Cleaning Of Radiator Cores Using Pressurised Water Equipment
+Note: In specific dust laden environments this procedure should not be used as the initial
+cleaning operation, it should follow Section 2.1 - Dust Laden Environments.
+Inspect the exterior of the radiator for obstructions. During the service life of a radiator a build up of
+foreign matter can obstruct the flow of air through the radiator cores, reducing the cooling
+capability. To ensure the continued efficiency of the radiator the core will require cleaning.
+To ensure thorough cleaning, pressure wash in the opposite direction to the airflow. A suitable
+proprietary degreasing additive (as recommended by the manufacturer of the pressure washer)
+should be applied via the pressure washer but this must not contain ammonia as it will corrode the
+core.
+The recommended equipment for cleaning a radiator core is an industrial pressure washer but it
+must be used in the correct manner as misuse can reduce the performance of the core. Protect the
+generator set from any over spray during this procedure.
+To be effective it is recommended that a hot water washer be used.
+Figure 2-2 Fins damaged by pressure washing at acute angles to core face
+Caution: With the pressures involved it is
+important that the distance between the
+core face and the nozzle is a minimum
+of 450mm (18 inches) any closer and
+damage may occur.
+Caution: Most Industrial pressure washers work
+at pressures of around 1500psi to 3000
+psi (103bar to 206bar). It is very
+important that when washing a core in
+this way the lance must be kept at a
+right angle to the core.
+Note: If your pressure washer works above 3000 PSI then the gap between the nozzle and
+the core face must be increased or fin damage will occur.
+Note: Always follow pressure washer Manufacturer’s Health and Safety Guidelines.
+Page 2-2 Section 2 - Cleaning
+
+**Tabela 1 (Página 14):**
+| involved it is nce between the le is a minimum any closer and e washers work 1500psi to 3000 ar). It is very ashing a core in st be kept at a |  |
+
+--- FIM DA PÁGINA 14 ---
+
+--- INÍCIO DA PÁGINA 15 ---
+Addendum to Operation and Maintenance Manuals Publication. No. 0908-0107
+Radiator Information Issue 04-01-2013
+SECTION 3 – BEARING HEALTH CHECK
+3 Bearing Health Check
+Note: This task is to be undertaken by suitably trained and qualified service personnel only.
+3.1 Relevant to Interference Fit and Non-Interference fit
+Bearings
+Determine if there are any sounds emanating from the shaft/bearing assembly which may be
+indicative of failure, or imminent failure.
+3.1.1 Visual
+There should be no movement between shaft and inner ring. If any movement is apparent, the
+shaft/bearing assembly needs replacing.
+3.1.2 Check inner ring set screws
+Check for looseness. If screw rotates under light torque, re-check 2.1.1 above, then remove, clean
+off old Loctite residue, re-apply Loctite 243 (or equivalent strength thread lock) and replace with a
+torque of:
+M8 9Nm 6.6lb/ft
+M10 17Nm 12.5lb/ft
+M12 27Nm 20lb/ft
+With non interference fit bearings it is important to ensure that the screws line up with shaft
+dimples. For interference fit bearings this is not relevant because the shafts are not dimpled.
+3.1.3 External conditions
+If any of the following conditions exist, replacement may be necessary:
+1. No evidence of any grease emission around outer shield.
+2. Heavy contamination with abrasive particles, with potential to ingress the bearing.
+3. Obvious signs of direct pressure washing (removing/contaminating the grease inside) with
+rusting evident on associated metal surfaces.
+3.1.4 Maintenance
+Check that this is being carried out at the specified intervals with the correct type and quantity of
+grease. If this is not the case, correct immediately and monitor the bearings more frequently.
+1. Using a Contact Surface Pyrometer or a laser Pyrometer check pulley temperature whilst
+running under maximum load conditions (maximum permitted 80oC [176oF]). Check for any
+evidence of belt slip. A new belt is required if this is happening. Ensure correct belt tension
+and check integrity and function of idler.
+2. Check for bearing vibration using vibration meter, or special purpose rotating machinery
+condition monitoring instrument, where possible.
+3. Using a Contact Surface Pyrometer or a laser Pyrometer check bearing running temperatures
+as close as practicable to rolling elements, under maximum load conditions. Also, particularly
+relevant to containerised generator sets, check these temperatures over a period of fifteen
+minutes after shutdown. (Maximum permitted 100oC [212oF] with Shell Alvania 3 grease, or
+equivalent]).
+Section 3 – Bearing Health Check Page 3-1
+
+**Tabela 1 (Página 15):**
+| M8 | 9Nm | 6.6lb/ft |
+| M10 | 17Nm | 12.5lb/ft |
+| M12 | 27Nm | 20lb/ft |
+
+--- FIM DA PÁGINA 15 ---
+
+--- INÍCIO DA PÁGINA 16 ---
+Publication No. 0908-0107 Addendum to Operation and Maintenance Manuals
+Issue 04–01-2013 Radiator Information
+This is a Blank Page
+Page 3-2 Section 3 – Bearing Health Check
+
+--- FIM DA PÁGINA 16 ---
+
+--- INÍCIO DA PÁGINA 17 ---
+Addendum to Operation and Maintenance Manuals Publication. No. 0908-0107
+Radiator Information Issue 04-01-2013
+SECTION 4 – BEARING AND GREASE CHANGE
+4 Change of Bearing
+Note: This task is to be undertaken by suitably trained and qualified service personnel only.
+The fan drive and design has been changed to improve serviceability of the bearing set-up both in
+terms of greasing and fitting.
+4.1 Implementation Date
+Implementation was week 14, 2004 (i.e. all radiators manufactured after 25th March 2004).
+4.2 Fitting (Belt Drive Radiator Bearings)
+To ease the fitting of bearings both on the build lines and in the field, an interference fit for pulley,
+fan and idler bearing (non-pulley side) has been adopted.
+The new design can be fitted to existing product without altering form, fit or function. Spares will be
+provided as complete kits – bearing and shaft assemblies (see example) for the main fan drive and
+(where applicable) an idler assembly complete with idler arm. Nuts, bolts, lube kits, grease labels
+and fitting work instruction will also be included.
+Section 4 – Bearing and Grease Change Page 4-1
+
+--- FIM DA PÁGINA 17 ---
+
+--- INÍCIO DA PÁGINA 18 ---
+Publication No. 0908-0107 Addendum to Operation and Maintenance Manuals
+Issue 04–01-2013 Radiator Information
+4.3 Grease and Grease Intervals
+WARNING: LITHIUM AND POLYUREA GREASES ARE NOT COMPATIBLE AND
+MUST NOT BE MIXED.
+Improved grease decals, clearly indicating grease type, amount and intervals, have been
+developed.
+Note: All current belt drive radiator bearings are filled with lithium-based grease. All belt
+drive radiators fitted with the new fan drive system will be filled with polyurea
+grease as clearly shown on the label.
+Note: All current direct belt drive fan hubs are fitted with sealed for life bearings. For
+further information refer to the relevant service manual.
+Grease Label
+60.0
+Grease Access
+Points – 4 off
+Grease quantity and greasing intervals have been designed to coincide with engine service
+intervals. This will prevent over greasing (it is possible to hydraulically lock a bearing by over
+greasing a stationary bearing).
+Page 4-2 Section 4 – Bearing and Grease Change
+
+--- FIM DA PÁGINA 18 ---
+
+--- INÍCIO DA PÁGINA 19 ---
+Addendum to Operation and Maintenance Manuals Publication. No. 0908-0107
+Radiator Information Issue 04-01-2013
+Greasing Information – Refer to Label on Radiator
+Cummins Part No. Engine Type Interval Grease Fan Bearing Pulley Bearing
+(hours) (Polyurea) (grams) (grams)
+0130-6109 QST30G1/2 250 Chevron SRI 2 3 8
+037625
+037648 QST30G8 250 Chevron SRI 2 3 3
+037557 KTA38 250 Chevron SRI 2 3 3
+037610 KTA50G1/2
+037558 KTA50G3/4 250 Chevron SRI 2 3 3
+KTTA50G2
+037663 KTA50G9 250 Chevron SRI 2 3 8
+037644 KTA50G8/9 250 Chevron SRI 2 3 8
+037665 QST30G4 250 Chevron SRI 2 3 3
+037676 QST30G4 250 Chevron SRI 2 3 8
+037643 KTA50G8/9 250 Chevron SRI 2 3 8
+037678 KTA50G9
+0179-2921 QSK60 250 Chevron SRI 2 6 8
+0179-2862
+0179-3291 QSK60 250 Chevron SRI 2 6 8
+0130-5997-05 QSK78 A Nema 284T frame has the following arrangement:
+6311 C3 / 18gram Polyrex – EM /20,000h
+6311 C3 / 11gram Polyrex – EM /20,000h
+The above information is based on the latest information available.
+Radiator label information should take precedence if it differs from the above.
+Section 4 – Bearing and Grease Change Page 4-3
+
+**Tabela 1 (Página 19):**
+| Cummins Part No. | Engine Type | Interval (hours) | Grease (Polyurea) | Fan Bearing (grams) | Pulley Bearing (grams) |
+| 0130-6109 037625 | QST30G1/2 | 250 | Chevron SRI 2 | 3 | 8 |
+| 037648 | QST30G8 | 250 | Chevron SRI 2 | 3 | 3 |
+| 037557 037610 | KTA38 KTA50G1/2 | 250 | Chevron SRI 2 | 3 | 3 |
+| 037558 | KTA50G3/4 KTTA50G2 | 250 | Chevron SRI 2 | 3 | 3 |
+| 037663 | KTA50G9 | 250 | Chevron SRI 2 | 3 | 8 |
+| 037644 | KTA50G8/9 | 250 | Chevron SRI 2 | 3 | 8 |
+| 037665 | QST30G4 | 250 | Chevron SRI 2 | 3 | 3 |
+| 037676 | QST30G4 | 250 | Chevron SRI 2 | 3 | 8 |
+| 037643 037678 | KTA50G8/9 KTA50G9 | 250 | Chevron SRI 2 | 3 | 8 |
+| 0179-2921 0179-2862 | QSK60 | 250 | Chevron SRI 2 | 6 | 8 |
+| 0179-3291 | QSK60 | 250 | Chevron SRI 2 | 6 | 8 |
+| 0130-5997-05 | QSK78 | A Nema 284T frame has the following arrangement: 6311 C3 / 18gram Polyrex – EM /20,000h 6311 C3 / 11gram Polyrex – EM /20,000h |  |  |  |
+| The above information is based on the latest information available. Radiator label information should take precedence if it differs from the above. |  |  |  |  |  |
+
+--- FIM DA PÁGINA 19 ---
+
+--- INÍCIO DA PÁGINA 20 ---
+Publication No. 0908-0107 Addendum to Operation and Maintenance Manuals
+Issue 04–01-2013 Radiator Information
+This is a Blank Page
+Page 4-4 Section 4 – Bearing and Grease Change
+
+--- FIM DA PÁGINA 20 ---
+
+--- INÍCIO DA PÁGINA 21 ---
+Addendum to Operation and Maintenance Manuals Publication. No. 0908-0107
+Radiator Information Issue 04-01-2013
+SECTION 5 – LITHIUM-BASED GREASE
+5 Lithium-based grease
+Note: This task is to be undertaken by suitably trained and qualified service personnel only.
+5.1 Greasing Schedule
+th
+(pre 25 March 2004 manufacture)
+WARNING: LITHIUM AND POLYUREA GREASES ARE NOT COMPATIBLE AND
+MUST NOT BE MIXED.
+The information in the following tables has been supplied as a general re-lubrication guide to
+bearing assemblies manufactured before the change-over on 25th March 2004. Radiator label
+information should take precedence if it differs from the following.
+The recommended lubricant is a lithium-based grease such as Mobilux EP2, Mobilith AW2 or Shell
+Alvania R3
+Note: Grease labels are based on 250 hours
+Bearing Interval Grease Amount
+Bearing Description Temperature
+Ref. (hours) (grams)
+Pulley end bearing UCP313 To 100oC 250 Hours 8
+Fan end bearing UCP212 To 100oC 250 Hours 3
+Tension idler bearing UCFL206 To 100oC 250 Hours 1
+Pulley end bearing UCP313 To 100oC 500 hours 10
+Fan end bearing UCP212 To 100oC 500 hours 5
+Tension idler bearing UCFL206 To 100oC 500 hours 1
+Fan end bearing UCP312 To 100oC 250 Hours 6
+Fan end bearing UCP312 To 100oC 500 hours 8
+Note: One gram of grease is approximately one shot from a normal grease gun.
+Section 5 – Lithium-based Grease Page 5-1
+
+**Tabela 1 (Página 21):**
+|  |  |  |  | Bearing |  |  |  |  |  | Interval |  |  | Grease Amount (grams) |
+|  | Bearing Description |  |  |  |  |  | Temperature |  |  |  |  |  |  |
+|  |  |  |  | Ref. |  |  |  |  |  | (hours) |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pulley end bearing |  |  | UCP313 |  |  | To 100oC |  |  | 250 Hours |  |  | 8 |  |
+| Fan end bearing |  |  | UCP212 |  |  | To 100oC |  |  | 250 Hours |  |  | 3 |  |
+| Tension idler bearing |  |  | UCFL206 |  |  | To 100oC |  |  | 250 Hours |  |  | 1 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pulley end bearing |  |  | UCP313 |  |  | To 100oC |  |  | 500 hours |  |  | 10 |  |
+| Fan end bearing |  |  | UCP212 |  |  | To 100oC |  |  | 500 hours |  |  | 5 |  |
+| Tension idler bearing |  |  | UCFL206 |  |  | To 100oC |  |  | 500 hours |  |  | 1 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fan end bearing |  |  | UCP312 |  |  | To 100oC |  |  | 250 Hours |  |  | 6 |  |
+| Fan end bearing |  |  | UCP312 |  |  | To 100oC |  |  | 500 hours |  |  | 8 |  |
+
+--- FIM DA PÁGINA 21 ---
+
+--- INÍCIO DA PÁGINA 22 ---
+Publication No. 0908-0107 Addendum to Operation and Maintenance Manuals
+Issue 04–01-2013 Radiator Information
+Bearing No. Cummins Part No.
+312/212 37564
+312/212 37604
+212 37558
+212 37614
+212 37627
+313/312 0179-2921
+313/312 0179-2988
+312 0179-3291
+312/212 130-5791
+312/212 37644
+312/212 37624
+312/212 37625
+212 37648
+212 37643
+212 37678
+212 37665
+312/212 37676
+212 37610
+313/212 37642
+Page 5-2 Section 5 – Lithium-based Grease
+
+**Tabela 1 (Página 22):**
+|  | Bearing No. |  |  | Cummins Part No. |  |
+| 312/212 |  |  | 37564 |  |  |
+| 312/212 |  |  | 37604 |  |  |
+| 212 |  |  | 37558 |  |  |
+| 212 |  |  | 37614 |  |  |
+| 212 |  |  | 37627 |  |  |
+| 313/312 |  |  | 0179-2921 |  |  |
+| 313/312 |  |  | 0179-2988 |  |  |
+| 312 |  |  | 0179-3291 |  |  |
+| 312/212 |  |  | 130-5791 |  |  |
+| 312/212 |  |  | 37644 |  |  |
+| 312/212 |  |  | 37624 |  |  |
+| 312/212 |  |  | 37625 |  |  |
+| 212 |  |  | 37648 |  |  |
+| 212 |  |  | 37643 |  |  |
+| 212 |  |  | 37678 |  |  |
+| 212 |  |  | 37665 |  |  |
+| 312/212 |  |  | 37676 |  |  |
+| 212 |  |  | 37610 |  |  |
+| 313/212 |  |  | 37642 |  |  |
+
+--- FIM DA PÁGINA 22 ---
+
+--- INÍCIO DA PÁGINA 23 ---
+--- FIM DA PÁGINA 23 ---
+
+--- INÍCIO DA PÁGINA 24 ---
+Cummins Power Generation Cummins Power Generation Cummins Power Generation
+1400 73rd Avenue NE Columbus Avenue 10 Toh Guan Road #07-01
+Minneapolis Manston Park TT International Tradepark
+MN 55432 Manston Singapore 608838
+USA Ramsgate
+Kent CT12 5BF
+United Kingdom
+Tel:+1 (763) 574-5000 Tel:+44 (0) 1843 255000 Tel: (65) 6417 2388
+Fax:+1 (763) 574-5298 Fax:+44 (0) 1843 255902 Fax:(65) 6417 2399
+e-mail: pgamail@cummins.com e-mail: cpgk.uk@cummins.com e-mail: cpg.apmktg@cummins.com
+Web: www.cumminspower.com Web: www.cumminspower.com Web: www.cumminspower.com
+Cummins Power Generation Cummins Power Generation
+35A/1/2, Erandawana Rua Jati, 310 - Cumbica
+Pune 411 038 Guarulhos –SP
+India Brazil
+CEP: 07180-900
+Tel.: (91 020) 3024 8600 Tel.: (55 11) 2186 4195
+Fax: (91 020) 6602 8090 Fax: (55 11) 2186 4729
+e-mail: e-mail:
+cpgiservicesupport@cummins.com falecom@cumminspower.com.br
+Web: www.cumminspower.com Web: www.cumminspower.com
+Cummins®, the “C” logo, and “Our energy working for you.”
+are trademarks of Cummins Inc.
+©2009 Cummins Power Generation, Inc. All rights reserved
+
+--- FIM DA PÁGINA 24 ---
+

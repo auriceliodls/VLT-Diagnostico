@@ -1,0 +1,6 @@
+{
+  "name": "Diagnóstico do VLT",
+  "description": "Agente de Diagnóstico e Engenharia de Tração de VLT (CBTU Natal)",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

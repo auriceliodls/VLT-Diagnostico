@@ -1,0 +1,3642 @@
+# MANUAL: Alternador - Fault-Finding-Manual - A054E988.pdf
+
+--- INÍCIO DA PÁGINA 1 ---
+Stamford Alternators
+FAULT FINDING
+English
+OriginalInstructions A054E988(Issue1)
+
+--- FIM DA PÁGINA 1 ---
+
+--- INÍCIO DA PÁGINA 2 ---
+--- FIM DA PÁGINA 2 ---
+
+--- INÍCIO DA PÁGINA 3 ---
+Table of Contents
+1. SAFETY PRECAUTIONS...................................................................................................... 1
+2. FAULT FINDING................................................................................................................... 5
+3. FAULT FINDING: LOW VOLTAGE (LV)............................................................................... 9
+4. FAULT FINDING: MEDIUM VOLTAGE, HIGH VOLTAGE ................................................. 23
+5. PROCEDURES................................................................................................................... 39
+6. FAULT FINDING RECORD................................................................................................. 51
+7. TECHNICAL DATA.............................................................................................................. 55
+A054E988(Issue1) i
+
+--- FIM DA PÁGINA 3 ---
+
+--- INÍCIO DA PÁGINA 4 ---
+-
+Thispageisintentionallyblank.
+ii A054E988(Issue1)
+
+--- FIM DA PÁGINA 4 ---
+
+--- INÍCIO DA PÁGINA 5 ---
+1 Safety Precautions
+1.1 Safety Information and Notices used in this
+manual
+Danger,WarningandCautionpanelsareusedinthismanualtodescribethesourcesofhazards,
+their consequences and how to avoid injury. Notice panels emphasize important or critical
+instructions.
+DANGER
+Dangerindicatesahazardoussituationwhich, if not avoided,WILLresultindeathor
+seriousinjury.
+WARNING
+Warningindicatesahazardoussituationwhich, ifnot avoided,COULDresult indeathor
+seriousinjury.
+CAUTION
+Cautionindicatesahazardoussituationwhich, ifnot avoided,COULDresult inminoror
+moderateinjury.
+NOTICE
+Noticereferstoamethodorpracticewhichcanresultinproductdamage,ortodraw
+attention to additionalinformationorexplanations.
+1.2 General Guidance
+NOTICE
+Thesesafetyprecautionsareforgeneral guidanceandsupplementyourownsafety
+proceduresandallapplicablelawsandstandards.
+1.3 Skill Requirements of Personnel
+Service and maintenance procedures must only be carried out by experienced and qualified
+engineers,whoarefamiliarwiththe proceduresand theequipment.
+1.4 Risk Assessment
+A risk assessment has been performed on this product by Cummins, however a separate risk
+assessment must be performed by the user/operating company to establish all personnel-related
+risks. All affected users must be trained on the identified risks. Access to the Power
+Plant/Generator Set during operation must be restricted to persons who have been trained on
+these risks.
+A054E988(Issue1) 1
+
+**Tabela 1 (Página 5):**
+| DANGER |
+| Dangerindicatesahazardoussituationwhich, if not avoided,WILLresultindeathor seriousinjury. |
+
+**Tabela 2 (Página 5):**
+| WARNING |
+| Warningindicatesahazardoussituationwhich, ifnot avoided,COULDresult indeathor seriousinjury. |
+
+**Tabela 3 (Página 5):**
+| CAUTION |
+| Cautionindicatesahazardoussituationwhich, ifnot avoided,COULDresult inminoror moderateinjury. |
+
+**Tabela 4 (Página 5):**
+| NOTICE |
+| Noticereferstoamethodorpracticewhichcanresultinproductdamage,ortodraw attention to additionalinformationorexplanations. |
+
+**Tabela 5 (Página 5):**
+| NOTICE |
+| Thesesafetyprecautionsareforgeneral guidanceandsupplementyourownsafety proceduresandallapplicablelawsandstandards. |
+
+--- FIM DA PÁGINA 5 ---
+
+--- INÍCIO DA PÁGINA 6 ---
+-
+1.5 Personal Protective Equipment (PPE)
+All persons operating, servicing, maintaining or working in or with a power plant or a generator
+setmustwearappropriatePersonalProtectiveEquipment (PPE)
+RecommendedPPEincludes:
+• EarandEyeProtection
+• Headandfaceprotection
+• Safetyfootwear
+• Overallsthatprotectthelowerarmsandlegs
+Ensurethatallpersonsarefullyawareoftheemergencyproceduresincaseofaccidents.
+1.6 Noise
+WARNING
+Noise
+Noisefromarunningalternatorcancauseseriousinjuryby permanent hearingdamage.
+To preventinjury,wearappropriatepersonalprotectionequipment (PPE).
+Maximum A-weighted noise emissions may reach 97 dB(A). Contact the supplier for application-
+specificdetails.
+1.7 Electrical Equipment
+DANGER
+LiveElectricalConductors
+Liveelectricalconductorscancauseserious injuryordeathbyelectricshockandburns.
+To preventinjuryand beforeremovingcoversoverelectricalconductors,isolatethe
+generator setfromallenergysources,remove storedenergyanduselockout/tagout
+safetyprocedures.
+All electrical equipment can be dangerous if not operated correctly. Always install, service and
+maintain the alternator in accordance with this manual. Work that requires access to electrical
+conductors must comply with all applicable local and national electrical safety procedures for the
+voltagesinvolvedandanysitespecificrules. Alwaysuse genuine brandedreplacementparts.
+1.8 Lock Out/Tag Out
+WARNING
+Reconnected EnergySource
+Accidentalreconnectionofenergysourcesduringserviceandmaintenance workcan
+causeseriousinjuryordeathbyelectric shock,burns,crushing,severingortrapping.
+To preventinjuryand beforestartingserviceandmaintenancework,use appropriate
+lockout/tagoutsafetyprocedurestokeepthegeneratorsetisolatedfromenergy
+sources.Donotdefeator bypassthelockout/tagout safety procedures.
+2 A054E988(Issue1)
+
+**Tabela 1 (Página 6):**
+| WARNING |
+| Noise Noisefromarunningalternatorcancauseseriousinjuryby permanent hearingdamage. To preventinjury,wearappropriatepersonalprotectionequipment (PPE). |
+
+**Tabela 2 (Página 6):**
+| DANGER |
+| LiveElectricalConductors Liveelectricalconductorscancauseserious injuryordeathbyelectricshockandburns. To preventinjuryand beforeremovingcoversoverelectricalconductors,isolatethe generator setfromallenergysources,remove storedenergyanduselockout/tagout safetyprocedures. |
+
+**Tabela 3 (Página 6):**
+| WARNING |
+| Reconnected EnergySource Accidentalreconnectionofenergysourcesduringserviceandmaintenance workcan causeseriousinjuryordeathbyelectric shock,burns,crushing,severingortrapping. To preventinjuryand beforestartingserviceandmaintenancework,use appropriate lockout/tagoutsafetyprocedurestokeepthegeneratorsetisolatedfromenergy sources.Donotdefeator bypassthelockout/tagout safety procedures. |
+
+--- FIM DA PÁGINA 6 ---
+
+--- INÍCIO DA PÁGINA 7 ---
+-
+1.9 Lifting
+DANGER
+Falling MechanicalParts
+Falling mechanicalpartscancauseseriousinjuryordeathbyimpact,crushing,severing
+ortrapping.
+To preventinjuryand beforelifting:
+• Checkthecapacity,conditionandattachmentofliftingequipment(crane,hoists
+andjacks,including attachments toanchor, fixorsupport the equipment).
+• Checkthecapacity,conditionandattachmentof accessoriesforlifting(hooks,
+slings,shacklesand eyeboltsforattachingloads toliftingequipment).
+• Checkthecapacity,conditionandattachmentof liftingfixturesontheload.
+• Checkthemass,integrityandstability(e.g.unbalancedorshiftingcenterofgravity)
+oftheload.
+WARNING
+FallingMechanicalParts
+Fallingmechanicalpartscancauseseriousinjury ordeathbyimpact,crushing,severing
+ortrapping.
+To preventinjuryand beforeliftingthealternator:
+• Donotliftthecompletegeneratorsetbythealternatorliftingfixtures.
+• Keepthealternator horizontal whenlifting.
+• Fitdriveend and non-driveendtransit fittingstosinglebearingalternatorstokeep
+themainrotorin theframe.
+Donotremovetheliftinglabelattachedtooneoftheliftingpoints.
+1.10 Alternator Operating Areas
+WARNING
+EjectedDebris
+Debrisejectedduring catastrophicfailurecancause seriousinjury ordeathby impact,
+severingorstabbing.
+To preventinjury:
+• Keepaway fromtheairinletandairoutletwhenthealternatorisrunning.
+• Donotputoperator controlsneartheairinlet andairoutlet.
+• Donotcauseoverheatingbyrunningthealternator outsideratingplateparameters.
+• Donotoverload thealternator.
+• Donotrunan alternatorwithexcessivevibration.
+• Donotsynchronizeparallelalternatorsoutsidethe specifiedparameters.
+A054E988(Issue 1) 3
+
+**Tabela 1 (Página 7):**
+| DANGER |
+| Falling MechanicalParts Falling mechanicalpartscancauseseriousinjuryordeathbyimpact,crushing,severing ortrapping. To preventinjuryand beforelifting: • Checkthecapacity,conditionandattachmentofliftingequipment(crane,hoists andjacks,including attachments toanchor, fixorsupport the equipment). • Checkthecapacity,conditionandattachmentof accessoriesforlifting(hooks, slings,shacklesand eyeboltsforattachingloads toliftingequipment). • Checkthecapacity,conditionandattachmentof liftingfixturesontheload. • Checkthemass,integrityandstability(e.g.unbalancedorshiftingcenterofgravity) oftheload. |
+
+**Tabela 2 (Página 7):**
+| WARNING |
+| FallingMechanicalParts Fallingmechanicalpartscancauseseriousinjury ordeathbyimpact,crushing,severing ortrapping. To preventinjuryand beforeliftingthealternator: • Donotliftthecompletegeneratorsetbythealternatorliftingfixtures. • Keepthealternator horizontal whenlifting. • Fitdriveend and non-driveendtransit fittingstosinglebearingalternatorstokeep themainrotorin theframe. |
+
+**Tabela 3 (Página 7):**
+| WARNING |
+| EjectedDebris Debrisejectedduring catastrophicfailurecancause seriousinjury ordeathby impact, severingorstabbing. To preventinjury: • Keepaway fromtheairinletandairoutletwhenthealternatorisrunning. • Donotputoperator controlsneartheairinlet andairoutlet. • Donotcauseoverheatingbyrunningthealternator outsideratingplateparameters. • Donotoverload thealternator. • Donotrunan alternatorwithexcessivevibration. • Donotsynchronizeparallelalternatorsoutsidethe specifiedparameters. |
+
+--- FIM DA PÁGINA 7 ---
+
+--- INÍCIO DA PÁGINA 8 ---
+-
+Always wear suitable PPE when working in the hatched areas shown in the diagram or directly
+in-linewithanyairinlet/outlet.
+Makesurethisconsiderationiscapturedinyourriskassessment.
+1.11 Hazard Warning Labels
+WARNING
+SafetyCover Removed
+Ahazardexposedwhenasafetycoverisremovedcancauseserious injuryordeath.
+To preventinjury:
+• Fitthesafetylabelsatthelocationsshownonthebackofthelabelsheetsupplied.
+• Observethesafetylabels.
+• Refertotheservicemanualbeforeremovingcovers.
+The generator set manufacturer is responsible for fitting the self-adhesive hazard warning labels
+suppliedwiththealternator.
+Replacelabelsthataremissing,damagedorpainted over.
+4 A054E988(Issue1)
+
+**Tabela 1 (Página 8):**
+| WARNING |
+| SafetyCover Removed Ahazardexposedwhenasafetycoverisremovedcancauseserious injuryordeath. To preventinjury: • Fitthesafetylabelsatthelocationsshownonthebackofthelabelsheetsupplied. • Observethesafetylabels. • Refertotheservicemanualbeforeremovingcovers. |
+
+--- FIM DA PÁGINA 8 ---
+
+--- INÍCIO DA PÁGINA 9 ---
+2 Fault Finding
+2.1 Key to Symbols
+Symbol Description
+Redlightemittingdiode(LED) of automaticvoltage regulator(AVR)isOFF
+Redlightemittingdiode(LED) of automaticvoltage regulator(AVR)isON
+Timedelay
+Nooutputloadapplied (off-load)
+Outputloadapplied(on-load)
+Diode
+Fuse
+Switch
+Earth
+Battery(observepolarity)
+A054E988(Issue1) 5
+
+**Tabela 1 (Página 9):**
+| Symbol | Description |
+|  | Redlightemittingdiode(LED) of automaticvoltage regulator(AVR)isOFF |
+|  | Redlightemittingdiode(LED) of automaticvoltage regulator(AVR)isON |
+|  | Timedelay |
+|  | Nooutputloadapplied (off-load) |
+|  | Outputloadapplied(on-load) |
+|  | Diode |
+|  | Fuse |
+|  | Switch |
+|  | Earth |
+|  | Battery(observepolarity) |
+
+--- FIM DA PÁGINA 9 ---
+
+--- INÍCIO DA PÁGINA 10 ---
+-
+2.2 Safety
+DANGER
+LiveElectricalConductors
+Liveelectricalconductorscancauseserious injuryordeathbyelectricshockandburns.
+To preventinjuryand beforetestingonornearlive electricalconductors:
+• Assessriskand testonornearliveconductorsonlyifabsolutelynecessary.
+• Onlytrained,competentpersonsmaytestonornearliveelectricalconductors.
+• Do notteston or nearliveelectrical conductorsalone;anothercompetentperson
+mustbepresent,trained toisolate energy sourcesandtakeactioninan
+emergency.
+• Placewarningsand prevent access byunauthorizedpersons.
+• Makesurethattools,testinstruments, leadsandattachmentsaredesigned,
+inspected andmaintainedforuseonthemaximum voltageslikely undernormaland
+faultconditions.
+• Testmediumandhighvoltage(3.3kVto13.6kV) alternatorsonlywithspecialized
+instrumentsandprobes.
+• Takesuitableprecautionstoprevent contactwithliveconductorsincluding
+personalprotectiveequipment,insulation, barriersandinsulatedtools.
+DANGER
+LiveElectricalConductors
+Liveelectricalconductorsatoutput,AVRandAVRaccessoryterminals,andAVRheat
+sinkcancauseseriousinjuryordeathby electricshockandburns.
+To preventinjury,takesuitable precautions toprevent contactwithliveconductors
+includingpersonalprotectiveequipment,insulation,barriersandinsulatedtools.
+2.3 Introduction
+This fault finding guide concerns the alternator - the synchronous a.c. alternator connected to the
+prime-mover (engine) by a mechanical coupling and connected to an electrical system by two,
+threeorfourpowercablesatanintegralterminalblock. Thisguideexcludes:
+• theprime-moveranditscontrols
+• thegeneratorset,itscontrolsandwiring,and
+• panelinstruments,circuitbreakersandswitchgear.
+Fault finding relies on collecting information about symptoms, thinking of the most probable
+cause, then testing for it. This systematic method is progressed until the fault is isolated and
+eliminated, and minimizes the possibility of false diagnosis and unnecessary expense. Once you
+are sure that the problem lies with the a.c. alternator, follow this guide to diagnose and correct
+thefault.
+Beforeattemptingto findandrepairafault, checkfor:
+• physicalsymptoms,forexampleunusualnoise,smokeorburningsmell;
+• verbalorwrittenreportsthatmayindicatethesourceof thefault;
+• problemsexternaltothealternator; and
+• faultyinstrumentation,blownfusesortrippedcircuit breakers.
+Runthealternatoronlyfortheshortesttimerequiredtoconfirm the symptoms.
+6 A054E988(Issue1)
+
+**Tabela 1 (Página 10):**
+| DANGER |
+| LiveElectricalConductors Liveelectricalconductorscancauseserious injuryordeathbyelectricshockandburns. To preventinjuryand beforetestingonornearlive electricalconductors: • Assessriskand testonornearliveconductorsonlyifabsolutelynecessary. • Onlytrained,competentpersonsmaytestonornearliveelectricalconductors. • Do notteston or nearliveelectrical conductorsalone;anothercompetentperson mustbepresent,trained toisolate energy sourcesandtakeactioninan emergency. • Placewarningsand prevent access byunauthorizedpersons. • Makesurethattools,testinstruments, leadsandattachmentsaredesigned, inspected andmaintainedforuseonthemaximum voltageslikely undernormaland faultconditions. • Testmediumandhighvoltage(3.3kVto13.6kV) alternatorsonlywithspecialized instrumentsandprobes. • Takesuitableprecautionstoprevent contactwithliveconductorsincluding personalprotectiveequipment,insulation, barriersandinsulatedtools. |
+
+**Tabela 2 (Página 10):**
+| DANGER |
+| LiveElectricalConductors Liveelectricalconductorsatoutput,AVRandAVRaccessoryterminals,andAVRheat sinkcancauseseriousinjuryordeathby electricshockandburns. To preventinjury,takesuitable precautions toprevent contactwithliveconductors includingpersonalprotectiveequipment,insulation,barriersandinsulatedtools. |
+
+--- FIM DA PÁGINA 10 ---
+
+--- INÍCIO DA PÁGINA 11 ---
+-
+Withthealternator stopped,makeageneralinspection.
+• Checkforanydebrisinthebodyof thealternator.
+• Lookforanyobviousrestrictionstorotation.
+• Checkthemainterminalsandcontrolwiringfor corrodedorlooseconnections.
+To findthefault,youmayneedto:
+• Makeageneralinspection.
+• Confirmthesymptoms.
+• Runthealternatorunexcited.
+• Runthealternatoroff-load, on-loadorinparallelwithotheralternator(s).
+• Disconnectandmeasuretheresistanceof windingsandinsulation.
+• Testcomponentsfromtherotatingrectifier system.
+• DisconnecttheAVR andmakeadjustmentstotheAVRcontrols.
+DoNOTassumethattheAVRor controlsystem isfaultyuntilconfirmedbytestresults.
+If you are not qualified or competent to carry out these tasks then stop and seek further
+guidance.
+Alsonote:
+• Remove protective covers as needed for testing. Remember to replace the covers
+afterwards.
+• Disable power to anti-condensation heaters (if fitted). Remember to reconnect the heaters
+afterwards.
+• Disable features within the engine control protection systems (e.g. under-voltage protection)
+asneededtoallowtheenginetorunduringthesetests. Enable the featuresafterwards.
+• Always use a single independent instrument to make measurements. Do not rely on panel
+meters.
+2.4 Recommended Fault Finding Equipment
+2.4.1 Multimeter
+TheMultimeterisacomprehensivetestinstrument for measuringvoltage,currentandresistance.
+It shouldbecapableofmeasuringthefollowingranges:-
+• 0to250,0to500,0to1000Volts(VAC)
+• 0to25,0to100,0to250Volts(VDC)
+• 0to10Amps(DC)
+• 0to10kiloOhms(kΩ)or0to2kiloOhms(kΩ)
+• 0to100kiloOhms(kΩ)or0to20kiloOhms(kΩ)
+• 0to1megaOhms(MΩ)or0to200kiloOhms(kΩ)
+2.4.2 Tachometer or Frequency Meter
+A tachometer is used to measure the shaft speed of the alternator and should be capable of
+measuringspeedsbetween0and5000revolutionsper minute,(r/min).
+An alternative to the tachometer is the frequency meter. The alternator must be operating at its
+normal outputvoltageforatachometertobeaccurate.
+A054E988(Issue1) 7
+
+--- FIM DA PÁGINA 11 ---
+
+--- INÍCIO DA PÁGINA 12 ---
+-
+2.4.3 Insulation Tester (Megger)
+The insulation tester generates a voltage of 500V or 1000V, and is used to measure the
+resistance value of the insulation to earth (ground). It may be an electronic push button type, or a
+hand-crankedgeneratortype.
+2.4.4 Clamp-On Ammeter (clampmeter)
+The clamp-on ammeter uses the transformer effect to measure current flowing in a conductor. A
+split magnetic core, in the form of pair of jaws, is clamped to surround the conductor (single
+primaryturn)Currentflowinginsecondaryturnswithinthemeterismeasured.Usefulrangesare
+• 0to10,0to50,0to100,0to 250, 0to 500and 0to1000Amps(AC).
+2.4.5 Micro Ohmmeter
+A micro ohmmeter is used to measure resistance values below 1.0 ohm. It is the only means of
+accuratelymeasuringverylowresistances,suchasmainstatorandexciterrotorwindings.
+2.4.6 Tools and Spares
+For efficient fault finding and to minimise downtime, anticipate likely problems and prepare tools
+andsparestofixtheworst-casefault.Include:
+• comprehensivetoolkittoremove/refit fasteners
+• torquewrench(ofappropriatetorquerange totighten fasteners)
+• sparereplacementAVR,ofappropriatetype
+• electrical,flat-bladedscrewdrivertoadjust AVRcontrols
+• full setofrectifierdiodes
+• torque wrench and accessories (of appropriate torque range and mechanical configuration
+toaccessandtightendiodes)
+• full setofrectifiervaristors
+• remotehandtrimmer
+• currenttransformer,ifappropriate
+• voltagetransformer,ifappropriate
+• exciterrotorandstator,ifappropriate
+• PMGrotorandstator,ifappropriate
+• Rectifierdiode,5Afuse,switchandbatterytorestore theresidualvoltage
+8 A054E988(Issue1)
+
+--- FIM DA PÁGINA 12 ---
+
+--- INÍCIO DA PÁGINA 13 ---
+3 Fault Finding: Low Voltage (LV)
+Before starting any fault finding procedure, examine all wiring for broken or loose connections. If
+in doubt, refer to the wiring diagram supplied with the alternator. Compare measurements with
+thetestreportsuppliedwiththealternator.
+The following list is to aid in troubleshooting and is not exhaustive. If in doubt, consult Cummins
+servicedepartment.
+3.1 Preparation
+Record details of the alternator (model, serial number, running time, voltage, AVR and
+main stator configuration), symptoms and observations1 in a copy of the fault finding
+recordChapter 6onpage51.
+Fromwhatyouknow, YES Checkalternatoron-Load
+doesthealternator work Section3.4onpage18.
+NORMALLYwhen OFF-
+LOAD(nooutputload)? NO CheckUn-excitedphaseandAVRvoltages
+Section3.2onpage9.
+3.2 Check Un-excited Phase and AVR Voltages
+Checkthealternatorissafetorun:
+• Disconnectandisolatethepoweroutputcablesfromthealternatormainterminals.
+• Disconnecttheexciterfieldwires(F1 andF2)fromthe AVRandmakethemsafe.
+• Startthealternatorwithoutoutput load, ‘Off-Load‘.Be preparedtoSTOP!
+• Verifythatthealternatorspeed iscorrect.
+• Measure the alternator output voltage (phase to phase):2 This is the residual voltage.
+Recordyourmeasurementsonthefault findingrecordChapter6onpage 51.
+1 The output voltage, stator configuration and AVR may be different from that shown on the nameplate. Record your
+ownobservationsandmeasurements.
+2 Three-wire,single-phasealternatorsshouldbecheckedastwoseparatewindings.
+A054E988(Issue1) 9
+
+**Tabela 1 (Página 13):**
+| Fromwhatyouknow, doesthealternator work NORMALLYwhen OFF- LOAD(nooutputload)? | YES | Checkalternatoron-Load Section3.4onpage18. |
+|  | NO | CheckUn-excitedphaseandAVRvoltages Section3.2onpage9. |
+
+--- FIM DA PÁGINA 13 ---
+
+--- INÍCIO DA PÁGINA 14 ---
+-
+Arethephasevoltages YES Unbalancedresidual voltagecouldindicatethat
+UNBALANCEDbymorethan thereisaproblemwiththe mainstatorwinding and
+1%?(seeexamplebelow) itistherefore unsafetorunthealternatorunder
+normalexcitation:
+Unbalancedresidualvoltagewouldnot becaused
+byfaultyAVRorfaultyrotatingrectifier
+components.
+Balanced Unbalanced ACTIONS:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Measureandverifythemainstator insulation
+resistance
+Section5.15onpage48.
+2. Measureandverifythemainstator resistance
+Section5.11.4onpage46.
+NO Thecorrectinputvoltageisessentialfor theAVRto
+operate.
+For ‘SX’and ‘AS‘types,wheretheresidualvoltage
+startstheAVR,if theresidualvoltageisbelowthe
+minimum levelrequiredthenthe alternator willfail
+toexcite.
+For ‘MX‘AVRsandmachinesequippedwitha
+permanentmagnetgenerator(PMG) theresidual
+voltagerequirementsdonotapply.
+TheAVRSensingVoltage isafixedproportion of
+themainoutputvoltageof thealternator whichis
+usedbytheAVRforvoltagecontrol. Ifthesensing
+voltageisnot agood andstablerepresentationof
+theoutputthenthe AVRwillnotcontrolthe output
+correctly.
+ACTIONS:
+KEEPTHEALTERNATORRUNNING
+Measure theAVRPower Input andSensing
+Voltages.
+Recordyourmeasurementsonthefault finding
+record
+Chapter6onpage51.
+Continuetothenextquestion.
+10 A054E988(Issue1)
+
+**Tabela 1 (Página 14):**
+| Arethephasevoltages UNBALANCEDbymorethan 1%?(seeexamplebelow) |  | YES | Unbalancedresidual voltagecouldindicatethat thereisaproblemwiththe mainstatorwinding and itistherefore unsafetorunthealternatorunder normalexcitation: Unbalancedresidualvoltagewouldnot becaused byfaultyAVRorfaultyrotatingrectifier components. |
+| Balanced | Unbalanced |  | ACTIONS: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Measureandverifythemainstator insulation resistance Section5.15onpage48. 2. Measureandverifythemainstator resistance Section5.11.4onpage46. |
+|  |  | NO | Thecorrectinputvoltageisessentialfor theAVRto operate. For ‘SX’and ‘AS‘types,wheretheresidualvoltage startstheAVR,if theresidualvoltageisbelowthe minimum levelrequiredthenthe alternator willfail toexcite. For ‘MX‘AVRsandmachinesequippedwitha permanentmagnetgenerator(PMG) theresidual voltagerequirementsdonotapply. TheAVRSensingVoltage isafixedproportion of themainoutputvoltageof thealternator whichis usedbytheAVRforvoltagecontrol. Ifthesensing voltageisnot agood andstablerepresentationof theoutputthenthe AVRwillnotcontrolthe output correctly. |
+|  |  |  | ACTIONS: KEEPTHEALTERNATORRUNNING Measure theAVRPower Input andSensing Voltages. Recordyourmeasurementsonthefault finding record Chapter6onpage51. Continuetothenextquestion. |
+
+--- FIM DA PÁGINA 14 ---
+
+--- INÍCIO DA PÁGINA 15 ---
+-
+DoestheAVRPowerInput YES ACTIONS:
+Voltagereading (fromthefault
+findingrecord)failthe
+requirement?
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkthemainstatoroutput connections.
+2. Restoretheresidualvoltage
+Section5.17onpage49.
+NO CalculateV ,V andV andrecordyour
+a b sen
+measurementsonthefaultfinding record
+Chapter6onpage 51.
+Continuetothenextquestion.
+Doesthecalculated AVR YES ACTIONS:
+SensingVoltage(from thefault
+findingrecord)failthe
+requirement?
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkthemainstatoroutput connections.
+2. CheckAVRsensingtransformer(s).
+3. CheckotherAVRaccessories.
+NO Thealternatorshouldbesafetooperateoff-load.
+ACTIONS:
+STOPTHEALTERNATOR
+1. Reconnectthemainoutputcablestothe
+alternator mainterminals.
+2. Reconnecttheexciterfield wires(F1andF2)
+totheAVR.
+3. Continuetooff-loadchecks
+Section3.3onpage11.
+3.3 Check Alternator Off-Load
+1. Makesurethemainoutputcablesandexciter field wiresare securelyconnected.
+2. Startthealternatorwithoutoutputload, 'Off-Load ‘.Be prepared toSTOP!
+3. Verifythatthealternatorspeediscorrect.
+4. Measurethemainterminaloutputvoltage.
+A054E988(Issue1) 11
+
+**Tabela 1 (Página 15):**
+| DoestheAVRPowerInput Voltagereading (fromthefault findingrecord)failthe requirement? | YES | ACTIONS: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkthemainstatoroutput connections. 2. Restoretheresidualvoltage Section5.17onpage49. |
+|  | NO | CalculateV ,V andV andrecordyour a b sen measurementsonthefaultfinding record Chapter6onpage 51. Continuetothenextquestion. |
+
+**Tabela 2 (Página 15):**
+| Doesthecalculated AVR SensingVoltage(from thefault findingrecord)failthe requirement? | YES | ACTIONS: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkthemainstatoroutput connections. 2. CheckAVRsensingtransformer(s). 3. CheckotherAVRaccessories. |
+|  | NO | Thealternatorshouldbesafetooperateoff-load. |
+|  |  | ACTIONS: STOPTHEALTERNATOR 1. Reconnectthemainoutputcablestothe alternator mainterminals. 2. Reconnecttheexciterfield wires(F1andF2) totheAVR. 3. Continuetooff-loadchecks Section3.3onpage11. |
+
+--- FIM DA PÁGINA 15 ---
+
+--- INÍCIO DA PÁGINA 16 ---
+-
+IsthevoltageHIGHbymore YES ACTION:
+than+2%? KEEPTHEALTERNATORRUNNING
+Highvoltagefailureisindicatedby:
+• Highvoltage continuously bymore than
++2%,or
+• Highvoltageforashorttime thenshutsdown.
+ContinuetoSection3.3.1onpage13.
+NO Continuetothenextquestion.
+IsthevoltageLOWbymore YES ACTION:
+than-2%? KEEPTHEALTERNATORRUNNING
+Lowvoltage ornovoltagefailureisindicatedby:
+• Lowvoltagecontinuouslybymore than-2%,
+or
+• Lowvoltageforashort timethenshutsdown.
+ContinuetoSection3.3.2onpage14.
+NO Continuetothenextquestion.
+IsthevoltageUNSTABLE? YES ACTION:
+KEEPTHEALTERNATORRUNNING
+Unstablevoltage failureisindicatedby:
+• Rhythmicinstability
+• ErraticinstabilitywiththeAVRLEDflickering
+• ErraticinstabilitywiththeAVRLEDOFF,or
+• Voltagedrifting.
+ContinuetoSection3.3.3onpage16.
+NO Continuetothenextquestion.
+12 A054E988(Issue1)
+
+**Tabela 1 (Página 16):**
+| IsthevoltageHIGHbymore than+2%? | YES | ACTION: KEEPTHEALTERNATORRUNNING Highvoltagefailureisindicatedby: • Highvoltage continuously bymore than +2%,or • Highvoltageforashorttime thenshutsdown. ContinuetoSection3.3.1onpage13. |
+|  | NO | Continuetothenextquestion. |
+
+**Tabela 2 (Página 16):**
+| IsthevoltageLOWbymore than-2%? | YES | ACTION: KEEPTHEALTERNATORRUNNING Lowvoltage ornovoltagefailureisindicatedby: • Lowvoltagecontinuouslybymore than-2%, or • Lowvoltageforashort timethenshutsdown. ContinuetoSection3.3.2onpage14. |
+|  | NO | Continuetothenextquestion. |
+
+**Tabela 3 (Página 16):**
+| IsthevoltageUNSTABLE? | YES | ACTION: KEEPTHEALTERNATORRUNNING Unstablevoltage failureisindicatedby: • Rhythmicinstability • ErraticinstabilitywiththeAVRLEDflickering • ErraticinstabilitywiththeAVRLEDOFF,or • Voltagedrifting. ContinuetoSection3.3.3onpage16. |
+|  | NO | Continuetothenextquestion. |
+
+--- FIM DA PÁGINA 16 ---
+
+--- INÍCIO DA PÁGINA 17 ---
+-
+IsthevoltageNORMALfor a YES TheAVRhasshutdowninresponse toafault
+shorttime,thenshutsdown? withinthealternatorwindingsor rotating rectifier
+components.
+ACTION:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkrotatingrectifiercomponents
+Section5.10.1onpage43,
+Section5.10.2onpage45.
+2. Measureandverifytheresistanceofexciter
+windings
+Section5.11.1onpage45,
+Section5.11.2onpage45.
+3. Measureandverifytheresistanceofmain
+rotorSection5.11.3onpage45.
+NO Continuetocheckalternatoron-loadSection3.4
+onpage18.
+3.3.1 Higher than Expected Voltage Off-Load
+Thealternator produceshigherthanexpectedvoltage:
+1. Startthealternatorwithoutoutputload, 'Off-Load ‘.Be prepared toSTOP!
+2. Verifythatthealternatorspeediscorrect.
+3. Measurethemainterminaloutputvoltage.
+IsthevoltageCONTINUOUSLY YES It isunlikelytobeafaultwiththealternator
+HIGHbymorethan+2%? windingsorrotatingrectifiercomponents.
+ACTION:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkandadjust remotehandtrimmer (if
+fitted)
+Section5.6onpage42.
+2. Checkandadjust AVRVOLTSsetting
+Section5.2onpage39.
+3. MeasureandverifyAVRsensing voltage input
+Section5.8onpage42.
+4. ReplacetheAVR.
+NO Continuetothenextquestion.
+A054E988(Issue1) 13
+
+**Tabela 1 (Página 17):**
+| IsthevoltageNORMALfor a shorttime,thenshutsdown? | YES | TheAVRhasshutdowninresponse toafault withinthealternatorwindingsor rotating rectifier components. |
+|  |  | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkrotatingrectifiercomponents Section5.10.1onpage43, Section5.10.2onpage45. 2. Measureandverifytheresistanceofexciter windings Section5.11.1onpage45, Section5.11.2onpage45. 3. Measureandverifytheresistanceofmain rotorSection5.11.3onpage45. |
+|  | NO | Continuetocheckalternatoron-loadSection3.4 onpage18. |
+
+**Tabela 2 (Página 17):**
+| IsthevoltageCONTINUOUSLY HIGHbymorethan+2%? | YES | It isunlikelytobeafaultwiththealternator windingsorrotatingrectifiercomponents. |
+|  |  | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkandadjust remotehandtrimmer (if fitted) Section5.6onpage42. 2. Checkandadjust AVRVOLTSsetting Section5.2onpage39. 3. MeasureandverifyAVRsensing voltage input Section5.8onpage42. 4. ReplacetheAVR. |
+|  | NO | Continuetothenextquestion. |
+
+--- FIM DA PÁGINA 17 ---
+
+--- INÍCIO DA PÁGINA 18 ---
+-
+IsthevoltageHIGHforashort YES TheAVRhasshutdowninresponse toaproblem
+time,then shutsdownandthe butitisunlikelytobeafaultwiththealternator
+AVRLEDisON? windingsorrotatingrectifiercomponents.
+ACTION:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkandadjust remotehandtrimmer (if
+fitted)
+Section5.6onpage42.
+2. Checkandadjust AVRVOLTSsetting
+Section5.2onpage39.
+3. MeasureandverifyAVRsensing voltage input
+Section5.8onpage42.
+4. ReplacetheAVR.
+NO ACTION:
+STOPTHEALTERNATOR
+Seekguidancefrom CGTCustomerSupport.
+3.3.2 Lower than Expected Voltage Off-Load
+Thealternatorproduceslowerthanexpectedvoltage:
+1. Startthealternatorwithoutoutput load,'Off-Load ‘. BepreparedtoSTOP!
+2. Verifythatthealternatorspeed iscorrect.
+3. Measurethemainterminaloutput voltage.
+IsthevoltageZEROorVERY YES ACTION:
+LOW?
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkthemainstatoroutput connections.
+2. Restoreresidualvoltage(NOTapplicable to
+machineswithaPMG)
+Section5.17onpage49.
+NO Continuetothenextquestion.
+14 A054E988(Issue1)
+
+**Tabela 1 (Página 18):**
+| IsthevoltageHIGHforashort time,then shutsdownandthe AVRLEDisON? | YES | TheAVRhasshutdowninresponse toaproblem butitisunlikelytobeafaultwiththealternator windingsorrotatingrectifiercomponents. |
+|  |  | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkandadjust remotehandtrimmer (if fitted) Section5.6onpage42. 2. Checkandadjust AVRVOLTSsetting Section5.2onpage39. 3. MeasureandverifyAVRsensing voltage input Section5.8onpage42. 4. ReplacetheAVR. |
+|  | NO | ACTION: STOPTHEALTERNATOR Seekguidancefrom CGTCustomerSupport. |
+
+**Tabela 2 (Página 18):**
+| IsthevoltageZEROorVERY LOW? | YES | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkthemainstatoroutput connections. 2. Restoreresidualvoltage(NOTapplicable to machineswithaPMG) Section5.17onpage49. |
+|  | NO | Continuetothenextquestion. |
+
+--- FIM DA PÁGINA 18 ---
+
+--- INÍCIO DA PÁGINA 19 ---
+-
+IsthevoltageCONTINUOUSLY YES It isunlikelytobeafaultwiththealternatormain
+LOWbymorethan -2%andthe statorwindingunlessthephasevoltagesare
+AVRLEDisOFF? unbalanced.
+ACTION:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkandadjust remotehandtrimmer (if
+fitted)
+Section5.6onpage42.
+2. Checkandadjust AVRVOLTSsetting
+Section5.2onpage39.
+3. Checktherotating rectifier components
+Section5.10.1onpage43,
+Section5.10.2onpage45.
+4. MeasureandverifytheconditionofthePMG
+statorwinding(if fitted)
+Section5.11.5onpage46,
+Section5.16onpage48.
+5. ReplacetheAVR.
+NO Continuetothenextquestion.
+IsthevoltageCONTINUOUSLY YES It isunlikelytobeafaultwiththealternatormain
+LOWbymorethan -2%andthe statorwindingunlessthephasevoltagesare
+AVRLEDisON? unbalanced.
+ACTION:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Adjust AVRUFROsetting
+Section5.3onpage40.
+2. Checkalternator (primemover)rotational
+speed.
+3. ReplacetheAVR.
+NO Continuetothenextquestion.
+A054E988(Issue1) 15
+
+**Tabela 1 (Página 19):**
+| IsthevoltageCONTINUOUSLY LOWbymorethan -2%andthe AVRLEDisOFF? | YES | It isunlikelytobeafaultwiththealternatormain statorwindingunlessthephasevoltagesare unbalanced. |
+|  |  | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkandadjust remotehandtrimmer (if fitted) Section5.6onpage42. 2. Checkandadjust AVRVOLTSsetting Section5.2onpage39. 3. Checktherotating rectifier components Section5.10.1onpage43, Section5.10.2onpage45. 4. MeasureandverifytheconditionofthePMG statorwinding(if fitted) Section5.11.5onpage46, Section5.16onpage48. 5. ReplacetheAVR. |
+|  | NO | Continuetothenextquestion. |
+
+**Tabela 2 (Página 19):**
+| IsthevoltageCONTINUOUSLY LOWbymorethan -2%andthe AVRLEDisON? | YES | It isunlikelytobeafaultwiththealternatormain statorwindingunlessthephasevoltagesare unbalanced. |
+|  |  | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Adjust AVRUFROsetting Section5.3onpage40. 2. Checkalternator (primemover)rotational speed. 3. ReplacetheAVR. |
+|  | NO | Continuetothenextquestion. |
+
+--- FIM DA PÁGINA 19 ---
+
+--- INÍCIO DA PÁGINA 20 ---
+-
+IsthevoltageLOWforashort YES It isunlikelytobeafaultwiththealternatormain
+time,then shutsdownandthe statorwindingunlessthephasevoltagesare
+AVRLEDisON? unbalanced.
+ACTION:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkrotatingrectifiercomponents
+Section5.10.1onpage43,
+Section5.10.2onpage45.
+2. ReplacetheAVR.
+NO ACTION:
+STOPTHEALTERNATOR
+Seekguidancefrom CGTCustomerSupport.
+3.3.3 Unstable Voltage Off-Load
+Thealternatorproducesan unstablevoltageoutput:
+1. Startthealternatorwithoutoutput load,'Off-Load‘. BepreparedtoSTOP!
+2. Verifythatthealternatorspeed iscorrect.
+3. Measurethemainterminaloutput voltage.
+Isthevoltagevaryingina YES It isunlikelytobeafaultwiththealternator
+regular RHYTHMICway? windingsorrotatingrectifiercomponents.
+ACTION:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Verifythat theprimemoverspeedisstable.
+2. Checkif thealternator isoperatingbelowits
+designvoltage.
+3. Checkandadjust theAVRSTABsetting
+Section5.4onpage41.
+NO Continuetothenextquestion.
+16 A054E988(Issue1)
+
+**Tabela 1 (Página 20):**
+| IsthevoltageLOWforashort time,then shutsdownandthe AVRLEDisON? | YES | It isunlikelytobeafaultwiththealternatormain statorwindingunlessthephasevoltagesare unbalanced. |
+|  |  | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkrotatingrectifiercomponents Section5.10.1onpage43, Section5.10.2onpage45. 2. ReplacetheAVR. |
+|  | NO | ACTION: STOPTHEALTERNATOR Seekguidancefrom CGTCustomerSupport. |
+
+**Tabela 2 (Página 20):**
+| Isthevoltagevaryingina regular RHYTHMICway? | YES | It isunlikelytobeafaultwiththealternator windingsorrotatingrectifiercomponents. |
+|  |  | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Verifythat theprimemoverspeedisstable. 2. Checkif thealternator isoperatingbelowits designvoltage. 3. Checkandadjust theAVRSTABsetting Section5.4onpage41. |
+|  | NO | Continuetothenextquestion. |
+
+--- FIM DA PÁGINA 20 ---
+
+--- INÍCIO DA PÁGINA 21 ---
+-
+Isthevoltagevaryinginan YES It ismost likelytobeapoorlyadjusted AVRUFRO
+irregular ERRATIC wayandthe setting. Itisunlikelytobea fault withthealternator
+AVRLEDisflickering? windingsorrotatingrectifiercomponents.
+ACTION:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkprimemoverspeedgoverning.
+2. Checkandadjust AVRUFRO setting
+Section5.3onpage40.
+NO Continuetothenextquestion.
+Isthevoltagevaryinginan YES It isunlikelytobeafaultwiththe rotating rectifier
+irregular ERRATIC wayandthe components.
+AVRLEDisOFF?
+ACTION:
+STOPTHEALTERNATOR
+Erraticinstability andAVRLEDOFFiscorrected
+bytakingthefollowingsteps,in order:
+1. Checkprimemoverspeedgoverning.
+2. Checkandadjust AVRSTABsetting
+Section5.4onpage41.
+3. Measureandverifytheinsulationresistance of
+theexciterstator
+Section5.12onpage46.
+4. Measureandverifytheinsulationresistance of
+thePMG(if fitted) and/orauxiliarywinding(if
+fitted)
+Section5.16onpage48.
+NO Continuetothenextquestion.
+IsthevoltageDRIFTING, YES ACTION:
+varyingslowlyoveralong
+time?
+STOPTHEALTERNATOR
+Voltagedrifting iscorrectedbytakingthe
+followingsteps,inorder:
+1. Checkandadjusttheremotehandtrimmer
+Section5.6onpage42.
+2. ReplacethefaultyAVR.
+NO ACTION:
+STOPTHEALTERNATOR
+Seekguidancefrom CGTCustomerSupport.
+A054E988(Issue1) 17
+
+**Tabela 1 (Página 21):**
+| Isthevoltagevaryinginan irregular ERRATIC wayandthe AVRLEDisflickering? | YES | It ismost likelytobeapoorlyadjusted AVRUFRO setting. Itisunlikelytobea fault withthealternator windingsorrotatingrectifiercomponents. |
+|  |  | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkprimemoverspeedgoverning. 2. Checkandadjust AVRUFRO setting Section5.3onpage40. |
+|  | NO | Continuetothenextquestion. |
+
+**Tabela 2 (Página 21):**
+| Isthevoltagevaryinginan irregular ERRATIC wayandthe AVRLEDisOFF? | YES | It isunlikelytobeafaultwiththe rotating rectifier components. |
+|  |  | ACTION: STOPTHEALTERNATOR Erraticinstability andAVRLEDOFFiscorrected bytakingthefollowingsteps,in order: 1. Checkprimemoverspeedgoverning. 2. Checkandadjust AVRSTABsetting Section5.4onpage41. 3. Measureandverifytheinsulationresistance of theexciterstator Section5.12onpage46. 4. Measureandverifytheinsulationresistance of thePMG(if fitted) and/orauxiliarywinding(if fitted) Section5.16onpage48. |
+|  | NO | Continuetothenextquestion. |
+
+**Tabela 3 (Página 21):**
+| IsthevoltageDRIFTING, varyingslowlyoveralong time? | YES | ACTION: STOPTHEALTERNATOR Voltagedrifting iscorrectedbytakingthe followingsteps,inorder: 1. Checkandadjusttheremotehandtrimmer Section5.6onpage42. 2. ReplacethefaultyAVR. |
+|  | NO | ACTION: STOPTHEALTERNATOR Seekguidancefrom CGTCustomerSupport. |
+
+--- FIM DA PÁGINA 21 ---
+
+--- INÍCIO DA PÁGINA 22 ---
+-
+3.4 Check Alternator On-Load
+Checkthealternator withtheoutputloadapplied, ‘On-Load'.
+1. Startthealternatorandapplytheoutput load.Be prepared toSTOP!
+2. Makesurethatthealternatorspeediscorrect.
+3. Measurethemainterminaloutputvoltage.
+Arethephasevoltages YES
+Unbalancedvoltagewouldnot becausedbya
+UNBALANCEDbymorethan
+faultyAVRorfaultyrotatingrectifiercomponents.
+1%?(seeexamplebelow)
+Balanced Unbalanced ACTIONS:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkandcorrect thethree-phase load
+balance.
+2. Checkandcorrect thedistribution of single-
+phaseloads.
+3. Checkmainstatoroutput connectionsfor
+looseleads.
+4. Measureandverifythemainstator resistance
+Section5.11.4onpage46.
+NO Continuetothenextquestion.
+IsthevoltageHIGHbymore YES ACTION:
+than+2%whenload applied?
+STOPTHEALTERNATOR
+Taketheserecommendedstepsinorder, untilthe
+causeisfound.
+1. Checkandcorrecttheleading(capacitive)
+power-factorload.
+NO
+Continuetothenextquestion.
+18 A054E988(Issue1)
+
+**Tabela 1 (Página 22):**
+| Arethephasevoltages UNBALANCEDbymorethan 1%?(seeexamplebelow) |  | YES | Unbalancedvoltagewouldnot becausedbya faultyAVRorfaultyrotatingrectifiercomponents. |
+| Balanced | Unbalanced |  | ACTIONS: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkandcorrect thethree-phase load balance. 2. Checkandcorrect thedistribution of single- phaseloads. 3. Checkmainstatoroutput connectionsfor looseleads. 4. Measureandverifythemainstator resistance Section5.11.4onpage46. |
+|  |  | NO | Continuetothenextquestion. |
+
+**Tabela 2 (Página 22):**
+| IsthevoltageHIGHbymore than+2%whenload applied? | YES | ACTION: STOPTHEALTERNATOR Taketheserecommendedstepsinorder, untilthe causeisfound. 1. Checkandcorrecttheleading(capacitive) power-factorload. |
+|  | NO | Continuetothenextquestion. |
+
+--- FIM DA PÁGINA 22 ---
+
+--- INÍCIO DA PÁGINA 23 ---
+-
+IsthevoltageLOWbymore YES ACTION:
+than-2%whenload applied?
+STOPTHEALTERNATOR
+Low voltage ornovoltagewhenapplyingload is
+indicatedby:
+• Lowvoltagebymorethan-2%continuously
+afterapplyingload;
+• Lowvoltagebymorethan-2%continuously
+afterapplyingloadand AVRLEDisON;
+• Lowvoltagebymorethan-2%forashort
+timeafterapplyingload, thenshutsdown and
+AVRLEDisON; or
+• Normalvoltageforashort time after applying
+load, thenshutsdownandAVRLEDisON.
+ContinuetoSection3.4.1onpage19.
+NO Continuetothenextquestion.
+IsthevoltageUNSTABLEwhen YES ACTION:
+loadapplied?
+STOPTHEALTERNATOR
+Unstablevoltagewhenapplyingload isindicated
+by:
+• InteractionbetweenAVR, governor and/or
+load; or
+• Waveformdistortioncausedbyload.
+NO ACTION:
+STOPTHEALTERNATOR
+Seekguidancefrom CGTCustomerSupport.
+3.4.1 Lower than Expected Voltage On-Load
+Thealternatorproduceslowerthanexpectedvoltage:
+1. Startthealternatorandapplythe outputload, 'On-Load ‘.BepreparedtoSTOP!
+2. Verifythatthealternatorspeed iscorrect.
+3. Measurethemainterminaloutput voltage.
+A054E988(Issue1) 19
+
+**Tabela 1 (Página 23):**
+| IsthevoltageLOWbymore than-2%whenload applied? | YES | ACTION: STOPTHEALTERNATOR Low voltage ornovoltagewhenapplyingload is indicatedby: • Lowvoltagebymorethan-2%continuously afterapplyingload; • Lowvoltagebymorethan-2%continuously afterapplyingloadand AVRLEDisON; • Lowvoltagebymorethan-2%forashort timeafterapplyingload, thenshutsdown and AVRLEDisON; or • Normalvoltageforashort time after applying load, thenshutsdownandAVRLEDisON. ContinuetoSection3.4.1onpage19. |
+|  | NO | Continuetothenextquestion. |
+
+**Tabela 2 (Página 23):**
+| IsthevoltageUNSTABLEwhen loadapplied? | YES | ACTION: STOPTHEALTERNATOR Unstablevoltagewhenapplyingload isindicated by: • InteractionbetweenAVR, governor and/or load; or • Waveformdistortioncausedbyload. |
+|  | NO | ACTION: STOPTHEALTERNATOR Seekguidancefrom CGTCustomerSupport. |
+
+--- FIM DA PÁGINA 23 ---
+
+--- INÍCIO DA PÁGINA 24 ---
+-
+IsthevoltageCONTINUOUSLY YES It isunlikelytobeafaultwiththealternatormain
+LOWbymorethan -2%when statorwindingunlessthephasevoltagesare
+loadapplied? unbalanced.
+ACTION:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkprime-mover load/speedresponse.
+2. Checkandadjust AVRVOLTSsetting
+Section5.2onpage39.
+3. Checkrotatingrectifiercomponents
+Section5.10.1onpage43 ,
+Section5.10.2onpage45.
+4. Checkandadjust an AVRaccessory
+Section5.5onpage41,
+Section5.6onpage42.
+5. Checkloadforfault.
+NO Continuetothenextquestion.
+IsthevoltageCONTINUOUSLY YES ACTION:
+LOWbymorethan -2%when
+loadappliedandtheAVRLED
+isON?
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkprime-mover load/speedresponse.
+2. Checkandadjust AVRUFRO setting
+Section5.3onpage40.
+NO
+Continuetothenextquestion.
+20 A054E988(Issue1)
+
+**Tabela 1 (Página 24):**
+| IsthevoltageCONTINUOUSLY LOWbymorethan -2%when loadapplied? | YES | It isunlikelytobeafaultwiththealternatormain statorwindingunlessthephasevoltagesare unbalanced. |
+|  |  | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkprime-mover load/speedresponse. 2. Checkandadjust AVRVOLTSsetting Section5.2onpage39. 3. Checkrotatingrectifiercomponents Section5.10.1onpage43 , Section5.10.2onpage45. 4. Checkandadjust an AVRaccessory Section5.5onpage41, Section5.6onpage42. 5. Checkloadforfault. |
+|  | NO | Continuetothenextquestion. |
+
+**Tabela 2 (Página 24):**
+| IsthevoltageCONTINUOUSLY LOWbymorethan -2%when loadappliedandtheAVRLED isON? | YES | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkprime-mover load/speedresponse. 2. Checkandadjust AVRUFRO setting Section5.3onpage40. |
+|  | NO | Continuetothenextquestion. |
+
+--- FIM DA PÁGINA 24 ---
+
+--- INÍCIO DA PÁGINA 25 ---
+-
+IsthevoltageLOWbymore YES It isunlikelytobeafaultwiththealternatormain
+than-2%forashorttime,then statorwindingunlessthephasevoltagesare
+shutsdownandtheAVR LED unbalanced.
+isON?
+ACTION:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkprime-mover load/speedresponse.
+2. Checkrotatingrectifiercomponents
+Section5.10.1onpage43 ,
+Section5.10.2onpage45.
+3. Checkforexcessiveload.
+NO Continuetothenextquestion.
+IsthevoltageNORMALfor a YES It isunlikelytobeafaultwiththealternatormain
+shorttime,thenshutsdown statorwindingunlessthephasevoltagesare
+andtheAVRLEDisON? unbalanced.
+ACTION:
+STOPTHEALTERNATOR
+Taketheserecommended stepsinorder,untilthe
+causeisfound.
+1. Checkrotatingrectifiercomponents
+Section5.10.1onpage43,
+Section5.10.2onpage45.
+2. Checkforexcessiveload.
+NO ACTION:
+STOPTHEALTERNATOR
+Seekguidancefrom CGTCustomerSupport.
+A054E988(Issue1) 21
+
+**Tabela 1 (Página 25):**
+| IsthevoltageLOWbymore than-2%forashorttime,then shutsdownandtheAVR LED isON? | YES | It isunlikelytobeafaultwiththealternatormain statorwindingunlessthephasevoltagesare unbalanced. |
+|  |  | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkprime-mover load/speedresponse. 2. Checkrotatingrectifiercomponents Section5.10.1onpage43 , Section5.10.2onpage45. 3. Checkforexcessiveload. |
+|  | NO | Continuetothenextquestion. |
+
+**Tabela 2 (Página 25):**
+| IsthevoltageNORMALfor a shorttime,thenshutsdown andtheAVRLEDisON? | YES | It isunlikelytobeafaultwiththealternatormain statorwindingunlessthephasevoltagesare unbalanced. |
+|  |  | ACTION: STOPTHEALTERNATOR Taketheserecommended stepsinorder,untilthe causeisfound. 1. Checkrotatingrectifiercomponents Section5.10.1onpage43, Section5.10.2onpage45. 2. Checkforexcessiveload. |
+|  | NO | ACTION: STOPTHEALTERNATOR Seekguidancefrom CGTCustomerSupport. |
+
+--- FIM DA PÁGINA 25 ---
+
+--- INÍCIO DA PÁGINA 26 ---
+-
+Thispageisintentionallyblank.
+22 A054E988(Issue1)
+
+--- FIM DA PÁGINA 26 ---
+
+--- INÍCIO DA PÁGINA 27 ---
+4 Fault Finding: Medium Voltage, High
+Voltage
+Before starting any fault finding procedure, examine all wiring for broken or loose connections. If
+in doubt, refer to the wiring diagram supplied with the alternator. Compare measurements with
+thetestreportsuppliedwiththealternator.
+The following list is to aid in troubleshooting and is not exhaustive. If in doubt, consult Cummins
+servicedepartment.
+4.1 Without AVR
+NOTICE
+Dotestsinorder,unlessstatedotherwise.Domethodstepsinorder.Achieveresult
+beforedoingthenextstep,unless action(inbold)statesotherwise.
+TABLE1. FAULTFINDING:WITHOUTAVR
+TEST METHOD RESULTandACTION
+1 Testtheexciterstatorresistance Resistanceofexciterstator
+(seeSection5.11.1onpage45) windingwithin tolerance (see
+Chapter7onpage 55)
+2 DisconnecttheAVR.Connect an Measuredexcitationis12VDC
+external24VvariableDCsource ±10%error.
+tothe exciter stator leads,
+positivetopositive,negativeto
+negative.Testthevoltage.
+3 Runthealternatorwithnoload Measuredspeediswithin4%of
+connected. Testthespeed. ratedspeed.
+4 Testthephase-to-phaseand Measuredoutputequaltorated
+phase-to-neutralvoltageat voltage(withsame erroras
+output terminals.Adjust variable excitation), balancedacross
+1
+DCsource. phaseswithin1%.Main &exciter
+External stators,main& exciterrotors,
+Excitation andrectifierdiodesare
+functioning correctly. Gototest
+7AVRSensingandPower
+Supply
+If unbalancedbymore than1%,
+Gototest2MainStator
+If balancedwithin1%,but output
+voltageismorethan10%below
+ratedvoltage, andtest3notyet
+done,Gototest3Rectifier
+If balancedwithin1%,but output
+voltageismorethan10%below
+ratedvoltage, andtest3already
+done,Gototest4Exciter
+Rotor
+A054E988(Issue1) 23
+
+**Tabela 1 (Página 27):**
+| NOTICE |
+| Dotestsinorder,unlessstatedotherwise.Domethodstepsinorder.Achieveresult beforedoingthenextstep,unless action(inbold)statesotherwise. |
+
+**Tabela 2 (Página 27):**
+| TEST | METHOD |  | RESULTandACTION |
+| 1 External Excitation | 1 | Testtheexciterstatorresistance (seeSection5.11.1onpage45) | Resistanceofexciterstator windingwithin tolerance (see Chapter7onpage 55) |
+|  | 2 | DisconnecttheAVR.Connect an external24VvariableDCsource tothe exciter stator leads, positivetopositive,negativeto negative.Testthevoltage. | Measuredexcitationis12VDC ±10%error. |
+|  | 3 | Runthealternatorwithnoload connected. Testthespeed. | Measuredspeediswithin4%of ratedspeed. |
+|  | 4 | Testthephase-to-phaseand phase-to-neutralvoltageat output terminals.Adjust variable DCsource. | Measuredoutputequaltorated voltage(withsame erroras excitation), balancedacross phaseswithin1%.Main &exciter stators,main& exciterrotors, andrectifierdiodesare functioning correctly. Gototest 7AVRSensingandPower Supply If unbalancedbymore than1%, Gototest2MainStator If balancedwithin1%,but output voltageismorethan10%below ratedvoltage, andtest3notyet done,Gototest3Rectifier If balancedwithin1%,but output voltageismorethan10%below ratedvoltage, andtest3already done,Gototest4Exciter Rotor |
+
+--- FIM DA PÁGINA 27 ---
+
+--- INÍCIO DA PÁGINA 28 ---
+-
+TEST METHOD RESULTandACTION
+Afaultinthe mainstatorwillproduceshortcircuitcurrentsbetweenturns
+inthewindings. Testforsymptomsto confirmdiagnosis.
+1 Testmainstator resistance(see Resistancesofmainstator
+Section5.11.4onpage46). windingsdissimilar,and/orless
+thanminimumvalues(see
+Chapter7onpage 55).
+2
+2 Runupthealternatorwithin4% Ifshortcircuitfaultcausesheat
+MainStator ofnominalspeed, noloador andburningsmellorengine
+excitation. ConnectvariableDC soundchangeswith extraslight
+sourcetoexciter stator (seetest loading,
+1). Repair or replacefaultymain
+statorwinding
+3 - Gototest1External
+Excitation
+1 Testtherectifiervaristors(see Varistorsfunctioningcorrectly.
+Section5.10.2onpage45)
+3 2 Testtherectifierdiodes(see Diodesfunctioningcorrectly.
+Rectifier Section5.10.1onpage43)
+3 - Gototest1External
+Excitation
+1 Inspect windingsandinsulation Windingsarenotburntor
+damaged.
+4
+2 Testtheexciterrotorresistance Resistanceof exciterrotorwithin
+Exciter
+(seeSection5.11.2onpage45) tolerance(seeChapter7on
+Rotor
+page55)
+3 - Gototest5MainRotor
+1 Testthemainrotor resistance Resistance of mainrotorwithin
+(seeSection5.11.3onpage45) tolerance(seeChapter7on
+5
+page55)
+MainRotor
+2 - Gototest6ExciterStator
+Insulation
+Poorinsulationoftheexciterstator windingcanaffect AVRperformance.
+6
+1 Testtheelectricalinsulationof Insulationresistanceofexciter
+Exciter theexciterstatorwinding(see statorwithin tolerance
+Stator Section5.12onpage46)
+Insulation
+2 - Gototest7AVRSensingand
+PowerSupply
+24 A054E988(Issue1)
+
+**Tabela 1 (Página 28):**
+| TEST | METHOD |  | RESULTandACTION |
+| 2 MainStator | Afaultinthe mainstatorwillproduceshortcircuitcurrentsbetweenturns inthewindings. Testforsymptomsto confirmdiagnosis. |  |  |
+|  | 1 | Testmainstator resistance(see Section5.11.4onpage46). | Resistancesofmainstator windingsdissimilar,and/orless thanminimumvalues(see Chapter7onpage 55). |
+|  | 2 | Runupthealternatorwithin4% ofnominalspeed, noloador excitation. ConnectvariableDC sourcetoexciter stator (seetest 1). | Ifshortcircuitfaultcausesheat andburningsmellorengine soundchangeswith extraslight loading, Repair or replacefaultymain statorwinding |
+|  | 3 | - | Gototest1External Excitation |
+| 3 Rectifier | 1 | Testtherectifiervaristors(see Section5.10.2onpage45) | Varistorsfunctioningcorrectly. |
+|  | 2 | Testtherectifierdiodes(see Section5.10.1onpage43) | Diodesfunctioningcorrectly. |
+|  | 3 | - | Gototest1External Excitation |
+| 4 Exciter Rotor | 1 | Inspect windingsandinsulation | Windingsarenotburntor damaged. |
+|  | 2 | Testtheexciterrotorresistance (seeSection5.11.2onpage45) | Resistanceof exciterrotorwithin tolerance(seeChapter7on page55) |
+|  | 3 | - | Gototest5MainRotor |
+| 5 MainRotor | 1 | Testthemainrotor resistance (seeSection5.11.3onpage45) | Resistance of mainrotorwithin tolerance(seeChapter7on page55) |
+|  | 2 | - | Gototest6ExciterStator Insulation |
+| 6 Exciter Stator Insulation | Poorinsulationoftheexciterstator windingcanaffect AVRperformance. |  |  |
+|  | 1 | Testtheelectricalinsulationof theexciterstatorwinding(see Section5.12onpage46) | Insulationresistanceofexciter statorwithin tolerance |
+|  | 2 | - | Gototest7AVRSensingand PowerSupply |
+
+--- FIM DA PÁGINA 28 ---
+
+--- INÍCIO DA PÁGINA 29 ---
+-
+TEST METHOD RESULTandACTION
+OutputvoltageissensedattheAVRfor closedloopcontrolofthe
+excitationvoltage. Thealternatorwiringdiagram showshowsensingleads
+6,7 &8(E1,E2,E3)attheoutput terminalsareconnectedtotheAVR,via
+transformers(asrequired).AVRpowerisalsotaken from thesensing
+leadsorfroma permanentmagnetgenerator (PMG).
+1 Disconnectthe sensingand -
+power supply(ies)fromtheAVR
+7 2 FollowthemethodofTest1 to Alternator runswithin4%of
+runthe alternatorwithexcitation ratedspeed,10% ofratedoutput
+AVR
+fromavariableDCsource. voltage, balancedwithin1%
+Sensing
+acrossphases.
+And Power
+3 Testthesensingvoltage Measuredvoltagewithin
+Supply
+feedbackat theAVRterminals. tolerance (seeChapter7on
+Checkcircuitbetweenoutput page55), balancedacross
+terminalsandAVR. phases.Nowiringortransformer
+faults.
+4 DisconnectvariableDCsource, SeeFaultfinding: self-excited
+re-connect AVRandrun AVRor
+alternator. Faultfinding:separately-
+excitedAVR.
+A054E988(Issue1) 25
+
+**Tabela 1 (Página 29):**
+| TEST | METHOD |  | RESULTandACTION |
+| 7 AVR Sensing And Power Supply | OutputvoltageissensedattheAVRfor closedloopcontrolofthe excitationvoltage. Thealternatorwiringdiagram showshowsensingleads 6,7 &8(E1,E2,E3)attheoutput terminalsareconnectedtotheAVR,via transformers(asrequired).AVRpowerisalsotaken from thesensing leadsorfroma permanentmagnetgenerator (PMG). |  |  |
+|  | 1 | Disconnectthe sensingand power supply(ies)fromtheAVR | - |
+|  | 2 | FollowthemethodofTest1 to runthe alternatorwithexcitation fromavariableDCsource. | Alternator runswithin4%of ratedspeed,10% ofratedoutput voltage, balancedwithin1% acrossphases. |
+|  | 3 | Testthesensingvoltage feedbackat theAVRterminals. Checkcircuitbetweenoutput terminalsandAVR. | Measuredvoltagewithin tolerance (seeChapter7on page55), balancedacross phases.Nowiringortransformer faults. |
+|  | 4 | DisconnectvariableDCsource, re-connect AVRandrun alternator. | SeeFaultfinding: self-excited AVRor Faultfinding:separately- excitedAVR. |
+
+--- FIM DA PÁGINA 29 ---
+
+--- INÍCIO DA PÁGINA 30 ---
+-
+4.2 Separately-Excited AVR - OFF load
+TABLE 2. FAULTFINDING:SEPARATELY-EXCITEDAVR-OFFLOAD
+SYMPTOM CAUSE ACTION
+Faultypermanentmagnetgenerator DisconnectthePMGleadsfromAVR
+(PMG),statororrotor . terminalsP2, P3, P4.Runthe
+alternator atrated speed.Testthe
+phase-to-phasevoltage at P2,P3 &
+P4leadsofthePMGwithanr.m.s.
+measuringinstrument.
+Measured voltage170to 195VAC
+(at 50Hz), 204to234VAC(at60
+Hz),balancedwithin5%across
+phases.(Refer tofactoryforlatest
+voltagerangesin designdata
+specificationDD-15590)
+Testthephase-to-phaseresistance
+ofthePMGstator windingswith a
+multimeter. Resistancetobewithin
+10%of expectedvalue(seeSection
+7.6onpage61), balancedacross
+phases.
+Replaceorre-testaccordingto PMG
+FaultDiagnosistablebelow.
+Insulationfailure toearth(ground) on Test the insulation resistanceof
+PMGstator. PMGstatorwindings. (seeSection
+5.11onpage45)
+Panelvoltmeterfaulty. Testvoltageatalternator terminals
+NOVOLTAGE withamultimeter.
+(NOLOAD)
+Connectionsloose,brokenor Inspect AVRpush-onterminals.
+corroded. Repairor renewwherenecessary.
+AVRhighexcitationprotectioncircuit CheckAVRLED.Iflit,protection
+activated,collapsing outputvoltage. circuitisactivated.
+AVRprotectioncircuitisfactoryset Shut downengine,and re-start.Ifthe
+totrip(refertoAVRdatasheet for voltagebuildsupnormallybut
+voltagesetpoint)acrossAVRoutput collapsesagain, theprotectioncircuit
+X+(F1), &XX-(F2),afterpre-set hasoperated,& AVRLEDwillbelit.
+timedelay.
+Run again&checktheexcitation
+voltageacrossAVRX+(F1)and XX-
+(F2).If
+greaterthanvoltagesetpoint,the
+protectioncircuitisoperating
+correctly.
+FollowFaultfindingwithout AVRsee
+(Section4.1)to findcauseof high
+excitation volts.
+Shortcircuitofvaristoronrotating Test varistors. (seeSection5.10on
+rectifier page43)
+Shortcircuitofdiode(s)onrotating Test diodes. (seeSection5.10on
+rectifier. page43)
+Opencircuitinexciter stator windings FaultfindingwithoutAVR(see
+Section4.1onpage23
+26 A054E988(Issue1)
+
+**Tabela 1 (Página 30):**
+| SYMPTOM | CAUSE | ACTION |
+| NOVOLTAGE (NOLOAD) | Faultypermanentmagnetgenerator (PMG),statororrotor . | DisconnectthePMGleadsfromAVR terminalsP2, P3, P4.Runthe alternator atrated speed.Testthe phase-to-phasevoltage at P2,P3 & P4leadsofthePMGwithanr.m.s. measuringinstrument. Measured voltage170to 195VAC (at 50Hz), 204to234VAC(at60 Hz),balancedwithin5%across phases.(Refer tofactoryforlatest voltagerangesin designdata specificationDD-15590) Testthephase-to-phaseresistance ofthePMGstator windingswith a multimeter. Resistancetobewithin 10%of expectedvalue(seeSection 7.6onpage61), balancedacross phases. Replaceorre-testaccordingto PMG FaultDiagnosistablebelow. |
+|  | Insulationfailure toearth(ground) on PMGstator. | Test the insulation resistanceof PMGstatorwindings. (seeSection 5.11onpage45) |
+|  | Panelvoltmeterfaulty. | Testvoltageatalternator terminals withamultimeter. |
+|  | Connectionsloose,brokenor corroded. | Inspect AVRpush-onterminals. Repairor renewwherenecessary. |
+|  | AVRhighexcitationprotectioncircuit activated,collapsing outputvoltage. AVRprotectioncircuitisfactoryset totrip(refertoAVRdatasheet for voltagesetpoint)acrossAVRoutput X+(F1), &XX-(F2),afterpre-set timedelay. | CheckAVRLED.Iflit,protection circuitisactivated. Shut downengine,and re-start.Ifthe voltagebuildsupnormallybut collapsesagain, theprotectioncircuit hasoperated,& AVRLEDwillbelit. Run again&checktheexcitation voltageacrossAVRX+(F1)and XX- (F2).If greaterthanvoltagesetpoint,the protectioncircuitisoperating correctly. FollowFaultfindingwithout AVRsee (Section4.1)to findcauseof high excitation volts. |
+|  | Shortcircuitofvaristoronrotating rectifier | Test varistors. (seeSection5.10on page43) |
+|  | Shortcircuitofdiode(s)onrotating rectifier. | Test diodes. (seeSection5.10on page43) |
+|  | Opencircuitinexciter stator windings | FaultfindingwithoutAVR(see Section4.1onpage23 |
+
+--- FIM DA PÁGINA 30 ---
+
+--- INÍCIO DA PÁGINA 31 ---
+-
+SYMPTOM CAUSE ACTION
+AVRfault ReplaceAVRandre-test.
+NOVOLTAGE
+Windingfault.Opencircuitor short FaultfindingwithoutAVR(see
+(NOLOAD)
+circuitonanywindinginthemachine Section4.1onpage23)
+SYMPTOM CAUSE ACTION
+Enginespeedlow Testspeedwithtachometer. Adjust
+governorcontroltonominalspeed.
+Underfrequencyprotection(UFRO) InspectUFRO LEDatAVR.Iflit,
+circuitactivated UFROisactivated, indicatinglow
+speed.Adjust enginespeedtowithin
+–1%to+4%ofnominal.
+LOWVOLTAGE AVRvoltscontrolorexternalhand 1. Testenginespeediscorrect
+trimmerincorrectlyset
+(NOLOAD) withtachometer, andUFROis
+OFF.
+2. Adjust voltagebyAVRvolts
+control,or remotetrimmer.
+Panelvoltmeterfaultyor‘sticking’ Test voltage at alternatorterminals
+withamultimeter.
+AVRfault. ReplaceAVRandre-test.
+AVRvoltscontrolorexternaltrimmer
+1. Testenginespeediscorrect
+incorrectlyset.
+withtachometer,andUFROis
+OFF.
+2. Adjust voltage byAVRvolts
+HIGHVOLTAGE control,or remote trimmer.
+(NOLOAD)
+Voltagesensinginput toAVRisopen Test the AVRsensingsupply
+circuitortoolow. feedbackinFaultfindingwithout AVR
+(seeSection4.1onpage23)
+FaultyAVR. ReplaceAVRandretest.
+Enginespeed hunting(unstable). Test enginespeedstabilitywitha
+frequencymeteror tachometer.
+Sometimesthisproblemwillclear
+whenloadisapplied.
+AVRstabilitycontrolincorrectly InspectAVRstabilitylinksor
+adjusted. selection, adjuststability
+UNSTABLE
+potentiometer.Checkagainonload.
+VOLTAGE
+(NOLOAD) Connectionslooseorcorroded. Inspect allauxiliaryboardterminals.
+Inspect AVRpush-onterminals.
+Repairor renewwherenecessary.
+Intermittentearth(ground)(low Test the insulation resistanceofall
+resistanceofwindingsinsulation). windingsinFaultfinding withoutAVR
+(seeSection4.1onpage23)
+UNBALANCED Faultinmainstator winding. Testthemainstator windingsin
+VOLTAGE FaultfindingwithoutAVR(see
+(NOLOAD) Section4.1)
+A054E988(Issue1) 27
+
+**Tabela 1 (Página 31):**
+| SYMPTOM | CAUSE | ACTION |
+| NOVOLTAGE (NOLOAD) | AVRfault | ReplaceAVRandre-test. |
+|  | Windingfault.Opencircuitor short circuitonanywindinginthemachine | FaultfindingwithoutAVR(see Section4.1onpage23) |
+
+**Tabela 2 (Página 31):**
+| SYMPTOM | CAUSE | ACTION |
+| LOWVOLTAGE (NOLOAD) | Enginespeedlow | Testspeedwithtachometer. Adjust governorcontroltonominalspeed. |
+|  | Underfrequencyprotection(UFRO) circuitactivated | InspectUFRO LEDatAVR.Iflit, UFROisactivated, indicatinglow speed.Adjust enginespeedtowithin –1%to+4%ofnominal. |
+|  | AVRvoltscontrolorexternalhand trimmerincorrectlyset | 1. Testenginespeediscorrect withtachometer, andUFROis OFF. 2. Adjust voltagebyAVRvolts control,or remotetrimmer. |
+|  | Panelvoltmeterfaultyor‘sticking’ | Test voltage at alternatorterminals withamultimeter. |
+|  | AVRfault. | ReplaceAVRandre-test. |
+| HIGHVOLTAGE (NOLOAD) | AVRvoltscontrolorexternaltrimmer incorrectlyset. | 1. Testenginespeediscorrect withtachometer,andUFROis OFF. 2. Adjust voltage byAVRvolts control,or remote trimmer. |
+|  | Voltagesensinginput toAVRisopen circuitortoolow. | Test the AVRsensingsupply feedbackinFaultfindingwithout AVR (seeSection4.1onpage23) |
+|  | FaultyAVR. | ReplaceAVRandretest. |
+| UNSTABLE VOLTAGE (NOLOAD) | Enginespeed hunting(unstable). | Test enginespeedstabilitywitha frequencymeteror tachometer. Sometimesthisproblemwillclear whenloadisapplied. |
+|  | AVRstabilitycontrolincorrectly adjusted. | InspectAVRstabilitylinksor selection, adjuststability potentiometer.Checkagainonload. |
+|  | Connectionslooseorcorroded. | Inspect allauxiliaryboardterminals. Inspect AVRpush-onterminals. Repairor renewwherenecessary. |
+|  | Intermittentearth(ground)(low resistanceofwindingsinsulation). | Test the insulation resistanceofall windingsinFaultfinding withoutAVR (seeSection4.1onpage23) |
+| UNBALANCED VOLTAGE (NOLOAD) | Faultinmainstator winding. | Testthemainstator windingsin FaultfindingwithoutAVR(see Section4.1) |
+
+--- FIM DA PÁGINA 31 ---
+
+--- INÍCIO DA PÁGINA 32 ---
+-
+TABLE3. PMGFAULTDIAGNOSIS
+PMGstatorphase-to-phaseresistance
+PMGstatorvoltage
+Outofrangeor
+Inrange &balanced
+unbalanced
+Inrange Balanced Nofault Re-testresistance
+Unbalanced Checkconnector Replace PMGstator
+Outofrange Balanced ReplacePMGrotor Replace PMGstator
+Unbalanced Checkconnector Replace PMGstator
+28 A054E988(Issue1)
+
+**Tabela 1 (Página 32):**
+| PMGstatorvoltage |  | PMGstatorphase-to-phaseresistance |  |
+|  |  | Inrange &balanced | Outofrangeor unbalanced |
+| Inrange | Balanced | Nofault | Re-testresistance |
+|  | Unbalanced | Checkconnector | Replace PMGstator |
+| Outofrange | Balanced | ReplacePMGrotor | Replace PMGstator |
+|  | Unbalanced | Checkconnector | Replace PMGstator |
+
+--- FIM DA PÁGINA 32 ---
+
+--- INÍCIO DA PÁGINA 33 ---
+-
+4.3 Separately-Excited AVR - ON load
+TABLE 4. FAULTFINDING:SEPARATELY-EXCITEDAVR-ONLOAD
+SYMPTOM CAUSE ACTION
+Enginespeedlow. Testspeedwithtachometer. Adjust
+governorcontroltonominalspeed.
+Underfrequencyprotection(UFRO) InspectUFRO LEDatAVR.Iflit,
+circuitactivated. UFROisactivated, indicatinglow
+speed.
+Adjustenginespeed,towithin-1%to
++4%ofnominal.
+Faultypermanent magnetgenerator DisconnectthePMGleadsfromAVR
+(PMG)statororrotor. terminalsP2, P3, P4.Checkvoltage
+acrossleadswithaMultimeter,with
+theset runningatcorrectspeed.
+For50Hz, VoltageacrossP2, P3and
+LOWVOLTAGE
+P4shouldbeapprox.160 VAC –180
+(ONLOAD)
+VAC.For60Hz,Voltageisapprox.
+190VAC– 210VAC.
+AVRfault. ReplaceAVRandre-test.
+Faultonwindingor rotatingdiodes. Anyfaultinthisarea willappearas
+highexcitationvoltageacrossX+
+(F1)andXX-(F2).SeeFaultfinding
+without AVR(seeSection4.1on
+page23)
+Voltagedropbetweenalternatorand Test thevoltageat bothendsofthe
+load,duetoI2Rlossesinthecable. cableatfullload. Insevere cases,a
+Thiswillbeworseduringcurrent largerdiameter cableisrequired.
+surges(e.g.motorstarting).
+Unbalancedload. Testvoltagesonallphases.If
+unbalanced, re-distributeloading
+betweenphases.
+LeadingPowerFactorLoad. Test excitationvoltsacrossX+,(F1)
+andXX-(F2). Aleadingpowerfactor
+HIGHVOLTAGE willgiveanabnormallyLOWDC
+(ONLOAD) excitation.Removepower factor
+correctioncapacitorsfromsystemat
+lowload.
+Parallel drooptransformer reversed. Checkfordroopreversal.See
+FaultfindingParallelOperation
+(Section4.4onpage34)
+A054E988(Issue1) 29
+
+**Tabela 1 (Página 33):**
+| SYMPTOM | CAUSE | ACTION |
+| LOWVOLTAGE (ONLOAD) | Enginespeedlow. | Testspeedwithtachometer. Adjust governorcontroltonominalspeed. |
+|  | Underfrequencyprotection(UFRO) circuitactivated. | InspectUFRO LEDatAVR.Iflit, UFROisactivated, indicatinglow speed. Adjustenginespeed,towithin-1%to +4%ofnominal. |
+|  | Faultypermanent magnetgenerator (PMG)statororrotor. | DisconnectthePMGleadsfromAVR terminalsP2, P3, P4.Checkvoltage acrossleadswithaMultimeter,with theset runningatcorrectspeed. For50Hz, VoltageacrossP2, P3and P4shouldbeapprox.160 VAC –180 VAC.For60Hz,Voltageisapprox. 190VAC– 210VAC. |
+|  | AVRfault. | ReplaceAVRandre-test. |
+|  | Faultonwindingor rotatingdiodes. | Anyfaultinthisarea willappearas highexcitationvoltageacrossX+ (F1)andXX-(F2).SeeFaultfinding without AVR(seeSection4.1on page23) |
+|  | Voltagedropbetweenalternatorand load,duetoI2Rlossesinthecable. Thiswillbeworseduringcurrent surges(e.g.motorstarting). | Test thevoltageat bothendsofthe cableatfullload. Insevere cases,a largerdiameter cableisrequired. |
+| HIGHVOLTAGE (ONLOAD) | Unbalancedload. | Testvoltagesonallphases.If unbalanced, re-distributeloading betweenphases. |
+|  | LeadingPowerFactorLoad. | Test excitationvoltsacrossX+,(F1) andXX-(F2). Aleadingpowerfactor willgiveanabnormallyLOWDC excitation.Removepower factor correctioncapacitorsfromsystemat lowload. |
+|  | Parallel drooptransformer reversed. | Checkfordroopreversal.See FaultfindingParallelOperation (Section4.4onpage34) |
+
+--- FIM DA PÁGINA 33 ---
+
+--- INÍCIO DA PÁGINA 34 ---
+-
+SYMPTOM CAUSE ACTION
+Enginegoverningunstable(hunting) Test engine speedstabilitywitha
+frequencymeteror tachometer for
+governorhunting,orcyclic
+irregularitiesintheengine.
+Leadingpower factorloadcreatedby Isolatethepowerfactor correction
+powerfactorcorrectioncapacitors. capacitorsuntilsufficientmotor load
+hasbeenapplied.
+Nonlinearloads,causinginteraction Interactionof closed loopsystems
+betweendynamicclosedloopcontrol controllingtheload,the alternator
+systems. andtheengine.Instabilityiscaused
+byoversensitivecontrolsettings.
+Trydifferent settingsof AVRstability,
+UNSTABLE
+including changingthelinktoa
+VOLTAGE
+smaller of larger kWrange.Involve
+(ONLOAD)
+designersofthenon-linearloadto
+modifytheircontrolloopsettings.
+Increaseenginespeed‘droop’to
+stabilizeengine.
+Contactfactoryfor further advice
+regardingnon-linear loads.
+Fluctuationsinloadcurrent, (motor Testtheloadcurrentona stable
+starting,orreciprocatingloads). supply, i.e. mains,orseeFaultfinding
+without AVRusingavariableDC
+supply( Section4.1onpage23)
+AVRstabilitycontrolincorrectly Adjust AVRstabilitycontrol,until
+adjusted. voltageisstable.
+Single-phaseloads(phase-neutral) Testcurrent in eachphasewith
+UNBALANCED unevenlydistributedoverthethree clamp ammeter.The fullload rated
+VOLTAGE phases. currentmustNOTbeexceeded on
+(ONLOAD) anyindividualphase.Re-distribute
+loadifnecessary.
+30 A054E988(Issue1)
+
+**Tabela 1 (Página 34):**
+| SYMPTOM | CAUSE | ACTION |
+| UNSTABLE VOLTAGE (ONLOAD) | Enginegoverningunstable(hunting) | Test engine speedstabilitywitha frequencymeteror tachometer for governorhunting,orcyclic irregularitiesintheengine. |
+|  | Leadingpower factorloadcreatedby powerfactorcorrectioncapacitors. | Isolatethepowerfactor correction capacitorsuntilsufficientmotor load hasbeenapplied. |
+|  | Nonlinearloads,causinginteraction betweendynamicclosedloopcontrol systems. | Interactionof closed loopsystems controllingtheload,the alternator andtheengine.Instabilityiscaused byoversensitivecontrolsettings. Trydifferent settingsof AVRstability, including changingthelinktoa smaller of larger kWrange.Involve designersofthenon-linearloadto modifytheircontrolloopsettings. Increaseenginespeed‘droop’to stabilizeengine. Contactfactoryfor further advice regardingnon-linear loads. |
+|  | Fluctuationsinloadcurrent, (motor starting,orreciprocatingloads). | Testtheloadcurrentona stable supply, i.e. mains,orseeFaultfinding without AVRusingavariableDC supply( Section4.1onpage23) |
+|  | AVRstabilitycontrolincorrectly adjusted. | Adjust AVRstabilitycontrol,until voltageisstable. |
+| UNBALANCED VOLTAGE (ONLOAD) | Single-phaseloads(phase-neutral) unevenlydistributedoverthethree phases. | Testcurrent in eachphasewith clamp ammeter.The fullload rated currentmustNOTbeexceeded on anyindividualphase.Re-distribute loadifnecessary. |
+
+--- FIM DA PÁGINA 34 ---
+
+--- INÍCIO DA PÁGINA 35 ---
+-
+SYMPTOM CAUSE ACTION
+Largespeeddrooponengine. AVR Test thespeeddroopfromnoloadto
+UFROprotection activated. fullloadisnogreaterthan4%.
+Inspect AVRLED. Iflit, increase
+enginespeed.
+Unbalancedload. Checkvoltage andloadcurrent onall
+phases.Ifunbalanced, redistribute
+theloadmoreevenlyacrossthe
+phases.
+Parallel droopcircuit incorrectly The droopcircuit willgiveadditional
+adjusted,orrequiresshortingswitch voltagedroop of -3%atfullload0.8
+forsinglerunning. power factor.For singlerunning
+machinesthiscan be improved by
+fittingashortingswitchacrossthe
+droopCTinput,(S1 –S2),onthe
+POOR AVR.
+VOLTAGE
+Voltagedrop betweenalternatorand Testthevoltageatbothendsofthe
+REGULATION
+load,causedbylossesinsupply cablerunatfullload.Insevere
+(ONLOAD) cable,(I2Rlosses). cases,alargerdiametercableis
+required.
+AVRstabilitycontrolincorrectly Adjust AVRcontrol,untilvoltageis
+adjusted. stable.
+Faultonrectifierorexcitation Testthenoload excitation volts
+winding. acrossAVRX+ (F1)and XX- (F2).If
+higher than12VDC,seeFaultfinding
+without AVR(Section4.1)
+Underfrequencyprotection(UFRO) InspectUFRO LEDatAVR.Iflit,
+activated. UFROisactivated, indicatinglow
+speed.
+Testspeedwithtachometerand
+adjust tocorrect nominalspeed,(or
+frequency).
+A054E988(Issue1) 31
+
+**Tabela 1 (Página 35):**
+| SYMPTOM | CAUSE | ACTION |
+| POOR VOLTAGE REGULATION (ONLOAD) | Largespeeddrooponengine. AVR UFROprotection activated. | Test thespeeddroopfromnoloadto fullloadisnogreaterthan4%. Inspect AVRLED. Iflit, increase enginespeed. |
+|  | Unbalancedload. | Checkvoltage andloadcurrent onall phases.Ifunbalanced, redistribute theloadmoreevenlyacrossthe phases. |
+|  | Parallel droopcircuit incorrectly adjusted,orrequiresshortingswitch forsinglerunning. | The droopcircuit willgiveadditional voltagedroop of -3%atfullload0.8 power factor.For singlerunning machinesthiscan be improved by fittingashortingswitchacrossthe droopCTinput,(S1 –S2),onthe AVR. |
+|  | Voltagedrop betweenalternatorand load,causedbylossesinsupply cable,(I2Rlosses). | Testthevoltageatbothendsofthe cablerunatfullload.Insevere cases,alargerdiametercableis required. |
+|  | AVRstabilitycontrolincorrectly adjusted. | Adjust AVRcontrol,untilvoltageis stable. |
+|  | Faultonrectifierorexcitation winding. | Testthenoload excitation volts acrossAVRX+ (F1)and XX- (F2).If higher than12VDC,seeFaultfinding without AVR(Section4.1) |
+|  | Underfrequencyprotection(UFRO) activated. | InspectUFRO LEDatAVR.Iflit, UFROisactivated, indicatinglow speed. Testspeedwithtachometerand adjust tocorrect nominalspeed,(or frequency). |
+
+--- FIM DA PÁGINA 35 ---
+
+--- INÍCIO DA PÁGINA 36 ---
+-
+SYMPTOM CAUSE ACTION
+Enginegovernorstickingorslowto Checkperformanceofengineduring
+respond. applicationofload.CheckifAVR
+LEDislitduringmotorstarting.
+CheckifAVR ‘DIP’ or ‘DWELL’
+circuitsareactivated.Adjustas
+necessary. (SeeAVRinstruction
+sheet).
+AVR‘UFRO’protectionactivated. Test the speed droopfrom no loadto
+fullloadisnogreaterthan4%.
+Inspect AVRLED. Iflit, increase
+enginespeed.
+Parallel droopcircuit incorrectlyset. Toomuch droopwillincrease voltage
+dips whenmotorstarting.Fitshorting
+switchforsinglerunningalternators.
+SeeFaultfindingParallelOperation
+(Section4.4onpage34)
+Loadsurgescausecurrentto exceed Test current withaclamp ammeter.
+2.5timesthefullloadcurrent. Voltagedipmaybeexcessive ifthe
+currentexceeds2.5timesfullload.
+POOR Refertofactoryformotor starting
+VOLTAGE calculations.
+RESPONSETO
+LOADSURGES Voltagedropbetweenalternator and Test the voltage at bothendsofthe
+ORMOTOR load,causedbyI2Rlossesinsupply cable at fullload.Inseverecases, a
+STARTING cable.Thiswillbeworseduring largerdiameter cableisrequired.
+currentsurges(e.g.motorstarting).
+Motorcontactorsdroppingoutduring Allcausesand actionsin thissection
+starting,(largecurrentsurges, mayapplytothisproblem.Referto
+voltagedipsgreaterthan30%). factoryfortypicalvoltagedips.
+AVRstabilitycontrolincorrectly Set AVRstabilitycontrolfor optimum
+adjusted. performance.Adjustanticlockwise
+untilvoltageisunstable,thenslightly
+clockwise untilstable.
+Faultonwindingsorrotatingrectifier. Anyfault inthisarea willappearas
+highexcitationvoltageacrossX+
+(F1)andXX- (F2). Ifhigherthan 12V
+d.c.,seeFaultfindingwithoutAVR(
+Section4.1onpage23)
+Enginereliefcircuitactivatedduring Checkif AVR ‘DIP’ or ‘DWELL’
+motorstarting. enginereliefcircuitsareactivated.
+Adjustasnecessary. SeeAVR
+instructionsfor details.
+AVRfault. Replaceandre-testonload.
+32 A054E988(Issue1)
+
+**Tabela 1 (Página 36):**
+| SYMPTOM | CAUSE | ACTION |
+| POOR VOLTAGE RESPONSETO LOADSURGES ORMOTOR STARTING | Enginegovernorstickingorslowto respond. | Checkperformanceofengineduring applicationofload.CheckifAVR LEDislitduringmotorstarting. CheckifAVR ‘DIP’ or ‘DWELL’ circuitsareactivated.Adjustas necessary. (SeeAVRinstruction sheet). |
+|  | AVR‘UFRO’protectionactivated. | Test the speed droopfrom no loadto fullloadisnogreaterthan4%. Inspect AVRLED. Iflit, increase enginespeed. |
+|  | Parallel droopcircuit incorrectlyset. | Toomuch droopwillincrease voltage dips whenmotorstarting.Fitshorting switchforsinglerunningalternators. SeeFaultfindingParallelOperation (Section4.4onpage34) |
+|  | Loadsurgescausecurrentto exceed 2.5timesthefullloadcurrent. | Test current withaclamp ammeter. Voltagedipmaybeexcessive ifthe currentexceeds2.5timesfullload. Refertofactoryformotor starting calculations. |
+|  | Voltagedropbetweenalternator and load,causedbyI2Rlossesinsupply cable.Thiswillbeworseduring currentsurges(e.g.motorstarting). | Test the voltage at bothendsofthe cable at fullload.Inseverecases, a largerdiameter cableisrequired. |
+|  | Motorcontactorsdroppingoutduring starting,(largecurrentsurges, voltagedipsgreaterthan30%). | Allcausesand actionsin thissection mayapplytothisproblem.Referto factoryfortypicalvoltagedips. |
+|  | AVRstabilitycontrolincorrectly adjusted. | Set AVRstabilitycontrolfor optimum performance.Adjustanticlockwise untilvoltageisunstable,thenslightly clockwise untilstable. |
+|  | Faultonwindingsorrotatingrectifier. | Anyfault inthisarea willappearas highexcitationvoltageacrossX+ (F1)andXX- (F2). Ifhigherthan 12V d.c.,seeFaultfindingwithoutAVR( Section4.1onpage23) |
+|  | Enginereliefcircuitactivatedduring motorstarting. | Checkif AVR ‘DIP’ or ‘DWELL’ enginereliefcircuitsareactivated. Adjustasnecessary. SeeAVR instructionsfor details. |
+|  | AVRfault. | Replaceandre-testonload. |
+
+--- FIM DA PÁGINA 36 ---
+
+--- INÍCIO DA PÁGINA 37 ---
+-
+SYMPTOM CAUSE ACTION
+Protectioncircuit inAVRactivated, Excitationvoltshigherthan70VDC
+duetohighexcitationcondition Test voltageacrossX+(F1)andXX-
+acrossAVR output,(X+ (F1)and XX- (F2) on load.Ensureenginespeedis
+(F2). correct atfullload.Checkoutput
+voltage,ensureitdoesnotexceed
+theratedvoltage. Checkloadcurrent
+for overload.
+Protectioncircuitin AVRoperated, CheckAVRLED.iflit,protection
+VOLTAGE duetofaultinalternator windingsor circuitisactivated.Shutdown
+COLLAPSES diodes. engine, andre-start.If voltage
+(ONLOAD) returnsasnormal,butcollapses
+againonload,protectioncircuitis
+activated,due tohighexcitation.
+FollowFaultfindingwithout AVRto
+findcauseofhighexcitationvolts.
+AVRfault. ReplaceAVRandre-test on load.
+Severeoverloadorshortcircuit Checkloadcurrentwith clamp
+acrossphases. ammeter.
+A054E988(Issue1) 33
+
+**Tabela 1 (Página 37):**
+| SYMPTOM | CAUSE | ACTION |
+| VOLTAGE COLLAPSES (ONLOAD) | Protectioncircuit inAVRactivated, duetohighexcitationcondition acrossAVR output,(X+ (F1)and XX- (F2). | Excitationvoltshigherthan70VDC Test voltageacrossX+(F1)andXX- (F2) on load.Ensureenginespeedis correct atfullload.Checkoutput voltage,ensureitdoesnotexceed theratedvoltage. Checkloadcurrent for overload. |
+|  | Protectioncircuitin AVRoperated, duetofaultinalternator windingsor diodes. | CheckAVRLED.iflit,protection circuitisactivated.Shutdown engine, andre-start.If voltage returnsasnormal,butcollapses againonload,protectioncircuitis activated,due tohighexcitation. FollowFaultfindingwithout AVRto findcauseofhighexcitationvolts. |
+|  | AVRfault. | ReplaceAVRandre-test on load. |
+|  | Severeoverloadorshortcircuit acrossphases. | Checkloadcurrentwith clamp ammeter. |
+
+--- FIM DA PÁGINA 37 ---
+
+--- INÍCIO DA PÁGINA 38 ---
+-
+4.4 Parallel Operation
+TABLE 5. FAULTFINDING:PARALLELOPERATION
+SYMPTOM CAUSE ACTION
+CIRCUITBREAKERWILL Circuitbreakerfittedwith Ensurethat the synchroscope
+NOTCLOSEWHEN ‘CheckSynchronizing’ isindicatingthat machinesare
+ATTEMPTINGPARALLEL protection, whichpreventsout INPHASE, or close tothe
+OPERATION ofphasesynchronizing. eleveno'clockposition,(when
+rotatinginaclockwise
+direction).Ensurethatthe
+speeddifference betweenthe
+incomingset and thebusbaris
+smallenoughto preventrapid
+rotationof thesynchroscope,
+(or rapidfluctuationsofthe
+lights),beforeclosing circuit
+breaker.
+Phaserotationofalternators DO NOTATTEMPTTO
+differs. PARALLELuntilthephase
+rotationof allalternatorsare
+identical.Checkthephase
+rotationof eachalternator.
+Exchangetheconnectionsof
+twoofthephasestoreverse
+thephaserotationofan
+alternator.
+Voltagedifferencetoohigh Thevoltageonthe incoming
+betweentheincoming setcanbeupto4%higher
+alternator andthebusbar. thanthebusbarvoltage. THIS
+ISNORMAL.Donotadjust
+originalno-loadVoltage
+settings.Ifdifferenceisgreater
+than4%,checkforexcessive
+droopontheloaded
+alternator(s).
+UNSTABLEIN-PHASE Governor driftononeor more Letengineswarm upand
+CONDITION,BEFORE oftheengines. stabilizebeforeparalleling.If
+SYNCHRONIZING speedisstilldriftingcheck
+governorsandengine
+condition.
+Loadvariation on thebusbar Disconnect anyrapidlyvarying
+causingspeed/frequency load.
+changesontheloaded Checkthatthereisno
+alternator whensynchronizing. likelihoodofamotoror
+automaticloadstartingwhen
+attemptingtosynchronize.DO
+NOTattempt toparallelifthe
+loadcurrentisunstable.
+UNSTABLEFREQUENCYIN Enginespeeddrooptoo‘tight’ Increase theenginegovernor
+PARALLELWHEN ONLOAD orcyclicirregularities speeddroopto 4% (noloadto
+(instability)betweenthe fullload).Checkfor"sticky"
+engines. (CheckkW metersfor governorson anewengine.
+rapidshifting of kWpower Checkenginesfor cyclic
+betweensets). problems,(firing,out of
+balance, etc),
+34 A054E988(Issue1)
+
+**Tabela 1 (Página 38):**
+| SYMPTOM | CAUSE | ACTION |
+| CIRCUITBREAKERWILL NOTCLOSEWHEN ATTEMPTINGPARALLEL OPERATION | Circuitbreakerfittedwith ‘CheckSynchronizing’ protection, whichpreventsout ofphasesynchronizing. | Ensurethat the synchroscope isindicatingthat machinesare INPHASE, or close tothe eleveno'clockposition,(when rotatinginaclockwise direction).Ensurethatthe speeddifference betweenthe incomingset and thebusbaris smallenoughto preventrapid rotationof thesynchroscope, (or rapidfluctuationsofthe lights),beforeclosing circuit breaker. |
+|  | Phaserotationofalternators differs. | DO NOTATTEMPTTO PARALLELuntilthephase rotationof allalternatorsare identical.Checkthephase rotationof eachalternator. Exchangetheconnectionsof twoofthephasestoreverse thephaserotationofan alternator. |
+|  | Voltagedifferencetoohigh betweentheincoming alternator andthebusbar. | Thevoltageonthe incoming setcanbeupto4%higher thanthebusbarvoltage. THIS ISNORMAL.Donotadjust originalno-loadVoltage settings.Ifdifferenceisgreater than4%,checkforexcessive droopontheloaded alternator(s). |
+| UNSTABLEIN-PHASE CONDITION,BEFORE SYNCHRONIZING | Governor driftononeor more oftheengines. | Letengineswarm upand stabilizebeforeparalleling.If speedisstilldriftingcheck governorsandengine condition. |
+|  | Loadvariation on thebusbar causingspeed/frequency changesontheloaded alternator whensynchronizing. | Disconnect anyrapidlyvarying load. Checkthatthereisno likelihoodofamotoror automaticloadstartingwhen attemptingtosynchronize.DO NOTattempt toparallelifthe loadcurrentisunstable. |
+| UNSTABLEFREQUENCYIN PARALLELWHEN ONLOAD | Enginespeeddrooptoo‘tight’ orcyclicirregularities (instability)betweenthe engines. (CheckkW metersfor rapidshifting of kWpower betweensets). | Increase theenginegovernor speeddroopto 4% (noloadto fullload).Checkfor"sticky" governorson anewengine. Checkenginesfor cyclic problems,(firing,out of balance, etc), |
+
+--- FIM DA PÁGINA 38 ---
+
+--- INÍCIO DA PÁGINA 39 ---
+-
+SYMPTOM CAUSE ACTION
+STABLEVOLTAGEBEFORE Usuallyresultsfrom‘pick-up’ Thefluctuationwilldecay
+ANDAFTERBUT through thesynchronizing whenthealternatorsapproach
+UNSTABLEWHILE paneland/orearthleakage synchronizm,(almost identical
+SYNCHRONIZING protectioncircuitsthatcan speeds), andwilldisappear
+formatemporary‘closedloop’ completelywhenthe circuit
+linkbetweenthealternators breakerisclosed. The
+duringsynchronisation. synchronizing equipment,
+earthleakageprotection,
+and/orwiringcircuitsinthe
+switchboardcanproduce
+temporarypickup problems.
+CURRENT Paralleldroop equipment CheckthedroopCTsfor
+UNCONTROLLED,RISES reversed on oneofthe reversal. Reverselead S1-S2
+FASTWHEN CIRCUIT alternators. onthedroopCT.Test
+BREAKER CLOSED excitationvolts -thealternator
+withreverseddroopwillhave
+highest excitationvolts.
+STABLECIRCULATING Paralleldroop reversedon Checkdroopsfor reversal.
+CURRENT ON ALL ALLalternators. ReverseleadsS1–S2to
+ALTERNATORS,NOT correct.Thisrepeatedwiring
+REDUCED BY VOLTAGE errorwillresultinastable
+ADJUSTMENT circulatingcurrentwhich
+cannotbeadjustedoutby
+normalmeans.
+STABLECIRCULATING Voltagedifference(excitation CheckVoltagesatnoload,
+CURRENT ON BOTH level)betweenthealternators. (identicalfrequencies), and
+ALTERNATORSATNO ensureallalternatorshave
+LOAD identicalvoltages.Donot
+adjust whenloadsharing.
+Paralleldroop equipment CheckALLdroopCTsfor
+reversed on BOTHalternators. reversal.
+(UnlikeONEdroopreversal,
+whichisahighlyUNSTABLE
+condition).
+Incorrectsettingof parallel Checksettingsof droop
+droopequipment. trimmers.
+CheckdroopCTsarein
+correctphase.CheckCT
+output toAVRS1-S2is
+correct.
+UNBALANCEDPOWERON Enginesnotsharingthepower Adjustthegovernordroopof
+KILOWATTMETERS (kW)equally. theenginestoequalizethe
+kilowattsharing.
+UNBALANCEDCURRENT Voltagedifference(excitation Testthemachinesindividually
+ONAMMETERS AFTER levels)betweenthemachines. forexact voltageatnoload.
+EQUILIZINGKILOWATTS
+Paralleldroop equipment Adjust asstatedinprevious
+incorrectlyadjusted. text.
+A054E988(Issue1) 35
+
+**Tabela 1 (Página 39):**
+| SYMPTOM | CAUSE | ACTION |
+| STABLEVOLTAGEBEFORE ANDAFTERBUT UNSTABLEWHILE SYNCHRONIZING | Usuallyresultsfrom‘pick-up’ through thesynchronizing paneland/orearthleakage protectioncircuitsthatcan formatemporary‘closedloop’ linkbetweenthealternators duringsynchronisation. | Thefluctuationwilldecay whenthealternatorsapproach synchronizm,(almost identical speeds), andwilldisappear completelywhenthe circuit breakerisclosed. The synchronizing equipment, earthleakageprotection, and/orwiringcircuitsinthe switchboardcanproduce temporarypickup problems. |
+| CURRENT UNCONTROLLED,RISES FASTWHEN CIRCUIT BREAKER CLOSED | Paralleldroop equipment reversed on oneofthe alternators. | CheckthedroopCTsfor reversal. Reverselead S1-S2 onthedroopCT.Test excitationvolts -thealternator withreverseddroopwillhave highest excitationvolts. |
+| STABLECIRCULATING CURRENT ON ALL ALTERNATORS,NOT REDUCED BY VOLTAGE ADJUSTMENT | Paralleldroop reversedon ALLalternators. | Checkdroopsfor reversal. ReverseleadsS1–S2to correct.Thisrepeatedwiring errorwillresultinastable circulatingcurrentwhich cannotbeadjustedoutby normalmeans. |
+| STABLECIRCULATING CURRENT ON BOTH ALTERNATORSATNO LOAD | Voltagedifference(excitation level)betweenthealternators. | CheckVoltagesatnoload, (identicalfrequencies), and ensureallalternatorshave identicalvoltages.Donot adjust whenloadsharing. |
+|  | Paralleldroop equipment reversed on BOTHalternators. (UnlikeONEdroopreversal, whichisahighlyUNSTABLE condition). | CheckALLdroopCTsfor reversal. |
+|  | Incorrectsettingof parallel droopequipment. | Checksettingsof droop trimmers. CheckdroopCTsarein correctphase.CheckCT output toAVRS1-S2is correct. |
+| UNBALANCEDPOWERON KILOWATTMETERS | Enginesnotsharingthepower (kW)equally. | Adjustthegovernordroopof theenginestoequalizethe kilowattsharing. |
+| UNBALANCEDCURRENT ONAMMETERS AFTER EQUILIZINGKILOWATTS | Voltagedifference(excitation levels)betweenthemachines. | Testthemachinesindividually forexact voltageatnoload. |
+|  | Paralleldroop equipment incorrectlyadjusted. | Adjust asstatedinprevious text. |
+
+--- FIM DA PÁGINA 39 ---
+
+--- INÍCIO DA PÁGINA 40 ---
+-
+SYMPTOM CAUSE ACTION
+UNBALANCEDPOWERAS Enginegovernorsare Theenginegovernorsmustbe
+LOADINCREASEDOR incompatible, or new adjustedtogivesimilarno
+DECREASED governors‘sticking’,causing load tofullloadcharacteristics.
+unequalkWsharingoverload Checkfor ‘sticky’governorson
+rangevariations. newor repaintedengines.
+Electronicgovernorsshouldbe
+setwithaminimum2%speed
+drooptoensuresatisfactory
+kilowattloadsharing. Iftighter
+speedregulation isrequired,
+anIsochronousLoadSharing
+system shouldbeinstalled.
+INCREASINGUNBALANCED Differenceinparalleldroop Runeach alternator
+CURRENT AS LOAD levelsettings. individually,andapplyload at
+INCREASED Differenceinnoloadtofull approximately25%,50%&
+loadvoltageregulationof 100%of fullload.Testvoltage
+AVRs. ateachloadandcompare
+valueswiththeother
+These settingsarethemajor
+alternators.Adjustcontrol
+contributingfactorstothe
+systemstoremoveregulation
+load/voltagecharacteristicsof
+differences.
+themachine,andtherefore
+must be set togiveequal Repeat methodwithasmuch
+characteristicstothemachines inductiveloadaspossiblei.e.
+withwhichitisparalleled. motors,transformersetc.
+Adjusttheparalleldroop
+trimmers,toachieveequal
+inductiveloadsharing.
+POOR VOLTAGE Excessamountofparallel Fornormalvoltageregulation
+REGULATIONWHEN droopincircuit. asasinglerunningmachine,a
+MACHINERUNNINGALONE shortingswitchshouldbefitted
+acrosstheparalleldroop
+transformer. (S1-S2).This
+shouldbeclearlymarked
+‘Single’and ‘Parallel’operation
+onthepanel.
+UNBALANCEDPOWER, Electronicenginegovernor Atleast2%enginedroopis
+ENGINES'ROCK'ON speed‘droop’characteristics essentialfor kW(Active
+MOUNTS areset tootight. current)sharing.If 1% orless
+speedregulation isrequired,
+anelectronicgoverningand
+IsochronousLoadSharing
+system shouldbeinstalled.
+4.5 AVR Fault Finding
+This section has general advice to diagnose faults on AVRs. Further troubleshooting guidance is
+given in the Specification, Installation and Adjustments instructions or the Instruction Manual
+specific to the AVR model. The AVR has a protection circuit which operates under fault
+conditions after about 8 seconds (exact delay depends on AVR type). The circuit removes the
+alternator excitation, causing output voltage to collapse, and latches until the alternator is
+stopped and restarted. The system designer must make sure that this feature is compatible with
+theoverallsystemprotection.
+36 A054E988(Issue1)
+
+**Tabela 1 (Página 40):**
+| SYMPTOM | CAUSE | ACTION |
+| UNBALANCEDPOWERAS LOADINCREASEDOR DECREASED | Enginegovernorsare incompatible, or new governors‘sticking’,causing unequalkWsharingoverload rangevariations. | Theenginegovernorsmustbe adjustedtogivesimilarno load tofullloadcharacteristics. Checkfor ‘sticky’governorson newor repaintedengines. Electronicgovernorsshouldbe setwithaminimum2%speed drooptoensuresatisfactory kilowattloadsharing. Iftighter speedregulation isrequired, anIsochronousLoadSharing system shouldbeinstalled. |
+| INCREASINGUNBALANCED CURRENT AS LOAD INCREASED | Differenceinparalleldroop levelsettings. Differenceinnoloadtofull loadvoltageregulationof AVRs. These settingsarethemajor contributingfactorstothe load/voltagecharacteristicsof themachine,andtherefore must be set togiveequal characteristicstothemachines withwhichitisparalleled. | Runeach alternator individually,andapplyload at approximately25%,50%& 100%of fullload.Testvoltage ateachloadandcompare valueswiththeother alternators.Adjustcontrol systemstoremoveregulation differences. Repeat methodwithasmuch inductiveloadaspossiblei.e. motors,transformersetc. Adjusttheparalleldroop trimmers,toachieveequal inductiveloadsharing. |
+| POOR VOLTAGE REGULATIONWHEN MACHINERUNNINGALONE | Excessamountofparallel droopincircuit. | Fornormalvoltageregulation asasinglerunningmachine,a shortingswitchshouldbefitted acrosstheparalleldroop transformer. (S1-S2).This shouldbeclearlymarked ‘Single’and ‘Parallel’operation onthepanel. |
+| UNBALANCEDPOWER, ENGINES'ROCK'ON MOUNTS | Electronicenginegovernor speed‘droop’characteristics areset tootight. | Atleast2%enginedroopis essentialfor kW(Active current)sharing.If 1% orless speedregulation isrequired, anelectronicgoverningand IsochronousLoadSharing system shouldbeinstalled. |
+
+--- FIM DA PÁGINA 40 ---
+
+--- INÍCIO DA PÁGINA 41 ---
+-
+Symptom Action
+VOLTAGEDOESNOT ChecklinkK1:K2onAVRor auxiliaryterminals.Replace if
+INCREASEWHEN necessaryandrestart.
+STARTING
+VOLTAGEINCREASES CheckAVRvoltscontrolpotentiometer setting. Correctif
+WHENSTARTINGTO necessary.
+WRONGVALUE Check‘HandTrimmer’iffitted. Adjust if necessary.
+Checkalternatorspeed. Correctifnecessaryandrestart.
+CheckAVR ‘UFRO’indicator.If illuminated, seeUFROSetting
+Procedure.
+VOLTAGEINCREASES Checkalternatoracceleratesasexpected.Correct if necessary
+VERYSLOWLY WHEN andrestart.
+STARTING Checksettingofadjustableramp.Correct if necessaryand
+restart.
+VOLTAGEINCREASESTO CheckAVRwiringwithwiringdiagram.
+HIGHVALUEWHEN
+STARTING
+VOLTAGEINCREASESTO CheckAVRwiringwithwiringdiagram.
+HIGHVALUETHENFALLS
+TO LOWVALUEWHEN
+STARTING
+VOLTAGENORMALTHEN Checkalternatorloading
+FALLSTOLOWVALUE Checkrectifier system(see ServiceandMaintenancechapter)
+WHENRUNNING
+VOLTAGEUNSTABLE Checkthatthealternatorspeedisstable. Correctifnecessary
+EITHERWHENRUNNING andrestart.
+NO-LOADORON-LOAD CheckAVRwiringwithwiringdiagram.
+AdjusttheAVRstabilitycontrolslowlyclockwiseuntilsteady.
+VOLTAGEFALLSTOLOW Checkalternatorspeedisnot droppingasload isapplied.
+VALUE WHENLOAD Correctifnecessaryandrestart.
+APPLIED CheckAVR ‘UFRO’indicator.If it illuminatesasloadisapplied,
+seeUFRO SettingProcedure.
+If all the tests and checks listed above fail to locate the alternator fault then it must be assumed
+thattheAVRisfaulty.Therearenoserviceableitemsin the AVR.
+TheAVRshould bereplacedonlybya genuineCumminspart.
+A054E988(Issue1) 37
+
+**Tabela 1 (Página 41):**
+| Symptom | Action |
+| VOLTAGEDOESNOT INCREASEWHEN STARTING | ChecklinkK1:K2onAVRor auxiliaryterminals.Replace if necessaryandrestart. |
+| VOLTAGEINCREASES WHENSTARTINGTO WRONGVALUE | CheckAVRvoltscontrolpotentiometer setting. Correctif necessary. Check‘HandTrimmer’iffitted. Adjust if necessary. Checkalternatorspeed. Correctifnecessaryandrestart. CheckAVR ‘UFRO’indicator.If illuminated, seeUFROSetting Procedure. |
+| VOLTAGEINCREASES VERYSLOWLY WHEN STARTING | Checkalternatoracceleratesasexpected.Correct if necessary andrestart. Checksettingofadjustableramp.Correct if necessaryand restart. |
+| VOLTAGEINCREASESTO HIGHVALUEWHEN STARTING | CheckAVRwiringwithwiringdiagram. |
+| VOLTAGEINCREASESTO HIGHVALUETHENFALLS TO LOWVALUEWHEN STARTING | CheckAVRwiringwithwiringdiagram. |
+| VOLTAGENORMALTHEN FALLSTOLOWVALUE WHENRUNNING | Checkalternatorloading Checkrectifier system(see ServiceandMaintenancechapter) |
+| VOLTAGEUNSTABLE EITHERWHENRUNNING NO-LOADORON-LOAD | Checkthatthealternatorspeedisstable. Correctifnecessary andrestart. CheckAVRwiringwithwiringdiagram. AdjusttheAVRstabilitycontrolslowlyclockwiseuntilsteady. |
+| VOLTAGEFALLSTOLOW VALUE WHENLOAD APPLIED | Checkalternatorspeedisnot droppingasload isapplied. Correctifnecessaryandrestart. CheckAVR ‘UFRO’indicator.If it illuminatesasloadisapplied, seeUFRO SettingProcedure. |
+
+--- FIM DA PÁGINA 41 ---
+
+--- INÍCIO DA PÁGINA 42 ---
+-
+Thispageisintentionallyblank.
+38 A054E988(Issue1)
+
+--- FIM DA PÁGINA 42 ---
+
+--- INÍCIO DA PÁGINA 43 ---
+5 Procedures
+WARNING
+EjectedDebris
+Debrisejectedduring catastrophicfailurecancause seriousinjury ordeathby impact,
+severingorstabbing.
+To preventinjury:
+• Keepaway fromtheairinletandairoutletwhenthealternatorisrunning.
+• Donotputoperator controlsneartheairinlet andairoutlet.
+• Donotcauseoverheatingbyrunningthealternator outsideratingplateparameters.
+• Donotoverload thealternator.
+• Donotrunan alternatorwithexcessivevibration.
+• Donotsychronizeparallel alternatorsoutsidethespecifiedparameters.
+5.2 Adjust the AVR [VOLTS] Voltage Control
+NOTICE
+Donotexceedthedesignedsafeoperatingvoltage,shownonthealternatorratingplate.
+NOTICE
+Hand trimmerterminalsmaybeaboveearthpotential.Donotgroundanyofthehand
+trimmerterminals.Groundinghandtrimmerterminalscouldcauseequipmentdamage.
+To settheoutputvoltageAVR[VOLTS] control ontheAVR:
+1. Checkthealternatornameplatetoconfirmthedesignedsafeoperatingvoltage.
+2. Setthe AVR[VOLTS] controlto0%, thefullycounter-clockwise position.
+3. Checkthattheremotehandtrimmer isfittedor terminals1and2arelinked.
+NOTICE
+Ifaremotehandtrimmerisconnected,set it to50%, themidwayposition.
+4. TurntheAVR[STAB]controlto50%,the midwayposition.
+5. Startthealternatorandsetatthecorrectoperating speed.
+6. If the red Light Emitting Diode (LED) is illuminated, refer to the Under Frequency Roll Off
+AVR[UFRO] adjustment.
+7. AdjusttheAVR[VOLTS] controlslowlyclockwise toincrease theoutput voltage.
+A054E988(Issue1) 39
+
+**Tabela 1 (Página 43):**
+| WARNING |
+| EjectedDebris Debrisejectedduring catastrophicfailurecancause seriousinjury ordeathby impact, severingorstabbing. To preventinjury: • Keepaway fromtheairinletandairoutletwhenthealternatorisrunning. • Donotputoperator controlsneartheairinlet andairoutlet. • Donotcauseoverheatingbyrunningthealternator outsideratingplateparameters. • Donotoverload thealternator. • Donotrunan alternatorwithexcessivevibration. • Donotsychronizeparallel alternatorsoutsidethespecifiedparameters. |
+
+**Tabela 2 (Página 43):**
+| NOTICE |
+| Donotexceedthedesignedsafeoperatingvoltage,shownonthealternatorratingplate. |
+
+**Tabela 3 (Página 43):**
+| NOTICE |
+| Hand trimmerterminalsmaybeaboveearthpotential.Donotgroundanyofthehand trimmerterminals.Groundinghandtrimmerterminalscouldcauseequipmentdamage. |
+
+**Tabela 4 (Página 43):**
+| NOTICE |
+| Ifaremotehandtrimmerisconnected,set it to50%, themidwayposition. |
+
+--- FIM DA PÁGINA 43 ---
+
+--- INÍCIO DA PÁGINA 44 ---
+-
+NOTICE
+IfthevoltageisunstablesettheAVRstability beforeproceedingSection5.4on
+page41.
+8. Adjusttheoutputvoltagetothe desirednominalvalue (VAC).
+9. If instability is present at rated voltage, refer to the AVR [STAB] adjustment, then adjust
+AVR[VOLTS] again,ifnecessary.
+10. Ifaremotehandtrimmerisconnected, checkitsoperation.
+NOTICE
+0%to100% rotation correspondsto 90%to110%VAC
+TheAVR[VOLTS] controlisnowset.
+5.3 Adjust the AVR [UFRO] Under-Frequency Roll-Off
+Control
+Below an adjustable frequency threshold ('knee' point), the AVR under-speed protection operates
+to reduce ('roll-off') the excitation voltage in proportion to alternator frequency. The AVR LED
+lightswhenUFROoperates.
+1. Checkthenameplatetoconfirm thefrequencyofthealternator.
+2. Check that the jumper link or rotary switch selection (depending on AVR type) matches the
+alternatorfrequency.
+3. Setthe AVR[UFRO]controlto100%,the fullyclockwiseposition.
+4. Startthealternatorandset atthecorrectoperatingspeed.
+5. Verifythatthealternatorvoltageiscorrectandstable.
+NOTICE
+Ifthevoltageishigh/low/unstable,use methodSection5.2onpage39 orSection
+5.4onpage41beforeproceeding.
+6. Reduce the alternator speed to approximately 95% of correct operating speed. i.e. 47.5 Hz
+for50Hzoperation,57.0Hzfor 60 Hzoperation.
+7. AdjusttheAVR[UFRO] controlslowlycounter-clockwiseuntiltheAVRLEDlights.
+8. AdjusttheAVR[UFRO]controlslowlyclockwiseuntiltheAVRLEDisjustOFF.
+40 A054E988(Issue1)
+
+**Tabela 1 (Página 44):**
+| NOTICE |
+| IfthevoltageisunstablesettheAVRstability beforeproceedingSection5.4on page41. |
+
+**Tabela 2 (Página 44):**
+| NOTICE |
+| 0%to100% rotation correspondsto 90%to110%VAC |
+
+**Tabela 3 (Página 44):**
+| NOTICE |
+| Ifthevoltageishigh/low/unstable,use methodSection5.2onpage39 orSection 5.4onpage41beforeproceeding. |
+
+--- FIM DA PÁGINA 44 ---
+
+--- INÍCIO DA PÁGINA 45 ---
+-
+NOTICE
+Donotgo pastthepointat whichtheLEDisjustOFF.
+9. Adjustthealternatorspeedbackto100%nominal.TheLEDshould be off.
+TheAVR[UFRO] controlisnowset.
+5.4 Adjust the AVR [STAB] Stability Control
+1. Checkthenameplatetoconfirm thepower ratingofthealternator.
+2. Check that the jumper link or rotary switch selection (depending on AVR type) matches the
+alternatorpowerratingforoptimalstabilityresponse.
+3. Setthe AVR[STAB]controltoapproximately75% position.
+4. Startthealternatorandsetatthecorrectoperatingspeed.
+5. Verifythatthealternatorvoltageiswithinsafe limits.
+NOTICE
+Ifthevoltageisunstablegoimmediatelytostep5.
+6. Adjust the AVR [STAB] control slowly counter-clockwise until the output voltage becomes
+unstable.
+7. AdjusttheAVR[STAB]controlslowlyclockwiseuntilthevoltageisstable.
+8. AdjusttheAVR[STAB]controla further 5%clockwise.
+NOTICE
+Readjustthevoltagelevelif necessary(seeSection5.2onpage39).
+TheAVR[STAB]controlisnowset.
+5.5 Adjust the AVR [DROOP] Voltage Droop Control
+for Parallel Operation
+A correctly fitted and adjusted droop current transformer (CT) allows the alternator to share
+reactivecurrentforstableparalleloperation.
+1. MounttheDroopCTtothecorrect phase leadof themain outputwindingsofthealternator.
+2. Connect the two secondary leads marked S1 and S2 from the CT to the terminals S1 and
+S2oftheAVR.
+3. TurntheAVR[DROOP]controltothemidwayposition.
+4. Startthealternator(s)andset at the correct operatingspeedandvoltage.
+A054E988(Issue1) 41
+
+**Tabela 1 (Página 45):**
+| NOTICE |
+| Donotgo pastthepointat whichtheLEDisjustOFF. |
+
+**Tabela 2 (Página 45):**
+| NOTICE |
+| Ifthevoltageisunstablegoimmediatelytostep5. |
+
+**Tabela 3 (Página 45):**
+| NOTICE |
+| Readjustthevoltagelevelif necessary(seeSection5.2onpage39). |
+
+--- FIM DA PÁGINA 45 ---
+
+--- INÍCIO DA PÁGINA 46 ---
+-
+5. Parallelthealternator(s)accordingto installation rulesand procedures.
+6. Set the AVR [DROOP] control to produce the required balance between individual
+alternator output currents. Set the AVR droop off-load and then check the currents when the
+outputloadisapplied,on-load.
+7. If the individual alternator output currents rise (or fall) in an uncontrolled way, isolate and
+stopthealternatorsthencheckthat:
+• The droop transformer is fitted to the correct phase and in the correct polarity (see the
+machinewiringdiagrams).
+• The droop transformer secondary S1 and S2 leads are connected to the AVR
+terminalsS1andS2.
+• Thedrooptransformeristhe correct rating.
+5.6 Connect and Set the Remote Hand Trimmer
+A remote hand trimmer is fitted to provide a convenient means of fine voltage adjustment
+(typically +/- 10% voltage) and can be useful in installations where multiple alternators are
+operatedinparallel.
+1. Mounttheremotehandtrimmer intherequiredphysicallocationonthegeneratorset.
+2. Connect the remote hand trimmer as shown on the alternator wiring diagram (usually to
+AVR terminals 1 and 2). Check that clockwise rotation results in a reduction of the
+resistanceacrossterminals1and2.
+3. Settheremotehandtrimmer tothemidwayposition.
+4. Start the alternator(s) and set at the correct operating speed and voltage on the AVR
+voltagecontrol.
+5. Rotate the remote hand trimmer slowly counterclockwise and clockwise to check the
+alternatoroutputrange.
+6. If the operation of the trimmer is reversed then correct the wiring on the rear of the hand
+trimmer.DonotreversethewiringtoAVRterminals1 and2(seestep2above).
+5.7 Measure and Verify the Residual Voltage (self-
+excited machines only)
+Residual, or remanence, voltage is the small voltage produced by the alternator when the exciter
+field current is zero and the alternator is running at rated speed (while disconnected from any
+externalloadorsupply).
+1. DisconnecttheexciterfieldleadsF1andF2fromthe AVRandmakethemsafe.
+2. Makesuretherearenoloadsor externalsuppliesconnectedtothealternatorterminals.
+3. Startthealternatorandsetat thecorrect operatingspeed.
+4. Measure the voltage appearing at AVR input terminals 7 and 8 (or P2 and P3, or 7 and Z2
+for AS540). For AVRs SX460*, AS540* AS480*, AS440* and SX421, this voltage should be
+6VACminimum.3
+5. If the measured voltage is below the minimum value, restore the residual voltage Section
+5.17onpage49.
+5.8 Measure and Verify the AVR Sensing Voltage
+The AVR sensing voltage is a fixed proportion of the main output voltage of the alternator and is
+used by the AVR for voltage control. If the sensing voltage is not a good, stable representation
+oftheoutputthentheAVRwillnot controltheoutput correctly.
+3 *IncludesUnderwriter'sLaboratories(UL)derivativesi.e.SX460UL,AS480ULandAS440UL.
+42 A054E988(Issue1)
+
+--- FIM DA PÁGINA 46 ---
+
+--- INÍCIO DA PÁGINA 47 ---
+-
+The sensing voltage appearing at AVR terminals 6 (MX321 only), 7 and 8 and can be measured
+safelyatresidualvoltagelevels.
+1. DisconnecttheexciterfieldleadsF1andF2from theAVRandmakethemsafe.
+2. Makesuretherearenoloadsorexternalsuppliesconnectedtothealternatorterminals.
+3. Startthealternatorandset atthecorrectoperatingspeed.
+4. Measurethevoltagebetweenpairsof AVRinputterminals6,7and8(V ,V ,V ).
+r67 r78 r86
+NOTICE
+Thesubscript'r' indicatesthatthereadingismeasuredwiththealternatorrunning
+withoutexcitation,i.e.residuallevels.
+5.9 Measure and Verify the PMG Output Voltage
+For correct AVR operation, the output of the PMG must be within specified voltage limits. If the
+PMGvoltageistoolowortoohigh,thentheAVRmaynotcontrolthe alternatoroutputcorrectly.
+1. DisconnectthethreePMG output leads(P2, P3andP4)fromtheAVRinputconnections.
+2. ConnectamultimetersafelytothePMG output leads.
+3. Startthealternatorandrunat thecorrect operatingspeed.
+4. MeasurethevoltagebetweenpairsofPMG output leadsP2,P3 & P4(V ,V ,V ).
+P2P3 P3P4 P4P2
+For correctoperation,thePMGoutputvoltagesshouldallbewithintheselimits:
+170< V <185@ 50Hz,
+p2p3
+170< V <185@ 50Hz,
+p3p4
+170< V <185@ 50Hz,or
+p4p2
+200< V <220@ 60Hz,
+p2p3
+200< V <220@ 60Hz,
+p3p4
+200< V <220@ 60Hz.
+p4p2
+5.10 Rectifier System
+5.10.1 Check the Rotating Rectifier Diodes
+1. Disconnect the lead of one diode where it joins the windings at the insulated terminal post.
+Storefastenerandwashers.
+2. Measure the voltage drop across the diode in the forward direction, using the diode test
+functionofamultimeter.
+A054E988(Issue1) 43
+
+**Tabela 1 (Página 47):**
+| NOTICE |
+| Thesubscript'r' indicatesthatthereadingismeasuredwiththealternatorrunning withoutexcitation,i.e.residuallevels. |
+
+--- FIM DA PÁGINA 47 ---
+
+--- INÍCIO DA PÁGINA 48 ---
+-
+3. Measure the resistance across the diode in the reverse direction, using the diode test
+functionofamultimeter.
+4. The diode is faulty if the voltage drop in the forward direction is outside the range 0.4 to 1.6
+V,oriftheresistanceisbelow20MΩinthereversedirection.
+5. Repeatthepreviousstepsforthefiveremainingdiodes.
+6. If any diode is faulty, replace the full set of six diodes (same type, same manufacturer) as
+follows:
+a. Removetheoriginal diodes.
+b. Apply a small amount of heat sink compound only to the base of the replacement
+diodes,notthethreads.
+44 A054E988(Issue1)
+
+--- FIM DA PÁGINA 48 ---
+
+--- INÍCIO DA PÁGINA 49 ---
+-
+c. Checkpolarityofthereplacement diodes.
+d. Screw eachreplacementdiode into athreadedholein therectifierplate.
+e. Tighten each diode to the torque specified in the alternator manual, to give good
+mechanical,electrical andthermalcontact.
+f. Replace both varistors with a matched pair (same type, same manufacturer and same
+voltagegrading:A,B,C,D, E,F)
+7. Reconnectandcheckthatallleadsaresecure,washersfitted andfastenerstight.
+5.10.2 Check the Rotating Rectifier Varistors
+1. Inspectbothvaristors.
+2. A varistor is faulty if there are signs of overheating (discolouration, blisters, melting) or
+disintegration.
+3. Disconnectonevaristorlead.Storefastenerandwashers.
+4. Measure the resistance across each varistor. Good varistors have a resistance greater than
+100MΩ.
+5. Avaristorisfaultyiftheresistanceisshort circuit oropencircuitineitherdirection.
+6. If a varistor is faulty, replace both varistors with a matched pair (same type, same
+manufacturerandsamevoltagegrading: A,B, C, D, E,F)and replacealldiodes.
+7. Reconnectandcheckthatallleadsaresecure,washersfittedandfastenerstight.
+5.11 Windings
+5.11.1 Measure and Verify the Exciter Stator Resistance
+1. Stopthealternator.
+2. DisconnecttheexciterfieldleadsF1(X+) andF2(XX-) fromtheAVR.
+3. Measuretheelectrical resistancebetweenF1andF2leadswithamultimeter.
+4. The resistance should be between approximately 15 Ω and 20 Ω at 20 °C. Refer to the
+TechnicalDataChapter7onpage 55 for specificvalues.
+5. ReconnecttheexciterfieldleadsF1andF2.
+6. Recordyourmeasurementina copyof the faultfinding recordChapter6onpage 51.
+5.11.2 Measure and Verify the Exciter Rotor Resistance
+1. Stopthealternator.
+2. Marktheleadsattachedtodiodesononeof thetworectifier plates.
+3. Disconnectallexciterrotorleadsfromalldiodesattherectifier.
+4. Measure the electrical resistance between pairs of marked leads (between phase windings).
+Aspecialistmicroohmmetermust beused.
+5. The resistance phase-to-phase should be between approximately 0.07 Ω and 0.20 Ω at 20
+°C.RefertoTechnical DataChapter7onpage 55 for specificvalues.
+6. Reconnectallexciterrotorleadsto thediodes.
+7. Recordyourmeasurementsina copyof the faultfinding recordChapter6onpage 51.
+5.11.3 Measure and Verify the Main Rotor Resistance
+1. Stopthealternator.
+2. DisconnectthetwomainrotorDCleadsfromthe rectifierplates.
+A054E988(Issue1) 45
+
+--- FIM DA PÁGINA 49 ---
+
+--- INÍCIO DA PÁGINA 50 ---
+-
+3. Measure the electrical resistance between the main rotor leads. A specialist micro
+ohmmetermustbeused.
+4. The resistance should be between approximately 0.4 Ω and 2.80 Ω at 20 °C. Refer to
+TechnicalDataChapter7onpage55 for specificvalues.
+5. ReconnectthetwomainrotorDCleadsto therectifier plates.
+6. Makesurethefastenersaresecure.
+7. Recordyourmeasurementina copyof the faultfinding recordChapter6onpage 51.
+5.11.4 Measure and Verify the Main Stator Resistance
+1. Stopthealternator.
+2. Disconnecttheleadsofthemainstator from theoutputterminals.
+3. Measure and record the electrical resistance between U1 and U2 leads and between U5
+andU6(ifpresent).Aspecialistmicroohmmetermustbeused.
+4. Measure and record the electrical resistance between V1 and V2 leads and between V5
+andV6(ifpresent).Aspecialist microohmmeter must beused.
+5. Measure and record the electrical resistance between W1 and W2 leads and between W5
+andW6(ifpresent).A specialist microohmmeter must beused
+6. The measured resistances should be between approximately 0.25 mΩ and 2.0 Ω at 20 °C.
+RefertoTechnical DataChapter 7onpage55 for specificvalues.
+7. Reconnecttheleadstotheoutputterminals,asbefore.
+8. Makesurethefastenersaresecure
+9. Recordyourmeasurementsina copyof the faultfinding recordChapter6onpage 51.
+5.11.5 Measure and Verify the PMG Stator Resistance
+1. Stopthealternator.
+2. DisconnectthethreePMGoutputleadsP2,P3andP4from the AVR.
+3. Measuretheelectricalresistance betweenpairsof the PMGoutputleads,with amultimeter.
+4. The resistance phase-to-phase should be between approximately 2.5 Ω and 6 Ω at 20 °C.
+RefertoTechnical DataChapter7onpage55 for specificvalues.
+5. ReconnectthethreePMGoutput leadsP2,P3 andP4totheAVR.
+6. Makesurethefastenersaresecure.
+7. Recordyourmeasurementsina copyof the faultfinding recordChapter6onpage 51.
+5.12 Measure and Verify the Exciter Stator Insulation
+Resistance
+TABLE6. TESTVOLTAGE ANDMINIMUM ACCEPTABLEINSULATIONRESISTANCEFOR
+NEWANDIN-SERVICEALTERNATORS
+Test Minimum InsulationResistanceat
+1minute(MΩ)
+Voltage
+(V) New In-service
+Exciterstator 500 10 5
+1. Inspect the windings for mechanical damage or discolouration from overheating. Clean the
+insulationifthereishygroscopicdust anddirtcontamination.
+2. Connecttogetherbothendsof thewinding(ifpossible).
+46 A054E988(Issue1)
+
+**Tabela 1 (Página 50):**
+|  | Test Voltage (V) | Minimum InsulationResistanceat 1minute(MΩ) |  |
+|  |  | New | In-service |
+| Exciterstator | 500 | 10 | 5 |
+
+--- FIM DA PÁGINA 50 ---
+
+--- INÍCIO DA PÁGINA 51 ---
+-
+3. Applythetestvoltagefromthetable betweenthewindingandearth.
+4. Measuretheinsulationresistanceafter1 minute(IR ).
+1min
+5. Dischargethetestvoltageto earthfor fiveminutes.
+6. If the measured insulation resistance is less than the minimum acceptable value, dry the
+insulation,thenrepeatthemethod.
+7. Repeatthemethodforeachwinding.
+8. Removetheconnectionsmadefor testing.
+9. Recordyourmeasurementsinacopyof thefault findingrecordChapter6onpage51.
+5.13 Measure and Verify the Exciter Rotor Insulation
+Resistance
+TABLE7. TESTVOLTAGE ANDMINIMUM ACCEPTABLEINSULATIONRESISTANCEFOR
+NEWANDIN-SERVICEALTERNATORS
+Test Minimum InsulationResistanceat
+1minute(MΩ)
+Voltage
+(V) New In-service
+Exciterrotor 500 10 5
+1. Inspect the windings for mechanical damage or discolouration from overheating. Clean the
+insulationifthereishygroscopicdust anddirtcontamination.
+2. Connecttogetherthethreeleadsof allphasewindings(ifpossible).
+3. Applythetestvoltagefromthetablebetweenthewindingandearth.
+4. Measuretheinsulationresistanceafter 1minute(IR ).
+1min
+5. Dischargethetestvoltagetoearth forfive minutes.
+6. If the measured insulation resistance is less than the minimum acceptable value, dry the
+insulation,thenrepeatthemethod.
+7. Removetheconnectionsmadefor testing.
+8. Recordyourmeasurement inacopyof thefault findingrecordChapter6onpage 51.
+5.14 Measure and Verify the Main Rotor Insulation
+Resistance
+TABLE8. TESTVOLTAGE ANDMINIMUM ACCEPTABLEINSULATIONRESISTANCEFOR
+NEWANDIN-SERVICEALTERNATORS
+Test Minimum InsulationResistanceat
+1minute(MΩ)
+Voltage
+(V) New In-service
+Exciterrotor,rectifier& mainrotor 500 10 5
+combined
+1. Inspect the windings for mechanical damage or discolouration from overheating. Clean the
+insulationifthereishygroscopicdust anddirtcontamination.
+2. Connecttogetherbothendsof thewinding(ifpossible).
+3. Applythetestvoltagefromthetablebetweenthewindingandearth.
+A054E988(Issue1) 47
+
+**Tabela 1 (Página 51):**
+|  | Test Voltage (V) | Minimum InsulationResistanceat 1minute(MΩ) |  |
+|  |  | New | In-service |
+| Exciterrotor | 500 | 10 | 5 |
+
+**Tabela 2 (Página 51):**
+|  | Test Voltage (V) | Minimum InsulationResistanceat 1minute(MΩ) |  |
+|  |  | New | In-service |
+| Exciterrotor,rectifier& mainrotor combined | 500 | 10 | 5 |
+
+--- FIM DA PÁGINA 51 ---
+
+--- INÍCIO DA PÁGINA 52 ---
+-
+4. Measuretheinsulationresistanceafter1minute(IR ).
+1min
+5. Dischargethetestvoltageto earthfor fiveminutes.
+6. If the measured insulation resistance is less than the minimum acceptable value, dry the
+insulation,thenrepeatthemethod.
+7. Removetheconnectionsmadefor testing.
+8. Recordyourmeasurement inacopyof thefault findingrecordChapter6onpage51.
+5.15 Measure and Verify the Main Stator Insulation
+Resistance
+TABLE9. TESTVOLTAGE ANDMINIMUM ACCEPTABLEINSULATIONRESISTANCEFOR
+NEWANDIN-SERVICEALTERNATORS
+Test Minimum InsulationResistanceat
+1minute(MΩ)
+Voltage
+(V) New In-service
+Main stator 500 10 5
+1. Inspect the windings for mechanical damage or discolouration from overheating. Clean the
+insulationifthereishygroscopicdust anddirtcontamination.
+2. Disconnecttheneutraltoearthconductor(if fitted).
+3. Connecttogetherthethreeleadsof allphasewindings(ifpossible).
+4. Applythetestvoltagefromthetablebetweenanyphaseleadandearth.
+5. Measuretheinsulationresistanceafter 1minute(IR ).
+1min
+6. Dischargethetestvoltagetoearth forfive minutes.
+7. If the measured insulation resistance is less than the minimum acceptable value, dry the
+insulation,thenrepeatthemethod.
+8. Reconnectneutraltoearthconductor (iffitted).
+9. Recordyourmeasurement inacopyof thefault findingrecordChapter6onpage 51.
+5.16 Measure and Verify the PMG Stator Insulation
+Resistance
+TABLE10. TESTVOLTAGE ANDMINIMUM ACCEPTABLEINSULATIONRESISTANCE
+FORNEWANDIN-SERVICEALTERNATORS
+Test Minimum InsulationResistanceat
+1minute(MΩ)
+Voltage
+(V) New In-service
+PMGstator 500 5 3
+1. Inspect the windings for mechanical damage or discolouration from overheating. Clean the
+insulationifthereishygroscopicdustanddirt contamination.
+2. Connecttogetherthethreeleadsof allphasewindings(ifpossible).
+3. Applythetestvoltagefromthetablebetweenthewindingandearth.
+4. Measuretheinsulationresistanceafter 1minute(IR ).
+1min
+5. Dischargethetestvoltageto earthfor fiveminutes.
+48 A054E988(Issue1)
+
+**Tabela 1 (Página 52):**
+|  | Test Voltage (V) | Minimum InsulationResistanceat 1minute(MΩ) |  |
+|  |  | New | In-service |
+| Main stator | 500 | 10 | 5 |
+
+**Tabela 2 (Página 52):**
+|  | Test Voltage (V) | Minimum InsulationResistanceat 1minute(MΩ) |  |
+|  |  | New | In-service |
+| PMGstator | 500 | 5 | 3 |
+
+--- FIM DA PÁGINA 52 ---
+
+--- INÍCIO DA PÁGINA 53 ---
+-
+6. If the measured insulation resistance is less than the minimum acceptable value, dry the
+insulation,thenrepeatthemethod.
+7. Repeatthemethodforeachwinding.
+8. Removetheconnectionsmadefor testing.
+9. Recordyourmeasurement inacopyof thefault findingrecordChapter6onpage51.
+5.17 Restore the Residual Voltage
+DANGER
+LiveElectricalConductors
+Liveelectricalconductorsatoutput,AVRandAVRaccessoryterminals,andAVRheat
+sinkcancauseseriousinjuryordeathby electricshockandburns.
+To preventinjury,takesuitable precautions toprevent contactwithliveconductors
+includingpersonalprotectiveequipment,insulation,barriersandinsulatedtools.
+DANGER
+BatteryShortCircuit
+Suddendischargeofbatteryenergybyshort circuit cancauseseriousinjuryordeath by
+electricshockandburns.
+To preventinjury,fita5Afuseincircuitanduseinsulatedleadsandtools.
+WARNING
+BatteryAcid
+Contactwithbatteryacidcancause seriousinjuryby chemicalburnstoeyes andskin.
+To preventinjury,wearappropriatepersonalprotectionequipment (PPE).Putbattery
+securelyon aflatsurfacetoavoidacidspills.
+NOTICE
+Risk ofpermanentdamagetotheAVR.AVRwill bedestroyedifabatteryisconnected
+withincorrectpolarityor without adiodeof correct polarityinthecircuit.Followthe
+sequencebelowcarefullyandcheckbatterypolarity beforeconnectingtotheAVR.
+The laminated steel core of the exciter stator retains a residual, or remanence, magnetism.
+Residual voltage, generated by the exciter rotor turning in this magnetic field, powers the AVR
+during alternator start-up. A minimum level of residual voltage is necessary for correct operation
+ofan AVRwithoutaPMG.Residualmagnetismcanbelostif
+• thelaminatedcoresustainsamechanicalshock
+• theexciterstatorwindingisreplaced(rewound)
+• magnetismhasdecayedduringstorageformanyyears
+• theresidual magnetismis reversedbyincorrect useofthisprocedure.
+Restorelost,orweak,residualmagnetism asfollows:
+A054E988(Issue1) 49
+
+**Tabela 1 (Página 53):**
+| DANGER |
+| LiveElectricalConductors Liveelectricalconductorsatoutput,AVRandAVRaccessoryterminals,andAVRheat sinkcancauseseriousinjuryordeathby electricshockandburns. To preventinjury,takesuitable precautions toprevent contactwithliveconductors includingpersonalprotectiveequipment,insulation,barriersandinsulatedtools. |
+
+**Tabela 2 (Página 53):**
+| DANGER |
+| BatteryShortCircuit Suddendischargeofbatteryenergybyshort circuit cancauseseriousinjuryordeath by electricshockandburns. To preventinjury,fita5Afuseincircuitanduseinsulatedleadsandtools. |
+
+**Tabela 3 (Página 53):**
+| WARNING |
+| BatteryAcid Contactwithbatteryacidcancause seriousinjuryby chemicalburnstoeyes andskin. To preventinjury,wearappropriatepersonalprotectionequipment (PPE).Putbattery securelyon aflatsurfacetoavoidacidspills. |
+
+**Tabela 4 (Página 53):**
+| NOTICE |
+| Risk ofpermanentdamagetotheAVR.AVRwill bedestroyedifabatteryisconnected withincorrectpolarityor without adiodeof correct polarityinthecircuit.Followthe sequencebelowcarefullyandcheckbatterypolarity beforeconnectingtotheAVR. |
+
+--- FIM DA PÁGINA 53 ---
+
+--- INÍCIO DA PÁGINA 54 ---
+-
+FIGURE 1. TEMPORARYCIRCUITTO RESTORERESIDUALVOLTAGE
+1. Securely place a fully-charged 12 VDC or 24 VDC lead-acid vehicle battery, near the
+alternator. The generator set starter battery can be used only if it is completely
+disconnected(includingearthconnection) after theengineisstarted.
+2. Connectthetemporarycircuit showninthefigureabove.Asparerectifierdiodecanbe used
+but must be of the correct polarity. Use the diode test function of a multi meter (see Section
+5.10.1onpage43)toidentifythepolarityof adiode.
+3. Disconnecttheoutputloadfrom thealternator.
+4. Runthealternatoratratedspeedoff-load.
+5. Closetheswitchfor5secondsmaximum torestore theresidualmagnetism.
+6. Stopthealternatorandremovethecompletetemporarycircuit.
+7. Runthealternatoratratedspeedoff-load.
+8. Measurethemainterminaloutputvoltage:
+• ifalternatoroutputbuildstothe ratedvoltage, the residualvoltagehasbeenrestored.
+• if the alternator does not build to rated voltage, replace the faulty AVR. Repeat this
+procedurefromstep1.
+9. If this procedure has not restored the residual voltage, seek guidance from CGT Customer
+Support.
+50 A054E988(Issue1)
+
+--- FIM DA PÁGINA 54 ---
+
+--- INÍCIO DA PÁGINA 55 ---
+6 Fault Finding Record
+Fault FindingRecord
+Alternator Serial Running
+Model Number Time
+hours
+Alternator 208 220 230 240 380 400
+Voltage, V
+G
+415 440 480 600 690
+(VAC)
+Other
+SX460 SX440 SX421 AS440
+AVRModel
+AS480 MX341 MX321 MA330
+Other
+Stator Parallel- Series- Single-
+Series-Star
+Connection Star Delta Phase
+Other
+tluaF
+dna
+smotpmyS
+snoitavresbO
+A054E988(Issue1) 51
+
+**Tabela 1 (Página 55):**
+| Fault FindingRecord |  |  |  |  |  |  |  |  |
+| Alternator Model |  |  | Serial Number |  |  |  | Running Time | hours |
+| Alternator Voltage, V G (VAC) | 208 | 220 |  | 230 |  | 240 | 380 | 400 |
+|  | 415 | 440 |  | 480 |  | 600 | 690 | Other |
+| AVRModel | SX460 | SX440 |  | SX421 |  | AS440 | Other |  |
+|  | AS480 | MX341 |  | MX321 |  | MA330 |  |  |
+| Stator Connection | Series-Star | Parallel- Star |  | Series- Delta |  | Single- Phase | Other |  |
+| dna snoitavresbO smotpmyS tluaF |  |  |  |  |  |  |  |  |
+
+--- FIM DA PÁGINA 55 ---
+
+--- INÍCIO DA PÁGINA 56 ---
+-
+Fault FindingRecord
+Residual V = V = V = V =(V +V +V )/3
+rUV rVW rWU A rUV rVW rWU
+Voltage, V =
+A
+(VAC)
+AVRPowerInput AVRSensing
+Power Input Sensing
+AVR Requirement
+Voltage Voltage
+Model (VAC)
+(VAC) (VAC)
+slanimreT slanimreT
+SX460
+7 7
+AS440 V = V >6 V =V =
+8* r78 r78 8* B r78
+AS480
+P2 V = 2
+SX440 rP2P3 V >6 V =V =
+P3 rP2P3 3 B r23
+V V V V V V
+rP2P3 rP3P4 rP4P2 r67 r78 r86
+P2 = = = V >6 6 = = =
+rP2P3
+stnemerusaeM
+SX421 P3 V rP3P4 >6 7 V B =
+P4 V rP4P2 >6 8 (V r67 +V r78 +V r86 )/3
+=
+P2 V V V 170<V <220
+P2P3 P3P4 P4P2 P2P3 2
+MX341 P3 = = = 170<V <220 V =V =
+P3P4 3 B r23
+P4 170<V <220
+P4P2
+V V V V V V
+P2P3 P3P4 P4P2 r67 r78 r86
+P2 = = = 170<V <220 6 = = =
+P2P3
+MX321 P3 170<V P3P4 <220 7 V B =
+P4 170<V P4P2 <220 8 (V r67 +V r78 +V r86 )/3
+=
+OtherAVRs:RefertoCGT
+Requirement
+AVRSensingVoltage,V frommeasurementstaken(VAC)
+Sen (VAC)
+V =V xV /V =
+Sen G B A
+Alternatorvoltage(V )xSensingvoltage(V )/ResidualVoltage 190<V <240
+G B Sen
+snoitaluclaC
+(V )=
+A
+Exciter Exciter Main Main PMG
+Stator Rotor Rotor Stator Stator
+R= R = R R R= R R R R R R
+UV VW UW U1U2 V1V2 W1W P2P3 P3P4 P2P4
+= = = = = = = =
+2
+R R R
+U5U6 V5V6 W5W
+= = =
+6
+)Ωm(ecnatsiseR
+52 A054E988(Issue1)
+
+**Tabela 1 (Página 56):**
+| Fault FindingRecord |  |  |  |  |  |  |  |  |  |  |  |  |
+| stnemerusaeM | Residual Voltage, V A (VAC) |  | V = rUV |  | V = rVW |  | V = rWU |  | V =(V +V +V )/3 A rUV rVW rWU = |  |  |  |
+|  | AVRPowerInput |  |  |  |  |  |  |  | AVRSensing |  |  |  |
+|  | AVR Model | slanimreT | Power Input Voltage (VAC) |  |  | Requirement (VAC) |  |  | slanimreT | Sensing Voltage (VAC) |  |  |
+|  | SX460 AS440 AS480 | 7 8* | V = r78 |  |  | V >6 r78 |  |  | 7 8* | V =V = B r78 |  |  |
+|  | SX440 | P2 P3 | V = rP2P3 |  |  | V >6 rP2P3 |  |  | 2 3 | V =V = B r23 |  |  |
+|  | SX421 | P2 P3 P4 | V rP2P3 = | V rP3P4 = | V rP4P2 = | V >6 rP2P3 V >6 rP3P4 V >6 rP4P2 |  |  | 6 7 8 | V r67 = | V r78 = | V r86 = |
+|  |  |  |  |  |  |  |  |  |  | V = B (V +V +V )/3 r67 r78 r86 = |  |  |
+|  | MX341 | P2 P3 P4 | V P2P3 = | V P3P4 = | V P4P2 = | 170<V <220 P2P3 170<V <220 P3P4 170<V <220 P4P2 |  |  | 2 3 | V =V = B r23 |  |  |
+|  | MX321 | P2 P3 P4 | V P2P3 = | V P3P4 = | V P4P2 = | 170<V <220 P2P3 170<V <220 P3P4 170<V <220 P4P2 |  |  | 6 7 8 | V r67 = | V r78 = | V r86 = |
+|  |  |  |  |  |  |  |  |  |  | V = B (V +V +V )/3 r67 r78 r86 = |  |  |
+|  | OtherAVRs:RefertoCGT |  |  |  |  |  |  |  |  |  |  |  |
+| snoitaluclaC | AVRSensingVoltage,V frommeasurementstaken(VAC) Sen |  |  |  |  |  |  |  |  | Requirement (VAC) |  |  |
+|  | V =V xV /V = Sen G B A Alternatorvoltage(V )xSensingvoltage(V )/ResidualVoltage G B (V )= A |  |  |  |  |  |  |  |  | 190<V <240 Sen |  |  |
+|  | Exciter Stator | Exciter Rotor |  |  | Main Rotor |  | Main Stator |  |  | PMG Stator |  |  |
+| )Ωm(ecnatsiseR | R= | R = UV | R VW = | R UW = | R= |  | R U1U2 = R U5U6 = | R V1V2 = R V5V6 = | R W1W = 2 R W5W = 6 | R P2P3 = | R P3P4 = | R P2P4 = |
+
+--- FIM DA PÁGINA 56 ---
+
+--- INÍCIO DA PÁGINA 57 ---
+-
+Fault FindingRecord
+IR = IR = IR = IR = IR =
+UVW UVW P2P3P4
+noitalusnI
+setoNs'reenignE
+)ΩM(ecnatsiseR
+Thisisan accuraterecordofobservationsandmeasurements completedaccordingto
+thefaultfindingmethod
+Service
+Name Date
+Engineer
+signature print dd/MMM/yy
+Owner/
+Name Date
+Approver
+signature print dd/MMM/yy
+4
+4 *Powerinputandvoltagesensingshareterminals7and8.
+A054E988(Issue 1) 53
+
+**Tabela 1 (Página 57):**
+| Fault FindingRecord |  |  |  |  |  |  |  |  |  |  |
+| )ΩM(ecnatsiseR noitalusnI | IR = |  | IR = UVW |  | IR = |  | IR = UVW |  | IR = P2P3P4 |  |
+| setoNs'reenignE |  |  |  |  |  |  |  |  |  |  |
+| Thisisan accuraterecordofobservationsandmeasurements completedaccordingto thefaultfindingmethod |  |  |  |  |  |  |  |  |  |  |
+| Service Engineer |  | signature |  | Name |  | print |  | Date |  | dd/MMM/yy |
+| Owner/ Approver |  | signature |  | Name |  | print |  | Date |  | dd/MMM/yy |
+
+--- FIM DA PÁGINA 57 ---
+
+--- INÍCIO DA PÁGINA 58 ---
+-
+Thispageisintentionallyblank.
+54 A054E988(Issue1)
+
+--- FIM DA PÁGINA 58 ---
+
+--- INÍCIO DA PÁGINA 59 ---
+7 Technical Data
+NOTICE
+Comparemeasurementswiththetechnical datasheetandthetestcertificatesupplied
+withthealternator.
+7.1 P0/P1 Winding Resistances
+Resistanceofwindingsat20 °C(measuredvalues shouldbewithin10%)
+MainStator(lead- lead)(Ohms)
+311 14 17 05 06
+(U1-U2) (U1-U2) (U1-U2) (U1-U2) (U1-U2)
+(V1-V2) (V1-V2) (V1-V2) (U5-U6) (U5-U6)
+(W1-W2) (W1-W2) (W1-W2)
+(U5-U6) (U5-U6) (U5-U6)
+(V5-V6) (V5-V6) (V5-V6)
+(W5-W6) (W5-W6) (W5-W6)
+rotanretlA
+)smhO(rotatS
+reticxE
+)smhO(L-L,rotoR
+reticxE
+)smhO(rotoRniaM
+)smhO(SBE
+PI044D 1.050 0.660 1.571 0.536 0.412 17.5 0.2110 0.437 12.9
+PI044E 0.664 0.425 0.972 0.375 0.275 17.5 0.2110 0.415 12.9
+PI044F 0.476 0.325 0.671 0.232 0.179 18.5 0.2280 0.465 12.9
+PI044G 0.351 0.230 0.476 0.173 0.134 18.5 0.2280 0.551 12.9
+PI044H 0.253 0.195 0.380 0.142 0.097 18.5 0.2280 0.545 12.9
+PI144D 0.189 0.132 0.292 0.100 0.066 18.5 0.2280 0.657 12.9
+PI144E 0.148 0.102 0.227 0.085 0.060 19.4 0.2150 0.670 12.9
+PI144F 0.133 0.097 0.190 0.069 0.047 20.3 0.2010 0.708 12.9
+PI144G 0.111 0.071 0.153 0.054 0.036 20.3 0.2010 0.857 12.9
+PI144H 0.090 0.065 0.125 0.042 0.030 22.9 0.2100 0.890 12.9
+PI144J 0.077 0.055 0.115 0.035 0.025 22.9 0.2100 0.990 12.9
+PI144K 0.077 0.049 0.096 0.035 0.026 22.9 0.2100 0.983 12.9
+PI042D 0.642 n/a n/a 0.277 0.197 13.5 0.0479 0.798 12.9
+PI042E 0.403 n/a n/a 0.198 0.131 13.5 0.0479 0.895 12.9
+PI042F 0.357 n/a n/a 0.156 0.096 13.5 0.0479 0.931 12.9
+PI042G 0.268 n/a n/a 0.107 0.085 13.5 0.0479 0.993 12.9
+PI142D 0.189 n/a n/a 0.077 0.060 18.0 0.1280 1.125 12.9
+PI142E 0.153 n/a n/a 0.064 0.046 19.0 0.1340 1.214 12.9
+PI142F 0.125 n/a n/a 0.057 0.037 20.0 0.1050 1.280 12.9
+PI142G 0.089 n/a n/a 0.043 0.025 20.0 0.1050 1.479 12.9
+PI142H 0.077 n/a n/a 0.036 0.025 20.0 0.1050 1.590 12.9
+A054E988(Issue1) 55
+
+**Tabela 1 (Página 59):**
+| NOTICE |
+| Comparemeasurementswiththetechnical datasheetandthetestcertificatesupplied withthealternator. |
+
+**Tabela 2 (Página 59):**
+| rotanretlA | Resistanceofwindingsat20 °C(measuredvalues shouldbewithin10%) |  |  |  |  |  |  |  |  |
+|  | MainStator(lead- lead)(Ohms) |  |  |  |  | )smhO(rotatS reticxE | )smhO(L-L,rotoR reticxE | )smhO(rotoRniaM | )smhO(SBE |
+|  | 311 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 14 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 17 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 05 (U1-U2) (U5-U6) | 06 (U1-U2) (U5-U6) |  |  |  |  |
+| PI044D | 1.050 | 0.660 | 1.571 | 0.536 | 0.412 | 17.5 | 0.2110 | 0.437 | 12.9 |
+| PI044E | 0.664 | 0.425 | 0.972 | 0.375 | 0.275 | 17.5 | 0.2110 | 0.415 | 12.9 |
+| PI044F | 0.476 | 0.325 | 0.671 | 0.232 | 0.179 | 18.5 | 0.2280 | 0.465 | 12.9 |
+| PI044G | 0.351 | 0.230 | 0.476 | 0.173 | 0.134 | 18.5 | 0.2280 | 0.551 | 12.9 |
+| PI044H | 0.253 | 0.195 | 0.380 | 0.142 | 0.097 | 18.5 | 0.2280 | 0.545 | 12.9 |
+| PI144D | 0.189 | 0.132 | 0.292 | 0.100 | 0.066 | 18.5 | 0.2280 | 0.657 | 12.9 |
+| PI144E | 0.148 | 0.102 | 0.227 | 0.085 | 0.060 | 19.4 | 0.2150 | 0.670 | 12.9 |
+| PI144F | 0.133 | 0.097 | 0.190 | 0.069 | 0.047 | 20.3 | 0.2010 | 0.708 | 12.9 |
+| PI144G | 0.111 | 0.071 | 0.153 | 0.054 | 0.036 | 20.3 | 0.2010 | 0.857 | 12.9 |
+| PI144H | 0.090 | 0.065 | 0.125 | 0.042 | 0.030 | 22.9 | 0.2100 | 0.890 | 12.9 |
+| PI144J | 0.077 | 0.055 | 0.115 | 0.035 | 0.025 | 22.9 | 0.2100 | 0.990 | 12.9 |
+| PI144K | 0.077 | 0.049 | 0.096 | 0.035 | 0.026 | 22.9 | 0.2100 | 0.983 | 12.9 |
+| PI042D | 0.642 | n/a | n/a | 0.277 | 0.197 | 13.5 | 0.0479 | 0.798 | 12.9 |
+| PI042E | 0.403 | n/a | n/a | 0.198 | 0.131 | 13.5 | 0.0479 | 0.895 | 12.9 |
+| PI042F | 0.357 | n/a | n/a | 0.156 | 0.096 | 13.5 | 0.0479 | 0.931 | 12.9 |
+| PI042G | 0.268 | n/a | n/a | 0.107 | 0.085 | 13.5 | 0.0479 | 0.993 | 12.9 |
+| PI142D | 0.189 | n/a | n/a | 0.077 | 0.060 | 18.0 | 0.1280 | 1.125 | 12.9 |
+| PI142E | 0.153 | n/a | n/a | 0.064 | 0.046 | 19.0 | 0.1340 | 1.214 | 12.9 |
+| PI142F | 0.125 | n/a | n/a | 0.057 | 0.037 | 20.0 | 0.1050 | 1.280 | 12.9 |
+| PI142G | 0.089 | n/a | n/a | 0.043 | 0.025 | 20.0 | 0.1050 | 1.479 | 12.9 |
+| PI142H | 0.077 | n/a | n/a | 0.036 | 0.025 | 20.0 | 0.1050 | 1.590 | 12.9 |
+
+--- FIM DA PÁGINA 59 ---
+
+--- INÍCIO DA PÁGINA 60 ---
+-
+Resistanceofwindingsat 20 °C(measuredvaluesshouldbewithin10%)
+MainStator(lead-lead)(Ohms)
+311 14 17 05 06
+(U1-U2) (U1-U2) (U1-U2) (U1-U2) (U1-U2)
+(V1-V2) (V1-V2) (V1-V2) (U5-U6) (U5-U6)
+(W1-W2) (W1-W2) (W1-W2)
+(U5-U6) (U5-U6) (U5-U6)
+(V5-V6) (V5-V6) (V5-V6)
+(W5-W6) (W5-W6) (W5-W6)
+rotanretlA
+)smhO(rotatSreticxE
+)smhO(L-L,rotoRreticxE
+)smhO(rotoRniaM
+)smhO(SBE
+PI142J 0.070 n/a n/a 0.030 0.023 20.0 0.1050 1.709 12.9
+7.2 UC Winding Resistances
+TABLE 11. AVR-CONTROLLEDALTERNATORS
+Resistanceofwindingsat20 °C(measuredvaluesshouldbe within10%)
+MainStator(lead- lead)(Ohms)
+311 05 06 14 17 25 27
+(U1-U2) (U1-U2) (U1-U2) (U1-U2) (U1-U2) (U1-U2) (U1-U2)
+(V1-V2) (U5-U6) (U5-U6) (V1-V2) (V1-V2) (V1-V2) (V1-V2)
+(W1-W2) (W1-W2) (W1-W2) (W1-W2) (W1-W2)
+(U5-U6) (U5-U6) (U5-U6) (U5-U6) (U5-U6)
+(V5-V6) (V5-V6) (V5-V6) (V5-V6) (V5-V6)
+(W5-W6) (W5-W6) (W5-W6) (W5-W6) (W5-W6)
+rotanretlA
+)smhO(rotatSreticxE
+)smhO(L-L,rotoRreticxE
+)smhO(rotoRniaM
+)smhO(L-L
+,rotatSGMP
+0.09 0.04 0.03 0.05 0.14 0.30 0.14
+UC22C n/a 21 0.59 2.6
+0 5 0 9 0 8 2
+0.06 0.03 0.02 0.04 0.10 0.18 0.14
+UC22D n/a 21 0.64 2.6
+5 3 5 5 0 0 2
+0.05 0.02 0.02 0.03 0.07 0.15
+UC22E n/a n/a 20 0.69 2.6
+0 8 0 5 5 6
+0.03 0.01 0.01 0.02 0.05 0.11 0.15
+UC22F n/a 20 0.83 2.6
+3 8 2 4 1 1 6
+0.02 0.01 0.01 0.01 0.04 0.09 0.15
+UC22G n/a 20 0.94 2.6
+8 4 0 8 3 0 6
+0.03 0.01 0.01 0.02 0.04 0.08 0.15
+UC27C n/a 20 1.12 2.6
+0 6 1 2 4 2 6
+0.01 0.01 0.00 0.01 0.02 0.05 0.15
+UC27D n/a 20 1.26 2.6
+9 0 7 4 6 3 6
+0.01 0.00 0.00 0.01 0.00 0.04 0.03 0.18
+UC27E 20 1.34 2.6
+6 9 8 1 3 0 8 2
+0.01 0.00 0.00 0.01 0.01 0.03 0.18
+UC27F n/a 20 1.52 2.6
+2 7 5 0 9 7 2
+0.01 0.00 0.00 0.00 0.01 0.02 0.18
+UC27G n/a 20 1.69 2.6
+0 6 4 8 3 8 2
+56 A054E988(Issue1)
+
+**Tabela 1 (Página 60):**
+| rotanretlA | Resistanceofwindingsat 20 °C(measuredvaluesshouldbewithin10%) |  |  |  |  |  |  |  |  |
+|  | MainStator(lead-lead)(Ohms) |  |  |  |  | )smhO(rotatSreticxE | )smhO(L-L,rotoRreticxE | )smhO(rotoRniaM | )smhO(SBE |
+|  | 311 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 14 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 17 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 05 (U1-U2) (U5-U6) | 06 (U1-U2) (U5-U6) |  |  |  |  |
+| PI142J | 0.070 | n/a | n/a | 0.030 | 0.023 | 20.0 | 0.1050 | 1.709 | 12.9 |
+
+**Tabela 2 (Página 60):**
+| rotanretlA | Resistanceofwindingsat20 °C(measuredvaluesshouldbe within10%) |  |  |  |  |  |  |  |  |  |  |
+|  | MainStator(lead- lead)(Ohms) |  |  |  |  |  |  | )smhO(rotatSreticxE | )smhO(L-L,rotoRreticxE | )smhO(rotoRniaM | )smhO(L-L ,rotatSGMP |
+|  | 311 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 05 (U1-U2) (U5-U6) | 06 (U1-U2) (U5-U6) | 14 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 17 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 25 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 27 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) |  |  |  |  |
+| UC22C | 0.09 0 | 0.04 5 | 0.03 0 | 0.05 9 | 0.14 0 | 0.30 8 | n/a | 21 | 0.14 2 | 0.59 | 2.6 |
+| UC22D | 0.06 5 | 0.03 3 | 0.02 5 | 0.04 5 | 0.10 0 | 0.18 0 | n/a | 21 | 0.14 2 | 0.64 | 2.6 |
+| UC22E | 0.05 0 | 0.02 8 | 0.02 0 | 0.03 5 | 0.07 5 | n/a | n/a | 20 | 0.15 6 | 0.69 | 2.6 |
+| UC22F | 0.03 3 | 0.01 8 | 0.01 2 | 0.02 4 | 0.05 1 | 0.11 1 | n/a | 20 | 0.15 6 | 0.83 | 2.6 |
+| UC22G | 0.02 8 | 0.01 4 | 0.01 0 | 0.01 8 | 0.04 3 | 0.09 0 | n/a | 20 | 0.15 6 | 0.94 | 2.6 |
+| UC27C | 0.03 0 | 0.01 6 | 0.01 1 | 0.02 2 | 0.04 4 | 0.08 2 | n/a | 20 | 0.15 6 | 1.12 | 2.6 |
+| UC27D | 0.01 9 | 0.01 0 | 0.00 7 | 0.01 4 | 0.02 6 | 0.05 3 | n/a | 20 | 0.15 6 | 1.26 | 2.6 |
+| UC27E | 0.01 6 | 0.00 9 | 0.00 8 | 0.01 1 | 0.00 3 | 0.04 0 | 0.03 8 | 20 | 0.18 2 | 1.34 | 2.6 |
+| UC27F | 0.01 2 | 0.00 7 | 0.00 5 | 0.01 0 | 0.01 9 | 0.03 7 | n/a | 20 | 0.18 2 | 1.52 | 2.6 |
+| UC27G | 0.01 0 | 0.00 6 | 0.00 4 | 0.00 8 | 0.01 3 | 0.02 8 | n/a | 20 | 0.18 2 | 1.69 | 2.6 |
+
+--- FIM DA PÁGINA 60 ---
+
+--- INÍCIO DA PÁGINA 61 ---
+-
+Resistanceofwindingsat 20 °C(measuredvaluesshouldbewithin10%)
+MainStator(lead-lead)(Ohms)
+311 05 06 14 17 25 27
+(U1-U2) (U1-U2) (U1-U2) (U1-U2) (U1-U2) (U1-U2) (U1-U2)
+(V1-V2) (U5-U6) (U5-U6) (V1-V2) (V1-V2) (V1-V2) (V1-V2)
+(W1-W2) (W1-W2) (W1-W2) (W1-W2) (W1-W2)
+(U5-U6) (U5-U6) (U5-U6) (U5-U6) (U5-U6)
+(V5-V6) (V5-V6) (V5-V6) (V5-V6) (V5-V6)
+(W5-W6) (W5-W6) (W5-W6) (W5-W6) (W5-W6)
+rotanretlA
+)smhO(rotatSreticxE
+)smhO(L-L,rotoRreticxE
+)smhO(rotoRniaM
+)smhO(L-L,rotatSGMP
+0.00 0.00 0.00 0.00 0.01 0.02 0.01 0.18
+UC27H 20 1.82 2.6
+8 4 4 7 4 1 5 2
+0.00 0.00 0.00 0.18
+UCD27J n/a n/a n/a n/a 20 2.08 2.6
+6 4 9 2
+0.00 0.00 0.18
+UCD27K n/a n/a n/a n/a n/a 20 2.08 2.6
+6 9 2
+TABLE 12. TRANSFORMER-CONTROLLEDALTERNATORS
+Resistanceofwindingsat20 °C(measuredvaluesshouldbewithin10%)
+MainStator3PhaseWindings, L-N ExciterStator
+(Ohms) (Ohms)
+1 phase
+transforme 3 phase
+r, transforme
+1or3 r,
+380V 400V 415V 416V 460V phase 3 phase
+rotanretlA
+)smhO(L-L,rotoRreticxE
+)smhO(rotoRniaM
+50Hz 50Hz 50Hz 60Hz 60 Hz generator generator
+UC22C 0.059 0.078 0.082 0.055 0.059 28 138 0.142 0.59
+UC22D 0.054 0.056 0.057 0.049 0.054 28 138 0.142 0.64
+UC22E 0.041 0.05 0.053 0.038 0.041 30 155 0.156 0.69
+UC22F 0.031 0.032 0.033 0.025 0.031 30 155 0.156 0.83
+UC22G 0.022 0.026 0.028 0.021 0.022 30 155 0.156 0.94
+A054E988(Issue1) 57
+
+**Tabela 1 (Página 61):**
+| rotanretlA | Resistanceofwindingsat 20 °C(measuredvaluesshouldbewithin10%) |  |  |  |  |  |  |  |  |  |  |
+|  | MainStator(lead-lead)(Ohms) |  |  |  |  |  |  | )smhO(rotatSreticxE | )smhO(L-L,rotoRreticxE | )smhO(rotoRniaM | )smhO(L-L,rotatSGMP |
+|  | 311 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 05 (U1-U2) (U5-U6) | 06 (U1-U2) (U5-U6) | 14 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 17 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 25 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 27 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) |  |  |  |  |
+| UC27H | 0.00 8 | 0.00 4 | 0.00 4 | 0.00 7 | 0.01 4 | 0.02 1 | 0.01 5 | 20 | 0.18 2 | 1.82 | 2.6 |
+| UCD27J | 0.00 6 | n/a | n/a | 0.00 4 | 0.00 9 | n/a | n/a | 20 | 0.18 2 | 2.08 | 2.6 |
+| UCD27K | 0.00 6 | n/a | n/a | n/a | 0.00 9 | n/a | n/a | 20 | 0.18 2 | 2.08 | 2.6 |
+
+**Tabela 2 (Página 61):**
+| rotanretlA | Resistanceofwindingsat20 °C(measuredvaluesshouldbewithin10%) |  |  |  |  |  |  |  |  |
+|  | MainStator3PhaseWindings, L-N (Ohms) |  |  |  |  | ExciterStator (Ohms) |  | )smhO(L-L,rotoRreticxE | )smhO(rotoRniaM |
+|  | 380V 50Hz | 400V 50Hz | 415V 50Hz | 416V 60Hz | 460V 60 Hz | 1 phase transforme r, 1or3 phase generator | 3 phase transforme r, 3 phase generator |  |  |
+| UC22C | 0.059 | 0.078 | 0.082 | 0.055 | 0.059 | 28 | 138 | 0.142 | 0.59 |
+| UC22D | 0.054 | 0.056 | 0.057 | 0.049 | 0.054 | 28 | 138 | 0.142 | 0.64 |
+| UC22E | 0.041 | 0.05 | 0.053 | 0.038 | 0.041 | 30 | 155 | 0.156 | 0.69 |
+| UC22F | 0.031 | 0.032 | 0.033 | 0.025 | 0.031 | 30 | 155 | 0.156 | 0.83 |
+| UC22G | 0.022 | 0.026 | 0.028 | 0.021 | 0.022 | 30 | 155 | 0.156 | 0.94 |
+
+--- FIM DA PÁGINA 61 ---
+
+--- INÍCIO DA PÁGINA 62 ---
+-
+7.3 HC Winding Resistances
+Resistanceofwindingsat20 °C(measuredvaluesshouldbewithin10%)
+MainStator (lead-lead)(Ohms)
+311 17 14 25 27
+(U1-U2) (U1-U2) (U1-U2) (U1-U2) (U1-U2)
+(V1-V2) (V1-V2) (V1-V2) (V1-V2) (V1-V2)
+(W1-W2) (W1-W2) (W1-W2) (W1-W2) (W1-W2)
+(U5-U6) (U5-U6) (U5-U6) (U5-U6) (U5-U6)
+(V5-V6) (V5-V6) (V5-V6) (V5-V6) (V5-V6)
+(W5-W6) (W5-W6) (W5-W6) (W5-W6) (W5-W6)
+rotanretlA
+)smhO(rotatSreticxE
+)smhO(L-L,rotoRreticxE
+)smhO(rotoRniaM
+)smhO(L-L,rotatSGMP
+HC434C 0.0083 0.0115 0.0055 0.0020 0.0154 18 0.136 0.92 2.6
+HC434D 0.0062 0.0100 0.0045 0.0160 0.0130 18 0.136 1.05 2.6
+HC434E 0.0045 0.0075 n/a 0.0140 0.0100 18 0.136 1.19 2.6
+HC434F 0.0037 0.0055 n/a 0.0105 0.0075 18 0.136 1.37 2.6
+HC444C 0.0083 0.0115 0.0055 0.0020 0.0154 18 0.136 0.92 n/a
+HC444D 0.0062 0.0100 0.0045 0.0160 0.0130 18 0.136 1.05 n/a
+HC444E 0.0045 0.0075 n/a 0.0140 0.0100 18 0.136 1.19 n/a
+HC444F 0.0037 0.0055 n/a 0.0105 0.0075 18 0.136 1.37 n/a
+HC534C 0.0033 0.0053 0.0026 0.0100 0.0065 17 0.184 1.55 2.6
+HC534D 0.0025 0.0040 0.0021 0.0075 0.0005 17 0.184 1.77 2.6
+HC534E 0.0022 0.0034 0.0013 n/a 0.0044 17 0.184 1.96 2.6
+HC534F 0.0019 0.0025 0.0013 0.0050 0.0041 17 0.184 2.46 2.6
+HC544C 0.0033 0.0053 0.0026 0.0100 0.0065 17 0.184 1.55 n/a
+HC544D 0.0025 0.0040 0.0021 0.0075 0.0005 17 0.184 1.77 n/a
+HC544E 0.0022 0.0034 0.0013 n/a 0.0044 17 0.184 1.96 n/a
+HC544F 0.0019 0.0025 0.0013 0.0050 0.0041 17 0.184 2.46 n/a
+HC634G 0.0017 n/a n/a n/a n/a 17 0.158 1.75 5.6
+HC634H 0.0013 n/a n/a n/a n/a 17 0.158 1.88 5.6
+HC634J 0.0011 n/a n/a n/a n/a 17 0.158 2.09 5.6
+HC634K 0.0009 n/a n/a n/a n/a 17 0.158 2.36 5.6
+58 A054E988(Issue1)
+
+**Tabela 1 (Página 62):**
+| rotanretlA | Resistanceofwindingsat20 °C(measuredvaluesshouldbewithin10%) |  |  |  |  |  |  |  |  |
+|  | MainStator (lead-lead)(Ohms) |  |  |  |  | )smhO(rotatSreticxE | )smhO(L-L,rotoRreticxE | )smhO(rotoRniaM | )smhO(L-L,rotatSGMP |
+|  | 311 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 17 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 14 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 25 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 27 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) |  |  |  |  |
+| HC434C | 0.0083 | 0.0115 | 0.0055 | 0.0020 | 0.0154 | 18 | 0.136 | 0.92 | 2.6 |
+| HC434D | 0.0062 | 0.0100 | 0.0045 | 0.0160 | 0.0130 | 18 | 0.136 | 1.05 | 2.6 |
+| HC434E | 0.0045 | 0.0075 | n/a | 0.0140 | 0.0100 | 18 | 0.136 | 1.19 | 2.6 |
+| HC434F | 0.0037 | 0.0055 | n/a | 0.0105 | 0.0075 | 18 | 0.136 | 1.37 | 2.6 |
+| HC444C | 0.0083 | 0.0115 | 0.0055 | 0.0020 | 0.0154 | 18 | 0.136 | 0.92 | n/a |
+| HC444D | 0.0062 | 0.0100 | 0.0045 | 0.0160 | 0.0130 | 18 | 0.136 | 1.05 | n/a |
+| HC444E | 0.0045 | 0.0075 | n/a | 0.0140 | 0.0100 | 18 | 0.136 | 1.19 | n/a |
+| HC444F | 0.0037 | 0.0055 | n/a | 0.0105 | 0.0075 | 18 | 0.136 | 1.37 | n/a |
+| HC534C | 0.0033 | 0.0053 | 0.0026 | 0.0100 | 0.0065 | 17 | 0.184 | 1.55 | 2.6 |
+| HC534D | 0.0025 | 0.0040 | 0.0021 | 0.0075 | 0.0005 | 17 | 0.184 | 1.77 | 2.6 |
+| HC534E | 0.0022 | 0.0034 | 0.0013 | n/a | 0.0044 | 17 | 0.184 | 1.96 | 2.6 |
+| HC534F | 0.0019 | 0.0025 | 0.0013 | 0.0050 | 0.0041 | 17 | 0.184 | 2.46 | 2.6 |
+| HC544C | 0.0033 | 0.0053 | 0.0026 | 0.0100 | 0.0065 | 17 | 0.184 | 1.55 | n/a |
+| HC544D | 0.0025 | 0.0040 | 0.0021 | 0.0075 | 0.0005 | 17 | 0.184 | 1.77 | n/a |
+| HC544E | 0.0022 | 0.0034 | 0.0013 | n/a | 0.0044 | 17 | 0.184 | 1.96 | n/a |
+| HC544F | 0.0019 | 0.0025 | 0.0013 | 0.0050 | 0.0041 | 17 | 0.184 | 2.46 | n/a |
+| HC634G | 0.0017 | n/a | n/a | n/a | n/a | 17 | 0.158 | 1.75 | 5.6 |
+| HC634H | 0.0013 | n/a | n/a | n/a | n/a | 17 | 0.158 | 1.88 | 5.6 |
+| HC634J | 0.0011 | n/a | n/a | n/a | n/a | 17 | 0.158 | 2.09 | 5.6 |
+| HC634K | 0.0009 | n/a | n/a | n/a | n/a | 17 | 0.158 | 2.36 | 5.6 |
+
+--- FIM DA PÁGINA 62 ---
+
+--- INÍCIO DA PÁGINA 63 ---
+-
+Resistanceofwindingsat 20 °C(measuredvaluesshouldbewithin10%)
+MainStator (lead-lead)(Ohms)
+312 07 13 26 28
+(U1-U2) (U1-U2) (U1-U2) (U1-U2) (U1-U2)
+(V1-V2) (V1-V2) (V1-V2) (V1-V2) (V1-V2)
+(W1-W2) (W1-W2) (W1-W2) (W1-W2) (W1-W2)
+rotanretlA
+)smhO(rotatSreticxE
+)smhO(L-L,rotoRreticxE
+)smhO(rotoRniaM
+)smhO(L-L,rotatSGMP
+HC434F n/a n/a 0.0060 n/a n/a 18 0.136 1.37 2.6
+HC444F n/a n/a 0.0060 n/a n/a 18 0.136 1.37 n/a
+HC534E n/a n/a n/a 0.0130 n/a 17 0.184 1.96 2.6
+HC544E n/a n/a n/a 0.0130 n/a 17 0.184 1.96 n/a
+HC634G 0.0034 0.0055 0.0002 0.0090 0.0075 17 0.158 1.75 5.6
+HC634H 0.0025 0.0036 0.0019 0.0080 n/a 17 0.158 1.88 5.6
+HC634J 0.0022 0.0030 0.0015 0.0060 n/a 17 0.158 2.09 5.6
+HC634K 0.0017 0.0026 0.0010 0.0045 0.0030 17 0.158 2.36 5.6
+HC636G 0.0090 0.0102 n/a n/a n/a 17 0.200 1.12 5.6
+HC636H 0.0063 0.0102 n/a n/a n/a 17 0.200 1.33 5.6
+HC636J 0.0049 0.0070 n/a n/a n/a 17 0.200 1.50 5.6
+HC636K 0.0039 0.0060 n/a n/a n/a 17 0.200 1.75 5.6
+7.4 HCG Winding Resistances
+Resistanceofwindingsat20 °C(measuredvalues shouldbe
+within10%)
+MainStator
+(lead-lead)(ohms)
+311 312
+(U1-U2) (U1-U2)
+(V1-V2) (V1-V2)
+(W1-W2) (W1-W2)
+(U5-U6)
+(V5-V6)
+rotanretlA
+)smho(rotatS
+reticxE
+)smho(L-L
+,rotoR
+reticxE
+)smho(rotoRniaM
+)smho(L-L,rotatSGMP
+(W5-W6)
+HCG434C 0.0083 n/a 18 0.136 0.92 2.6
+HCG434D 0.0062 n/a 18 0.136 1.05 2.6
+HCG434E 0.0045 n/a 18 0.136 1.19 2.6
+HCG434F 0.0037 n/a 18 0.136 1.37 2.6
+HCG534C 0.0033 n/a 17 0.184 1.55 2.6
+HCG534D 0.0025 n/a 17 0.184 1.77 2.6
+A054E988(Issue1) 59
+
+**Tabela 1 (Página 63):**
+| rotanretlA | Resistanceofwindingsat 20 °C(measuredvaluesshouldbewithin10%) |  |  |  |  |  |  |  |  |
+|  | MainStator (lead-lead)(Ohms) |  |  |  |  | )smhO(rotatSreticxE | )smhO(L-L,rotoRreticxE | )smhO(rotoRniaM | )smhO(L-L,rotatSGMP |
+|  | 312 (U1-U2) (V1-V2) (W1-W2) | 07 (U1-U2) (V1-V2) (W1-W2) | 13 (U1-U2) (V1-V2) (W1-W2) | 26 (U1-U2) (V1-V2) (W1-W2) | 28 (U1-U2) (V1-V2) (W1-W2) |  |  |  |  |
+| HC434F | n/a | n/a | 0.0060 | n/a | n/a | 18 | 0.136 | 1.37 | 2.6 |
+| HC444F | n/a | n/a | 0.0060 | n/a | n/a | 18 | 0.136 | 1.37 | n/a |
+| HC534E | n/a | n/a | n/a | 0.0130 | n/a | 17 | 0.184 | 1.96 | 2.6 |
+| HC544E | n/a | n/a | n/a | 0.0130 | n/a | 17 | 0.184 | 1.96 | n/a |
+| HC634G | 0.0034 | 0.0055 | 0.0002 | 0.0090 | 0.0075 | 17 | 0.158 | 1.75 | 5.6 |
+| HC634H | 0.0025 | 0.0036 | 0.0019 | 0.0080 | n/a | 17 | 0.158 | 1.88 | 5.6 |
+| HC634J | 0.0022 | 0.0030 | 0.0015 | 0.0060 | n/a | 17 | 0.158 | 2.09 | 5.6 |
+| HC634K | 0.0017 | 0.0026 | 0.0010 | 0.0045 | 0.0030 | 17 | 0.158 | 2.36 | 5.6 |
+| HC636G | 0.0090 | 0.0102 | n/a | n/a | n/a | 17 | 0.200 | 1.12 | 5.6 |
+| HC636H | 0.0063 | 0.0102 | n/a | n/a | n/a | 17 | 0.200 | 1.33 | 5.6 |
+| HC636J | 0.0049 | 0.0070 | n/a | n/a | n/a | 17 | 0.200 | 1.50 | 5.6 |
+| HC636K | 0.0039 | 0.0060 | n/a | n/a | n/a | 17 | 0.200 | 1.75 | 5.6 |
+
+**Tabela 2 (Página 63):**
+| rotanretlA | Resistanceofwindingsat20 °C(measuredvalues shouldbe within10%) |  |  |  |  |  |
+|  | MainStator (lead-lead)(ohms) |  | )smho(rotatS reticxE | )smho(L-L ,rotoR reticxE | )smho(rotoRniaM | )smho(L-L,rotatSGMP |
+|  | 311 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 312 (U1-U2) (V1-V2) (W1-W2) |  |  |  |  |
+| HCG434C | 0.0083 | n/a | 18 | 0.136 | 0.92 | 2.6 |
+| HCG434D | 0.0062 | n/a | 18 | 0.136 | 1.05 | 2.6 |
+| HCG434E | 0.0045 | n/a | 18 | 0.136 | 1.19 | 2.6 |
+| HCG434F | 0.0037 | n/a | 18 | 0.136 | 1.37 | 2.6 |
+| HCG534C | 0.0033 | n/a | 17 | 0.184 | 1.55 | 2.6 |
+| HCG534D | 0.0025 | n/a | 17 | 0.184 | 1.77 | 2.6 |
+
+--- FIM DA PÁGINA 63 ---
+
+--- INÍCIO DA PÁGINA 64 ---
+-
+Resistanceofwindingsat20 °C(measuredvalues shouldbe
+within10%)
+MainStator
+(lead-lead)(ohms)
+311 312
+(U1-U2) (U1-U2)
+(V1-V2) (V1-V2)
+(W1-W2) (W1-W2)
+(U5-U6)
+(V5-V6)
+rotanretlA
+)smho(rotatSreticxE
+)smho(L-L,rotoRreticxE
+)smho(rotoRniaM
+)smho(L-L,rotatSGMP
+(W5-W6)
+HCG534E 0.0022 n/a 17 0.184 1.96 2.6
+HCG534F 0.0019 n/a 17 0.184 2.46 2.6
+HCG634G 0.0017 0.0034 17 0.158 1.75 5.6
+HCG634H 0.0013 0.0025 17 0.158 1.88 5.6
+HCG634J 0.0011 0.0022 17 0.158 2.09 5.6
+HCG634K 0.0009 0.0017 17 0.158 2.36 5.6
+7.5 P6 Winding Resistances
+Resistanceofwindingsat20 °C
+(measuredvaluesshouldbewithin10%)
+MainStator
+(lead-lead)(ohms)
+311 312
+(U1-U2) (U1-U2)
+(V1-V2) (V1-V2)
+(W1-W2) (W1-W2)
+(U5-U6)
+(V5-V6)
+rotanretlA
+)smho(rotatSreticxE
+)smho(L-L,rotoRreticxE
+)smho(rotoRniaM
+)smho(L-L
+,rotatSGMP
+(W5-W6)
+P6-LVI634B 0.0021 0.00354 17.5 0.096 1.60 5.6
+P6-LVI634C n/a 0.00313 17.5 0.096 1.66 5.6
+P6-LVI634D 0.0015 0.00278 17.5 0.096 1.74 5.6
+P6-LVI634E 0.0012 0.00220 17.5 0.096 1.92 5.6
+P6-LVI634F 0.0009 0.00168 17.5 0.096 2.14 5.6
+P6-LVI634G 0.0008 0.00136 17.5 0.096 2.45 5.6
+60 A054E988(Issue1)
+
+**Tabela 1 (Página 64):**
+| rotanretlA | Resistanceofwindingsat20 °C(measuredvalues shouldbe within10%) |  |  |  |  |  |
+|  | MainStator (lead-lead)(ohms) |  | )smho(rotatSreticxE | )smho(L-L,rotoRreticxE | )smho(rotoRniaM | )smho(L-L,rotatSGMP |
+|  | 311 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 312 (U1-U2) (V1-V2) (W1-W2) |  |  |  |  |
+| HCG534E | 0.0022 | n/a | 17 | 0.184 | 1.96 | 2.6 |
+| HCG534F | 0.0019 | n/a | 17 | 0.184 | 2.46 | 2.6 |
+| HCG634G | 0.0017 | 0.0034 | 17 | 0.158 | 1.75 | 5.6 |
+| HCG634H | 0.0013 | 0.0025 | 17 | 0.158 | 1.88 | 5.6 |
+| HCG634J | 0.0011 | 0.0022 | 17 | 0.158 | 2.09 | 5.6 |
+| HCG634K | 0.0009 | 0.0017 | 17 | 0.158 | 2.36 | 5.6 |
+
+**Tabela 2 (Página 64):**
+| rotanretlA | Resistanceofwindingsat20 °C (measuredvaluesshouldbewithin10%) |  |  |  |  |  |
+|  | MainStator (lead-lead)(ohms) |  | )smho(rotatSreticxE | )smho(L-L,rotoRreticxE | )smho(rotoRniaM | )smho(L-L ,rotatSGMP |
+|  | 311 (U1-U2) (V1-V2) (W1-W2) (U5-U6) (V5-V6) (W5-W6) | 312 (U1-U2) (V1-V2) (W1-W2) |  |  |  |  |
+| P6-LVI634B | 0.0021 | 0.00354 | 17.5 | 0.096 | 1.60 | 5.6 |
+| P6-LVI634C | n/a | 0.00313 | 17.5 | 0.096 | 1.66 | 5.6 |
+| P6-LVI634D | 0.0015 | 0.00278 | 17.5 | 0.096 | 1.74 | 5.6 |
+| P6-LVI634E | 0.0012 | 0.00220 | 17.5 | 0.096 | 1.92 | 5.6 |
+| P6-LVI634F | 0.0009 | 0.00168 | 17.5 | 0.096 | 2.14 | 5.6 |
+| P6-LVI634G | 0.0008 | 0.00136 | 17.5 | 0.096 | 2.45 | 5.6 |
+
+--- FIM DA PÁGINA 64 ---
+
+--- INÍCIO DA PÁGINA 65 ---
+-
+7.6 P7 Winding Resistances
+Resistanceofwindingsat20 °C(measuredvaluesshouldbewithin10%)
+MainStator
+(lead-lead)(Ohms)
+312 07 13 26 28
+(U1-U2) (U1-U2) (U1-U2) (U1-U2) (U1-U2)
+(V1-V2) (V1-V2) (V1-V2) (V1-V2) (V1-V2)
+(W1-W2) (W1-W2) (W1-W2) (W1-W2) (W1-W2)
+rotanretlA
+)smhO(rotatSreticxE
+)smhO(L-L,rotoRreticxE
+)smhO(rotoRniaM
+)smhO(L-L,rotatSGMP
+P734A 0.0016 0.0026 0.0013 0.0048 0.0031 17.5 0.126 1.67 2.6
+P734B 0.0016 0.0026 0.0013 0.0048 0.0031 17.5 0.126 1.67 2.6
+P734C 0.0013 0.0020 0.0009 0.0034 0.0027 17.5 0.126 1.85 2.6
+P734D 0.0011 0.0020 0.0009 0.0031 0.0019 17.5 0.126 1.98 2.6
+P734E 0.0009 0.0015 n/a 0.0030 0.0020 17.5 0.126 2.17 2.6
+P734F 0.0008 0.0011 0.0005 0.0022 0.0016 17.5 0.126 2.31 2.6
+P734G 0.0008 0.0011 n/a 0.0022 n/a 16.0 0.112 2.42 2.6
+P736B 0.0027 0.0042 n/a n/a n/a 17.0 0.200 2.33 5.6
+P736D 0.0018 0.0032 n/a n/a n/a 17.0 0.200 2.69 5.6
+P736F 0.0014 0.0020 n/a n/a n/a 20.0 0.280 3.25 5.6
+7.7 PG7 Winding Resistances
+Resistanceof windingsat 20 °C
+(measuredvaluesshouldbe within10%)
+MainStator
+(lead-lead)
+(ohms)
+312
+(U1-U2)
+(V1-V2)
+(W1-W2)
+rotanretlA
+)smho(rotatS
+reticxE
+)smho(L-L,rotoR
+reticxE
+)smho(rotoRniaM
+)smho(L-L,rotatSGMP
+PG7S 0.00093 17.5 0.126 2.17 2.6
+PG7T 0.00076 17.5 0.126 2.31 2.6
+A054E988(Issue1) 61
+
+**Tabela 1 (Página 65):**
+| rotanretlA | Resistanceofwindingsat20 °C(measuredvaluesshouldbewithin10%) |  |  |  |  |  |  |  |  |
+|  | MainStator (lead-lead)(Ohms) |  |  |  |  | )smhO(rotatSreticxE | )smhO(L-L,rotoRreticxE | )smhO(rotoRniaM | )smhO(L-L,rotatSGMP |
+|  | 312 (U1-U2) (V1-V2) (W1-W2) | 07 (U1-U2) (V1-V2) (W1-W2) | 13 (U1-U2) (V1-V2) (W1-W2) | 26 (U1-U2) (V1-V2) (W1-W2) | 28 (U1-U2) (V1-V2) (W1-W2) |  |  |  |  |
+| P734A | 0.0016 | 0.0026 | 0.0013 | 0.0048 | 0.0031 | 17.5 | 0.126 | 1.67 | 2.6 |
+| P734B | 0.0016 | 0.0026 | 0.0013 | 0.0048 | 0.0031 | 17.5 | 0.126 | 1.67 | 2.6 |
+| P734C | 0.0013 | 0.0020 | 0.0009 | 0.0034 | 0.0027 | 17.5 | 0.126 | 1.85 | 2.6 |
+| P734D | 0.0011 | 0.0020 | 0.0009 | 0.0031 | 0.0019 | 17.5 | 0.126 | 1.98 | 2.6 |
+| P734E | 0.0009 | 0.0015 | n/a | 0.0030 | 0.0020 | 17.5 | 0.126 | 2.17 | 2.6 |
+| P734F | 0.0008 | 0.0011 | 0.0005 | 0.0022 | 0.0016 | 17.5 | 0.126 | 2.31 | 2.6 |
+| P734G | 0.0008 | 0.0011 | n/a | 0.0022 | n/a | 16.0 | 0.112 | 2.42 | 2.6 |
+| P736B | 0.0027 | 0.0042 | n/a | n/a | n/a | 17.0 | 0.200 | 2.33 | 5.6 |
+| P736D | 0.0018 | 0.0032 | n/a | n/a | n/a | 17.0 | 0.200 | 2.69 | 5.6 |
+| P736F | 0.0014 | 0.0020 | n/a | n/a | n/a | 20.0 | 0.280 | 3.25 | 5.6 |
+
+**Tabela 2 (Página 65):**
+| rotanretlA | Resistanceof windingsat 20 °C (measuredvaluesshouldbe within10%) |  |  |  |  |
+|  | MainStator (lead-lead) (ohms) | )smho(rotatS reticxE | )smho(L-L,rotoR reticxE | )smho(rotoRniaM | )smho(L-L,rotatSGMP |
+|  | 312 (U1-U2) (V1-V2) (W1-W2) |  |  |  |  |
+| PG7S | 0.00093 | 17.5 | 0.126 | 2.17 | 2.6 |
+| PG7T | 0.00076 | 17.5 | 0.126 | 2.31 | 2.6 |
+
+--- FIM DA PÁGINA 65 ---
+
+--- INÍCIO DA PÁGINA 66 ---
+-
+7.8 MV734 Parameters
+Voltageatterminals Resistanceof windingsat 20 °C
+Typical Norma
+Residual l
+rotanretlA
+)zH(ycneuqerF
+)Vk(L-L,esahpot
+esahP
+)V(
+8,7,6
+)V(L-L,niaM
+)V(
+8,7,6
+)smhO(rotatSreticxE
+)smhO(L-LrotoRreticxE
+)smhO(rotoRniaM
+ot
+esahProtatSniaM
+)smhO(N-L,lartueN
+)smhO(L-L,rotatSGMP
+165-
+50 3.3 60 500 17 0.096 1.20 0.125 3.8
+190
+208-
+E437VM
+60 4.16 75 650 17 0.096 1.20 0.125 3.8
+240
+165-
+50 3.3 60 500 17 0.096 1.34 0.089 3.8
+190
+208-
+F437VM
+60 4.16 75 650 17 0.096 1.34 0.089 3.8
+240
+165-
+50 3.3 60 500 17 0.096 1.58 0.068 3.8
+190
+208-
+G437VM
+60 4.16 75 650 17 0.096 1.58 0.068 3.8
+240
+165- 50 3.3 60 500 17 0.096 1.75 0.056 3.8
+190
+208-
+H437VM
+60 4.16 75 650 17 0.096 1.75 0.056 3.8
+240
+62 A054E988(Issue1)
+
+**Tabela 1 (Página 66):**
+| rotanretlA | )zH(ycneuqerF | Voltageatterminals |  |  |  | Resistanceof windingsat 20 °C |  |  |  |  |
+|  |  | )Vk(L-L,esahpot esahP | Typical Residual |  | Norma l | )smhO(rotatSreticxE | )smhO(L-LrotoRreticxE | )smhO(rotoRniaM | ot )smhO(N-L,lartueN esahProtatSniaM | )smhO(L-L,rotatSGMP |
+|  |  |  | )V( 8,7,6 | )V(L-L,niaM | )V( 8,7,6 |  |  |  |  |  |
+| E437VM | 50 | 3.3 | 60 | 500 | 165- 190 | 17 | 0.096 | 1.20 | 0.125 | 3.8 |
+|  | 60 | 4.16 | 75 | 650 | 208- 240 | 17 | 0.096 | 1.20 | 0.125 | 3.8 |
+| F437VM | 50 | 3.3 | 60 | 500 | 165- 190 | 17 | 0.096 | 1.34 | 0.089 | 3.8 |
+|  | 60 | 4.16 | 75 | 650 | 208- 240 | 17 | 0.096 | 1.34 | 0.089 | 3.8 |
+| G437VM | 50 | 3.3 | 60 | 500 | 165- 190 | 17 | 0.096 | 1.58 | 0.068 | 3.8 |
+|  | 60 | 4.16 | 75 | 650 | 208- 240 | 17 | 0.096 | 1.58 | 0.068 | 3.8 |
+| H437VM | 50 | 3.3 | 60 | 500 | 165- 190 | 17 | 0.096 | 1.75 | 0.056 | 3.8 |
+|  | 60 | 4.16 | 75 | 650 | 208- 240 | 17 | 0.096 | 1.75 | 0.056 | 3.8 |
+
+--- FIM DA PÁGINA 66 ---
+
+--- INÍCIO DA PÁGINA 67 ---
+-
+7.9 LV804 Parameters
+Voltageatterminals(V) Resistanceof windings at 20 °C
+Typical
+Normal
+Residual
+rotanretlA
+)zH(ycneuqerF
+L-L,esahpot
+esahP
+)3E,2E,1E(
+8,7,6
+L-L,niaM
+8,7,6
+3E,2E,1E
+)smhO(rotatSreticxE
+)smhO(L-LrotoRreticxE
+)smhO(rotoRniaM
+ot
+esahProtatSniaM
+)smhOillim(N-L,lartueN )smhO(L-L,rotatSGMP
+190-
+50 400 35/60 60 400 17.5 0.076 1.32 0.67 3.8
+250
+190- 190-
+50 690 35 100 17.5 0.076 1.32 1.58 3.8
+250 250
+190-
+R408VL
+60 480 35/70 70 480 17.5 0.076 1.32 0.67 3.8
+250
+190-
+60 600 35/90 90 600 17.5 0.076 1.32 0.97 3.8
+250
+190-
+50 400 35/60 60 400 17.5 0.076 1.40 0.54 3.8
+250
+190- 190-
+50 690 35 100 17.5 0.076 1.40 1.45 3.8
+250 250
+190-
+S408VL
+60 480 35/70 70 480 17.5 0.076 1.40 0.54 3.8
+250
+190-
+60 600 35/90 90 600 17.5 0.076 1.40 0.76 3.8
+250
+190-
+50 400 35/60 60 400 17.5 0.076 1.50 0.44 3.8
+250
+190- 190-
+50 690 35 100 17.5 0.076 1.50 1.15 3.8
+250 250
+190-
+T408VL
+60 480 35 70 480 17.5 0.076 1.50 0.44 3.8
+250
+190-
+60 600 35/90 90 600 17.5 0.076 1.50 0.71 3.8
+250
+190-
+50 400 35/60 60 400 16 0.092 1.47 0.33 3.8
+250
+190- 190-
+50 690 35 100 16 0.092 1.47 0.88 3.8
+250 250
+190-
+W408VL
+60 480 35/70 70 480 16 0.092 1.47 0.33 3.8
+250
+190-
+60 600 35/90 90 600 16 0.092 1.47 0.48 3.8
+250
+A054E988(Issue1) 63
+
+**Tabela 1 (Página 67):**
+| rotanretlA | )zH(ycneuqerF | Voltageatterminals(V) |  |  |  |  | Resistanceof windings at 20 °C |  |  |  |  |
+|  |  | L-L,esahpot esahP | Typical Residual |  | Normal |  | )smhO(rotatSreticxE | )smhO(L-LrotoRreticxE | )smhO(rotoRniaM | )smhOillim(N-L,lartueN ot esahProtatSniaM | )smhO(L-L,rotatSGMP |
+|  |  |  | )3E,2E,1E( 8,7,6 | L-L,niaM | 8,7,6 | 3E,2E,1E |  |  |  |  |  |
+| R408VL | 50 | 400 | 35/60 | 60 | 190- 250 | 400 | 17.5 | 0.076 | 1.32 | 0.67 | 3.8 |
+|  | 50 | 690 | 35 | 100 | 190- 250 | 190- 250 | 17.5 | 0.076 | 1.32 | 1.58 | 3.8 |
+|  | 60 | 480 | 35/70 | 70 | 190- 250 | 480 | 17.5 | 0.076 | 1.32 | 0.67 | 3.8 |
+|  | 60 | 600 | 35/90 | 90 | 190- 250 | 600 | 17.5 | 0.076 | 1.32 | 0.97 | 3.8 |
+| S408VL | 50 | 400 | 35/60 | 60 | 190- 250 | 400 | 17.5 | 0.076 | 1.40 | 0.54 | 3.8 |
+|  | 50 | 690 | 35 | 100 | 190- 250 | 190- 250 | 17.5 | 0.076 | 1.40 | 1.45 | 3.8 |
+|  | 60 | 480 | 35/70 | 70 | 190- 250 | 480 | 17.5 | 0.076 | 1.40 | 0.54 | 3.8 |
+|  | 60 | 600 | 35/90 | 90 | 190- 250 | 600 | 17.5 | 0.076 | 1.40 | 0.76 | 3.8 |
+| T408VL | 50 | 400 | 35/60 | 60 | 190- 250 | 400 | 17.5 | 0.076 | 1.50 | 0.44 | 3.8 |
+|  | 50 | 690 | 35 | 100 | 190- 250 | 190- 250 | 17.5 | 0.076 | 1.50 | 1.15 | 3.8 |
+|  | 60 | 480 | 35 | 70 | 190- 250 | 480 | 17.5 | 0.076 | 1.50 | 0.44 | 3.8 |
+|  | 60 | 600 | 35/90 | 90 | 190- 250 | 600 | 17.5 | 0.076 | 1.50 | 0.71 | 3.8 |
+| W408VL | 50 | 400 | 35/60 | 60 | 190- 250 | 400 | 16 | 0.092 | 1.47 | 0.33 | 3.8 |
+|  | 50 | 690 | 35 | 100 | 190- 250 | 190- 250 | 16 | 0.092 | 1.47 | 0.88 | 3.8 |
+|  | 60 | 480 | 35/70 | 70 | 190- 250 | 480 | 16 | 0.092 | 1.47 | 0.33 | 3.8 |
+|  | 60 | 600 | 35/90 | 90 | 190- 250 | 600 | 16 | 0.092 | 1.47 | 0.48 | 3.8 |
+
+--- FIM DA PÁGINA 67 ---
+
+--- INÍCIO DA PÁGINA 68 ---
+-
+Voltageatterminals(V) Resistanceof windings at 20 °C
+Typical
+Normal
+Residual
+rotanretlA
+)zH(ycneuqerF
+L-L,esahpot
+esahP
+)3E
+,2E,1E(
+8,7,6
+L-L,niaM
+8,7,6
+3E,2E,1E
+)smhO(rotatSreticxE
+)smhO(L-LrotoRreticxE
+)smhO(rotoRniaM
+ot
+esahProtatSniaM
+)smhOillim(N-L
+,lartueN
+)smhO(L-L,rotatSGMP
+190-
+50 400 35/60 60 400 16 0.092 1.63 0.26 3.8
+250
+190-
+60 480 35/70 70 480 16 0.092 1.63 0.26 3.8
+250
+X408VL
+190-
+60 600 35/90 90 600 16 0.092 1.63 0.37 3.8
+250
+190- 190-
+50 690 35 100 16 0.092 1.69 0.66 3.8
+250 250
+Y408VL
+7.10 MV804 Parameters
+Voltageatterminals Resistanceof windingsat 20 °C
+Typical Norma
+Residual l
+rotanretlA
+)zH(ycneuqerF
+)Vk(L-L,esahpotesahP
+)V(
+)3E
+,2E
+,1E(8,7,6
+)V(L-L,niaM
+)V(
+)3E,2E,1E(8,7,6
+)smhO(rotatSreticxE
+)smhO(L-L,rotoRreticxE
+)smhO(rotoRniaM
+otesahProtatSniaM
+)smhO(N-L,lartueN
+)smhO(L-L,rotatSGMP
+190- 50 3.3 35 500 17.5 0.076 1.32 0.0343 3.8
+250
+190-
+R408VM
+60 4.16 35 650 17.5 0.076 1.32 0.0343 3.8
+250
+190-
+50 3.3 35 500 17.5 0.076 1.40 0.0339 3.8
+250
+190-
+S408VM
+60 4.16 35 650 17.5 0.076 1.40 0.0339 3.8
+250
+190-
+50 3.3 35 500 17.5 0.076 1.50 0.0286 3.8
+250
+190-
+T408VM
+60 4.16 35 650 17.5 0.076 1.50 0.0286 3.8
+250
+64 A054E988(Issue1)
+
+**Tabela 1 (Página 68):**
+| rotanretlA | )zH(ycneuqerF | Voltageatterminals(V) |  |  |  |  | Resistanceof windings at 20 °C |  |  |  |  |
+|  |  | L-L,esahpot esahP | Typical Residual |  | Normal |  | )smhO(rotatSreticxE | )smhO(L-LrotoRreticxE | )smhO(rotoRniaM | )smhOillim(N-L ot esahProtatSniaM ,lartueN | )smhO(L-L,rotatSGMP |
+|  |  |  | )3E ,2E,1E( 8,7,6 | L-L,niaM | 8,7,6 | 3E,2E,1E |  |  |  |  |  |
+| X408VL | 50 | 400 | 35/60 | 60 | 190- 250 | 400 | 16 | 0.092 | 1.63 | 0.26 | 3.8 |
+|  | 60 | 480 | 35/70 | 70 | 190- 250 | 480 | 16 | 0.092 | 1.63 | 0.26 | 3.8 |
+|  | 60 | 600 | 35/90 | 90 | 190- 250 | 600 | 16 | 0.092 | 1.63 | 0.37 | 3.8 |
+| Y408VL | 50 | 690 | 35 | 100 | 190- 250 | 190- 250 | 16 | 0.092 | 1.69 | 0.66 | 3.8 |
+
+**Tabela 2 (Página 68):**
+| rotanretlA | )zH(ycneuqerF | Voltageatterminals |  |  |  | Resistanceof windingsat 20 °C |  |  |  |  |
+|  |  | )Vk(L-L,esahpotesahP | Typical Residual |  | Norma l | )smhO(rotatSreticxE | )smhO(L-L,rotoRreticxE | )smhO(rotoRniaM | otesahProtatSniaM )smhO(N-L,lartueN | )smhO(L-L,rotatSGMP |
+|  |  |  | )V( )3E ,2E ,1E(8,7,6 | )V(L-L,niaM | )V( )3E,2E,1E(8,7,6 |  |  |  |  |  |
+| R408VM | 50 | 3.3 | 35 | 500 | 190- 250 | 17.5 | 0.076 | 1.32 | 0.0343 | 3.8 |
+|  | 60 | 4.16 | 35 | 650 | 190- 250 | 17.5 | 0.076 | 1.32 | 0.0343 | 3.8 |
+| S408VM | 50 | 3.3 | 35 | 500 | 190- 250 | 17.5 | 0.076 | 1.40 | 0.0339 | 3.8 |
+|  | 60 | 4.16 | 35 | 650 | 190- 250 | 17.5 | 0.076 | 1.40 | 0.0339 | 3.8 |
+| T408VM | 50 | 3.3 | 35 | 500 | 190- 250 | 17.5 | 0.076 | 1.50 | 0.0286 | 3.8 |
+|  | 60 | 4.16 | 35 | 650 | 190- 250 | 17.5 | 0.076 | 1.50 | 0.0286 | 3.8 |
+
+--- FIM DA PÁGINA 68 ---
+
+--- INÍCIO DA PÁGINA 69 ---
+-
+Voltageat terminals Resistanceof windingsat 20 °C
+Typical Norma
+Residual l
+rotanretlA
+)zH(ycneuqerF
+)Vk(L-L,esahpot
+esahP
+)V()3E,2E,1E(
+8,7,6
+)V(L-L,niaM
+)V()3E,2E,1E(
+8,7,6
+)smhO(rotatSreticxE
+)smhO(L-L,rotoRreticxE
+)smhO(rotoRniaM
+ot
+esahProtatSniaM
+)smhO(N-L,lartueN
+)smhO(L-L,rotatSGMP
+190-
+50 3.3 35 500 16 0.092 1.47 0.0194 3.8
+250
+190-
+W408VM
+60 4.16 35 650 16 0.092 1.47 0.0194 3.8
+250
+190-
+50 3.3 35 500 16 0.092 1.63 0.0154 3.8
+250
+190-
+X408VM
+60 4.16 35 650 16 0.092 1.63 0.0154 3.8
+250
+A054E988(Issue1) 65
+
+**Tabela 1 (Página 69):**
+| rotanretlA | )zH(ycneuqerF | Voltageat terminals |  |  |  | Resistanceof windingsat 20 °C |  |  |  |  |
+|  |  | )Vk(L-L,esahpot esahP | Typical Residual |  | Norma l | )smhO(rotatSreticxE | )smhO(L-L,rotoRreticxE | )smhO(rotoRniaM | ot )smhO(N-L,lartueN esahProtatSniaM | )smhO(L-L,rotatSGMP |
+|  |  |  | )V()3E,2E,1E( 8,7,6 | )V(L-L,niaM | )V()3E,2E,1E( 8,7,6 |  |  |  |  |  |
+| W408VM | 50 | 3.3 | 35 | 500 | 190- 250 | 16 | 0.092 | 1.47 | 0.0194 | 3.8 |
+|  | 60 | 4.16 | 35 | 650 | 190- 250 | 16 | 0.092 | 1.47 | 0.0194 | 3.8 |
+| X408VM | 50 | 3.3 | 35 | 500 | 190- 250 | 16 | 0.092 | 1.63 | 0.0154 | 3.8 |
+|  | 60 | 4.16 | 35 | 650 | 190- 250 | 16 | 0.092 | 1.63 | 0.0154 | 3.8 |
+
+--- FIM DA PÁGINA 69 ---
+
+--- INÍCIO DA PÁGINA 70 ---
+-
+7.11 HV804 Parameters
+Voltageatterminals Resistanceof windingsat 20 °C
+Typical Norma
+Residual l
+rotanretlA
+)zH(ycneuqerF
+)Vk(L-L,esahpot
+esahP
+)V()3E
+,2E,1E(
+8,7,6
+)V(L-L,niaM
+)V()3E,2E,1E(
+8,7,6
+)smhO(rotatSreticxE
+)smhO(L-L,rotoRreticxE
+)smhO(rotoRniaM
+ot
+esahProtatSniaM
+)smhO(N-L
+,lartueN
+)smhO(L-L,rotatSGMP
+190-
+50 6.0 35 900 17.5 0.076 1.32 0.1489 3.8
+250
+190-
+50 6.6 35 1000 17.5 0.076 1.32 0.1636 3.8
+250
+190-
+50 10.0 35 1500 17.5 0.076 1.32 0.4716 3.8
+250
+190-
+R408VH
+50 11.0 35 1650 17.5 0.076 1.32 0.6007 3.8
+250
+190-
+60 7.2 35 1100 17.5 0.076 1.32 0.1489 3.8
+250
+190-
+60 13.8 35 2100 17.5 0.076 1.32 0.6736 3.8
+250
+190-
+50 6.0 35 900 17.5 0.076 1.40 0.1243 3.8
+250
+190-
+50 6.6 35 1000 17.5 0.076 1.40 0.1549 3.8
+250
+190-
+50 10.0 35 1500 17.5 0.076 1.40 0.3833 3.8
+250
+190-
+S408VH
+50 11.0 35 1650 17.5 0.076 1.40 0.4903 3.8
+250
+190-
+60 7.2 35 1100 17.5 0.076 1.40 0.1243 3.8
+250
+190-
+60 13.8 35 2100 17.5 0.076 1.40 0.5554 3.8
+250
+66 A054E988(Issue1)
+
+**Tabela 1 (Página 70):**
+| rotanretlA | )zH(ycneuqerF | Voltageatterminals |  |  |  | Resistanceof windingsat 20 °C |  |  |  |  |
+|  |  | )Vk(L-L,esahpot esahP | Typical Residual |  | Norma l | )smhO(rotatSreticxE | )smhO(L-L,rotoRreticxE | )smhO(rotoRniaM | ot )smhO(N-L esahProtatSniaM ,lartueN | )smhO(L-L,rotatSGMP |
+|  |  |  | )V()3E ,2E,1E( 8,7,6 | )V(L-L,niaM | )V()3E,2E,1E( 8,7,6 |  |  |  |  |  |
+| R408VH | 50 | 6.0 | 35 | 900 | 190- 250 | 17.5 | 0.076 | 1.32 | 0.1489 | 3.8 |
+|  | 50 | 6.6 | 35 | 1000 | 190- 250 | 17.5 | 0.076 | 1.32 | 0.1636 | 3.8 |
+|  | 50 | 10.0 | 35 | 1500 | 190- 250 | 17.5 | 0.076 | 1.32 | 0.4716 | 3.8 |
+|  | 50 | 11.0 | 35 | 1650 | 190- 250 | 17.5 | 0.076 | 1.32 | 0.6007 | 3.8 |
+|  | 60 | 7.2 | 35 | 1100 | 190- 250 | 17.5 | 0.076 | 1.32 | 0.1489 | 3.8 |
+|  | 60 | 13.8 | 35 | 2100 | 190- 250 | 17.5 | 0.076 | 1.32 | 0.6736 | 3.8 |
+| S408VH | 50 | 6.0 | 35 | 900 | 190- 250 | 17.5 | 0.076 | 1.40 | 0.1243 | 3.8 |
+|  | 50 | 6.6 | 35 | 1000 | 190- 250 | 17.5 | 0.076 | 1.40 | 0.1549 | 3.8 |
+|  | 50 | 10.0 | 35 | 1500 | 190- 250 | 17.5 | 0.076 | 1.40 | 0.3833 | 3.8 |
+|  | 50 | 11.0 | 35 | 1650 | 190- 250 | 17.5 | 0.076 | 1.40 | 0.4903 | 3.8 |
+|  | 60 | 7.2 | 35 | 1100 | 190- 250 | 17.5 | 0.076 | 1.40 | 0.1243 | 3.8 |
+|  | 60 | 13.8 | 35 | 2100 | 190- 250 | 17.5 | 0.076 | 1.40 | 0.5554 | 3.8 |
+
+--- FIM DA PÁGINA 70 ---
+
+--- INÍCIO DA PÁGINA 71 ---
+-
+Voltageat terminals Resistanceof windingsat 20 °C
+Typical Norma
+Residual l
+rotanretlA
+)zH(ycneuqerF
+)Vk(L-L,esahpot
+esahP
+)V()3E,2E,1E(
+8,7,6
+)V(L-L,niaM
+)V()3E,2E,1E(
+8,7,6
+)smhO(rotatSreticxE
+)smhO(L-L,rotoRreticxE
+)smhO(rotoRniaM
+ot
+esahProtatSniaM
+)smhO(N-L,lartueN
+)smhO(L-L,rotatSGMP
+190-
+50 6.0 35 900 17.5 0.076 1.50 0.1068 3.8
+250
+190-
+50 6.6 35 1000 17.5 0.076 1.50 0.1305 3.8
+250
+190-
+50 10.0 35 1500 17.5 0.076 1.50 0.2981 3.8
+250
+190-
+T408VH
+50 11.0 35 1650 17.5 0.076 1.50 0.4022 3.8
+250
+190-
+60 7.2 35 1100 17.5 0.076 1.50 0.1068 3.8
+250
+190-
+60 13.8 35 2100 17.5 0.076 1.50 0.4484 3.8
+250
+190-
+50 6.0 35 900 16 0.092 1.47 0.0668 3.8
+250
+190-
+50 6.6 35 1000 16 0.092 1.47 0.0888 3.8
+250
+190-
+50 10.0 35 1500 16 0.092 1.47 0.2368 3.8
+250
+190-
+W408VH
+50 11.0 35 1650 16 0.092 1.47 0.3294 3.8
+250
+190-
+60 7.2 35 1100 16 0.092 1.47 0.0668 3.8
+250
+190-
+60 13.8 35 2100 16 0.092 1.47 0.3724 3.8
+250
+190-
+50 6.0 35 900 16 0.092 1.63 0.0526 3.8
+250
+190-
+50 6.6 35 1000 16 0.092 1.63 0.0717 3.8
+250
+190-
+50 10.0 35 1500 16 0.092 1.63 0.1943 3.8
+250
+190-
+X408VH
+50 11.0 35 1650 16 0.092 1.63 0.2540 3.8
+250
+190-
+60 7.2 35 1100 16 0.092 1.63 0.0526 3.8
+250
+190-
+60 13.8 35 2100 16 0.092 1.63 0.2868 3.8
+250
+A054E988(Issue1) 67
+
+**Tabela 1 (Página 71):**
+| rotanretlA | )zH(ycneuqerF | Voltageat terminals |  |  |  | Resistanceof windingsat 20 °C |  |  |  |  |
+|  |  | )Vk(L-L,esahpot esahP | Typical Residual |  | Norma l | )smhO(rotatSreticxE | )smhO(L-L,rotoRreticxE | )smhO(rotoRniaM | ot )smhO(N-L,lartueN esahProtatSniaM | )smhO(L-L,rotatSGMP |
+|  |  |  | )V()3E,2E,1E( 8,7,6 | )V(L-L,niaM | )V()3E,2E,1E( 8,7,6 |  |  |  |  |  |
+| T408VH | 50 | 6.0 | 35 | 900 | 190- 250 | 17.5 | 0.076 | 1.50 | 0.1068 | 3.8 |
+|  | 50 | 6.6 | 35 | 1000 | 190- 250 | 17.5 | 0.076 | 1.50 | 0.1305 | 3.8 |
+|  | 50 | 10.0 | 35 | 1500 | 190- 250 | 17.5 | 0.076 | 1.50 | 0.2981 | 3.8 |
+|  | 50 | 11.0 | 35 | 1650 | 190- 250 | 17.5 | 0.076 | 1.50 | 0.4022 | 3.8 |
+|  | 60 | 7.2 | 35 | 1100 | 190- 250 | 17.5 | 0.076 | 1.50 | 0.1068 | 3.8 |
+|  | 60 | 13.8 | 35 | 2100 | 190- 250 | 17.5 | 0.076 | 1.50 | 0.4484 | 3.8 |
+| W408VH | 50 | 6.0 | 35 | 900 | 190- 250 | 16 | 0.092 | 1.47 | 0.0668 | 3.8 |
+|  | 50 | 6.6 | 35 | 1000 | 190- 250 | 16 | 0.092 | 1.47 | 0.0888 | 3.8 |
+|  | 50 | 10.0 | 35 | 1500 | 190- 250 | 16 | 0.092 | 1.47 | 0.2368 | 3.8 |
+|  | 50 | 11.0 | 35 | 1650 | 190- 250 | 16 | 0.092 | 1.47 | 0.3294 | 3.8 |
+|  | 60 | 7.2 | 35 | 1100 | 190- 250 | 16 | 0.092 | 1.47 | 0.0668 | 3.8 |
+|  | 60 | 13.8 | 35 | 2100 | 190- 250 | 16 | 0.092 | 1.47 | 0.3724 | 3.8 |
+| X408VH | 50 | 6.0 | 35 | 900 | 190- 250 | 16 | 0.092 | 1.63 | 0.0526 | 3.8 |
+|  | 50 | 6.6 | 35 | 1000 | 190- 250 | 16 | 0.092 | 1.63 | 0.0717 | 3.8 |
+|  | 50 | 10.0 | 35 | 1500 | 190- 250 | 16 | 0.092 | 1.63 | 0.1943 | 3.8 |
+|  | 50 | 11.0 | 35 | 1650 | 190- 250 | 16 | 0.092 | 1.63 | 0.2540 | 3.8 |
+|  | 60 | 7.2 | 35 | 1100 | 190- 250 | 16 | 0.092 | 1.63 | 0.0526 | 3.8 |
+|  | 60 | 13.8 | 35 | 2100 | 190- 250 | 16 | 0.092 | 1.63 | 0.2868 | 3.8 |
+
+--- FIM DA PÁGINA 71 ---
+
+--- INÍCIO DA PÁGINA 72 ---
+-
+Thispageisintentionallyblank.
+68 A054E988(Issue1)
+
+--- FIM DA PÁGINA 72 ---
+
+--- INÍCIO DA PÁGINA 73 ---
+--- FIM DA PÁGINA 73 ---
+
+--- INÍCIO DA PÁGINA 74 ---
+www.stamford-avk.com
+Copyright2015,CumminsGeneratorTechnologiesLtd.AllRightsReserved
+CumminsandtheCumminslogoareregisteredtrademarksofCumminsInc.
+
+--- FIM DA PÁGINA 74 ---
+

@@ -1,0 +1,848 @@
+=========================================
+MANUAL: DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf
+=========================================
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 1 ---
+ 
+ 
+K N O R R  B R E M S E  
+SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA.  
+ 
+ 
+ 
+Todos os direitos reservados. Qualquer aplicação in devida desta descrição, especificamente a reproduçã o ou transmissão a terceiros 
+de qualquer modo, poderá estar sujeita à punição conforme a lei civil ou processo penal. Confidencial, somente para uso interno! 
+Revisão Nº: 
+ 
+01 
+preparado/modificado 
+31/12/2011 
+Társis Tezza 
+verificado/liberado 
+31/12/2011 
+Flavio Pereira 
+Total 
+de páginas 
+14  
+Página 
+Nº 
+1 
+ 
+KNORR-BREMSE  Documentação nº: 
+DDTSE20344E13-BR Sistemas para Veículos Ferroviários Ltda. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manual de Diagnóstico de Falha  
+Porta Deslizante de Folha Dupla S3-E2 
+(5080291AR01, R02, R03, R04) 
+VLT (BOM SINAL) 
+ 
+ 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 2 ---
+Manual de Diagnóstico de Falha DDTSE20344E13-BR_01 
+ 
+Página 2/14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aviso - Aviso - Aviso - Aviso - Aviso 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendamos para proteção contra riscos que a instalação ou operação de nossos produtos 
+sejam executadas somente por pessoal autorizado de acordo com instruções técnicas 
+apropriadas. 
+ 
+ 
+ 
+ 
+ 
+ 
+Não nos responsabilizamos perante as leis de garantia do produto por danos diretos ou 
+consequentes, decorrentes de operação, instalação ou manuseio incorretos dos produtos ou 
+componentes fornecidos por nós. 
+ 
+ 
+ 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 3 ---
+DDTSE20344E13-BR_01 Manual de Diagnóstico de Falha  
+ 
+ 
+Página 3/14  
+ 
+ 
+Índice 
+ 
+Conteúdos Página 
+ 
+1 Documentos requeridos ..................................................................................................................... 4 
+2 Geral...................................................................................................................................................... 4 
+3 Indicação dos LEDS ............................................................................................................................ 4 
+4 Funções do software de diagnóstico ................................................................................................ 5 
+4.1  Estrutura da memória do sistema de diagnóstico ................................................................................. 5 
+4.2  Classificação de prioridade dos códigos de diagnóstico dos eventos de falha ..................................... 6 
+4.3  Correspondência entre as funções (a, b, c, d) e os códigos de diagnóstico de eventos de falha ........ 7 
+4.4  Leitura de memória do diagnóstico ....................................................................................................... 7 
+4.5  Limpeza da memória de diagnóstico ..................................................................................................... 7 
+4.6  Contador de ciclos de porta (abertura e fechamento) ........................................................................... 7 
+4.7  Tabela de códigos de diagnóstico, códigos flash, prioridades e funções ............................................. 7 
+5 Descrição dos códigos de diagnóstico ............................................................................................. 9 
+6 Índice de revisões ............................................................................................................................. 14  
+ 
+ 
+ 
+ 
+ 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 4 ---
+Manual de Diagnóstico de Falha DDTSE20344E13-BR_01 
+ 
+Página 4/14 
+ 
+ 
+ 
+1 Documentos requeridos 
+ 
+Nº do documento / desenho Descrição 
+ 
+5080291AR01 Desenho de montagem 
+5080291AR01 Escopo de fornecimento 
+5080291AR02 Escopo de fornecimento 
+5080291AR03 Desenho de montagem 
+5080291AR03 Escopo de fornecimento 
+5080291AR04 Escopo de fornecimento 
+DDTSE20344E01-BR Introdução e Instruções Gerais 
+DDTSE20344E03-BR Descrição de Funcionamento 
+ED01029R11 Diagrama elétrico 
+ED00922R29 Unidade de controle de porta MDC-24RS4 
+E404727E04 Manual de usuários DIAG 
+ 
+ 
+2 Geral 
+ 
+O propósito do sistema de diagnóstico é monitorar s e a operação da porta está acontecendo conforme as 
+especificações. O sistema também acusa e armazena p ossíveis falhas de operação automaticamente para 
+indicá-las ao pessoal de operação (nos casos em que  a porta deve ser posta fora de serviço) e manutenç ão 
+(para localizar e reparar a falha). 
+ 
+Para efeitos de diagnóstico a DCU fornece: 
+ 
+• Um software de diagnóstico que monitora o funcionam ento da porta continuamente para encontrar 
+possíveis eventos anormais. 
+Caso ocorra uma falha o código de diagnóstico corre spondente passa a ser indicado através do LED 
+vermelho “Error” da DCU que ficará emitindo seqüênc ias de flashes até que a falha seja sanada. Por 
+exemplo, se o LED “Error” estiver piscando em seqüê ncias de 5 flashes, o código de falha é “5” que 
+corresponde a detecção de obstrução. 
+ 
+• Em caso de uma falha de hardware ou se a memória da  DCU não esteja com o software de operação 
+carregado, o LED vermelho “Error” ficará aceso continuamente.  
+ 
+• Em paralelo esses códigos de diagnóstico serão tran smitidos ao controle central (VCU) via barramento 
+RS485. 
+ 
+ 
+ 
+3 Indicação dos LEDS 
+ 
+Os LEDS da DCU permitem a verificação fácil do stat us do sistema de porta, sem necessidade de qualquer  
+equipamento adicional. 
+ 
+As seguintes condições são indicadas nos LED da DCU: 
+ 
+Nome do LED  Cor  Função  
+5VCC  verde Indica se a DCU está ligada 
+ERROR vermelho  Indica falhas na DCU (ver documento DDS20166R13) 
+STATUS INFO  amarelo Sem função 
+SAFETY RELAY OFF  verde Indica a posição do relé de segurança: aceso => relé off, 
+apagado => relé on.  
+ 
+ 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 5 ---
+DDTSE20344E13-BR_01 Manual de Diagnóstico de Falha  
+ 
+ 
+Página 5/14  
+ 
+ 
+Designação dos pinos dos sinais de entrada e saída: 
+ 
+Módulo lógico 
+X1.1 E1 “Central open” “1” = comando de abertura 
+X1.2 E2 “Central close” “1” = comando de fechamento 
+X1.3 E3 Velocidade zero (v-zero) “1” = velocidade zero 
+X1.4 E4 Isolação elétrica da porta “1” = porta isolada 
+X1.5 E5 “Central open” “1” = comando de abertura 
+X1.6 E6 Velocidade zero (v-zero) “1” = velocidade zero 
+X1.7 E7 Disponível  
+X1.8 E8 Botão “SOCO” “1” = botão acionado 
+X1.9 E9 Não usado  
+X1.10 E10 Não usado  
+X1.11 E11 Micro-chave de porta fora de serviço “0“ = fora  de serviço 
+X1.12 E12 Micro-chave do dispositivo de emergência 
+(interno e externo) 
+“1” = dispositivo acionado 
+X1.13 E13 Micro-chave porta fechada e travada “0” = porta  fechada e travada 
+X1.14 E14 Disponível  
+X1.15 KL(-) Não usado  
+X1.16 E15 Não usado  
+X1.17 KL(-) Não usado  
+X1.18 E16 Não usado  
+X1.19 E17 Sensor de posição da porta (direção) “0” = puls o 
+X1.20 E18 Sensor de posição da porta (pulso) “0” = pulso 
+ 
+Módulo de força 
+X2.8 A1 Não usado  
+X2.7 A2 Não usado  
+X2.6 A3 Disponível  
+X2.5 A4 Não usado  
+X2.4 A5 Disponível  
+X2.3 A6 Buzzer de alerta “1” = buzzer acionado 
+X2.2 A7 Lâmpada de alerta “1” = lâmpada acionada 
+X2.1 A8 Não usado  
+ 
+Obs.: Os níveis lógicos mencionados acima correspon dem aos níveis dos sinais nas entradas e saídas do 
+DCU. 
+ 
+4 Funções do software de diagnóstico 
+ 
+A porta e a DCU são continuamente monitoradas das seguintes formas: 
+ 
+a) Verificações internas (hardware) da DCU:  
+• EPROM (CRC checksum); 
+• RAM; 
+• NOVRAM; 
+• Supervisor “Watchdog” de tempo de execução; 
+• Supervisor “Watchdog” do oscilador. 
+ 
+b) Verificações por comparação de sinais:  
+• Os sinais de entrada vindos das micro-chaves corres pondentes as funções do sistema de porta são 
+comparados continuamente em relação às condições de  operação esperadas e requeridas. Caso haja 
+alguma divergência será gerado e armazenado um evento de falha. 
+ 
+c) Monitoramento da corrente de saída:  
+• A saída para o motor elétrico é monitorada contra falhas nos cabos. 
+• Todas as outras saídas são monitoradas contra curt os circuitos. 
+ 
+Caso uma porta seja isolada, o registro dos eventos  de diagnóstico da porta são imediatamente desligad os. 
+Entretanto todos os eventos já gravados permanecem memorizados. 
+ 
+4.1 Estrutura da memória do sistema de diagnóstico 
+ 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 6 ---
+Manual de Diagnóstico de Falha DDTSE20344E13-BR_01 
+ 
+Página 6/14 
+ 
+ 
+4.1.1 Sistema de diagnóstico quantitativo (QDS): 
+ 
+A memória do sistema de diagnóstico é subdividida em: 
+• Memória de primeiro plano “foreground memory” (con dições de falhas correntes). 
+• Memória de plano de fundo “background memory” (con dições de falhas temporárias). 
+ 
+A memória de primeiro plano armazena os eventos de falhas correntes, ou seja, eventos que estão 
+acontecendo no momento da verificação. 
+ 
+A memória de plano de fundo armazena os eventos de falhas temporárias, ou seja, eventos que foram 
+previamente observados pela DCU, mas não estão ativos no momento da verificação ou foram alterados para 
+eventos temporários por qualquer motivo (ou seja, p elo próprio sistema ou por uma ação do pessoal de 
+manutenção). 
+ 
+Eventos correntes tornam-se eventos temporários das formas descritas abaixo: 
+• Automaticamente, por exemplo: numa detecção de obs trução, caso a porta seja desobstruída e volte a 
+funcionar novamente de forma correta. 
+• Caso a causa da falha seja reparada (exceto quando  a porta for isolada). 
+ 
+O evento muda do status de corrente para temporário  para que a informação possa ser preservada para a 
+realização do diagnóstico da falha pelo pessoal de manutenção. 
+ 
+4.1.2 Parâmetros utilizados nos códigos de diagnóst ico: 
+ 
+Cada código de diagnóstico é descrito pelos seguintes parâmetros: 
+ 
+• Número de código de diagnóstico interno:   1…999  
+• Número de código de diagnóstico de cliente:   1…99  
+• Contador de eventos 1      1…99 
+• Código flash específico do cliente:    1…30x piscan do  
+• Prioridade:       A, B  
+• Função:       a, b, c, d  
+ 
+ 
+4.2 Classificação de prioridade dos códigos de diag nóstico dos eventos de falha 
+ 
+Os códigos de diagnóstico são divididos em prioridades A e B 
+ 
+• Prioridade A alta prioridade; a segurança dos passa geiros ou a operação da porta pode ser afetada; o 
+condutor e/ou manutenção deve tomar uma ação imediata, ex. isolar a porta.  
+ 
+• Prioridade B baixa prioridade; a segurança dos pass ageiros ou a operação da porta não é afetada; o 
+problema pode ser verificado e/ou reparado na garagem.  
+ 
+ 
+                                                      
+1 será incrementado caso um código de diagnóstico ocorra ou mude de memória de fundo para primeiro 
+plano; 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 7 ---
+DDTSE20344E13-BR_01 Manual de Diagnóstico de Falha  
+ 
+ 
+Página 7/14  
+ 
+4.3 Correspondência entre as funções (a, b, c, d) e  os códigos de diagnóstico de eventos de falha 
+ 
+Códigos de diagnóstico de falhas que correspondem às funções “a” ou “b” indicados no capítulo 4.7, causarão 
+uma parada imediata do sistema de porta. Neste caso  a porta será liberada para que possa ser 
+fechada/travada manualmente (ocorre a interrupção da alimentação de energia do motor). 
+ 
+Caso ocorra um evento de falha que gere um código d e diagnóstico de função “b”, o condutor do trem pode 
+tomar uma das ações listadas abaixo para que a DCU tente continuar o movimento do sistema de porta (se m 
+que haja a necessidade de uma atuação diretamente n o mecanismo como, por exemplo, reparo ou isolação 
+da porta): 
+ 
+• Ativação ou desativação do sinal "velocidade zero (v-zero)" 
+• Ativação ou desativação do sinal “central open” 
+• Ativação ou desativação do sinal “central close” 
+ 
+Todas as demais falhas que geram códigos de diagnós tico de função “c” ou “d” irão apenas incrementar mais 
+um evento na memória “background” da DCU, entretant o não irão afetar o funcionamento do sistema de 
+porta. 
+ 
+ 
+4.4 Leitura de memória do diagnóstico 
+ 
+4.4.1 Indicações no LED vermelho “ERROR” 
+ 
+Cada código de diagnóstico de falha ativo (evento corrente) será indicado na DCU com um código flash. 
+ 
+As seguintes condições são possíveis: 
+• O LED vermelho “ERROR” está apagado, caso nenhum c ódigo de diagnóstico esteja ativo. 
+• O LED vermelho “ERROR” está aceso continuamente, c aso haja uma falha no hardware da DCU ou o 
+software de operação não esteja carregado na memória (ver capítulo 2). 
+• O LED vermelho está piscando, caso um código de di agnóstico de falha esteja ativo (ver capítulo 5). 
+ 
+O LED “ERROR” sempre exibe o código flash de menor número, ou seja, se dois eventos de falha estiverem  
+correntes ao mesmo tempo, por exemplo, o código “fio partido no circuito do motor da porta” (1 flash) e “falha 
+de comunicação no barramento RS485” (11 flashes) o LED “ERROR” irá indicar somente o código “1 flash”. 
+Assim que a falha de código flash mais baixo for sa nada, o LED “ERROR” passará a indicar o próximo código 
+flash de valor mais baixo. 
+O sinal do código flash é formado pela seguinte seqüência: 
+ 
+• LED “ERROR” aceso por 300 ms para cada flash. 
+• LED “ERROR” apagado por 300 ms para cada flash. 
+• Intervalo de 2,5 s entre as seqüências de flashes.  
+ 
+ 
+4.5 Limpeza da memória de diagnóstico 
+ 
+• Assim que a falha for solucionada e a porta voltar a funcionar corretamente os códigos de diagnóstico de 
+eventos correntes serão automaticamente apagados da memória “foreground” e passarão a fazer parte da 
+memória de diagnóstico de eventos temporários (memó ria “background”), (exceto quando a porta for 
+isolada).  
+ 
+Um código de diagnóstico de um evento de falha corr ente continua salvo mesmo que a alimentação de 
+energia da DCU for desligada. 
+ 
+ 
+4.6 Contador de ciclos de porta (abertura e fechame nto) 
+ 
+A DCU contém um contador interno para armazenar o número de ciclos de abertura e fechamento. 
+Este contador é de 8 dígitos, ou seja, vai até o número 99.999.999, a partir do qual volta a ser zerado. 
+O contador de ciclos da porta é exibido automaticam ente durante a leitura da memória de diagnóstico (v er 
+capítulo 4.4) 
+ 
+4.7 Tabela de códigos de diagnóstico, códigos flash , prioridades e funções 
+ 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 8 ---
+Manual de Diagnóstico de Falha DDTSE20344E13-BR_01 
+ 
+Página 8/14 
+ 
+ 
+Código Flash 
+Prioridade 
+Função 
+Descrição do código 
+Nº de código de 
+diagnóstico do 
+cliente  
+Nº de código de 
+diagnóstico 
+interno  Comentário para operação 
+1 A b Fio partido no circuito do motor 
+da porta. 1 1  
+2 A a Falha na micro-chave de “porta 
+fechada / travada”.  2 2  
+2 A d 
+A porta é destravada sem 
+permissão, sai do status “fechada 
+/ travada”.  
+44 44 O motor irá movimentar a porta no sentido 
+de fechamento. 
+3 A b 
+A porta não destrava dentro de 3 
+segundos após o comando de 
+abertura.  
+4 4  
+4 A b Falha no sensor de posição da 
+porta. 5 5 Número de movimentos da porta = 2. 
+5 A b 
+A detecção de obstrução foi 
+ativada durante o fechamento 
+após um número fixo de 
+tentativas de fechamento 
+sucessivas  
+6 6 Número de tentativas de fechamento = 3 
+Número ajustável. 
+6 B d 
+O monitoramento da corrente do 
+motor durante a abertura indicou 
+que há alguma interferência após 
+um número fixo de tentativas de 
+abertura sucessivas. 
+7 7 
+Número de tentativas de abertura = 3 
+A nova posição final da porta será salva 
+como máximo curso de abertura.  
+7 A b Falha no relé de segurança 
+interno da DCU. 8 8 Não é possível testar em uma DCU que 
+está operando corretamente.  
+8 B d Curto circuito na saída A1 da 
+DCU. 13 13 Esta saída não foi usada neste projeto. 
+A simulação deste código não é possível. 
+8 B d Curto circuito na saída A2 da 
+DCU. 14 14 Esta saída não foi usada neste projeto. 
+A simulação deste código não é possível. 
+8 B d Curto circuito na saída A3 da 
+DCU. 15 15 Esta saída não foi usada neste projeto. 
+A simulação deste código não é possível. 
+8 B d Curto circuito na saída A4 da 
+DCU. 16 16 Esta saída não foi usada neste projeto. 
+A simulação deste código não é possível. 
+8 B d Curto circuito na saída A5 da 
+DCU. 17 17 Saída sobressalente. 
+A simulação deste código não é possível. 
+8 B d Curto circuito na saída A6 da 
+DCU. 19 19 Dispositivo sonoro “buzzer” de alerta  
+8 B d Curto circuito na saída A7 da 
+DCU. 20 20 Lâmpada de alerta  
+8 B d Curto circuito na saída A8 da 
+DCU. 21 21 Saída sobressalente. 
+A simulação deste código não é possível. 
+9 B d Os estados dos sinais da VCU 
+estão diferentes.  40 252 Sinal v-zero; entradas E3 e E6. 
+9 B d Os estados dos sinais da VCU 
+estão diferentes. 41 252 Sinal “central open”; entradas E1 e E5. 
+9 B d Falha nos sinais da VCU.  43 197 
+O sinal “central open” está ativo com o trem 
+em movimento.  
+Duração do sinal = 5 s.  
+11 B c Falha na comunicação do 
+barramento RS485.  42 42 Os sinais e funções via barramento RS485 
+não estão mais disponíveis.  
+12 A a Falha na codificação de porta. 48 138  
+13 B d Falha na bateria de “backup” da 
+NOVRAM. 22 22  
+14 B c Falha no botão de serviço da 
+DCU. 32 246 Duração do sinal = 1 min.  
+ 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 9 ---
+DDTSE20344E13-BR_01 Manual de Diagnóstico de Falha  
+ 
+ 
+Página 9/14  
+ 
+4.7.1 Descritivo das funções dos eventos de falha d o sistema de porta 
+ 
+a) ...... Parada do movimento da porta. Reativação somente será possível DESLIGANDO a fonte de 
+alimentação da DCU e LIGANDO novamente. Caso a port a esteja fechada e travada, esta somente 
+poderá ser aberta usando o dispositivo de emergência. 
+ 
+b) ...... Parada do movimento da porta e reativação como descreve o capítulo 4.3. 
+ 
+c) ...... Sem parada do movimento da porta. Para o funcionamento da porta, o componente com falha não será 
+mais usado. 
+ 
+d) ...... Sem parada do movimento da porta e sem alteração no funcionamento da porta. 
+ 
+ 
+5 Descrição dos códigos de diagnóstico 
+ 
+Todos os eventos de falhas seguintes serão detectados pelo sistema de diagnóstico da porta. 
+Todos os códigos de diagnóstico poderão ser lidos através de um código flash indicado pelo LED vermelho 
+“ERROR” na DCU (ver capítulo 4.4). 
+ 
+ 
+Código de diagnóstico: 1 
+Descrição: Fio partido no circuito do motor da port a. 
+Condição: Foram enviados os sinais de “central open ” ou “central close”. 
+Critério de diagnóstico: O motor da porta foi acion ado pelos sinais de abertura ou fechamento, 
+entretanto não é detectada corrente elétrica. 
+Eliminação do 
+diagnóstico: 
+Se aparecer corrente elétrica (funcionamento normal da porta) quando o 
+motor for novamente acionado pelos sinais de abertura ou fechamento.  
+Possível solução: Verificar: conectores da DCU, chi cote do mecanismo, circuito do motor e 
+motor. 
+  
+  
+Código de diagnóstico: 2 
+Descrição: Falha na micro-chave de “porta fechada /  travada”. 
+Condição: Motor da porta foi acionado na direção de  abertura ou fechamento e a 
+micro-chave está indicando que a porta está fechada/travada. 
+Critério de diagnóstico: Quando o motor da porta é acionado e o sensor de posição detecta o 
+movimento da porta. 
+Eliminação do 
+diagnóstico: 
+Se a micro-chave de “porta fechada/travada” indicar que a porta não está 
+mais fechada/travada. 
+Possível solução: Verificar: regulagem mecânica e o s cabos da micro-chave de “porta 
+fechada/travada”, e também o circuito de entrada da DCU, 
+  
+  
+Código de diagnóstico: 4 
+Descrição: A porta não destrava dentro de 3 segundo s após o comando de abertura. 
+Condição: Motor da porta foi acionado na direção de  abertura e a micro-chave está 
+indicando que a porta está fechada/travada. 
+Critério de diagnóstico: O motor da porta é acionad o na direção de abertura, mas após 3 
+segundos a micro-chave ainda indica que a porta está fechada /travada e 
+o sensor de posição da porta não detecta nenhum movimento da porta. 
+Eliminação do 
+diagnóstico: 
+Se a micro-chave de “porta fechada/travada” indicar que a porta não está 
+mais fechada/travada. 
+Possível solução: Verificar: o movimento livre do m ecanismo, ajuste mecânico da porta, 
+funcionamento relé de segurança e circuito de entrada da DCU. 
+  
+  
+Código de diagnóstico: 5 
+Descrição: Falha no sensor de posição da porta. 
+Condição: Motor da porta foi acionado na direção de  abertura ou fechamento. 
+Critério de diagnóstico: Após um número fixo de mov imentos sucessivos da porta o sensor de 
+posição não contou nenhum pulso. 
+Eliminação do 
+diagnóstico: 
+Caso o sensor de posição conte pelo menos 1 pulso. 
+Possível solução: Verificar: sensor de posição da p orta e circuito de entrada da DCU. 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 10 ---
+Manual de Diagnóstico de Falha DDTSE20344E13-BR_01 
+ 
+Página 10/14 
+ 
+ 
+  
+  
+Código de diagnóstico: 6 
+Descrição: A detecção de obstrução foi ativada dura nte o fechamento após um 
+número fixo de tentativas de fechamento sucessivas. 
+Condição: Motor da porta foi acionado no sentido do  fechamento e a micro-chave de 
+“porta fechada/travada” indica que a porta não está fechada/travada. 
+Critério de diagnóstico: O monitoramento da corrent e do motor e o monitoramento do curso / 
+tempo indicaram que após um número fixo de tentativas de fechamento 
+sucessivas porta não atingiu a posição fechada/travada. 
+Eliminação do 
+diagnóstico: 
+Se a micro-chave de “porta fechada/travada” indicar que a porta está 
+fechada/travada. 
+Possível solução: Verificar: o movimento livre do m ecanismo, ajuste mecânico da porta, 
+regulagem mecânica e cabos da micro-chave de “porta fechada/travada” 
+e o circuito de entrada da DCU. 
+  
+  
+Código de diagnóstico: 7 
+Descrição: O monitoramento da corrente do motor dur ante a abertura indicou que há 
+alguma interferência após um número fixo de tentativas de abertura 
+sucessivas. 
+Condição: Motor da porta foi acionado no sentido de  abertura e micro-chave de 
+“porta fechada/travada” indica que a porta não está fechada/travada. 
+Critério de diagnóstico: O monitoramento da corrent e do motor e o monitoramento do curso / 
+tempo indicaram que após um número fixo de tentativas de abertura 
+sucessivas porta não atingiu o final do curso de abertura. 
+Eliminação do 
+diagnóstico: 
+Caso um comando de abertura seja dado em uma porta fechada/travada 
+e a porta atingir o máximo curso de abertura já na primeira tentativa.  
+Possível solução: Verificar: o movimento livre do m ecanismo, ajuste mecânico da porta, 
+regulagem mecânica e cabos da micro-chave de “porta fechada/travada”, 
+o circuito de entrada da DCU e a entrada de sinal do sensor de posição 
+da porta na DCU. 
+  
+  
+Código de diagnóstico: 8 
+Descrição: Falha no relé de segurança interno da DC U. 
+Condição: ---- 
+Critério de diagnóstico: O estado lógico do relé de  segurança interno da DCU, monitorado pelo 
+LED “SAFETY RELAY OFF” não corresponde às funções ativadas. 
+Eliminação do 
+diagnóstico: 
+Caso o estado lógico do relé de segurança corresponda às funções 
+ativadas. 
+Possível solução: Verificar: se ativação do relé de  segurança está de acordo com o 
+diagrama de blocos da DCU e com o diagrama elétrico. Caso contrário a 
+DCU deve ser substituída. 
+  
+  
+Código de diagnóstico: 13 
+Descrição: Curto circuito na saída A1 da DCU. 
+Condição: Saída A1 está ativada. 
+Critério de diagnóstico: A saída A1 está ativada e a corrente excede o valor nominal ou um curto 
+circuito é detectado pela DCU. 
+Eliminação do 
+diagnóstico: 
+Se a saída A1 está ativada e a corrente não excede o valor nominal e não 
+há curto circuito detectado pela DCU. 
+Possível solução: Verificar: componente conectado à  saída A1, fiação e saída da DCU.  
+  
+  
+Código de diagnóstico: 14 
+Descrição: Curto circuito na saída A2 da DCU. 
+Condição: Saída A2 está ativada. 
+Critério de diagnóstico: A saída A2 está ativada e a corrente excede o valor nominal ou um curto 
+circuito é detectado pela DCU. 
+Eliminação do 
+diagnóstico: 
+Se a saída A2 está ativada e a corrente não excede o valor nominal e não 
+há curto circuito detectado pela DCU. 
+Possível solução: Verificar: componente conectado à  saída A2, fiação e saída da DCU. 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 11 ---
+DDTSE20344E13-BR_01 Manual de Diagnóstico de Falha  
+ 
+ 
+Página 11/14  
+ 
+  
+  
+Código de diagnóstico: 15 
+Descrição: Curto circuito na saída A3 da DCU. 
+Condição: Saída A3 está ativada. 
+Critério de diagnóstico: A saída A3 está ativada e a corrente excede o valor nominal ou um curto 
+circuito é detectado pela DCU. 
+Eliminação do 
+diagnóstico: 
+Se a saída A3 está ativada e a corrente não excede o valor nominal e não 
+há curto circuito detectado pela DCU. 
+Possível solução: Verificar: componente conectado à  saída A3, fiação e saída da DCU.  
+  
+  
+Código de diagnóstico: 16 
+Descrição: Curto circuito na saída A4 da DCU. 
+Condição: Saída A4 está ativada. 
+Critério de diagnóstico: A saída A4 está ativada e a corrente excede o valor nominal ou um curto 
+circuito é detectado pela DCU. 
+Eliminação do 
+diagnóstico: 
+Se a saída A4 está ativada e a corrente não excede o valor nominal e não 
+há curto circuito detectado pela DCU. 
+Possível solução: Verificar: componente conectado à  saída A4, fiação e saída da DCU.  
+  
+  
+Código de diagnóstico: 17 
+Descrição: Curto circuito na saída A5 da DCU. 
+Condição: Saída A5 está ativada. 
+Critério de diagnóstico: A saída A5 está ativada e a corrente excede o valor nominal ou um curto 
+circuito é detectado pela DCU. 
+Eliminação do 
+diagnóstico: 
+Se a saída A5 está ativada e a corrente não excede o valor nominal e não 
+há curto circuito detectado pela DCU. 
+Possível solução: Verificar: componente conectado à  saída A5, fiação e saída da DCU.  
+  
+  
+Código de diagnóstico: 19 
+Descrição: Curto circuito na saída A6 da DCU. 
+Condição: Saída A6 está ativada. 
+Critério de diagnóstico: A saída A6 está ativada e a corrente excede o valor nominal ou um curto 
+circuito é detectado pela DCU. 
+Eliminação do 
+diagnóstico: 
+Se a saída A6 está ativada e a corrente não excede o valor nominal e não 
+há curto circuito detectado pela DCU. 
+Possível solução: Verificar: componente conectado à  saída A6, fiação e saída da DCU.  
+  
+  
+Código de diagnóstico: 20 
+Descrição: Curto circuito na saída A7 da DCU. 
+Condição: Saída A7 está ativada. 
+Critério de diagnóstico: A saída A7 está ativada e a corrente excede o valor nominal ou um curto 
+circuito é detectado pela DCU. 
+Eliminação do 
+diagnóstico: 
+Se a saída A7 está ativada e a corrente não excede o valor nominal e não 
+há curto circuito detectado pela DCU. 
+Possível solução: Verificar: componente conectado à  saída A7, fiação e saída da DCU.  
+  
+  
+Código de diagnóstico: 21 
+Descrição: Curto circuito na saída A8 da DCU. 
+Condição: Saída A8 está ativada. 
+Critério de diagnóstico: A saída A8 está ativada e a corrente excede o valor nominal ou um curto 
+circuito é detectado pela DCU. 
+Eliminação do 
+diagnóstico: 
+Se a saída A8 está ativada e a corrente não excede o valor nominal e não 
+há curto circuito detectado pela DCU. 
+Possível solução: Verificar: componente conectado à  saída A8, fiação e saída da DCU.  
+  
+  
+Código de diagnóstico: 22 
+Descrição: Falha na bateria de “backup” da memória NOVRAM. 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 12 ---
+Manual de Diagnóstico de Falha DDTSE20344E13-BR_01 
+ 
+Página 12/14 
+ 
+ 
+Condição: A DCU está com a alimentação de energia l igada. 
+Critério de diagnóstico: A bateria de “backup” da N OVRAM não está funcionando enquanto a 
+alimentação de energia da DCU está desligada. 
+Eliminação do 
+diagnóstico: 
+Caso a bateria de “backup” da NOVRAM esteja em funcionamento 
+novamente quando a alimentação de energia for religada. 
+Possível solução: Substitua a bateria de “backup” d a NOVRAM. 
+  
+  
+Código de diagnóstico: 42 
+Descrição: Falha na comunicação do barramento RS485 . 
+Condição: ---- 
+Critério de diagnóstico: A conexão entre a DCU e o barramento RS485 está interrompida. 
+Eliminação do 
+diagnóstico: 
+Se a conexão entre a DCU e o barramento voltar a funcionar novamente. 
+Possível solução: Verificar: cabo do barramento RS4 85, conectores e interface de 
+comunicação. 
+  
+  
+Código de diagnóstico: 44 
+Descrição: A porta é destravada sem permissão, sai do status “fechada / travada”. 
+Condição: A porta foi fechada/travada com êxito e n enhum comando de abertura foi 
+enviado. 
+Critério de diagnóstico: A micro-chave de “porta fe chada/travada” indica que a porta não está 
+fechada/travada. 
+Eliminação do 
+diagnóstico: 
+Caso a micro-chave de “porta fechada/travada” volte a indicar que a porta 
+está fechada/travada. 
+Possível solução: Verificar: dispositivos de emergê ncia e de serviço, micro-chaves do 
+dispositivo de emergência e de serviço, sistema de travamento do módulo 
+central, regulagem mecânica e cabos da micro-chave de “porta 
+fechada/travada” e circuito de entrada da DCU. 
+  
+  
+Código de diagnóstico: 138 
+Descrição: Falha na codificação de porta. 
+Condição: ---- 
+Critério de diagnóstico: A codificação da porta uti lizada não está correta. 
+Eliminação do 
+diagnóstico: 
+Se a codificação da porta for corrigida. 
+Possível solução: Ajustar a codificação da porta at ravés dos DIP switches da DCU. 
+  
+  
+Código de diagnóstico: 197 
+Descrição: Falha nos sinais da VCU. 
+Condição: ---- 
+Critério de diagnóstico: O comando de abertura “cen tral open” foi enviado enquanto a VCU ainda 
+indica que o trem está em movimento (v-zero = 0). 
+Eliminação do 
+diagnóstico: 
+Caso a DCU detecte o comando de abertura com o trem parado (v-zero = 
+1). 
+Possível solução: Verificar: sinais da VCU, fiação elétrica dos carros, conectores, 
+interligação entre a fiação dos carros e o mecanismo de porta, chicote 
+elétrico do mecanismo e circuito de entrada da DCU. 
+  
+  
+Código de diagnóstico: 246 
+Descrição: Falha no botão de serviço da DCU. 
+Condição: ---- 
+Critério de diagnóstico: O sinal enviado pelo botão  de serviço da DCU está com uma duração 
+maior do que 1 min.  
+Eliminação do 
+diagnóstico: 
+Caso a DCU deixe de detectar o sinal do botão de serviço. 
+Possível solução: Verificar: botão de serviço da DC U. 
+  
+  
+Código de diagnóstico: 252 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 13 ---
+DDTSE20344E13-BR_01 Manual de Diagnóstico de Falha  
+ 
+ 
+Página 13/14  
+ 
+Descrição: Os estados dos sinais da VCU estão difer entes. 
+Condição: ---- 
+Critério de diagnóstico: Os estados das entradas de  sinal redundantes são diferentes. 
+Eliminação do 
+diagnóstico: 
+Se os estados das entradas de sinal redundantes voltam a ser iguais. 
+Possível solução: Verificar: sinais da VCU, fiação,  conectores e circuito de entrada da DCU. 
+  
+ 
+ 
+ 
+
+--- DDTSE20344E13-BR_01 (Manual de Diagnóstico de Falha).pdf | PÁGINA 14 ---
+Manual de Diagnóstico de Falha DDTSE20344E13-BR_01 
+ 
+Página 14/14 
+ 
+ 
+ 
+6 Índice de revisões 
+ 
+emissão data preparado verificado/liberado 
+ 
+00 31/12/2011 Társis Tezza  Flavio Pereira  
+01 22/04/2014 Flavio Pereira Talles Cristian 
+ 
+item modificação 
+00 Baseado no original em inglês DDTSE20344E13_02 
+01 Alterações considerando novos códigos (R03 e R04 ) 
+ 
+ 
+ 
+  

@@ -1,0 +1,634 @@
+=========================================
+MANUAL: Update-Manual-English.pdf
+=========================================
+
+--- Update-Manual-English.pdf | PÁGINA 1 ---
+ 
+ 
+Issue No. 
+00 
+prepared/modified 
+Kremser M. 
+02.10.2019 
+checked 
+Lanzenbacher F. 
+02.10.2019 
+released 
+Zöchmann M. 
+02.10.2019 
+Total pages 
+21 
+Page No. 
+1 
+ 
+Division of KNO RR-BREMSE GmbH • 33.a Straße 1 • A - 3331 Kematen/Ybbs  
+ 
+Documentation-No.: 
+E403420P64_EN 
+ 
+ 
+Division of KNORR-BREMSE GmbH • 33.a Straße 1 • A - 3331 Kematen/Ybbs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Software Manual 
+IFE-Update 6.4 
+ 
+All rights reserved. No parts of this work may be reproduced in any form or by any means - graphic, 
+electronic, or mechanical,  including photo copying, recording, taping, or information storage and retrieval 
+systems - without the written permission of the publisher. 
+ 
+Products that are referred to in this document may be either trademarks and/or registered trademarks  of the 
+respective owners. The publisher and the author make no claim to these trademarks. 
+ 
+While every precaution has been taken in the preparation of this document, the publisher and the author 
+assume no responsibility for errors or omissions, or for damages resulting from the use of information 
+contained in this document or from the use of programs and source code that may accompany it. In no event 
+shall the publisher and the author be liable for any loss of profit or any other commercial damage caused or 
+alleged to have been caused directly or indirectly by this document. 
+ 
+
+--- Update-Manual-English.pdf | PÁGINA 2 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 2/21 
+ 
+List of Contents 
+ 
+Contents Page 
+1 Introduction .................................................................................................................................................... 3 
+1.1 Specific Definitions, Acronyms and Abbreviations................................................................................ 3 
+1.2 Features ................................................................................................................................................ 3 
+1.3 Minimum System Requirements ........................................................................................................... 4 
+1.4 Network Requirements (Ethernet) ........................................................................................................ 5 
+2 Installation Instruction .................................................................................................................................. 6 
+3 Program Operation ........................................................................................................................................ 7 
+3.1 Main Window......................................................................................................................................... 7 
+3.2 Connection-Dialog ................................................................................................................................ 9 
+3.2.1 Ethernet ................................ ................................ ................................ .................. 10 
+3.2.2 Serial Connection (RS232 / COM) ................................ ................................ .......... 10 
+3.2.3 HTTP ................................ ................................ ................................ ...................... 10 
+3.3 Usage of the Boot Strap Loader (MDC and PMC).............................................................................. 10 
+3.4 Settings Dialog .................................................................................................................................... 11 
+3.4.1 Ethernet ................................ ................................ ................................ .................. 12 
+3.4.2 Serial ................................ ................................ ................................ ...................... 13 
+3.4.3 Connection ................................ ................................ ................................ ............. 13 
+3.4.4 Data Retention ................................ ................................ ................................ ....... 14 
+3.4.5 Language ................................ ................................ ................................ ............... 15 
+3.4.6 Tools ................................ ................................ ................................ ...................... 15 
+3.5 Log-File Dialog .................................................................................................................................... 17 
+3.6 Command Line Interface ..................................................................................................................... 18 
+4 Troubleshooting .......................................................................................................................................... 19 
+4.1 Can’t connect to a specific DCU ......................................................................................................... 19 
+4.2 Problem to create a KCF .................................................................................................................... 19 
+4.3 DCU Software upload failed (wrong check sum and/or software version, Flash process timeout)  .... 19 
+4.4 Troubles with the Command Line Interface ........................................................................................ 20 
+A Revision History ........................................................................................................................................ 21 
+ 
+
+--- Update-Manual-English.pdf | PÁGINA 3 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 3/21 
+ 
+1 Introduction 
+IFE-Update 6.4 is a Knorr Bremse, Division IFE software which is used to upload new door control unit 
+software into the door control unit hardware. The graphical user interface shows all required information 
+according the software file and the connected door control units. 
+1.1 Specific Definitions, Acronyms and Abbreviations 
+DCU Door Control Unit 
+PMC Programmable motor control 
+KCF Knorr Container File 
+ETH Ethernet 
+TFTP Trivial File Transfer Protocol 
+HTTP Hypertext Transfer Protocol 
+TCP Transmission Control Protocol 
+IP Internet Protocol 
+{Installation Path} An abbreviation for the installation path of 
+IFE-Update 6.4 
+1.2 Features 
+Following list shows the main features of IFE-Update 6.4. 
+• Search for connected DCU’s with ETH and the Serial Ports and show their states 
+• Open the DCU software file, check the content and show all required information (e.g. version 
+number, check sum) 
+• Upload new or modified DCU software into the selected DCU’s 
+• Merge a DCU binary file into a KCF (not supported for FLEX DCU) 
+• Extract a DCU binary from a KCF (not supported for FLEX DCU) 
+• Parallel software upload to multiple DCUs using ethernet (TFTP, HTTP (TCP/IP)) or the serial 
+port 
+• Command line interface to include IFE-Update 6.4 into tool chains 
+• KCF File observation on changes 
+
+--- Update-Manual-English.pdf | PÁGINA 4 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 4/21 
+ 
+1.3 Minimum System Requirements 
+To install and run the software following “minimum” PC Hardware and Software requirements must be 
+satisfied to ensure that the program function works properly. 
+ 
+TESTED OPERATING SYSTEMS Windows 7, Windows 10 
+DEPENDENCIES Microsoft .NET Framework 4.6 
+DISK SPACE 10MB required (if the .NET Framework 4.6 is already installed) 
+RAM 40MB required for IFE-Update 6.4 
+INTERFACES A LAN and/or W-LAN connection to use the Ethernet based 
+software upload. 
+A RS232(COM) interface or a USB-RS232 converter (tested with 
+ROLINE USB to Serial Converter 12.02.1089RW, other types 
+may work too). 
+NETWORK CONFIGURATION Following services and communication ports must not be blocked 
+by any kind of firewall (maint. system, network devices, …): 
++ UDP-Port   18756  (Info service for IFE-Update) 
++ UDP-Port      69 (TFTP Protocol) 
+ 
+Caution: 
+If there is no active DHCP server in the network, which assigns IP addresses to all the network 
+devices, a static IP must be configured for the maintenance system (PC/laptop) to be able to 
+communicate with the DCUs. The DCUs themselves are automatically configured with  project specific 
+static IP addresses. For a successful communication, the IP of the maintenance PC/laptop must be in 
+the same subnet address-range as the DCUs. The configuration of a static IP is different for many 
+systems and therefore not covered by this document. Please contact your local IT department. 
+
+--- Update-Manual-English.pdf | PÁGINA 5 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 5/21 
+ 
+1.4 Network Requirements (Ethernet) 
+For the software upload (chapter 3.23.2) via ethernet (TFTP or HTTP) it is necessary, that the DCU is 
+connected to the ethernet network or the maintenance PC via the built-in M12 connector: 
+ 
+Figure 1 Male M12 connector 
+ 
+Figure 2 Circular 4 Pin M12 connector (front view) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1 Pin assignment for Ethernet of M12 circular socket connector 
+Signal Function Pin number 
+TD+ Transmission Data+ 1 
+RD+ Receiver Data+ 2 
+TD- Transmission Data- 3 
+RD- Receiver Data- 4 
+ 
+The IP address range used by the DCUs must not be blocked by the network infrastructure.  
+Also, following services and communication ports must not be blocked by the network’s infrastructure: 
++ UDP-Port   18756  (Info service for IFE-Update) 
++ UDP-Port      69  (TFTP Protocol) 
+For information about these configurations contact your local IT department. 
+
+--- Update-Manual-English.pdf | PÁGINA 6 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 6/21 
+ 
+2 Installation Instruction 
+ 
+Figure 3: IFE-Update Setup Wizard 
+IFE-Update 6.4 is delivered with a standard setup IFEUpdate6.4-Setup.exe that allows a correct installation 
+on a PC which fulfills the minimum system requirements (see section 1.3). To install IFE-Update 6.4 follow 
+this installation instruction list: 
+1. Start the setup file IFEUpdate6.4-Setup.exe 
+2. Select your preferred language of the setup and IFE-Update interface. 
+3. IFE-Update 6.4 requires the Microsoft .NET Framework 4.6. The setup checks if that framework is 
+installed on your PC. If not, the setup validates if the file dotnetfx.exe can be found in the setup file 
+directory and uses this to install the .NET Framework. 
+If the .NET Framework 4.6 does not exist and cannot be installed, the setup terminates. 
+4. Follow the setup instructions (see Figure 3). 
+5. The setup indicates when the installation was successful. 
+
+--- Update-Manual-English.pdf | PÁGINA 7 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 7/21 
+ 
+3 Program Operation 
+This section treats the usage of IFE-Update 6.4 and the available features. The main function of IFE-Update 
+6.4 is to upload new DCU software into the DCU hardware and this is achieved with the following steps: 
+1. Open IFE-Update 6.4 with the icon on the desktop or in the Start-Menu of Windows. 
+2. Open the file (*.kcf) with the new DCU software. 
+3. Connect to the DCU with the menu entry Action→Connect … (see Chapter 3.2). If the desired DCU 
+was found it is listed in the DCU list. 
+4. Select the DCU’s that should be updated with the new DCU software. 
+5. Use Action→Upload to Device to initiate the software upload. 
+6. After the upload has finished check if the software version and the checksum of the selected DCU’s 
+are equal with the DCU software file. The equality is indicated with a green background color of the 
+software version and the checksum cell (see Figure 4 and Figure 5). 
+3.1 Main Window 
+ 
+Figure 4: Main Window of IFE-Update; TFTP Transfer in process 
+
+--- Update-Manual-English.pdf | PÁGINA 8 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 8/21 
+ 
+ 
+Figure 5: Main Window of IFE-Update; DCU software update successful 
+ 
+The main window of IFE-Update 6.4 is shown in Figure 4 and contains following elements (from top to 
+bottom): 
+• Main Menu of IFE-Update 6.4 (the corresponding shortcuts can be found in the menu beside 
+the menu entries). 
+• Toolbar with the most required functions (from left to right: Open File, Upload to Device, Stop 
+all TFTP Uploads, Connect and Disconnect). 
+• File Information: This section contains all information of the file (KCF) which is current 
+opened. The File-Content list shows all entries of the KCF which normally contains one entry 
+(the binary of the new DCU software). 
+• DCU-List: This list shows all DCU’s which were found depending on the connection 
+parameters (see bottom status line). 
+• Status Line: The current connection parameters are shown there. 
+The current states of the DCU’s are shown in the DCU-List (see Figure 5). The following information is 
+shown: 
+• Connecting …: IFE-Update 6.4 tries to establish a connection with the DCU via the serial 
+port. 
+• Switch OFF DCU (waiting 5s): IFE-Update 6.4 recognized that a restart of the DCU is 
+required. Switch OFF the DCU within 5 seconds if this status message is shown.  
+• Switch ON DCU (waiting 5s): IFE-Update 6.4 recognized that a restart of the DCU is 
+required. Switch ON the DCU within 5 seconds if this status message is shown. 
+• Starting Softwareloader: The software loader is initiated for the file upload via the serial port. 
+
+--- Update-Manual-English.pdf | PÁGINA 9 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 9/21 
+ 
+• Ready: The DCU is ready and waits for instructions. 
+• Unknown: The DCU is in an unknown state. A restart of the DCU and a reconnect may solve 
+the problem. 
+• File Transfer …: The file upload via TFTP/HTTP is in progress. 
+• Serial-Transfer …: The file upload via the serial port is in progress. 
+• Erasing: The program memory erase of the DCU is in progress. 
+• Activate Flashing: The “activate flashing” command was sent via ETH to the DCU. 
+• Flashing: The DCU flashes the binary into the program memory. During this process the DCU 
+can’t be reached via Ethernet. If the flash process timeout is reached (see Figure 8), the 
+Flashing Timeout state is indicated. 
+• Connection Failure: The connection to the device was interrupted. A reconnect may solve 
+the problem. 
+• Device Restarted: The file upload via the serial port is finished successful and the device wa s 
+restarted. 
+• Software-Version Green/Red: The color RED indicates that the software version of the DCU 
+doesn’t match the version of the selected file. The color GREEN indicates that the DCU run’s 
+the same software version. 
+• Checksum Green/Red: The color RED indicates that the checksum of the software on the 
+DCU doesn’t match the checksum of the selected file. The color GREEN indicates that the 
+DCU run’s software with the same checksum. 
+3.2 Connection-Dialog 
+ 
+Figure 6: Dialog to establish an Ethernet connection to the DCU’s 
+
+--- Update-Manual-English.pdf | PÁGINA 10 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 10/21 
+ 
+Use the menu entry Action→Connect … or the corresponding icon in the toolbar (see Figure 4) to 
+open the Connection-Dialog illustrated in Figure 6. There you can select different ways to establish a 
+connection to the DCU’s. 
+3.2.1 Ethernet 
+Important Notice: 
+The fulfillment of the system requirements in chapter 1.3 (“NETWORK CONFIGURATION”) is 
+important for a working communication and should be checked, if any errors are encountered. 
+ 
+Broadcast: If you want to find all available devices connected to your current network without entering 
+an IP address, use the option All devices. This will send broadcast messages to all devices in the 
+network with the specific request to send back information about the DCU. Other non-DCU devices 
+(PCs, …) will ignore this message.  
+For this method to work, outgoing UDP broadcast messages must be supported by the network’s 
+infrastructure (chapter 1.4) and must not be blocked by the firewall of the maintenance PC/laptop 
+(chapter 1.3). 
+Unicast: If you want to connect to DCUs with specific IP addresses, you can use the option Custom. 
+The textbox can be filled with multiple entries separated by “;”. An entry can either be a single IP 
+address, or a range of addresses (two IPs separated by “-”). An example connection string is 
+illustrated below the text box. To improve the usability the last used connection strings are stored and 
+can be selected using the drop-down button of the text box. 
+Caution: Using very wide ranges of addresses (e.g. more than 1000) will slow down the application 
+significantly, because many unicast messages have to be sent separately, whereas a broadcast takes 
+advantage of the network infrastructure. 
+3.2.2 Serial Connection (RS232 / COM) 
+IFE-Update 6.4 also provides a software upload via the RS232(COM) serial port. To use this feature, 
+select RS232. Then select the DCU type and the corresponding COM-Port (the combo box lists all 
+available ports). 
+3.2.3 HTTP 
+Similar functionality as in the unicast ethernet connection is provided by using the HTTP option . It uses 
+the same input format as ethernet unicast IP addresses. This option can be necessary, if the network 
+does not support TFTP uploads, but only TCP/IP communication. A broadcast to all available devices 
+is not possible with HTTP, so single IPs or ranges of IPs have to be entered.  Additional to the IP 
+address a port has to be entered to be able to connect. The default port for HTTP-communication is 
+80, but it can be different for some projects. The needed port is found in the webserver description 
+document. 
+Furthermore, a username and a password have to be entered for authentication. This information can 
+also be found in the webserver description document. If the authentication is not successful, the DCUs 
+will not show up in the device list. If no authentication is required, the fields for username and 
+password can be left empty. 
+Caution: The same restrictions for very wide IP ranges, like with the ethernet unicast connection, also 
+apply for the HTTP connection. 
+ 
+Use Connect to open the connection. 
+3.3 Usage of the Boot Strap Loader (MDC and PMC) 
+If you have an invalid or damaged firmware on the DCU, use the BSL check box to connect with the 
+Boot Strap Loader. In the case of an older DCU, check if a jumper on the hardware has to be set to 
+enable the BSL. In the case of an MDC the BSL is activated via a pin of the serial port by IFE-Update 
+6.4. 
+The Boot Strap Loader is non-volatile implemented within the DCU and allows uploading firmware into 
+the DCU if one of the following points occurred and a normal software upload doesn’t work: 
+
+--- Update-Manual-English.pdf | PÁGINA 11 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 11/21 
+ 
+• The DCU is new and the first firmware upload is done (normally by the manufacturer). 
+• The firmware in the memory is damaged due to an interrupted programming process with IFE-
+Update 6.4 (or earlier versions) or a problem within the firmware denies a connection with IFE-
+Update 6.4. Some reasons for a damaged firmware in the memory are listed in the following 
+and they should be avoided: 
+o interrupting the RS232(COM) connection during the programming 
+o switching of power supply during the programming 
+o a damaged or wrong software file was programmed into the DCU 
+o the target of the firmware and the DCU type does not match 
+The Boot Strap Loader can be used with the RS232(COM) serial port. The procedure to activate the 
+Boot Strap Loader depends on the DCU type: 
+• FLEX: 
+o The FLEX DCU does not support the Boot Strap Loader mechanism!  
+• MDC: 
+o Activate the checkbox use BSL in the connection dialog (see Figure 6), select the 
+corresponding RS232(COM) serial port and press Connect. 
+o Switch OFF the power supply of the DCU (if not already done) as written in the state 
+field in the DCU-List (see Figure 4). 
+o Switch ON the power supply of the DCU as written in the state field in the DCU-List 
+(see Figure 4). 
+o Boot Strap Loader should be activated and the connection to the DCU should be 
+established. Then upload the DCU software as usual. 
+• PMC: 
+Some of the PMC DCU types don’t have a Boot Strap Loader. The other PMC DCU types 
+have a jumper inside the electronic to activate the Boot Strap Loader. In both cases contact 
+IFE for support. 
+3.4 Settings Dialog 
+Use the menu entry Action→Settings… to launch the settings dialog, which you can see in Figure 7. 
+There you can configure the application’s parameters and the interface language. The settings are 
+stored within the {InstallationPath}\update.ini configuration file. 
+
+--- Update-Manual-English.pdf | PÁGINA 12 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 12/21 
+ 
+3.4.1 Ethernet 
+ 
+Figure 7: IFE-Update Settings Dialog – Ethernet Settings 
+ 
+Device alive time span If IFE-Update 6.4 does not get a response from the DCU within the 
+device alive time span, the DCU is removed from the DCU list. Set 
+this time span in milliseconds. 
+Flash process timeout While the DCU executes the internal software update (after the 
+upload via TFTP or HTTP is finished) the DCU can’t be reached via 
+Ethernet. To indicate a flashing failure this parameter represents the 
+maximum time the DCU needs to finish the software update. If the 
+DCU does answer within this time span, it seems like the DCU has a 
+problem. 
+TFTP 
+MAX TFTP Uploads parallel Define the maximal number of parallel DCU software uploads here. 
+Increase that value if you want to speed up the DCU software upload 
+to a huge number DCU’s. 
+Devices search interval Interval in milliseconds of the device search procedure. If the 
+network is very slow and the DCU can’t be found increase this 
+parameter. 
+HTTP 
+MAX HTTP Uploads parallel Define the maximal number of parallel DCU software uploads here. 
+Increase that value if you want to speed up the DCU software upload 
+to a huge number DCU’s. 
+Devices search interval Interval in milliseconds of the device search procedure. If the 
+network is very slow and the DCU can’t be found increase this 
+parameter. 
+Max. parallel HTTP requests The maximum number of parallel requests sent out in one search 
+interval. With low performance systems this value can greatly 
+decrease the application speed. Increase this value with care. If the 
+number of IPs in the search range is bigger than this setting, an error 
+message is shown, when trying to connect to the DCUs. 
+ 
+
+--- Update-Manual-English.pdf | PÁGINA 13 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 13/21 
+ 
+3.4.2 Serial 
+ 
+Figure 8: IFE-Update Settings Dialog – Serial Connection Settings 
+ 
+Flash process timeout While the DCU executes the internal software update (after the 
+upload via serial (RS232/COM) interface is finished) the DCU can’t 
+be reached via Ethernet. To indicate a flashing failure this parameter 
+represents the maximum time the DCU needs to finish the software 
+update. If the DCU does answer within this time span, it seems like 
+the DCU has a problem. 
+Use Boost Mode for RS232 Upload IFE-Update 6.4 supports a boot-loader that speeds up the 
+software-upload via the RS232(COM) serial port. If a problem occurs 
+during the upload, deactivate that feature and try the upload again. 
+ 
+3.4.3 Connection 
+ 
+Figure 9: IFE-Update Settings Dialog – Connection Settings 
+
+--- Update-Manual-English.pdf | PÁGINA 14 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 14/21 
+ 
+ 
+Connection Presets With CONN1, CONN2, CONN3 and CONN4 frequently used 
+connections can be configured. If the connection is required, the 
+corresponding shortcut CONNx can be used. 
+ 
+3.4.4 Data Retention 
+ 
+Figure 10: IFE-Update Settings Dialog – Data Retention Settings 
+ 
+Data Retention  For FLEX DCUs the option “Force update of all components” can be 
+selected. This mode enforces a software update also of critical 
+components (e.g. Bootloader) whereby the DCU will get functionless 
+in case of a loss of power supply. Only the manufacturer can repair 
+the DCU in this case. This update mode must only be used for 
+reprogramming of memory components with limited data retention. 
+ 
+
+--- Update-Manual-English.pdf | PÁGINA 15 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 15/21 
+ 
+3.4.5 Language 
+ 
+Figure 11: IFE-Update Settings Dialog – Language Settings 
+ 
+ 
+ 
+Used language Select your preferred interface language here. 
+Unicode <-> Ascii Tool Entering characters into one of the two textboxes will convert them 
+to the other encoding standard. Conversion in both ways is possible. 
+ 
+3.4.6 Tools 
+ 
+Figure 12: IFE-Update Settings Dialog – Tools Settings 
+ 
+This configuration page can be used to create up to four shortcuts to open a program (which already 
+has to be installed on the maintenance machine!) with command line arguments for the currently 
+
+--- Update-Manual-English.pdf | PÁGINA 16 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 16/21 
+ 
+selected device (DCU). The shortcuts can be activated through the “Extras” menu in the toolbar of the 
+main window. 
+Title: specifies the name of the item in the shortcut list (in the “Extras” menu)  
+Program: specifies the name of the executable 
+Arguments: start-parameters for the program can be added 
+
+--- Update-Manual-English.pdf | PÁGINA 17 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 17/21 
+ 
+3.5 Log-File Dialog 
+ 
+Figure 13: Log-File Dialog 
+IFE-Update 6.4 records all actions of the user, of them self and the DCU’s into the log file {Installation 
+Path}\Update.log. Use the menu entry File→View Log File to have a look into the log file. A log entry 
+consists of three columns (see Figure 13): 
+ 
+Timestamp The timestamp of the log entry. 
+Trigger Who have caused the action? 
+USER … the user did the action 
+UPDATE … IFE-Update 6.4 triggered the action them self 
+DEVICE … an action caused by the DCU 
+Action Description what happened. 
+The interface facilitates the adding of custom comments by the user and with the button Save Log-
+File a copy of the Log-File can be stored into a selectable directory (e.g. if you want to ship the log 
+messages with an e-mail to fix a problem). 
+
+--- Update-Manual-English.pdf | PÁGINA 18 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 18/21 
+ 
+3.6 Command Line Interface 
+The program can be called and controlled via command line arguments. This feature allows you to 
+start the program from the terminal window cmd.exe, within batch files and to include the program as 
+extern tool to other programs like IDE’s. 
+If an instance of IFE-Update 6.4 still runs and you start another instance with new arguments, these 
+arguments are passed to the running instance and processed by it. 
+For the Command Line Interface use the following syntax (case-sensitive): 
+ 
+IFEUpdate.exe  [--Filename <fn>] 
+[--Connect [xxx.xxx.xxx.xxx];[COMx[BSL];] [/AutoStart] [/AutoClose]] 
+[/CreateLanguageFileTemplate] [/SkipEqual] [/CompatibilityCheckOff] 
+[/DataRetentionUpdate] 
+ 
+--Filename <fn> Assigns the path and name of the file to be used. If the file has not a 
+KCF file extension, the file is merged into a KCF in the same 
+directory and this KCF is used by IFE-Update 6.4. 
+--Connect <connectionstring> Forces IFE-Update 6.4 to open a connection with the given 
+connection string. Consider, if you use  
+--Connect 255.255.255.255;COM1;COM3BSL, 
+a broadcast is used to list all DCU’s which could be found. 
+Additionally, the serial ports COM1 and COM3 are used to connect 
+to DCU’s. With the appendix BSL the Boot Strap Loader is used to 
+establish the connection on COM3. In general, if the DCU with the 
+passed IP-Address/COM is found, it would be automatically selected 
+(this would not happen if a broadcast is used or one of the 
+connections is not established). 
+ If a connection with a FLEX DCU should be established via a serial 
+interface, the prefix “FLEX_” needs to be added before the COM 
+interface that should be used (e.g. “FLEX_COM1”). 
+/AutoStart If the DCU’s defined with --Connect are found and selected, the 
+upload of the DCU software starts. 
+/AutoClose This option defines, that IFE-Update 6.4 is closed automatically after 
+all selected devices have finished the software upload. 
+/CreateLanguageFileTemplate This option creates the language file template {Installation 
+Path}\template.lng and closes IFE-Update 6.4. This template file 
+can be used to create a new translation for the IFE-Update 6.4 
+interface. 
+/SkipEqual This option defines, that the software upload is skipped if the correct 
+software is already loaded in the DCU (i.e. software version and 
+CRC matches). 
+/CompatibilityCheckOff With this parameter the compatibility of the DCU type and the 
+software that should be flashed is not checked. 
+/DataRetentionUpdate With this parameter the setting “Data Retention” is set for FLEX 
+DCUs (see 3.4.4 “Data Retention“). As a result, the software update 
+procedure will also update critical components (e.g. Bootloader). 
+Use this option with care, as the DCU can get functionless in case of 
+a loss of power supply during software update with this mode 
+enabled. 
+Example:  IFEUpdate.exe --Filename C:\E123456.A01.kcf 
+--Connect 255.255.255.255;COM1BSL;CONN3 /AutoStart 
+
+--- Update-Manual-English.pdf | PÁGINA 19 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 19/21 
+ 
+4 Troubleshooting 
+This section treats some possible troubles and potential troubleshooting.  
+4.1 Can’t connect to a specific DCU 
+If you use the connection dialog (see Figure 6) and the desired DCU was not listed in the DCU list of 
+the main window (see Figure 4 and Figure 5), check the following points which might help to solve the 
+problem: 
+Connect via ETH: 
+• At the first check the network connection of your PC and the DCU. 
+• If you used a broadcast (255.255.255.255) and the DCU was not found, use the IP address of 
+the DCU to connect (option Custom in Figure 6). 
+• If the DCU (software version) does not support a firmware update via Ethernet, the DCU does 
+not respond on the requests from IFE-Update 6.4 and so it would not be found. 
+• Maybe the DCU currently executes a firmware update. During this time the DCU cannot be 
+reached via Ethernet. 
+Connect via RS232(COM): 
+• Check the correctness of the serial connection (correct RS232(COM) port number; cable 
+connected; crossed serial cable) 
+• Deactivate the Boost Mode (see subsection 3.4.2) and try the connection again. 
+If these points did not solve the problem, try to use the Boot Strap Loader as described in section 3.3 
+to establish a connection to the DCU and to upload the DCU software. 
+4.2 Problem to create a KCF 
+With the menu entry Extras→Create KCF File you are able to convert a DCU binary into a KCF. If the 
+conversion troubles, one of the following points might be the reason: 
+• If the binary file does not contain a valid info header which contains the information about the 
+binary, the binary file is invalid. 
+• The KCF target file still exists and is write-protected. 
+4.3 DCU Software upload failed (wrong check sum and/or software version, Flash 
+process timeout) 
+Sometimes it might happen that a software upload and so the software update fails. The following list 
+will give you some hints to solve the problem: 
+• Try the upload again. Maybe the TFTP transfer had troubles and so the check sum of the 
+transferred file was wrong. In this case, the DCU does not activate the firmware update to 
+prevent the use of damaged software. 
+• If the wrong software was transferred (maybe wrong DCU type or software without TFTP and 
+update via ETH support) it might happen that the software does not work and the DCU does 
+not respond (Flashing Timeout). In this case, the only way to fix the problem is to transfer the 
+correct DCU software via the serial port to the DCU hardware (see subsection 3.2.2). 
+• If RS232(COM) serial port is used, deactivate the Boost Mode (see subsection 3.4.2) and try 
+the upload again. 
+
+--- Update-Manual-English.pdf | PÁGINA 20 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 20/21 
+ 
+4.4 Troubles with the Command Line Interface 
+If the use of the Command Line Interface from IFE-Update 6.4 makes troubles, check the following list 
+that will gives you some hints to solve the problem: 
+• Check the syntax of the command as described in subsection 3.6. Also consider the case-
+sensitive arguments. 
+• Check the file path of IFE-Update 6.4 and the filename passed as argument. 
+• If the file path of the executable or the passed filename contains whitespaces, this file path 
+have to be quoted. 
+Example: 
+"C:\Program Files\IFE\IFEUpdate\IFEUpdate.exe" 
+--Filename "D:\Project A\E123456.A01.kcf" 
+
+--- Update-Manual-English.pdf | PÁGINA 21 ---
+Software-Manual IFE-Update 6.4 E403420P64_EN - Issue “00” 
+ Page 21/21 
+ 
+A Revision History 
+ 
+change date created by checked by released by 
+ 
+00 02.10.2019 Kremser M. Lanzenbacher F. Zöchmann M. 
+ 
+  
+ First Version of the manual for IFE-Update 6.4. 
+ 
+ 
+ 

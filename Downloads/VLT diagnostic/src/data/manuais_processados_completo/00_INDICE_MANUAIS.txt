@@ -1,0 +1,21 @@
+# ÍNDICE DE MANUAIS PROCESSADOS
+
+- 506_S4D630-BF03-04_datasheet_distribuidor_ebmpapst.pdf (2 páginas) -> Gerado: manual_506_S4D630-BF03-04_datasheet_distribuidor_ebmpapst.txt
+- A055X064_I2_201812.pdf -> FALHA NO PROCESSAMENTO (Unexpected EOF)
+- Alternador - Catalogo de peças A053J574.pdf (132 páginas) -> Gerado: manual_Alternador - Catalogo de peças A053J574.txt
+- Alternador - Fault-Finding-Manual - A054E988.pdf (74 páginas) -> Gerado: manual_Alternador - Fault-Finding-Manual - A054E988.txt
+- Alternador - Manual do proprietário - A040J848.pdf (62 páginas) -> Gerado: manual_Alternador - Manual do proprietário - A040J848.txt
+- Alternador - Service Guide.pdf (88 páginas) -> Gerado: manual_Alternador - Service Guide.txt
+- Alternador Delcy - Gerador CUMMINS.pdf (6 páginas) -> Gerado: manual_Alternador Delcy - Gerador CUMMINS.txt
+- CATÁLOGO PEÇAS GERADOR CUMMINS.pdf (104 páginas) -> Gerado: manual_CATÁLOGO PEÇAS GERADOR CUMMINS.txt
+- Diagrama Elétrico - A059Z094_Rev_B.pdf (3 páginas) -> Gerado: manual_Diagrama Elétrico - A059Z094_Rev_B.txt
+- Especificações de torque para Cummins B3.9, B4.5, B4.5 RGT e 5.9L _ Diesel Pro Power.pdf (23 páginas) -> Gerado: manual_Especificações de torque para Cummins B3.9, B4.5, B4.5 RGT e 5.9L _ Diesel Pro Power.txt
+- MM-2A.45.01.BS609-002 - vol 1 de 3.pdf -> FALHA NO PROCESSAMENTO (Unexpected EOF)
+- MM-2A.45.01.BS609-002 - vol 2 de 3.pdf -> FALHA NO PROCESSAMENTO (Unexpected EOF)
+- MM-2A.45.01.BS609-002 - vol 3 de 3.pdf (187 páginas) -> Gerado: manual_MM-2A.45.01.BS609-002 - vol 3 de 3.txt
+- Motor-alternador - Catalogo de peças A030A102.pdf -> FALHA NO PROCESSAMENTO (Unexpected EOF)
+- Radiator Information 0908-0107_I4_201301.pdf (24 páginas) -> Gerado: manual_Radiator Information 0908-0107_I4_201301.txt
+- cummins_repair_manual_complete.pdf -> FALHA NO PROCESSAMENTO (Unexpected EOF)
+- manual-de-serviço-ISB-vol-1.pdf -> FALHA NO PROCESSAMENTO (Unexpected EOF)
+- manual-de-serviço-ISB-vol-2.pdf -> FALHA NO PROCESSAMENTO (Unexpected EOF)
+- ~~$cummins_repair_manual_complete.pdf -> FALHA NO PROCESSAMENTO (Unexpected EOF)

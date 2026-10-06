@@ -1,0 +1,2037 @@
+=========================================
+MANUAL: DDTSE20344E06-BR_01 (Checklist).pdf
+=========================================
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 1 ---
+ 
+ 
+K N O R R  B R E M S E  
+SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA.  
+ 
+ 
+ 
+Todos os direitos reservados. Qualquer aplicação in devida desta descrição, especificamente a reproduçã o ou transmissão a terceiros 
+de qualquer modo, poderá estar sujeita à punição conforme a lei civil ou processo penal. Confidencial, somente para uso interno! 
+Revisão Nº: 
+ 
+01 
+preparado/modificado 
+31/12/2011 
+Társis Tezza 
+verificado/liberado 
+31/12/2011 
+Flavio Pereira 
+Total 
+de páginas 
+34  
+Página 
+Nº 
+1 
+ 
+KNORR-BREMSE  Documentação nº: 
+DDTSE20344E06-BR Sistemas para Veículos Ferroviários Ltda. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Checklist  
+Porta Deslizante de Folha Dupla S3-E2 
+(5080291AR01/R02/R03/R04) 
+VLT (BOM SINAL) 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 2 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 2/34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aviso - Aviso - Aviso - Aviso - Aviso 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendamos para proteção contra riscos que a instalação ou operação de nossos produtos 
+ou componentes sejam executadas somente por pessoal  autorizado de acordo com as 
+instruções de operação apropriadas. 
+ 
+ 
+ 
+ 
+ 
+ 
+Não nos responsabilizamos perante as leis de garantia do produto por danos diretos ou 
+conseqüentes, decorrentes de operação, instalação ou manuseio incorretos dos produtos ou 
+componentes fornecidos por nós. 
+ 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 3 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 3/34  
+ 
+ 
+Índice 
+ 
+Conteúdos Página  
+1 Documentos requeridos ..................................................................................................................... 4 
+2 Avisos e recomendações gerais ........................................................................................................ 4 
+3 Introdução ............................................................................................................................................ 5 
+3.1  Observações de segurança ................................................................................................................... 5 
+3.2  Geral ...................................................................................................................................................... 5 
+3.3  Ferramentas especiais .......................................................................................................................... 6 
+3.4  Suprimentos auxiliares .......................................................................................................................... 7 
+3.5  Layout do carro ...................................................................................................................................... 8 
+3.6  Visão geral dos componentes ............................................................................................................... 9 
+4 Preenchimento do checklist ............................................................................................................. 11  
+5 Checklist para o sistema de porta S3-E2 ........................................................................................ 12  
+5.1  Verifique as dimensões do portal ........................................................................................................ 16  
+5.2  Verifique o paralelismo da área do portal ............................................................................................ 17  
+5.3  Verifique o ajuste dos elementos de vedação vertical......................................................................... 18  
+6 Verificação da instalação .................................................................................................................. 19  
+6.1  Suportes de montagem ....................................................................................................................... 19  
+6.2  Verifique o posicionamento da folha de porta ..................................................................................... 22  
+6.3  Verifique o ajuste do paralelismo em relação ao piso ......................................................................... 23  
+6.4  Verifique o pré-carregamento das folhas de porta (“v” de porta) ........................................................ 24  
+6.5  Verifique a dimensão do vão nos pinos de travamento ....................................................................... 26  
+6.6  Verifique o contato dos parafusos de travamento nas travas ............................................................. 27  
+6.7  Verificação do vão de abertura da porta .............................................................................................. 28  
+6.8  Verificação dos elementos de fixação ................................................................................................. 29  
+6.9  Verifique a lubrificação ........................................................................................................................ 29  
+6.10  Verificação da montagem dos “Bowden Cables” ................................................................................ 29  
+6.11  Verificação do funcionamento do dispositivo (chave) de emergência interno ..................................... 30  
+6.12  Verificação do funcionamento do dispositivo (chave) de serviço externo ........................................... 30  
+6.13  Verificação do funcionamento da micro-chave S3-1 “Dispositivo de emergência“ ............................. 30  
+6.14  Verificação do funcionamento da micro-chave S1 “Porta fechada e travada“ .................................... 30  
+6.15  Verificação do funcionamento da micro-chave (S4-1) “Porta fora de serviço“ .................................... 30  
+6.16  Verificação da função de detecção de obstrução ................................................................................ 31  
+6.17  Verificação completa da operação do sistema de porta ...................................................................... 31  
+7 Índice de revisões .............................................................................................................................. 32  
+8 Apêndice A – Números de série dos principais componentes ..................................................... 33  
+9 Apêndice B – Lista de figuras .......................................................................................................... 34  
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 4 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 4/34 
+ 
+ 
+ 
+1 Documentos requeridos 
+ 
+Nº do documento / desenho Descrição 
+ 
+5080291AR01 Desenho de montagem 
+5080291AR01 Escopo de fornecimento 
+5080291AR02 Escopo de fornecimento 
+5080291AR03 Desenho de montagem 
+5080291AR03 Escopo de fornecimento 
+5080291AR04 Escopo de fornecimento 
+DDTSE20344E03-BR Descrição de Funcionamento 
+DDTSE20344E04-BR Manual de Montagem e Ajuste 
+DDTSE20344E05-BR Manual de Lubrificação 
+DDTSE20344E07-BR Manual de Configuração 
+DDTSE20344E13-BR Manual de Diagnóstico de Falha 
+ED01029R11 Diagrama elétrico 
+ 
+ 
+2 Avisos e recomendações gerais 
+ 
+Este manual inclui os seguintes alertas categorizados em diferentes classes de risco: 
+ 
+ 
+PERIGO 
+O descumprimento destas instruções causará feriment os pessoais 
+irreversíveis ou morte. 
+ 
+ 
+ADVERTÊNCIA 
+O descumprimento destas instruções pode causar feri mentos pessoais 
+graves ou morte. 
+ 
+ 
+CUIDADO 
+O descumprimento destas instruções pode causar feri mentos pessoais, 
+bem como danos ao equipamento e/ou ambiente. 
+ 
+Explicação sobre a estrutura dos avisos (por exemplo, PERIGO): 
+ 
+ 
+PERIGO 
+Causa do perigo 
+Conseqüência do perigo 
+Medidas corretivas 
+ 
+As recomendações não contêm conteúdo relevante de s egurança. São listadas aqui para fins de 
+complementação. 
+ 
+ 
+OBSERVAÇÃO 
+As observações fornecem dicas úteis e informações a dicionais acerca do 
+equipamento. 
+ 
+Em caso de serviços especiais, os avisos em outros capítulos deste manual indicarão os riscos específi cos. 
+Geralmente, os avisos e recomendações precedem o procedimento abordado. 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 5 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 5/34  
+ 
+ 
+3 Introdução 
+ 
+3.1 Observações de segurança 
+ 
+ 
+ADVERTÊNCIA 
+As partes móveis do sistema de porta podem se movimentar de repente. 
+Risco de ferimentos graves para pessoas e/ou danos ao equipamento. 
+Desligue a alimentação de energia antes de iniciar qualquer atividade no 
+sistema de porta! 
+ 
+ 
+ADVERTÊNCIA 
+Durante a execução de algum trabalho nos componente s do sistema de 
+porta com fornecimento de energia temporário, a det ecção de obstrução 
+não estará ativa! 
+Risco de ferimentos graves para pessoas e/ou danos ao equipamento. 
+Desligue a alimentação de energia antes de iniciar qualquer atividade no 
+sistema de porta! 
+ 
+ 
+PERIGO 
+ALIMENTAÇÃO DE ENERGIA DO SISTEMA DE PORTA 
+Risco de ferimentos irreversíveis para pessoas que podem causar morte. 
+Antes de iniciar qualquer trabalho no sistema de po rta, a alimentação de 
+energia deve ser interrompida. Para tanto, desligue  o disjuntor na cabine 
+de controle elétrico e a chave principal no mecanismo. 
+Além disso, todos os cabos elétricos do trem que es tiverem interligados ao 
+sistema da porta devem ser desconectados! 
+ 
+3.2 Geral 
+ 
+Esse manual é utilizado para verificação dos ajuste s mecânicos e elétricos do sistema de porta. Basica mente, 
+as informações sobre a regulagem dos componentes me cânicos e elétricos estão contidas nas “Instruções de 
+Montagem e Ajuste” DDTSE20344E04 e nas “Instruções de Configuração” DDTSE20344E07. 
+Para executar o checklist de maneira correta, exige-se que o sistema da porta esteja completamente instalado 
+e conectado a fonte de alimentação de energia defin itiva, conforme indicado na “Descrição de Funcionamento 
+da Porta” DDTSE20344E03. 
+ 
+ 
+OBSERVAÇÃO 
+De acordo com essa instrução, as operações de monta gem, reparo, 
+manutenção e verificação do sistema da porta devem ser executadas 
+exclusivamente por pessoal treinado e autorizado. 
+ 
+ 
+OBSERVAÇÃO 
+Essa instrução foi elaborada para a verificação do sistema da porta 
+somente durante a montagem e ajuste, portanto não d eve ser utilizada 
+para testes de aceitação após a entrada em operação dos equipamentos. 
+ 
+ 
+OBSERVAÇÃO 
+Todos os checklists preenchidos devem ser arquivado s junto com os 
+demais documentos técnicos e caso seja solicitado, estes devem ser 
+enviados para a KNORR-BREMSE! 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 6 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 6/34 
+ 
+ 
+ 
+OBSERVAÇÃO 
+Essa instrução se refere apenas aos componentes inc lusos no escopo de 
+fornecimento KNORR-BREMSE! 
+ 
+ 
+3.3 Ferramentas especiais 
+ 
+Além das ferramentas habituais, algumas ferramentas  especiais são necessárias para montagem e ajuste. 
+Caso as ferramentas especiais não estejam inclusas no escopo de fornecimento KBB/IFE, devem ser 
+adquiridas separadamente pelo cliente através da KBB: 
+ 
+KNORR-BREMSE SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA. 
+Via Cyrineu Tonolli, 1.519 - CEP: 13295-000 - Itupeva / SP 
+Depto de Engenharia de Aplicação de Sistemas de Porta 
+Telefone: (11) 4593-4400 
+www.knorr-bremse.com.br  
+ 
+Descrição  Escopo de 
+fornecimento  Utilização  Código 
+KBB/IFE  Aplicação  
+Calibrador Cliente Recomendado 3TD01548R01 Verificação da superfície de 
+fixação do mecanismo 
+Calibrador de 
+folga Cliente Recomendado - Verificação do furo dos 
+parafusos 
+Calibrador da 
+pressão de 
+vedação 
+KBB/IFE Especificado 3TD01549R03 Posicionamento da folha de 
+porta 
+Coluna de 
+elevação Cliente Recomendado - Elevação do mecanismo e 
+da folha de porta 
+Prumo Cliente Recomendado  Verificação do alinhamento 
+do portal 
+Fonte de 
+energia 
+ajustável 
+Cliente Exigido - 
+Permitir a operação 
+temporária dos 
+mecanismos para a 
+realização de testes 
+durante a montagem 
+Régua Cliente Recomendado  Verificação da superfície de 
+fixação do mecanismo 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 7 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 7/34  
+ 
+ 
+3.4 Suprimentos auxiliares 
+ 
+Para montagem e ajuste, alguns suprimentos auxiliar es são necessários. Os suprimentos auxiliares 
+necessários não estão inclusos no fornecimento KBB/ IFE e devem ser adquiridos pelo cliente no comércio  ou 
+através da KBB: 
+ 
+KNORR-BREMSE SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA. 
+Via Cyrineu Tonolli, 1.519 - CEP: 13295-000 - Itupeva / SP 
+Depto de Engenharia de Aplicação de Sistemas de Porta 
+Telefone: (11) 4593-4400 
+www.knorr-bremse.com.br  
+ 
+ 
+ADVERTÊNCIA 
+A utilização incorreta de produtos químicos pode ca usar danos à saúde 
+das pessoas! 
+Portanto siga corretamente todas as instruções de u tilização dos produtos 
+que são fornecidas pelos fabricantes! 
+ 
+ 
+CUIDADO 
+A utilização incorreta de produtos químicos pode ca usar danos aos 
+equipamentos! 
+Portanto siga corretamente todas as instruções de u tilização dos produtos 
+que são fornecidas pelos fabricantes! 
+ 
+Descrição  Escopo de 
+fornecimento  Utilização  Código KBB/IFE  Aplicação  
+Loctite 243 Cliente Exigido 0VN401289R47 Aperto dos  parafusos 
+Pasta Optimol 
+Branca T Cliente Exigido 0VN401670R01 Lubrificação dos paraf usos 
+Tinta lacre Cliente Exigido 3TD02927R01 Marcação do s parafusos 
+Sikaflex 252 Preto Cliente Exigido 0UN401080P02 Ved ação dos suportes 
+Fluido Penetrante 
+Dinitrol PLT Cliente Exigido OVN401989R01 
+(líquido) Nas superfícies de contato 
+Fluido Penetrante 
+Dinitrol PLT Cliente Exigido 3N401989R03 
+(em spray) Nas superfícies de contato 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 8 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 8/34 
+ 
+ 
+ 
+3.5 Layout do carro 
+ 
+ 
+ 
+Fig. 3-1 Layout do carro 
+ 
+CARRO CABINE ESQUERDO: 
+ 
+1 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+ 
+CARRO INTERMEDIÁRIO 1: 
+ 
+1 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+ 
+CARRO INTERMEDIÁRIO 2 (se houver): 
+ 
+1 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+ 
+ 
+CARRO CABINE DIREITO: 
+ 
+1 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+ 
+ 
+ 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 9 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 9/34  
+ 
+3.6 Visão geral dos componentes 
+ 
+3.6.1 Área da porta 
+ 
+ 
+Fig. 3-2 Visão geral dos componentes – Área da porta 
+ 
+O número de itens não corresponde com o escopo dos itens de entrega! 
+ 
+ 
+1 Mecanismo de´porta completo  2 Folha de porta direita 
+3 Folha de porta esquerda 4 Dispositivo de emergência interno 
+5 Bowden cable 6 Dispositivo de emergência externo 
+7 Bowden cable 8 Unidade de controle de porta (DCU)  
+9 Suporte de montagem 10 Suporte de montagem 
+11 Trilho   
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 10 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 10/34 
+ 
+ 
+ 
+3.6.2 Área do acionamento 
+ 
+ 
+Fig. 3-3 Visão geral dos componentes – Área do acionamento 
+ 
+ 
+O número de itens não corresponde com o escopo dos itens de entrega! 
+ 
+ 
+12 Suporte da folha direita 13 Suporte da folha esquerda 
+14 Fuso direito 15 Fuso esquerdo 
+16 Rolete excêntrico 17 Rolete  
+18 Módulo de acionamento 19 Batoque de fim de curso 
+20 Conector (X31) 21 Chave de serviço (S6) 
+22 Micro-chave de porta “fechada e travada” (S1) 23 Micro-chave de “emergência” (S3) 
+ 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 11 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 11/34  
+ 
+4 Preenchimento do checklist 
+ 
+Exemplo de preenchimento: 
+ 
+ 
+Checklist DDTSE20344E06 Medida real  
+Porta 1  Porta 2  Porta 3  Porta 4  
+         
+Ver item 6.1. Medida (d) 1997 ± 
+1 mm ; 
+1996 1998 1997 2000 
+  Sim    Não    Sim    Não    Sim    Não    Sim    Não  
+ 
+Encontre o número de serie dos equipamentos e preencha o formulário. 
+ 
+IL-00101  
+ 
+Fig. 4-1 Exemplos de números seriais 
+ 
+     
+Tipo 
+Tipo 
+Tipo 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 12 ---
+DDTSE20344E06-BR_00 Checklist  
+ 
+ 
+Página 12/34  
+ 
+ 
+ 
+ 
+5 Checklist para o sistema de porta S3-E2 
+ 
+Preencha com a medida real, compare com a medida nominal e confirme com “Sim” ou “Não”. 
+ 
+ 
+Checklist DDTSE20344E06 
+Medida real  
+Porta 1  Porta 2  Porta 3  Porta 4  Porta 5  Porta 6  
+ Ver item 5.1. Medida (a) 1915,7 mm  
+no lado esquerdo;  
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 5.1. Medida (a) 1915,7 mm  
+no centro; 
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 5.1. Medida (a) 1915,7 mm  
+no lado direito; 
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 5.1. Medida (b) 1320 mm  
+na parte superior; 
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 5.1. Medida (b) 1320 mm  
+na parte central; 
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 5.1. Medida (b) 1320 mm  
+na parte inferior; 
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 5.1. Medida (c) 0 ± 1 mm ;       
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 5.2. Medida (a) 0 ± 3 mm ;        
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Carro Nº.:   
+ 
+Preenchido por:    
+ 
+Data:    
+Página 1/4  
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 13 ---
+ 
+ 
+ 
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 13/34  
+ 
+ 
+Ver item 5.3. Medida (a) 662 ± 1 mm  
+em ambos os lados; 
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.1. Medida (g) 1439 ± 1 mm ;        
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.1. Verifique se o liquido 
+penetrante Dinitrol PLT foi utilizado;  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.1. Medida (d) 1997 ± 1 mm ;       
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.1. Medida (e) 77 ± 1 mm ;       
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.1. Medida (a) 12 mm ;       
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.1. Medida (f) 127,3 mm ;       
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.2. Medida (c) 12,5 mm ;        
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.3. Checar o paralelismo 
+entre o trilho e o piso;  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.3. Checar a inclinação 
+entre o piso e o trilho; 
+ 
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.4. Medida (a) mín = 0 
+máx = +2 mm  ; 
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 14 ---
+DDTSE20344E06-BR_00 Checklist  
+ 
+ 
+Página 14/34  
+ 
+ 
+Ver item 6.4. Folga entre o rolete e o 
+trilho (a) 0,1 a 0,4 mm à 20 ° C; 
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.5. Medida (a) 3,8 ± 0,7 mm  
+no lado esquerdo ;  
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.5. Medida (a) 3,8 ± 0,7 mm  
+no lado direito; 
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.5. Medida (x) mín. 2 mm 
+no lado esquerdo;  
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.5. Medida (x) mín. 2 mm 
+no lado direito; 
+      
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.6. Medida (a) 0 mm ; OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.7. Medida (a) 1290  ± 10 mm ;        
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.8. Verificar os torques de 
+aperto e a tinta lacre;  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.9. Verificar a lubrificação;  OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.10. Verificar a fixação 
+“Bowden Cable”; 
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.10. Raio (R) mín 150 mm ;       
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 0. Verificar o funcionamento OK  OK  OK  OK  OK  OK  
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 15 ---
+ 
+ 
+ 
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 15/34  
+ 
+do dispositivo de emergência;    
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.11. Verificar o 
+funcionamento do dispositivo de 
+serviço;  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.12. Verificar o 
+funcionamento da micro-chave (S3-
+1);  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.13. Verificar o 
+funcionamento da micro-chave (S1);  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.14. Verificar o 
+funcionamento da micro-chave (S4-
+1);  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não 
+  
+Sim  
+  
+Não  
+Ver item 6.15. Verificar a função de 
+detecção de obstrução; 
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 6.16. Verificar todas as 
+funções do sistema de porta; 6.17. 
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 16 ---
+Checklist                                        DDTSE20344E06-BR_00 
+ 
+ 
+Página 16/34 
+ 
+ 
+ 
+5.1 Verifique as dimensões do portal 
+ 
+IL-50128 
+c
+b
+a
+A B
+A - B = 
+ 
+ 
+a 1.915,7 mm b 1.320 mm c 0 ± 1  mm  
+Fig. 5-1 Desvio diagonal do portal 
+(ver Fig. 5-1 Desvio diagonal do portal 
+) 
+• Verifique a altura do portal (a), largura do porta l (b) e medida diagonal (c). 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 17 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 17/34  
+ 
+ 
+5.2 Verifique o paralelismo da área do portal 
+ 
+IL-50129
+aX2-X3 = 
+X2
+1
+X3
+1
+X1
+X1
+ 
+ 
+1 Prumo a 0 ±3 mm 
+Fig. 5-2 Desvio vertical do portal 
+ 
+(ver Fig. 5-2 Desvio vertical do portal 
+) 
+• Utilize um prumo para verificar se a vedação da mo ldura direita (X2) está alinhada com a vedação 
+da moldura esquerda (X3). Garanta que a tolerância admissível (a) não será excedida. 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 18 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 18/34 
+ 
+ 
+ 
+5.3 Verifique o ajuste dos elementos de vedação ver tical 
+ 
+IL-03869 
+1
+aa
+1
+b
+ 
+ 
+1 Elemento de vedação  a 662 ± 1 mm 
+b 1324 ± 2 mm   
+Fig. 5-3 Elemento de vedação 
+ 
+(ver Fig. 5-3 Elemento de vedação 
+) 
+• Verifique a medida (a). 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 19 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 19/34  
+ 
+ 
+6 Verificação da instalação 
+ 
+6.1 Suportes de montagem 
+ 
+ 
+ 
+1 Estrutura do caixa 2 Suporte de ajuste  
+3 Suporte de montagem  Fluido Penetrante Dinitrol PLT 
+g 1439 ± 1 mm   
+Fig. 6-1 Peças de instalação do mecanismo de porta 
+IL-03865 
+42
+1
+4242 42
+43 5
+8 67
+ 
+ 
+1 Suporte da porta 2 Parafuso 
+3 Parafuso 4 Arruela de pressão 
+5 Porta 6 Calços 
+7 Parafusos, porca, arruela 8 Parafuso de travamento 
+ Liquido Penetrante Dinitrol PLT   
+Fig. 6-2 Montagem das folhas de porta no mecanismo 
+(ver Fig. 6-1 Peças de instalação do mecanismo de porta 
+ e Fig. 6-2 Montagem das folhas de porta no mecanismo 
+) 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 20 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 20/34 
+ 
+ 
+• Verifique a medida (a). 
+• Verifique se o liquido penetrante Dinitrol PLT foi  aplicado. 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 21 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 21/34  
+ 
+ 
+ 
+ 
+1 Suporte de ajuste 2 Trilho 3 Rolete 
+4 Parafuso 5 Arruela 6 Porta 
+7 Parafuso 8 Arruela 9 Calço 
+10 Suspensão da porta a 12 mm   
+c 12,5 mm d 1997 ± 1 mm e 77 mm ± 1 mm 
+f 127,3 mm     
+Fig. 6-3 Peças para instalação do mecanismo de porta 
+(veja Fig. 6-3 Peças para instalação do mecanismo de porta 
+) 
+• Verifique a medição (d) e a medição (e). 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 22 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 22/34 
+ 
+ 
+ 
+6.2 Verifique o posicionamento da folha de porta 
+ 
+ 
+ 
+ 
+1 Folha de porta 2 Piso 
+c 12,5 mm   
+Fig. 6-4 Posição da folha de porta na guia inferior 
+ 
+(ver Fig. 6-4 Posição da folha de porta na guia inferior 
+) 
+• Verifique se a medida (c) está de acordo com o des enho, caso seja necessário ajuste o parafuso. 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 23 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 23/34  
+ 
+ 
+6.3 Verifique o ajuste do paralelismo em relação ao  piso 
+ 
+a
+a
+ 
+ 
+1 Trilho 2 Piso a ± 1 mm 
+Fig. 6-5 Paralelismo entre o piso e o mecanismo 
+(ver Fig. 6-5 Paralelismo entre o piso e o mecanismo 
+) 
+• Utilize um prumo para verificar o paralelismo entr e o trilho (1) e o piso (2). 
+• Verifique também a inclinação do piso (2) e do tri lho (1). 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 24 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 24/34 
+ 
+ 
+ 
+6.4 Verifique o pré-carregamento das folhas de port a (“v” de porta) 
+ 
+ 
+ 
+a mín = 0 máx = +2 mm    b Mesma distância 
+Fig. 6-6 Ajuste do “v” de porta 
+ 
+CUIDADO 
+As folhas de porta esquerda e direita tem que estar  simétricas em relação 
+ao centro do portal. 
+ 
+(ver Fig. 6-6 ) 
+• Feche manualmente as portas de forma lenta até que as portas estejam próximas (cerca de 50 
+mm) da posição fechada.  
+• Meça a distância “a” na parte inferior das portas.  
+• Na parte superior o vão tem que ser “a” + 2 mm ent re as folhas de porta. 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 25 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 25/34  
+ 
+ 
+a
+IL-01555 
+1
+2
+ 
+ 
+1 Trilho 2 Contra-rolete 
+a 0,1 a 0,4 mm à 20 ° C   
+Fig. 6-7 Ajuste do contra-rolete 
+(ver Fig. 6-6 ) 
+• Verifique se a medida (a) está dentro da faixa indicada.  
+ 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 26 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 26/34 
+ 
+ 
+6.5 Verifique a dimensão do vão nos pinos de travam ento 
+ 
+1
+IL-03810 
+x
+2
+2
+1
+a
+ 
+ 
+1 Pino de travamento 2 Trava 
+x Mínimo 2 mm a 3,8 ± 0,7 mm 
+Fig. 6-8 Tamanho do vão nos pinos de travamento 
+ 
+(ver Fig. 6-8 Feche as folhas de porta até que os pinos sejam travados. 
+• Utilizando um calibrador verifique a medida (a) no s lados direito e esquerdo. 
+• Verifique a medida (x). 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 27 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 27/34  
+ 
+ 
+6.6 Verifique o contato dos parafusos de travamento  nas travas 
+ 
+IL-02910
+4 5
+46 a a
+ 
+ 
+4 Pinos de travamento 5 Trava 
+6 Porca sextavada a 0 mm 
+Fig. 6-9 Ajuste dos pinos de travamento 
+ 
+(ver Fig. 6-9 Ajuste dos pinos de travamento 
+• Verifique se a medida (a) = 0, o pino de travament o (4) está em contato com a trava (5). 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 28 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 28/34 
+ 
+ 
+ 
+6.7 Verificação do vão de abertura da porta 
+ 
+1
+a
+IL-03255 
+2
+1
+ 
+ 
+1 Batoque de borracha a 1290  + 10 mm  
+2 Porca sextavada   
+ 
+Fig. 6-10 Vão de abertura da porta 
+ 
+(ver Fig. 6-10 Vão de abertura da porta 
+• Abra as folhas de porta completamente, ou seja, at é a posição final do curso. 
+• Verifique a medida (a). 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 29 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 29/34  
+ 
+ 
+6.8 Verificação dos elementos de fixação 
+ 
+• Verifique se todos os parafusos de fixação estão p resos com o torque de aperto indicado pelas 
+Manual de Montagem e Ajuste DDTSE20344E04-BR. 
+• Verifique se todos os parafusos de fixação torquea dos, estão marcados com tinta lacre. 
+ 
+ 
+6.9 Verifique a lubrificação 
+ 
+• Verifique se a lubrificação foi realizado de acord o com o Manual de Lubrificação 
+DDTSE20344E05-BR. 
+ 
+6.10 Verificação da montagem dos “Bowden Cables” 
+ 
+IL-00984
+1
+2
+3
+4
+5 6 7
+ 
+ 
+1 Cupilha  3 Bowden cable 5 Suporte 7 Esticador 
+2 Pino regulável 4 Alavanca  6 Porca sextavada   
+ 
+Fig. 6-11 Fixação do “Bowden Cable” no mecanismo de porta 
+ 
+• Verifique a fixação dos “Bowden Cables” (3) no mec anismo. 
+ 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 30 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 30/34 
+ 
+ 
+IL-03269 
+R
+ 
+ 
+R minimo 150 mm (raio de instalação) 
+Fig. 6-12 Instalação do “Bowden Cable” 
+• Verifique se o “Bowden Cable” foi montado com raio s de no mínimo de 150 mm. 
+ 
+ 
+6.11 Verificação do funcionamento do dispositivo (c have) de emergência interno 
+ 
+• Opere o dispositivo de emergência. 
+• Verifique se a porta destrava e se pode ser facilm ente aberta e fechada manualmente. 
+ 
+ 
+6.12 Verificação do funcionamento do dispositivo (c have) de serviço externo 
+ 
+• Opere o dispositivo de emergência. 
+• Verifique se a porta destrava e se pode ser facilm ente aberta e fechada manualmente. 
+ 
+ 
+6.13 Verificação do funcionamento da micro-chave S3 -1 “Dispositivo de emergência“ 
+ 
+• Verifique o funcionamento da micro-chave (S3-1) de  acordo com o Manual de Configuração 
+DDTSE20344E07-BR. 
+ 
+ 
+6.14 Verificação do funcionamento da micro-chave S1  “Porta fechada e travada“ 
+ 
+• Verifique o funcionamento da micro-chave (S1) de a cordo com o Manual de Configuração 
+DDTSE20344E07-BR. 
+ 
+ 
+6.15 Verificação do funcionamento da micro-chave (S 4-1) “Porta fora de serviço“ 
+ 
+• Verifique o funcionamento da micro-chave (S4-1) de  acordo com o Manual de Configuração 
+DDTSE20344E07-BR. 
+ 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 31 ---
+DDTSE20344E06-BR_01 Checklist  
+ 
+ 
+Página 31/34  
+ 
+6.16 Verificação da função de detecção de obstrução  
+ 
+• Verifique se a função de detecção de obstrução est á de acordo com o Manual de Configuração 
+DDTSE20344E07-BR. 
+ 
+ 
+6.17 Verificação completa da operação do sistema de  porta 
+ 
+• Verifique se todas as funções do sistema de portas  estão operando de acordo com a Descrição 
+de Funcionamento DDTSE20344E03-BR e o Manual de Dia gnóstico de Falha DDTSE20344E13-
+BR. 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 32 ---
+Checklist DDTSE20344E06-BR_01  
+ 
+Página 32/34 
+ 
+ 
+ 
+7 Índice de revisões 
+ 
+revisão data preparado verificado/liberado 
+ 
+00  31/12/2011 Társis Tezza  Flavio Pereira 
+01 04/03/2014 Flavio Pereira Talles Cristian 
+ 
+Item Modificação 
+00 Baseado no original em inglês DDTSE20344E06_00 
+01 Alterações considerando novos códigos (R03 e R04 ) 
+ 
+ 
+ 
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 33 ---
+DDS20166R06-BR_01 Checklist  
+ 
+ 
+Page 33/34  
+ 
+ 
+8 Apêndice A – Números de série dos principais comp onentes 
+ 
+ 
+ 
+Preencha os números de série (Nº do formulário, veja os exemplos na seção 3.4) dos principais componentes. 
+ 
+Porta 
+DCU Dispositivo de 
+emergência 
+Dispositivo de 
+emergência Mecanismo 
+3ED00921R29 3T203732R91 3T203732R92 3TD04000R36 ou 
+R55 
+(5080291AR01, 
+R02, R03 e R04) 
+(5080291AR02 e 
+R04) 
+(5080291AR01, 
+R02, R03 e R04) 
+(5080291AR01, 
+R02, R03 e R04) 
+      
+1     
+2     
+3     
+4     
+5     
+6     
+ 
+Layout do carro; veja a seção 3.5. 
+ 
+ 
+Carro Nº.:   
+ 
+Preenchido por:   
+ 
+Data:   
+
+--- DDTSE20344E06-BR_01 (Checklist).pdf | PÁGINA 34 ---
+Checklist DDS20166R06-BR_01  
+ 
+Página 34/34 
+ 
+ 
+ 
+9 Apêndice B – Lista de figuras 
+ 
+Figura Página  
+Fig. 3-1 Layout do carro ............................................................................. ............................ 8 
+Fig. 4-1 Exemplos de números seriais ................................................................. ................ 11  
+Fig. 5-1 Desvio diagonal do portal ................................................................... ..................... 16  
+Fig. 5-2 Desvio vertical do portal ................................................................... ....................... 17  
+Fig. 5-3 Elemento de vedação ......................................................................... ..................... 18  
+Fig. 6-1 Peças de instalação do mecanismo de porta ................................................... ....... 19  
+Fig. 6-2 Montagem das folhas de porta no mecanismo ................................................... ..... 19  
+Fig. 6-3 Peças para instalação do mecanismo de porta ....................................................... 21  
+Fig. 6-4 Posição da folha de porta na guia inferior .................................................. ............. 22  
+Fig. 6-5 Paralelismo entre o piso e o mecanismo ...................................................... ........... 23  
+Fig. 6-6 Ajuste do “v” de porta ...................................................................... ........................ 24  
+Fig. 6-7 Ajuste do contra-rolete ..................................................................... ....................... 25  
+Fig. 6-8 Tamanho do vão nos parafusos de travamento .................................................. .... 26  
+Fig. 6-9 Ajuste dos pinos de travamento .............................................................. ................ 27  
+Fig. 6-10 Vão de abertura da porta ................................................................... ................... 28  
+Fig. 6-11 Fixação do “Bowden Cable” no mecanismo de porta ............................................  29  
+Fig. 6-12 Instalação do “Bowden Cable” ............................................................... ............... 30  
+ 

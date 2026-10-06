@@ -1,0 +1,234 @@
+{
+  "entities": {
+    "AuthorizedUser": {
+      "title": "Authorized User",
+      "description": "Represents personnel authorized to access the VLT traction motor diagnostic system",
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string",
+          "description": "User email address"
+        },
+        "role": {
+          "type": "string",
+          "description": "Technical role in traction system"
+        },
+        "name": {
+          "type": "string",
+          "description": "Name of authorized professional"
+        }
+      },
+      "required": ["email", "role", "name"]
+    },
+    "Backup": {
+      "title": "Secure Cloud Backup",
+      "description": "Encrypted user diagnostic history and system configurations",
+      "type": "object",
+      "properties": {
+        "userId": {
+          "type": "string",
+          "description": "ID of user who performed the backup"
+        },
+        "payload": {
+          "type": "string",
+          "description": "AES-encrypted backup payload containing history and documents"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Timestamp of backup execution"
+        },
+        "hash": {
+          "type": "string",
+          "description": "SHA-256 validation hash of payload"
+        },
+        "size": {
+          "type": "string",
+          "description": "Formatted size of backup"
+        }
+      },
+      "required": ["userId", "payload", "createdAt", "hash", "size"]
+    },
+    "Profile": {
+      "title": "User Profile Settings",
+      "description": "Individual technician profile settings and security configurations",
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Technician full name"
+        },
+        "role": {
+          "type": "string",
+          "description": "Job title or specialization"
+        },
+        "language": {
+          "type": "string",
+          "enum": ["pt", "en"],
+          "description": "Preferred system language"
+        },
+        "mfaEnabled": {
+          "type": "boolean",
+          "description": "Two-Factor Authentication state"
+        },
+        "mfaSecret": {
+          "type": "string",
+          "description": "Two-Factor TOTP secret key"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Last profile update timestamp"
+        }
+      },
+      "required": ["name", "role", "language", "mfaEnabled", "mfaSecret", "updatedAt"]
+    },
+    "SecurityLog": {
+      "title": "Security Log",
+      "description": "Audit trail of login, encryption, backup, and MFA events",
+      "type": "object",
+      "properties": {
+        "userId": {
+          "type": "string",
+          "description": "UID of the user"
+        },
+        "event": {
+          "type": "string",
+          "description": "Security or system event name"
+        },
+        "ipSimulated": {
+          "type": "string",
+          "description": "Audit IP address of client"
+        },
+        "timestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Time of event"
+        },
+        "status": {
+          "type": "string",
+          "description": "Outcome of event (SUCCESS / FAILED)"
+        }
+      },
+      "required": ["userId", "event", "ipSimulated", "timestamp", "status"]
+    },
+    "UploadedDocument": {
+      "title": "Uploaded Document",
+      "description": "A technical document or manual uploaded or imported by a user to aid diagnostics",
+      "type": "object",
+      "properties": {
+        "userId": {
+          "type": "string",
+          "description": "Owner user ID"
+        },
+        "id": {
+          "type": "string",
+          "description": "Document unique ID"
+        },
+        "name": {
+          "type": "string",
+          "description": "Document file name"
+        },
+        "source": {
+          "type": "string",
+          "description": "Source platform (local, drive, onedrive, etc)"
+        },
+        "size": {
+          "type": "string",
+          "description": "Formatted file size"
+        },
+        "content": {
+          "type": "string",
+          "description": "Extracted text or content of the document"
+        },
+        "mimeType": {
+          "type": "string",
+          "description": "MIME type of the file"
+        },
+        "addedAt": {
+          "type": "string",
+          "description": "Time the document was added"
+        }
+      },
+      "required": ["userId", "id", "name", "source", "size", "content", "mimeType", "addedAt"]
+    },
+    "DiagnosticRecord": {
+      "title": "Diagnostic Record",
+      "description": "A saved diagnostic record for a specific vehicle",
+      "type": "object",
+      "properties": {
+        "userId": {
+          "type": "string",
+          "description": "User ID"
+        },
+        "vltCode": {
+          "type": "string",
+          "description": "Code of the VLT unit"
+        },
+        "analysis": {
+          "type": "object",
+          "description": "The diagnostic analysis object"
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "Timestamp"
+        }
+      },
+      "required": ["userId", "vltCode", "analysis", "createdAt"]
+    },
+    "DiagnosticFeedback": {
+      "title": "Diagnostic Feedback",
+      "description": "Feedback on AI diagnostic results",
+      "type": "object",
+      "properties": {
+        "diagnosticRecordId": {
+          "type": "string",
+          "description": "ID of the diagnostic record"
+        },
+        "userId": {
+          "type": "string",
+          "description": "User ID"
+        },
+        "isHelpful": {
+          "type": "boolean",
+          "description": "Whether the solution solved the problem"
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "Timestamp"
+        }
+      },
+      "required": ["diagnosticRecordId", "userId", "isHelpful", "createdAt"]
+    }
+  },
+  "firestore": {
+    "authorized_users": {
+      "schema": "AuthorizedUser",
+      "description": "List of emails permitted to sign into the system"
+    },
+    "backups": {
+      "schema": "Backup",
+      "description": "User cloud backups"
+    },
+    "profiles": {
+      "schema": "Profile",
+      "description": "User profile and security settings"
+    },
+    "security_logs": {
+      "schema": "SecurityLog",
+      "description": "Security audit logs"
+    },
+    "uploaded_documents": {
+      "schema": "UploadedDocument",
+      "description": "User uploaded or imported manuals and documentation"
+    },
+    "diagnostic_records": {
+      "schema": "DiagnosticRecord",
+      "description": "Saved diagnostic records for VLT units"
+    },
+    "diagnostic_feedback": {
+      "schema": "DiagnosticFeedback",
+      "description": "Feedback on diagnostic results"
+    }
+  }
+}

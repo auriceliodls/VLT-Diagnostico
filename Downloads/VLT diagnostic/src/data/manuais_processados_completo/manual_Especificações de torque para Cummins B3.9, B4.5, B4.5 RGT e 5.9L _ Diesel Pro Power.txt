@@ -1,0 +1,622 @@
+# MANUAL: Especificações de torque para Cummins B3.9, B4.5, B4.5 RGT e 5.9L _ Diesel Pro Power.pdf
+
+--- INÍCIO DA PÁGINA 1 ---
+Sua ajuda especializada
+Envio Internacional Em 24 Horas
+Detroit CumminsLagartaMedidores Disco AllisonBombas de água Bombas de água Peças Contate-Vídeos Avaliações de clientes
+Diesel Duplo marítimas do motor marítimas nos
+Página inicial | Blog | Especificações de torque para Cummins B3.9, B4.5, B4.5 RGT e 5.9L
+ESPECIFICAÇÕES DE TORQUE PARA MOTORES CUMMINS B3.9, B4.5, B4.5 RGT E
+5.9L
+27 de março de 2023
+TToorrqquuiinngg TThhee CCyylliinnddeerr HHeeaadd BBoollttss OOnn AA CCuummmmiinnss 66BBTT 55..99LL
+##ccuummmmiinnss ((IImmppeerriiaall DDiieesseell SSeerrvviiccee))
+Especificações de torque dos motores Cummins B3.9, B4.5, B4.5 RGT e 5.9L:
+Informações essenciais para manutenção.
+Os motores Cummins B3.9, B4.5, B4.5 RGT e 5.9L são reconhecidos por sua eficiência e confiabilidade em diversos setores. Seja em
+máquinas industriais, equipamentos agrícolas ou veículos comerciais, a manutenção desses motores exige especificações de torque precisas
+para um desempenho ideal. Neste guia, fornecemos as especificações de torque essenciais para garantir que seus motores Cummins
+funcionem sem problemas e ofereçam confiabilidade a longo prazo.
+Especificações de torque do cabeçote para motores Cummins da série B
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PARAFUSOS DA CABEÇA DO CILINDRO (MOTOR DE 4 CILINDROS - TODOS OS
+N / D 90 N•M [ 66 FT-LB ]
+PARAFUSOS)
+NOTA: Em um motor de quatro cilindros, o parafuso de fixação número 1 está localizado entre os cilindros 2 e 3. A sequência numérica é a
+mesma de um motor de seis cilindros, mas termina no parafuso de fixação número 18.
+
+**Tabela 1 (Página 1):**
+| TToorrqquuiinngg TThhee CCyylliinnddeerr HHeeaadd BBoollttss OOnn AA CCuummmmiinnss 66BBTT 55..99LL |
+| ##ccuummmmiinnss ((IImmppeerriiaall DDiieesseell SSeerrvviiccee)) |
+
+**Tabela 2 (Página 1):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+| PARAFUSOS DA CABEÇA DO CILINDRO (MOTOR DE 4 CILINDROS - TODOS OS PARAFUSOS) | N / D | 90 N•M [ 66 FT-LB ] |
+
+--- FIM DA PÁGINA 1 ---
+
+--- INÍCIO DA PÁGINA 2 ---
+Cabeçote e componentes relacionados para o motor Cummins 4B 3.9L.
+Cabeçote e componentes relacionados para o motor Cummins 4BT 3.9L.
+Cabeçote e componentes relacionados para motor Cummins 4BTA 3.9L
+Cabeçote e componentes relacionados para motor Cummins 6B 5.9L
+Cabeçote e componentes relacionados para motor Cummins 6BT 5.9L
+Cabeçote e componentes relacionados para motor Cummins 6BTA 5.9L
+Cabeçote e componentes relacionados para o motor Cummins ISB 4.5 L
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PARAFUSOS DA CABEÇA DO CILINDRO (MOTOR DE 6 CILINDROS - TODOS OS
+N / D 90 N•M [ 66 FT-LB ]
+PARAFUSOS)
+PARAFUSOS DA CABEÇA DO CILINDRO (MOTOR DE 4 CILINDROS, PARAFUSOS
+N / D 120 N•M [ 89 FT-LB ]
+LONGOS NÚMEROS 4, 5, 12 E 13)
+PARAFUSOS DA CABEÇA DO CILINDRO (MOTOR DE 6 CILINDROS, PARAFUSOS
+N / D 120 N•M [ 89 FT-LB ]
+LONGOS NÚMEROS 4, 5, 12, 13, 20 E 21)
+
+**Tabela 1 (Página 2):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 2):**
+| PARAFUSOS DA CABEÇA DO CILINDRO (MOTOR DE 6 CILINDROS - TODOS OS PARAFUSOS) | N / D | 90 N•M [ 66 FT-LB ] |
+| PARAFUSOS DA CABEÇA DO CILINDRO (MOTOR DE 4 CILINDROS, PARAFUSOS LONGOS NÚMEROS 4, 5, 12 E 13) | N / D | 120 N•M [ 89 FT-LB ] |
+| PARAFUSOS DA CABEÇA DO CILINDRO (MOTOR DE 6 CILINDROS, PARAFUSOS LONGOS NÚMEROS 4, 5, 12, 13, 20 E 21) | N / D | 120 N•M [ 89 FT-LB ] |
+
+--- FIM DA PÁGINA 2 ---
+
+--- INÍCIO DA PÁGINA 3 ---
+Cabeçote e componentes relacionados para o motor Cummins ISB 5.9 L
+Cabeçote e componentes relacionados para o motor Cummins ISB 6.7 L
+Cabeçote e componentes relacionados para o motor Cummins QSB 4.5 L
+Cabeçote e componentes relacionados para o motor Cummins QSB 5.9 L
+Cabeçote e componentes relacionados para o motor Cummins QSB 6.7 L
+Cabeçote e componentes relacionados para o motor Cummins QSB 7.0 L
+Especificações de torque para montagem de pistão e biela em motores Cummins da
+série B
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PARAFUSOS DA CAIXA DA BIELA (INICIAIS) N / D 35 N•M [ 26 FT-LB ]
+
+**Tabela 1 (Página 3):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 3):**
+| PARAFUSOS DA CAIXA DA BIELA (INICIAIS) | N / D | 35 N•M [ 26 FT-LB ] |
+
+--- FIM DA PÁGINA 3 ---
+
+--- INÍCIO DA PÁGINA 4 ---
+VALOR DE TORQUE EM NM [
+PEÇA/MATERIAL/COR COMPRIMENTO
+FT-LB ]
+1. 45 N•M [ 33 FT-LB ]
+PARAFUSOS DE CABEÇA DA BIELA (B3.9, B4.5 e B5.9) N / D 2. GIRE 90 GRAUS NO SENTIDO
+HORÁRIO.
+1. 25 N•M [ 221 IN-LB ]
+PARAFUSOS DE CABEÇA DA BIELA (B4.5) N / D 2. GIRE 60 GRAUS NO SENTIDO
+HORÁRIO.
+Especificações de torque para montagem de pistão e biela em motores Cummins da
+série B
+
+**Tabela 1 (Página 4):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 4):**
+| PARAFUSOS DE CABEÇA DA BIELA (B3.9, B4.5 e B5.9) | N / D | 1. 45 N•M [ 33 FT-LB ] 2. GIRE 90 GRAUS NO SENTIDO HORÁRIO. |
+| PARAFUSOS DE CABEÇA DA BIELA (B4.5) | N / D | 1. 25 N•M [ 221 IN-LB ] 2. GIRE 60 GRAUS NO SENTIDO HORÁRIO. |
+
+--- FIM DA PÁGINA 4 ---
+
+--- INÍCIO DA PÁGINA 5 ---
+Conjunto da biela e componentes relacionados para o motor Cummins 4B
+Conjunto da biela e componentes relacionados para o motor Cummins 4BT
+Conjunto da biela e componentes relacionados para o motor Cummins 4BTA
+Conjunto da biela e componentes relacionados para o motor Cummins 6B
+Conjunto da biela e componentes relacionados para o motor Cummins 6BT
+Conjunto da biela e componentes relacionados para o motor Cummins 6BTA
+Conjunto da biela e componentes relacionados para o motor Cummins ISB 4.5l
+Conjunto da biela e componentes relacionados para o motor Cummins ISB 5.9L
+Conjunto da biela e componentes relacionados para o motor Cummins ISB 6.7L
+Conjunto da biela e componentes relacionados para o motor Cummins QSB 4.5
+Conjunto da biela e componentes relacionados para o motor Cummins QSB 5.9
+Conjunto da biela e componentes relacionados para o motor Cummins QSB 6.7
+Conjunto da biela e componentes relacionados para o motor Cummins QSB 7.0
+Especificações de torque do virabrequim para motores Cummins da série B
+
+--- FIM DA PÁGINA 5 ---
+
+--- INÍCIO DA PÁGINA 6 ---
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PARAFUSOS DE CABEÇA DO MANCAL DO VIRABREQUIM (INICIAIS) N / D 50 N•M [ 37 FT-LB ]
+Virabrequim e componentes relacionados para o motor Cummins 4B
+Virabrequim e componentes relacionados para o motor Cummins 4BT
+Virabrequim e componentes relacionados para o motor Cummins 4BTA
+Virabrequim e componentes relacionados para o motor Cummins 6B
+Virabrequim e componentes relacionados para o motor Cummins 6BT
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+1. 60 N•M [ 44 FT-LB ]
+PARAFUSOS DA TAMPA DO MANCAL DO VIRABREQUIM (MOTORES B3.9, B4.5 E 2. 90 N•M [ 66 FT-LB ]
+N / D
+B5.9) 3. GIRE TODOS OS PARAFUSOS
+DE CABEÇA 90 GRAUS.
+PARAFUSOS DE FIXAÇÃO DOS MANCAIS DO VIRABREQUIM (MOTORES B4.5 1. 60 N•M [ 44 FT-LB ]
+COM PARAFUSOS DE FIXAÇÃO DOS MANCAIS PRINCIPAIS INSTALADOS N / D 2. 80 N•M [ 59 FT-LB ]
+PREVIAMENTE) 3. GIRAR 90 GRAUS.
+1. 120 N•M [ 89 FT-LB ]
+2. SOLTE COMPLETAMENTE.
+PARAFUSOS DE FIXAÇÃO DOS MANCAIS DO VIRABREQUIM (MOTORES B4.5
+N / D 3. 60 N•M [ 44 FT-LB ]
+COM NOVOS PARAFUSOS DE FIXAÇÃO DOS MANCAIS PRINCIPAIS)
+4. 85 N•M [ 63 FT-LB ]
+5. GIRE 120 GRAUS.
+
+**Tabela 1 (Página 6):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 6):**
+| PARAFUSOS DE CABEÇA DO MANCAL DO VIRABREQUIM (INICIAIS) | N / D | 50 N•M [ 37 FT-LB ] |
+
+**Tabela 3 (Página 6):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 4 (Página 6):**
+| PARAFUSOS DA TAMPA DO MANCAL DO VIRABREQUIM (MOTORES B3.9, B4.5 E B5.9) | N / D | 1. 60 N•M [ 44 FT-LB ] 2. 90 N•M [ 66 FT-LB ] 3. GIRE TODOS OS PARAFUSOS DE CABEÇA 90 GRAUS. |
+| PARAFUSOS DE FIXAÇÃO DOS MANCAIS DO VIRABREQUIM (MOTORES B4.5 COM PARAFUSOS DE FIXAÇÃO DOS MANCAIS PRINCIPAIS INSTALADOS PREVIAMENTE) | N / D | 1. 60 N•M [ 44 FT-LB ] 2. 80 N•M [ 59 FT-LB ] 3. GIRAR 90 GRAUS. |
+| PARAFUSOS DE FIXAÇÃO DOS MANCAIS DO VIRABREQUIM (MOTORES B4.5 COM NOVOS PARAFUSOS DE FIXAÇÃO DOS MANCAIS PRINCIPAIS) | N / D | 1. 120 N•M [ 89 FT-LB ] 2. SOLTE COMPLETAMENTE. 3. 60 N•M [ 44 FT-LB ] 4. 85 N•M [ 63 FT-LB ] 5. GIRE 120 GRAUS. |
+
+--- FIM DA PÁGINA 6 ---
+
+--- INÍCIO DA PÁGINA 7 ---
+Virabrequim e componentes relacionados para o motor Cummins 6BTA
+Virabrequim e componentes relacionados para o motor Cummins ISB 4.5l
+Virabrequim e componentes relacionados para o motor Cummins ISB 5.9L
+Virabrequim e componentes relacionados para o motor Cummins ISB 6.7L
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PARAFUSOS DA TAMPA DO MANCAL DO VIRABREQUIM N / D 176 N•M [ 130 FT-LB ]
+
+**Tabela 1 (Página 7):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 7):**
+| PARAFUSOS DA TAMPA DO MANCAL DO VIRABREQUIM | N / D | 176 N•M [ 130 FT-LB ] |
+
+--- FIM DA PÁGINA 7 ---
+
+--- INÍCIO DA PÁGINA 8 ---
+Virabrequim e componentes relacionados para o motor Cummins QSB 4.5
+Virabrequim e componentes relacionados para o motor Cummins QSB 5.9
+Virabrequim e componentes relacionados para o motor Cummins QSB 6.7
+Virabrequim e componentes relacionados para o motor Cummins QSB 7.0
+Especificações de torque da bomba injetora de combustível (em linha) para motores
+Cummins da série B
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PORCA E ARRUELA DE FIXAÇÃO DA BOMBA INJETORA DE COMBUSTÍVEL N / D 10 a 15 N•M [ 89 – 133 IN-LB ]
+
+**Tabela 1 (Página 8):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 8):**
+| PORCA E ARRUELA DE FIXAÇÃO DA BOMBA INJETORA DE COMBUSTÍVEL | N / D | 10 a 15 N•M [ 89 – 133 IN-LB ] |
+
+--- FIM DA PÁGINA 8 ---
+
+--- INÍCIO DA PÁGINA 9 ---
+Bomba injetora de combustível e componentes relacionados para motor Cummins 4B
+Bomba injetora de combustível e componentes relacionados para motor Cummins 4BT
+Bomba injetora de combustível e componentes relacionados para o motor Cummins 4BTA
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+TAMPA DE SINCRONIZAÇÃO DA BOMBA INJETORA DE COMBUSTÍVEL N / D 27 N•M [ 20 FT-LB ]
+
+**Tabela 1 (Página 9):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 9):**
+| TAMPA DE SINCRONIZAÇÃO DA BOMBA INJETORA DE COMBUSTÍVEL | N / D | 27 N•M [ 20 FT-LB ] |
+
+--- FIM DA PÁGINA 9 ---
+
+--- INÍCIO DA PÁGINA 10 ---
+Bomba injetora de combustível e componentes relacionados para o motor Cummins 6B
+Bomba injetora de combustível e componentes relacionados para o motor Cummins 6BT
+Bomba injetora de combustível e componentes relacionados para o motor Cummins 6BTA
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PORCA DE FIXAÇÃO DO BUJÃO DE INJEÇÃO DE COMBUSTÍVEL (BOMBA “A”) N / D 1. 85 N•M [ 63 FT-LB ]
+PORCA DE FIXAÇÃO DO BUJÃO DE INJEÇÃO DE COMBUSTÍVEL (P3000 e P7100) N / D 1. 195 N•M [ 144 FT-LB ]
+PORCA DE FIXAÇÃO DA VELA DE INJEÇÃO DE COMBUSTÍVEL (NIPPONDENSO) N / D 1. 123 N•M [ 91 FT-LB ]
+
+**Tabela 1 (Página 10):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 10):**
+| PORCA DE FIXAÇÃO DO BUJÃO DE INJEÇÃO DE COMBUSTÍVEL (BOMBA “A”) | N / D | 1. 85 N•M [ 63 FT-LB ] |
+| PORCA DE FIXAÇÃO DO BUJÃO DE INJEÇÃO DE COMBUSTÍVEL (P3000 e P7100) | N / D | 1. 195 N•M [ 144 FT-LB ] |
+| PORCA DE FIXAÇÃO DA VELA DE INJEÇÃO DE COMBUSTÍVEL (NIPPONDENSO) | N / D | 1. 123 N•M [ 91 FT-LB ] |
+
+--- FIM DA PÁGINA 10 ---
+
+--- INÍCIO DA PÁGINA 11 ---
+Bomba injetora de combustível e componentes relacionados para motor Cummins ISB 4.5L
+Bomba injetora de combustível e componentes relacionados para o motor Cummins ISB 5.9L
+Especificações de torque da bomba injetora de combustível (rotativa) para motores
+Cummins da série B
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PARAFUSO DE TRAVAMENTO DA BOMBA INJETORA DE COMBUSTÍVEL (BOMBA CAV
+N / D 7 N•M [ 62 IN-LB ]
+DPA E DELPHI DP210)
+
+**Tabela 1 (Página 11):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 11):**
+| PARAFUSO DE TRAVAMENTO DA BOMBA INJETORA DE COMBUSTÍVEL (BOMBA CAV DPA E DELPHI DP210) | N / D | 7 N•M [ 62 IN-LB ] |
+
+--- FIM DA PÁGINA 11 ---
+
+--- INÍCIO DA PÁGINA 12 ---
+Bomba injetora de combustível e componentes relacionados para o motor Cummins ISB 6.7L
+Bomba injetora de combustível e componentes relacionados para o motor Cummins QSB 4.5
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PARAFUSO DE TRAVAMENTO DA BOMBA INJETORA DE COMBUSTÍVEL (STANADYNE
+N / D 12 N•M [ 106 IN-LB ]
+DB4)
+
+**Tabela 1 (Página 12):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 12):**
+| PARAFUSO DE TRAVAMENTO DA BOMBA INJETORA DE COMBUSTÍVEL (STANADYNE DB4) | N / D | 12 N•M [ 106 IN-LB ] |
+
+--- FIM DA PÁGINA 12 ---
+
+--- INÍCIO DA PÁGINA 13 ---
+Bomba injetora de combustível e componentes relacionados para o motor Cummins QSB 5.9
+Bomba injetora de combustível e componentes relacionados para o motor Cummins QSB 6.7
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PARAFUSO DE TRAVAMENTO DA BOMBA INJETORA DE COMBUSTÍVEL (BOSCH VE) N / D 30 N•M [ 22 FT-LB ]
+PARAFUSO DE TRAVAMENTO DA BOMBA INJETORA DE COMBUSTÍVEL (MOTOR
+N / D 40 N•M [ 22 FT-LB ]
+BOSCH VE, RGT)
+
+**Tabela 1 (Página 13):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 13):**
+| PARAFUSO DE TRAVAMENTO DA BOMBA INJETORA DE COMBUSTÍVEL (BOSCH VE) | N / D | 30 N•M [ 22 FT-LB ] |
+| PARAFUSO DE TRAVAMENTO DA BOMBA INJETORA DE COMBUSTÍVEL (MOTOR BOSCH VE, RGT) | N / D | 40 N•M [ 22 FT-LB ] |
+
+--- FIM DA PÁGINA 13 ---
+
+--- INÍCIO DA PÁGINA 14 ---
+Bomba injetora de combustível e componentes relacionados para o motor Cummins QSB 7.0
+Nível de balanço
+VALOR DE TORQUE EM NM [
+PEÇA/MATERIAL/COR COMPRIMENTO
+FT-LB ]
+PARAFUSOS DE MONTAGEM DA TAMPA DO PEDESTAL DA ALAVANCA DE BALANCIM N / D 36 N•M [ 27 FT-LB ]
+
+**Tabela 1 (Página 14):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 14):**
+| PARAFUSOS DE MONTAGEM DA TAMPA DO PEDESTAL DA ALAVANCA DE BALANCIM | N / D | 36 N•M [ 27 FT-LB ] |
+
+--- FIM DA PÁGINA 14 ---
+
+--- INÍCIO DA PÁGINA 15 ---
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PARAFUSOS DA TAMPA DO PEDESTAL DA ALAVANCA DE BALANCIM 8MM 24 N•M [ 18 FT-LB ]
+
+**Tabela 1 (Página 15):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 15):**
+| PARAFUSOS DA TAMPA DO PEDESTAL DA ALAVANCA DE BALANCIM | 8MM | 24 N•M [ 18 FT-LB ] |
+
+--- FIM DA PÁGINA 15 ---
+
+--- INÍCIO DA PÁGINA 16 ---
+Especificações de torque da bomba de óleo para motores Cummins da série B
+VALOR DE
+PEÇA/MATERIAL/COR COMPRIMENTOTORQUE EM NM [
+FT-LB ]
+PARAFUSOS DA BOMBA DE ÓLEO (INICIAIS) N / D 8 N•M [ 70 IN-LB ]
+PARAFUSOS DA BOMBA DE ÓLEO (FINAL) N / D 24 N•M [ 212 IN-LB ]
+Bomba de óleo e componentes relacionados para motor Cummins 4B
+Bomba de óleo e componentes relacionados para motor Cummins 4BT
+Bomba de óleo e componentes relacionados para o motor Cummins 4BTA
+Bomba de óleo e componentes relacionados para o motor Cummins 6B
+Bomba de óleo e componentes relacionados para o motor Cummins 6BT
+Bomba de óleo e componentes relacionados para o motor Cummins 6BTA
+Bomba de óleo e componentes relacionados para motor Cummins ISB 4.5L
+Bomba de óleo e componentes relacionados para motor Cummins ISB 5.9L
+Bomba de óleo e componentes relacionados para o motor Cummins ISB 6.7L
+Bomba de óleo e componentes relacionados para o motor Cummins QSB 4.5
+
+**Tabela 1 (Página 16):**
+| PEÇA/MATERIAL/COR | COMPRIMENTO | VALOR DE TORQUE EM NM [ FT-LB ] |
+
+**Tabela 2 (Página 16):**
+| PARAFUSOS DA BOMBA DE ÓLEO (INICIAIS) | N / D | 8 N•M [ 70 IN-LB ] |
+| PARAFUSOS DA BOMBA DE ÓLEO (FINAL) | N / D | 24 N•M [ 212 IN-LB ] |
+
+--- FIM DA PÁGINA 16 ---
+
+--- INÍCIO DA PÁGINA 17 ---
+Bomba de óleo e componentes relacionados para o motor Cummins QSB 5.9
+Bomba de óleo e componentes relacionados para o motor Cummins QSB 6.7
+Bomba de óleo e componentes relacionados para o motor Cummins QSB 7.0
+Catálogo geral de peças para motores Cummins série B
+Catálogo geral de peças para o motor marítimo Cummins 4B
+Catálogo geral de peças para motores marítimos Cummins 4BT
+Catálogo geral de peças para motores marítimos Cummins 4BTA
+Catálogo geral de peças para o motor marítimo Cummins 6B
+Catálogo geral de peças para motores marítimos Cummins 6BT
+Catálogo geral de peças para motores marítimos Cummins 6BTA
+Catálogo geral de peças para motores marítimos Cummins QSB 4.5
+Catálogo geral de peças para motores marítimos Cummins QSB 6.7
+Catálogo geral de peças para o motor marítimo Cummins ISB 4.5
+Catálogo geral de peças para o motor marítimo Cummins ISB 5.9
+Catálogo geral de peças para o motor marítimo Cummins ISB 6.7
+Catálogo geral de peças para motores marítimos Cummins QSB 4.5L
+Catálogo geral de peças para motores marítimos Cummins QSB 5.9L
+Catálogo geral de peças para motores marítimos Cummins QSB 6.7 L
+Catálogo geral de peças para motores marítimos Cummins QSB 7.0L
+Siga-nos e curta nossa página:
+
+--- FIM DA PÁGINA 17 ---
+
+--- INÍCIO DA PÁGINA 18 ---
+6 respostas para “ESPECIFICAÇÕES DE TORQUE PARA CUMMINS B3.9, B4.5, B4.5 RGT E 5.9L”
+1. Andries Pretorius diz:
+Excelente assistência
+Responder
+2. Andries Pretorius diz:
+Obrigado pela informação.
+Responder
+3. Enroy Cole diz:
+Ótimo trabalho, muito bem feito!
+Responder
+4. Richard diz:
+Excelente
+Responder
+5. Jovanny Marcano diz:
+Muito útil. Excelente.
+Responder
+6. Jerry Weaver diz:
+Estou reconstruindo dois motores Cummins 3.9L. Um dos motores tem parafusos principais com cabeça de 23mm e bielas fraturadas com
+parafusos nº 4891179. O outro motor tem parafusos principais com cabeça de 18mm e bielas usinadas com parafusos nº 3900919. Poderia me
+informar o torque de aperto dos quatro parafusos? Encontro valores de torque muito diferentes em todas as minhas pesquisas. Obrigado.
+Responder
+Deixe uma resposta
+Seu endereço de e-mail não será publicado. Os campos obrigatórios estão marcados com um *
+Comentário
+Nome *
+E-mail *
+9 + 10 = *
+(Gostaríamos que não precisássemos fazer isso, mas há muitos bots na
+internet)
+Postar comentário
+SOBRE A DIESEL PRO POWER, INC.
+A DieselPro é especialista em peças para motores marítimos. Nossa plataforma online e atendimento ao cliente incomparável tornam a
+compra de peças mais rápida, fácil e eficiente. Vendemos peças de reposição para as seguintes marcas: peças para motores Detroit
+Diesel, peças para motores Cummins , peças para motores Caterpillar, transmissões e peças recondicionadas Twin Disc. Mantemos um
+amplo estoque, o que garante o envio da sua peça do nosso armazém para qualquer lugar do mundo em até 24 horas. Tem alguma dúvida
+ou precisa de ajuda para encontrar uma peça específica? Entre em contato conosco hoje mesmo .
+
+--- FIM DA PÁGINA 18 ---
+
+--- INÍCIO DA PÁGINA 19 ---
+PROCURAR
+Procurar …
+PROCURAR
+TÓPICOS
+Filtros de ar para motores marítimos e industriais (41) Motor marítimo Caterpillar (104) Revisão completa do motor (69)
+Líquido de arrefecimento para motores marítimos e industriais (56) Mancais do virabrequim para motores marítimos e industriais (42)
+Cummins 6BT (43) Componentes do motor Cummins (101) Manutenção do motor Cummins (115)
+Peças do motor Cummins (135) Motores industriais Cummins (56) Cummins KTA19 (50) Motores
+marítimos Cummins (223) Revisão do cabeçote para motores marítimos e industriais (60) Detroit Diesel
+(74) Detroit Diesel 6V92 (38) Detroit Diesel 8V71 (35) Detroit Diesel 8V92 (47) Detroit Diesel 8V149 (35) Detroit Diesel 12V71 (48) Detroit Diesel
+12V149 (38) Detroit Diesel 16V149 (42) Série Detroit Diesel 92 (40) Detroit Diesel Série 149 (51) Detroit Diesel 271 (104) Detroit
+Diesel 371 (103) Detroit Diesel 471 (111) Detroit Diesel 671 (156) Motor Marítimo
+Detroit Diesel (409) Motores Marítimos Detroit Diesel (40) Diesel Pro Power (51) Manutenção de Motores
+Marítimos e Industriais (99) Desempenho de Motores Marítimos e Industriais (40) Bomba de Água Doce para Motores
+Marítimos e Industriais (60) Filtros de Combustível para Motores Marítimos e Industriais (46) Injetor para Motores Marítimos e Industriais
+(45) Injetores para Motores Marítimos e Industriais (50) Motores Diesel Marítimos (41) Troca de Óleo e Filtro para Motores Marítimos e
+Industriais (44) Anéis de Pistão para Motores Marítimos e Industriais (46) Bomba de Água Bruta (60) Manual de
+Serviço (680) Termostatos para Motores Marítimos e Industriais (53) Turbocompressor para Motores Marítimos
+e Industriais (59) Twin Disc Marine Gear (219) Válvula Ajuste para motores marítimos e industriais (54)
+CATEGORIAS
+Acessórios náuticos (4)
+Leo AI Engine Tips (15)
+Vídeos (452)
+Motores a diesel industriais (18)
+Manuseio de Materiais (5)
+Mineração (5)
+Equipamentos industriais (8)
+Geração de energia (10)
+Máquinas agrícolas (5)
+Equipamentos de construção (5)
+Histórico dos motores a diesel marítimos (22)
+Usuários de motores a diesel marítimos (514)
+Grande Frota Industrial (435)
+Mecânico de motores a diesel marítimos (447)
+Frota de barcos grandes (456)
+Frota de barcos pequenos (464)
+Proprietário de Iate Pessoal (363)
+
+--- FIM DA PÁGINA 19 ---
+
+--- INÍCIO DA PÁGINA 20 ---
+Cuidando do seu motor diesel marítimo (569)
+Medidores – Elétricos e Mecânicos (8)
+Manutenção (397)
+Manutenção do seu sistema de refrigeração a diesel marítimo (16)
+Manutenção do sistema de combustível para motores a diesel marítimos (16)
+Especificações de torque (29)
+Peças (412)
+Sistema de refrigeração (15)
+Componentes do sistema de lubrificação (relacionados ao óleo) para motores diesel marítimos (15)
+Peças do sistema de combustível (20)
+Volante para motores diesel marítimos (5)
+Cabeçotes de cilindro para motores diesel marítimos (28)
+Turbos para motores diesel marítimos (6)
+Injetores para motores diesel marítimos (17)
+Kits de revisão/reconstrução para motores diesel marítimos (20)
+Resolução de problemas (85)
+Problemas de combustível em um motor diesel marítimo (6)
+Transmissões marítimas (263)
+Transmissão Marinha Allison (25)
+Transmissão marítima Twin Disc (246)
+Informações sobre o manual de serviço para Twin Disc MG540 (17)
+Informações sobre o manual de serviço para Twin Disc MG527 (15)
+Informações sobre o manual de serviço para Twin Disc MG521 (14)
+Informações sobre o manual de serviço para Twin Disc MG520 (15)
+Informações sobre o manual de serviço para Twin Disc MG518 (13)
+Informações sobre o manual de serviço para Twin Disc MG516 (17)
+Informações sobre o manual de serviço para Twin Disc MG514C (13)
+Informações do Manual de Serviço para Twin Disc MG514B (1)
+Informações sobre o manual de serviço para Twin Disc MG5114A (13)
+Informações sobre o manual de serviço para Twin Disc MG5091 (15)
+Informações sobre o manual de serviço para Twin Disc MG5090A (16)
+Informações sobre o manual de serviço para Twin Disc MG509 (10)
+Informações sobre o manual de serviço para Twin Disc MG5075 (13)
+Informações sobre o manual de serviço para Twin Disc MG507 (11)
+Informações sobre o manual de serviço para Twin Disc MG506 (10)
+Informações sobre o manual de serviço para Twin Disc MG5050 (11)
+Informações sobre o manual de serviço para Twin Disc MG502 (16)
+Motores a diesel marítimos (519)
+
+--- FIM DA PÁGINA 20 ---
+
+--- INÍCIO DA PÁGINA 21 ---
+Barcos para Turismo (207)
+Barcos militares (242)
+Motores de embarcações de apoio à aquicultura (358)
+Motores de navios de pesquisa (411)
+Fornecimento de motores para barcos (439)
+Motores para barcos de trabalho (450)
+Motores para embarcações de pesca comercial (442)
+Motores pessoais para iates (375)
+Motores de balsa (386)
+Motores para barcos de mergulho (359)
+Motores para barcos de pesca fretados (365)
+Motores de rebocadores (433)
+Motores a diesel (857)
+Lagarta (119)
+Motor marítimo Caterpillar (9)
+Caterpillar Série 3500 (31)
+Caterpillar Série 3400 (22)
+Caterpillar Série 3200 (35)
+Informações do Manual de Serviço para o Caterpillar 3208 (18)
+Cummins (354)
+Série X da Cummins (18)
+Série K da Cummins (81)
+Informações sobre o Manual de Serviço da Série K da Cummins (4)
+Manual de Serviço da Série K da Cummins (18)
+Cummins Série N (42)
+Série M da Cummins (67)
+Série L da Cummins (40)
+Série C da Cummins (87)
+Manual de serviço da série C da Cummins (34)
+Série B da Cummins (86)
+Manual de serviço da série B da Cummins (28)
+Detroit Diesel (439)
+Detroit Diesel Série 60 (30)
+Informações sobre o Manual de Serviço do Detroit Diesel Série 60 (20)
+Detroit Diesel Série V71 (60)
+
+--- FIM DA PÁGINA 21 ---
+
+--- INÍCIO DA PÁGINA 22 ---
+Resumos de manuais da série Detroit Diesel V71 (48)
+Detroit Diesel 8.2L (22)
+Detroit Diesel Série 53 (52)
+Informações sobre o Manual de Serviço da Série 53 da Detroit Diesel (36)
+Detroit Diesel Série 149 (64)
+Informações do Manual de Serviço para a Série 149 (48)
+Detroit Diesel Série 92 (78)
+Informações do Manual de Serviço para a Série 92 (56)
+Detroit Diesel Série 71 (139)
+Resumos de manuais do motor Detroit Diesel Série 71 em linha (112)
+Especificações de torque dos motores Detroit Série 71 (7)
+Diesel Pro Power, Inc. (19)
+Políticas da Diesel Pro Power (5)
+Sem categoria (18)
+COMENTÁRIOS
+Michael Yarbrough sobre Informações Gerais e Precauções para Motores Detroit Diesel Série 53 (3-53, 4-53, 6V53 e 8V53)
+Guia de Solução de Problemas de Frederick para Motores Detroit Diesel V71 (6V71, 8V71, 12V71, 16V71)
+Yoga Fajar Nugraha em recurso do cliente – Indies Trader Marine Adventures (Indonésia)
+Drusilla no Guia de Solução de Problemas para Motores Detroit Diesel V71 (6V71, 8V71, 12V71, 16V71)
+Niki no Guia de Solução de Problemas para Motores Detroit Diesel V71 (6V71, 8V71, 12V71, 16V71)
+Ron Van Wyngarden explica como entender tacômetros a diesel: tipos, adaptadores de acionamento, ferramentas de captação
+magnética e diferenças de voltagem.
+Sabrina no Guia de Solução de Problemas para Motores Detroit Diesel V71 (6V71, 8V71, 12V71, 16V71)
+Mervyn Perera sobre a lista de peças e identificação do equipamento marítimo Twin Disc MG514C
+Ahmed Samir em Tudo o que você precisa saber sobre a Caterpillar 3406B
+Richard Stotler explica por que comprar um cabeçote novo para o seu motor Cummins às vezes é melhor do que enviar o
+antigo para a retífica.
+POSTAGENS RECENTES
+Vídeo "Extending the Life Episode 3 (Marine Diesel Cylinder Heads)"
+Consulta do número de série do motor marítimo Caterpillar: decifre o histórico do seu motor e encontre as peças certas.
+Kits de Reparo para Bombas de Água Bruta — Premium Marine Solutions
+
+--- FIM DA PÁGINA 22 ---
+
+--- INÍCIO DA PÁGINA 23 ---
+Por que as bombas de água bruta da Dieselpro.com são alternativas inteligentes às bombas Jabsco?
+O Guia Definitivo para Impulsores de Bombas de Água do Mar
+Um guia prático para filtros de água do mar
+Como a Lei Tributária de 2025 Pode Financiar Seu Próximo Barco de Aluguel
+Vai comprar um barco de aluguer em 2025? O que os clientes da Diesel Pro Power devem saber sobre impostos (e motores)
+Política de garantia
+Política de Preços
+Visão geral da política de devolução da Diesel Pro Power
+Teste de compressão completo para detecção precoce de problemas dispendiosos no cabeçote do cilindro!
+Descubra hoje mesmo os segredos da gestão de estoque de peças de reposição para frotas!
+O Guia Definitivo Passo a Passo para Dominar a Preparação de Cabeçotes de Cilindros para Motores Marítimos e Industriais
+Que equipamento é necessário para substituir um cabeçote de cilindro?
+Detectando rachaduras e empenamentos no cabeçote do cilindro antes que o desastre aconteça!
+Os 5 erros mais comuns na substituição do cabeçote e como evitá-los agora!
+Estratégias urgentes para proteger seu motor diesel marítimo da catástrofe da corrosão.
+Dicas urgentes de manutenção para embarcações marítimas e industriais de alta quilometragem.
+Aperte o cabeçote do cilindro mestre e substitua os parafusos antes que seja tarde demais!
+Economize tempo e dinheiro com nosso guia especializado sobre revisão versus substituição!
+A verdade urgente sobre frete rápido e custos de inatividade
+O Guia Definitivo para Escolher entre Cabeçotes Novos e Recondicionados – Compre Agora para Economizar e Ter
+Confiabilidade a Longo Prazo!
+Os principais segredos de manutenção do cabeçote para uma longevidade imbatível do motor diesel!
+Por que os mancais da biela falham em motores a diesel marítimos?
+Nota importante: A Diesel Pro Power Inc (DPP) não possui qualquer associação, patrocínio ou vínculo com qualquer fabricante de
+equipamento original (OEM). Os produtos da Diesel Pro Power Inc apresentados neste site não devem ser confundidos com os produtos
+ou marcas registradas de qualquer empresa OEM. Todas as peças listadas como compatíveis com os modelos desses fabricantes são
+peças de reposição não originais. Em hipótese alguma se implica que os produtos listados como compatíveis com os modelos desses
+fabricantes sejam peças originais de fábrica, mas sim peças e acessórios de reposição não originais.
+Copyright © 2026 Diesel Pro Power, Inc. 760 NW 4th Street, Suite 100, Miami, FL 33128 - EUA. Mapa do site
+
+--- FIM DA PÁGINA 23 ---
+

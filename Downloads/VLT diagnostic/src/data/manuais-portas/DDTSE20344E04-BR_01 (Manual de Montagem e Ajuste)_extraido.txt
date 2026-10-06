@@ -1,0 +1,1535 @@
+=========================================
+MANUAL: DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf
+=========================================
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 1 ---
+ 
+ 
+K N O R R  B R E M S E  
+SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA.  
+ 
+ 
+ 
+ 
+Todos os direitos reservados. Qualquer aplicação in devida desta descrição, especificamente a reproduçã o ou transmissão a terceiros 
+de qualquer modo, poderá estar sujeita à punição conforme a lei civil ou processo penal. Confidencial, somente para uso interno! 
+Revisão Nº: 
+ 
+01 
+preparado/modificado 
+31/12/2011 
+Társis Tezza 
+verificado/liberado 
+31/12/2011 
+Flavio Pereira 
+Total 
+de páginas 
+40  
+Página 
+Nº 
+1 
+ 
+KNORR-BREMSE  Documentação nº: 
+DDTSE20344E04-BR Sistemas para Veículos Ferroviários Ltda. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manual de Montagem e Ajuste  
+Porta Deslizante de Folha Dupla S3-E2 
+(5080291AR01/R02/R03/R04) 
+VLT Recife (BOM SINAL) 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 2 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 2/40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aviso - Aviso - Aviso - Aviso - Aviso 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendamos que, para proteger contra riscos, a instalação ou a operação de nossos 
+produtos ou componentes deve somente ser feita por pessoal autorizado de acordo com as 
+instruções técnicas apropriadas. 
+ 
+ 
+ 
+ 
+ 
+ 
+Não nos responsabilizamos perante as leis de garantia do produto por danos diretos ou 
+consequentes, decorrentes de operação, instalação ou manuseio incorretos dos produtos ou 
+componentes fornecidos por nós. 
+ 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 3 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 3/40  
+ 
+Lista de conteúdos 
+ 
+Conteúdos Página  
+1 Documentos requeridos ..................................................................................................................... 4 
+2 Avisos e recomendações gerais ........................................................................................................ 4 
+3 Introdução ............................................................................................................................................ 5 
+3.1  Observações de segurança ................................................................................................................... 5 
+3.2  Geral ...................................................................................................................................................... 5 
+3.3  Ferramentas especiais .......................................................................................................................... 6 
+3.4  Suprimentos auxiliares .......................................................................................................................... 7 
+3.5  Layout do carro ...................................................................................................................................... 8 
+3.6  Visão geral dos componentes ............................................................................................................... 9 
+3.7  Torques de aperto padrão ................................................................................................................... 11  
+4 Verificação das dimensões do portal e dos furos de montagem ................................................. 12  
+4.1  Verificação das dimensões do portal ................................................................................................... 12  
+4.2  Verificação dos furos de montagem .................................................................................................... 13  
+4.3  Planos de referência ............................................................................................................................ 13  
+4.4  Verificação do paralelismo do portal .................................................................................................... 14  
+4.5  Ajuste dos elementos de vedação vertical .......................................................................................... 15  
+5 Montagem do mecanismo ................................................................................................................ 16  
+5.1  Procedimento de montagem do mecanismo ....................................................................................... 16  
+5.2  Preparação dos suportes de montagem ............................................................................................. 16  
+5.3  Montagem do mecanismo de porta ..................................................................................................... 18  
+5.4  Ajuste do paralelismo em relação ao piso ........................................................................................... 19  
+6 Montagem das folhas de portas ....................................................................................................... 20  
+6.1  Procedimento de montagem das folhas de porta ................................................................................ 20  
+6.2  Posicionamento da folha de porta ....................................................................................................... 20  
+6.3  Montagem das folhas de porta no mecanismo.................................................................................... 21  
+6.4  Verificação da posição da folha de porta no portal .............................................................................. 22  
+7 Ajuste das portas ............................................................................................................................... 23  
+7.1  Procedimento de ajuste e regulagem das folhas de porta .................................................................. 23  
+7.2  Ajuste do pré-carregamento das folhas de porta (“v” de porta)........................................................... 24  
+7.3  Ajuste dos roletes para o pré-carregamento ....................................................................................... 25  
+7.4  Ajuste dos contra-roletes ..................................................................................................................... 27  
+7.5  Ajuste da dimensão do vão nos pinos de travamento ......................................................................... 28  
+7.6  Ajuste do sistema de travamento ........................................................................................................ 29  
+8 Ajuste do vão de abertura da porta ................................................................................................. 32  
+9 Montagem do dispositivo (chave) de serviço ................................................................................. 33  
+9.1  Preparação do “Bowden Cable” .......................................................................................................... 33  
+9.2  Montagem do “Bowden Cable” no mecanismo de porta ..................................................................... 33  
+9.3  Montagem do dispositivo (chave) de serviço ....................................................................................... 34  
+10  Montagem do dispositivo (chave) de emergência ......................................................................... 35  
+10.1  Preparação do “Bowden Cable” .......................................................................................................... 35  
+10.2  Montagem do “Bowden Cable” no mecanismo de porta ..................................................................... 35  
+10.3  Montagem do dispositivo (chave) de emergência ............................................................................... 36  
+10.4  Raio de instalação dos “Bowden Cables” ............................................................................................ 37  
+11  Instruções de montagem dos revestimentos internos (sanca) .................................................... 37  
+12  Verificação dos elementos de fixação ............................................................................................. 37  
+13  Lubrificação inicial ............................................................................................................................ 38  
+14  Verificação dos ajustes ..................................................................................................................... 38  
+15  Comissionamento elétrico ................................................................................................................ 38  
+16  Índice de Revisões ............................................................................................................................ 39  
+17  Apêndice – Lista de figuras .............................................................................................................. 40  
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 4 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 4/40 
+ 
+ 
+ 
+1 Documentos requeridos 
+ 
+Nº do documento / desenho.  Descrição 
+ 
+5080291AR01 Desenho de montagem 
+5080291AR01 Escopo de fornecimento 
+5080291AR02 Escopo de fornecimento 
+5080291AR03 Desenho de montagem 
+5080291AR03 Escopo de fornecimento 
+5080291AR04 Escopo de fornecimento 
+DDTSE20344E05-BR Manual de Lubrificação 
+DDTSE20344E06-BR Checklist 
+DDTSE20344E07-BR Manual de Configuração 
+ED01029R11 Diagrama elétrico 
+ 
+ 
+2 Avisos e recomendações gerais 
+ 
+Este manual inclui os seguintes alertas categorizados em diferentes classes de risco: 
+ 
+ 
+PERIGO 
+O descumprimento destas instruções causará feriment os pessoais 
+irreversíveis ou morte. 
+ 
+ 
+ADVERTÊNCIA 
+O descumprimento destas instruções pode causar feri mentos pessoais 
+graves ou morte. 
+ 
+ 
+CUIDADO 
+O descumprimento destas instruções pode causar feri mentos pessoais, 
+bem como danos ao equipamento e/ou ambiente. 
+ 
+Explicação sobre a estrutura dos avisos (por exemplo, PERIGO): 
+ 
+ 
+PERIGO 
+Causa do perigo 
+Conseqüência do perigo 
+Medidas corretivas 
+ 
+As recomendações não contêm conteúdo relevante de s egurança. São listadas aqui para fins de 
+complementação. 
+ 
+ 
+OBSERVAÇÃO 
+As observações fornecem dicas úteis e informações a dicionais acerca do 
+equipamento. 
+ 
+Em caso de serviços especiais, os avisos em outros capítulos deste manual indicarão os riscos específi cos. 
+Geralmente, os avisos e recomendações precedem o procedimento abordado. 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 5 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 5/40  
+ 
+ 
+3 Introdução 
+ 
+3.1 Observações de segurança 
+ 
+ 
+ADVERTÊNCIA 
+As partes móveis do sistema de porta podem se movimentar de repente. 
+Risco de ferimentos graves para pessoas e/ou danos ao equipamento. 
+Desligue a alimentação de energia antes de iniciar qualquer atividade no 
+sistema de porta! 
+ 
+ 
+ADVERTÊNCIA 
+Durante a execução de algum trabalho nos componente s do sistema de 
+porta com fornecimento de energia temporário, a det ecção de obstrução 
+não estará ativa! 
+Risco de ferimentos graves para pessoas e/ou danos ao equipamento. 
+Desligue a alimentação de energia antes de iniciar qualquer atividade no 
+sistema de porta! 
+ 
+ 
+PERIGO 
+ALIMENTAÇÃO DE ENERGIA DO SISTEMA DE PORTA 
+Risco de ferimentos irreversíveis para pessoas que podem causar morte. 
+Antes de iniciar qualquer trabalho no sistema de po rta, a alimentação de 
+energia deve ser interrompida. Para tanto, desligue  o disjuntor na cabine 
+de controle elétrico e a chave principal no mecanismo. 
+Além disso, todos os cabos elétricos do trem que es tiverem interligados ao 
+sistema da porta devem ser desconectados! 
+ 
+3.2 Geral 
+ 
+Além do desenho de montagem 5080291AR01 e 5080291AR 03, esta instrução dá suporte à montagem e 
+ajuste da porta e etapa de desdobramento do sistema da porta. 
+ 
+ 
+OBSERVAÇÃO 
+De acordo com essa instrução, a montagem e o ajuste  do sistema de porta 
+têm de ser executados exclusivamente por pessoal treinado e autorizado. 
+ 
+ 
+OBSERVAÇÃO 
+Essa instrução se refere apenas aos componentes inc lusos no 
+fornecimento KBB/IFE. 
+ 
+ 
+OBSERVAÇÃO 
+As ilustrações nessa instrução nem sempre exibem vi sões detalhadas do 
+sistema de porta; porém, seu propósito é fornecer a s informações 
+necessárias. 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 6 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 6/40 
+ 
+ 
+3.3 Ferramentas especiais 
+ 
+Além das ferramentas habituais, algumas ferramentas  especiais são necessárias para montagem e ajuste. 
+Caso as ferramentas especiais não estejam inclusas no escopo de fornecimento KBB/IFE, devem ser 
+adquiridas separadamente pelo cliente através da KBB: 
+ 
+KNORR-BREMSE SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA. 
+Via Cyrineu Tonolli, 1.519 - CEP: 13295-000 - Itupeva / SP 
+Depto de Engenharia de Aplicação de Sistemas de Porta 
+Telefone: (11) 4593-4400 
+www.knorr-bremse.com.br  
+ 
+Descrição  Escopo de 
+fornecimento  Utilização  Código IFE  Aplicação  
+Calibrador Cliente Recomendado 3TD01548R01 Verificação da superfície de 
+fixação do mecanismo 
+Calibrador de 
+folga Cliente Recomendado - Verificação do furo dos 
+parafusos 
+Calibrador da 
+pressão de 
+vedação 
+Cliente Especificado 3TD01549R03 Posicionamento da folha de 
+porta 
+Coluna de 
+elevação Cliente Recomendado - Elevação do mecanismo e 
+da folha de porta 
+Prumo Cliente Recomendado  Verificação do alinhamento 
+do portal 
+Fonte de 
+energia 
+ajustável 
+Cliente Exigido - 
+Permitir a operação 
+temporária dos 
+mecanismos para a 
+realização de testes 
+durante a montagem 
+Régua Cliente Recomendado  Verificação da superfície de 
+fixação do mecanismo 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 7 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 7/40  
+ 
+ 
+3.4 Suprimentos auxiliares 
+ 
+Para montagem e ajuste, alguns suprimentos auxiliar es são necessários. Os suprimentos auxiliares 
+necessários não estão inclusos no fornecimento KBB/ IFE e devem ser adquiridos pelo cliente no comércio  ou 
+através da KBB: 
+ 
+KNORR-BREMSE SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA. 
+Via Cyrineu Tonolli, 1.519 - CEP: 13295-000 - Itupeva / SP 
+Depto de Engenharia de Aplicação de Sistemas de Porta 
+Telefone: (11) 4593-4400 
+www.knorr-bremse.com.br  
+ 
+ 
+ADVERTÊNCIA 
+A utilização incorreta de produtos químicos pode ca usar danos à saúde 
+das pessoas! 
+Portanto siga corretamente todas as instruções de u tilização dos produtos 
+que são fornecidas pelos fabricantes! 
+ 
+ 
+CUIDADO 
+A utilização incorreta de produtos químicos pode ca usar danos aos 
+equipamentos! 
+Portanto siga corretamente todas as instruções de u tilização dos produtos 
+que são fornecidas pelos fabricantes! 
+ 
+Descrição  Escopo de 
+fornecimento  Utilização  Código IFE  Aplicação  
+Loctite 243 Cliente Exigido 0VN401289R47 Aperto dos  parafusos 
+Pasta Optimol 
+Branca T Cliente Exigido 0VN401670R01 Lubrificação dos paraf usos 
+Tinta lacre Cliente Exigido 3TD02927R01 Marcação do s parafusos 
+Sikaflex 252 Preto Cliente Exigido 0UN401080P02 Ved ação dos suportes 
+Fluido Penetrante 
+Dinitrol PLT Cliente Exigido OVN401989R01 
+(líquido) Nas superfícies de contato 
+Fluido Penetrante 
+Dinitrol PLT Cliente Exigido 3N401989R03 
+(em spray) Nas superfícies de contato 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 8 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 8/40 
+ 
+ 
+3.5 Layout do carro 
+ 
+ 
+ 
+Fig. 3-1 Layout do carro 
+ 
+CARRO CABINE ESQUERDO: 
+ 
+1 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+ 
+CARRO INTERMEDIÁRIO 1: 
+ 
+1 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+ 
+CARRO INTERMEDIÁRIO 2 (se houver): 
+ 
+1 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+ 
+ 
+CARRO CABINE DIREITO: 
+ 
+1 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+ 
+   
+   
+   
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 9 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 9/40  
+ 
+   
+   
+   
+ 
+3.6 Visão geral dos componentes 
+ 
+3.6.1 Área da porta 
+ 
+ 
+Fig. 3-2 Visão geral dos componentes – Área da porta 
+ 
+O número de itens não corresponde com o escopo dos itens de entrega! 
+ 
+ 
+1 Mecanismo de porta completo  2 Folha de porta direita 
+3 Folha de porta esquerda 4 Dispositivo de emergência interno 
+5 Bowden cable 6 Dispositivo de serviço externo 
+7 Bowden cable 8 Unidade de controle de porta (DCU)  
+9 Suporte de montagem 10 Suporte de montagem 
+11 Trilho   
+ 
+ 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 10 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 10/40 
+ 
+ 
+3.6.2 Área do acionamento 
+ 
+ 
+Fig. 3-3 Visão geral dos componentes – Área do acionamento 
+ 
+ 
+O número de itens não corresponde com o escopo dos itens de entrega! 
+ 
+ 
+12 Suporte da folha direita 13 Suporte da folha esquerda 
+14 Fuso direito 15 Fuso esquerdo 
+16 Rolete excêntrico 17 Rolete  
+18 Módulo de acionamento 19 Batoque de fim de curso 
+20 Conector (X31) 21 Chave de serviço (S6) 
+22 Micro-chave de porta “fechada e travada” (S1) 23 Micro-chave de “emergência” (S3) 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 11 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 11/40  
+ 
+ 
+3.7 Torques de aperto padrão 
+ 
+ 
+OBSERVAÇÃO 
+Todos os elementos de fixação devem ser apertados c onforme os torques 
+indicados nos desenhos de montagem. 
+Caso o torque de aperto não estiver indicado, utili ze os valores listados na 
+tabela abaixo para garantir a fixação segura dos parafusos. 
+ 
+ 
+OBSERVAÇÃO 
+Após a realização do ajuste final do mecanismo, tod os os parafusos de 
+fixação que estavam sem aperto (alavancas do módulo, suporte das micro-
+chaves, roletes, dispositivo de segurança, etc.) de vem apertados, 
+utilizando Loctite 243, com o torque de aperto indi cado e marcados com 
+tinta lacre – Com exceção das roscas HELICOIDAIS. 
+ 
+ 
+OBSERVAÇÃO 
+Nunca aperte os parafusos de rosca HELICOIDAL com L octite 243, utilize 
+a pasta Optimol Branca T. 
+ 
+Dimensão 
+Torque de aperto [Nm] (DIN 933, DIN 931, DIN603, DIN 912) 
+A2-70 
+com Loctite 243  
+A2-70 
+com Pasta Optimol  8.8 10.9 12.9 
+      M4 3 2 3 4  
+M5 6 3 6 8 10 
+M6 11 6 10 13 16 
+M8 27 14 23 32 40 
+M10 54 28 46 64 79 
+M12 92 48 79 111 135 
+M14 148 76 126 177 - 
+M16 230 117 194 273 - 
+M18 314 162 268 377 - 
+M20 444 227 377 530 - 
+M24 766 392 651 916 - 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 12 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 12/40 
+ 
+ 
+ 
+4 Verificação das dimensões do portal e dos furos d e montagem 
+ 
+ 
+OBSERVAÇÃO 
+A referência para todas as dimensões (distância e a ltura dos furos) das 
+peças de fixação é a linha de centro do portal. Con forme o desenho 
+5080291AR01 e R03. 
+ 
+ 
+OBSERVAÇÃO 
+Para informações sobre as tolerâncias de forma e po sição consulte o 
+desenho de montagem 5080291AR01 e R03. 
+ 
+ 
+4.1 Verificação das dimensões do portal 
+ 
+IL-50128 
+c
+b
+a
+A B
+A - B = 
+ 
+a 1.915,7 mm b 1.320 mm c 0 ± 1  mm 
+Fig. 4-1 Desvio – diagonal do portal 
+• Verifique a altura do portal (a), largura do porta l (b) e medida diagonal (c). 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 13 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 13/40  
+ 
+ 
+4.2 Verificação dos furos de montagem 
+ 
+ 
+OBSERVAÇÃO 
+Caso as posições e dimensões dos furos de montagem não estiverem 
+dentro das tolerâncias exigidas, a operação correta  do sistema de porta 
+não pode ser garantida! 
+ 
+• Verifique no desenho de montagem as posições e dim ensões corretas dos furos para os componentes 
+relacionados abaixo: 
+ 
+- Chapas suporte de montagem 
+- Mecanismo 
+- Dispositivo de emergência (interno) 
+- Dispositivo de serviço (interno) 
+- Dispositivo de serviço (externo) 
+ 
+ 
+4.3 Planos de referência 
+ 
+Os planos de referência a serem utilizados para dim ensionamento de todas as peças de instalação do 
+mecanismo são: 
+- plano do centro do portal;  
+- plano do centro do carro;  
+- plano do nível superior do piso. 
+E estão indicados no desenho de montagem 5080291AR01 e R03 
+. 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 14 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 14/40 
+ 
+ 
+ 
+4.4 Verificação do paralelismo do portal 
+ 
+ 
+OBSERVAÇÃO 
+Diferenças entre as vedações das molduras direita e  esquerda podem 
+levar a um desalinhamento entre as duas folhas e ta mbém entre as folhas 
+e a superfície externa do carro. 
+ 
+IL-50129
+aX2-X3 = 
+X2
+1
+X3
+1
+X1
+X1
+ 
+ 
+1 Prumo a 0 ±3 mm 
+Fig. 4-2 Desvio – vertical do portal 
+ 
+• Utilize um prumo para verificar se a vedação da mo ldura direita (X2) está alinhada com a vedação da 
+moldura esquerda (X3). Garanta que a tolerância admissível (a) não será excedida. 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 15 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 15/40  
+ 
+ 
+4.5 Ajuste dos elementos de vedação vertical 
+ 
+IL-03869 
+1
+aa
+1
+b
+ 
+ 
+1 Elemento de vedação  a 662 ± 1 mm 
+b 1324 ± 2 mm   
+Fig. 4-3 Elemento de vedação 
+ 
+• Meça o centro do portal na parte superior e inferi or e faça a marcação. 
+• Fixe o elemento de vedação esquerdo e direito na p osição correta, ou seja, contando a cota (a) a partir do 
+centro do portal. 
+• Confira se os elementos de vedação estão completam ente paralelos ao portal medindo a cota (a) na parte 
+superior e inferior. Caso estejam com alguma inclinação é necessário ajustá-los. 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 16 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 16/40 
+ 
+ 
+ 
+5 Montagem do mecanismo 
+ 
+5.1 Procedimento de montagem do mecanismo 
+ 
+1. Efetue a preparação dos suportes de montagem con forme indicado no item 5.2 (Fig. 5-1 Peças de 
+instalação do mecanismo de porta 
+2. ); 
+ 
+3. Prenda os parafusos de fixação (4) da Fig. 5-2 P eças para instalação do mecanismo de porta 
+4.  com Loctite 243. Ver item 5.3; 
+ 
+5. Levante o mecanismo utilizando uma coluna de ele vação adequada e posicione o mecanismo pelo trilho 
+(2) junto com os suportes de ajuste (1), suportes d e montagem e calços (9) da Fig. 5-2 Peças para 
+instalação do mecanismo de porta 
+6.  nos furos. Ver item 5.3; 
+ 
+7. Faça a fixação do mecanismo com os parafusos (4)  e as arruelas (5) da Fig. 5-2 Peças para instalação do 
+mecanismo de porta 
+8. . Os parafusos devem ser apertados com facilidad e. Ver item 5.3; 
+ 
+9. Ajuste o mecanismo no centro do portal. Efetue a  medição da cota (g) da Fig. 5-1 Peças de instalaçã o do 
+mecanismo de porta 
+10.  em ambos os lados. Ver item 5.3; 
+ 
+11. Verifique o paralelismo e a inclinação do mecan ismo utilizando um nível de água e uma régua. Se 
+necessário, adicione ou remova alguns calços (9) da  Fig. 5-2 Peças para instalação do mecanismo de 
+porta 
+12. . Ver item 5.3; 
+ 
+13. Verifique o paralelismo em relação ao piso de a cordo com o item 5.4 (Fig. 5-3 Paralelismo entre o piso e o 
+mecanismo 
+14. ). 
+ 
+ 
+5.2 Preparação dos suportes de montagem 
+ 
+ 
+ 
+1 Estrutura do caixa 2 Suporte de ajuste  
+3 Suporte de montagem  Fluido Penetrante Dinitrol PLT 
+g 1439 ± 1 mm   
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 17 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 17/40  
+ 
+Fig. 5-1 Peças de instalação do mecanismo de porta 
+ 
+ 
+OBSERVAÇÃO 
+Aplique Penetrante Dinitrol PLT na superfície de con tato dos suportes de 
+montagem e de ajuste! 
+ 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 18 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 18/40 
+ 
+ 
+ 
+5.3 Montagem do mecanismo de porta 
+ 
+ 
+1 Suporte de ajuste 2 Trilho 3 Rolete 
+4 Parafuso 5 Arruela 6 Porta 
+7 Parafuso 8 Arruela 9 Calço 
+10 Suspensão da porta a 12 mm c 12,5 mm 
+d 1997 ± 1 mm e 77 ± 1 mm f 127,3 mm 
+Fig. 5-2 Peças para instalação do mecanismo de porta 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 19 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 19/40  
+ 
+ 
+Torques de aperto indicados 
+Item  Descrição/Dimensão  Torque de 
+aperto 
+Loctite  
+243  
+Pasta 
+Optimol  
+Tinta 
+lacre  
+      4 Parafuso M8x35 Classe 8.8 (Cliente SoS) 23 Nm Sim Não Sim  
+ 
+ 
+OBSERVAÇÃO 
+Quando fizer o aperto dos parafusos de fixação, tom e cuidado para não 
+deformar o mecanismo de porta. 
+ 
+ 
+5.4 Ajuste do paralelismo em relação ao piso 
+ 
+a
+a
+ 
+ 
+1 Trilho 2 Piso a ± 1 mm 
+Fig. 5-3 Paralelismo entre o piso e o mecanismo 
+ 
+• Utilize um prumo para verificar o paralelismo entr e o trilho (1) e o piso (2). 
+• Verifique também a inclinação do piso (2) e do tri lho (1). 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 20 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 20/40 
+ 
+ 
+ 
+6 Montagem das folhas de portas 
+ 
+6.1 Procedimento de montagem das folhas de porta 
+ 
+1. Posicione as folhas de porta conforme indicado n o item 6.2 (Fig. 6-1 Posição da folha de porta na guia 
+inferior 
+2. ); 
+ 
+3. Efetue a montagem das folhas conforme indicado n o item 6.3 (Fig. 6-2 Montagem das folhas de porta no 
+mecanismo); 
+ 
+4. Verifique a cota (c) da Fig. 6-1 Posição da folh a de porta na guia inferior 
+5. , caso a cota (c) esteja fora da medida especifi cada, ajuste os suportes de montagem (veja Fig. 5-2 Peças 
+para instalação do mecanismo de porta 
+6. ); 
+ 
+7. Verifique a posição da folha de porta em relação  ao ângulo do portal conforme indicado no item 6.4 (Fig. 
+6-3 Posição da folha de porta – Ângulo do portal); 
+ 
+ 
+6.2 Posicionamento da folha de porta 
+ 
+ 
+ 
+ 
+1 Folha de porta 2 Piso 
+c 12,5 mm   
+Fig. 6-1 Posição da folha de porta na guia inferior 
+• Levante a porta (1) do lado externo em direção ao interno. 
+• Posicione a porta (1) na guia inferior. 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 21 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 21/40  
+ 
+6.3 Montagem das folhas de porta no mecanismo 
+ 
+ 
+ 
+ 
+1 Suporte da porta 2 Parafuso 
+4 Arruela de pressão 5 Porta 
+6 Calços 7 Parafusos, porca, arruela 
+8 Parafuso de travamento  Liquido Penetrante Dinitrol PLT 
+Fig. 6-2 Montagem das folhas de porta no mecanismo 
+• Aplique o Liquido Penetrante Dinitrol PLT na super fície de contato entre o suporte da porta e as folh as de 
+porta. 
+• Posicione a porta (5) no suporte da porta (1). 
+• Fixe a porta (5) no suporte da porta (1) com paraf usos de cabeça sextavada (2) e (3) juntamente com a s 
+arruelas de pressão (4). 
+• Aperte os parafusos de cabeça sextavada (2) com o torque de aperto indicado. 
+• Faça a marcação dos parafusos de cabeça sextavada (2) com tinta lacre. 
+ 
+Torques de aperto indicados 
+Item  Descrição/Dimensão  Torque de 
+aperto 
+Loctite  
+243  
+Pasta 
+Optimol  
+Tinta 
+lacre  
+      2 Parafuso M10x30 45,5 Nm Sim Não Sim  
+ 
+ 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 22 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 22/40 
+ 
+ 
+6.4 Verificação da posição da folha de porta no por tal 
+ 
+IL-03868 
+a
+1
+2
+ 
+ 
+1 Estrutura da porta 2 Porta 
+a 34 ± 2 mm   
+Fig. 6-3 Posição da folha de porta – Ângulo do portal 
+• Verifique a medida (a) entre a folha de porta e a estrutura. 
+ 
+ 
+CUIDADO 
+O trilho do mecanismo e a guia inferior têm de esta r em perfeito 
+paralelismo. 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 23 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 23/40  
+ 
+ 
+7 Ajuste das portas 
+ 
+7.1 Procedimento de ajuste e regulagem das folhas d e porta 
+ 
+1. Ajustar o pré-carregamento das folhas de porta ( “v” de porta) conforme o item 7.2 (Fig. 7-1 ); 
+ 
+2. Ajustar os roletes para o pré-carregamento confo rme o item 7.3 (Fig. 7-2 Ajuste do contra-rolete e Fig. 7-3 
+Ajuste do rolete excêntrico no suporte da porta 
+3. ); 
+ 
+4. Ajustar os contra-roletes conforme o item 7.4 (F ig. 7-4 Ajuste do contra-rolete 
+Torques de aperto indicados 
+Item  Descrição/Dimensão  Torque de 
+aperto 
+Loctite  
+243  
+Massa 
+Optimol  
+Tinta 
+lacre  
+      2 Contra-rolete – rosca M10 20 Nm Sim Não Sim  
+ 
+5. ); 
+ 
+6. Ajustar os pinos de travamento conforme o item 7 .5 (Fig. 7-5 Vão nos pinos de travamento 
+7. ); 
+ 
+8. Ajustar o sistema de travamento conforme o item 7.6 (Fig. 7-6 Montagem do calibrador de pressão de 
+vedação e Fig. 7-7 Ajuste dos parafusos de travamento 
+9. ). 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 24 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 24/40 
+ 
+ 
+7.2 Ajuste do pré-carregamento das folhas de porta (“v” de porta) 
+ 
+ 
+ 
+a mín = 0 máx = +2 mm    b Mesma distância 
+Fig. 7-1 Ajuste do “v” de porta 
+ 
+CUIDADO 
+A porta esquerda tem de ter a mesma distância para o centro do portal 
+como a porta direita. 
+ 
+• Feche manualmente as portas de forma lenta até que as portas estejam próximas (cerca de 50 mm) da 
+posição fechada.  
+• Meça a distância “a” na parte inferior das portas.  
+• Na parte superior o vão tem que ser “a” + 2 mm ent re as folhas de porta. 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 25 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 25/40  
+ 
+ 
+7.3 Ajuste dos roletes para o pré-carregamento 
+ 
+IL-01553 
+22
+ 
+ 
+2 Contra-rolete 
+Fig. 7-2 Ajuste do contra-rolete 
+ (ver Fig. 7-2 Ajuste do contra-rolete ) 
+• Ambos os contra-roletes (2) devem estar completame nte voltados para baixo. 
+ 
+ 
+1A
+B
+1
+IL-51037 
+ 
+ 
+1 Rolete de suporte excêntrico A Suporte da porta do lado direito 
+B Suporte da porta do lado esquerdo   
+Fig. 7-3 Ajuste do rolete excêntrico no suporte da porta 
+Torques de aperto indicados 
+Item  Descrição/Dimensão  Torque de 
+aperto 
+Loctite  
+243  
+Massa 
+Optimol  
+Tinta 
+lacre  
+      1 Rolete excêntrico – rosca M20 ---- Não  Sim  Sim  
+ 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 26 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 26/40 
+ 
+ 
+ 
+(ver item 7.2) 
+• A porta tem de estar pré-carregada, para isso deve -se girar os roletes excêntricos (1) no suporte da porta 
+para garantir que o vão superior tenha a medida de “a” + 2 mm conforme indicado no item 7.2. 
+ 
+ 
+(ver Fig. 7-3 Ajuste do rolete excêntrico no suporte da porta 
+) 
+• Quando o ajuste for finalizado, aplique a Massa Op timol Branca T na rosca do rolete excêntrico (1). 
+• Prenda o rolete excêntrico (1) com a porca e use a  arruela de segurança para travar a porca. 
+• Faça a marcação da arruela com tinta lacre. 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 27 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 27/40  
+ 
+ 
+7.4 Ajuste dos contra-roletes 
+ 
+a
+IL-01555 
+1
+2
+ 
+ 
+1 Guide rail 2 Contra-rolete 
+a 0,1 a 0,4 mm à 20 C    
+Fig. 7-4 Ajuste do contra-rolete 
+Torques de aperto indicados 
+Item  Descrição/Dimensão  Torque de 
+aperto 
+Loctite  
+243  
+Massa 
+Optimol  
+Tinta 
+lacre  
+      2 Contra-rolete – rosca M10 20 Nm Sim Não Sim  
+ 
+ 
+ 
+OBSERVAÇÃO 
+Esse ajuste tem de ser feito na temperatura indicad a para garantir que o 
+vão esteja adequado entre 0,1 a 0,4 mm e com isso p ermitir expansão e 
+contração térmica. Se ajustado apropriadamente, ess e vão pode ser 
+mantido em uma faixa de temperatura de - 17°  a + 40° C. 
+ 
+ 
+• Gire os contra-roletes para ajustar o vão (a) entr e o canto superior do contra-rolete (2) e a parte s uperior 
+do trilho (1) com as folhas de porta na posição qua se fechada (vão entre as folhas de aproximadamente 
+250 mm). 
+• Feche e reabra as folhas de porta manualmente e ve rifique se correm com facilidade no trilho (verifiq ue 
+visualmente se os contra-roletes giram com leveza). 
+• Após o ajuste, aplique Loctite 243 na rosca do con tra-rolete (2). 
+• Prenda o contra-rolete (2) com a porca com o torqu e de aperto indicado. 
+• Faça a marcação do contra-rolete (2) com tinta lac re. 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 28 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 28/40 
+ 
+ 
+ 
+7.5  Ajuste da dimensão do vão nos pinos de travame nto 
+ 
+1
+IL-03810 
+x
+2
+2
+1
+a
+ 
+ 
+1 Pino de travamento 2 Trava 
+x Mínimo 2 mm a 3,8 ± 0,7 mm 
+Fig. 7-5 Vão nos pinos de travamento 
+(ver Fig. 6-2 Montagem das folhas de porta no mecanismo) 
+• Solte as porcas sextavadas (7). 
+• Feche as folhas de porta e trave o mecanismo. 
+ 
+(ver Fig. 7-5 Vão nos pinos de travamento 
+) 
+• Utilizando um calibrador (escopo do cliente), veri fique se o vão entre o pino de travamento (1) e a trava (2) 
+está dentro da medida (a) acima do comprimento tota l do fuso. 
+ 
+(ver Fig. 6-2 Montagem das folhas de porta no mecanismo) 
+• Caso necessário para ajustar o vão, adicione ou re mova os calços (6). 
+ 
+(ver Fig. 7-5 Vão nos pinos de travamento 
+) 
+• Para ajustar a altura dos pinos de travamento veri fique se a medida (x) entre os pinos (1) e a trava (2) 
+está dentro do especificado. 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 29 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 29/40  
+ 
+ 
+7.6 Ajuste do sistema de travamento 
+ 
+IL-02741
+1 23
+ 
+ 
+1 Calibrador de pressão de vedação (3TD01549R03)  3 Folha de porta esquerda 
+2 Folha de porta direita   
+Fig. 7-6 Montagem do calibrador de pressão de vedação 
+ 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 30 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 30/40 
+ 
+ 
+IL-02910
+4 5
+46 a a
+ 
+ 
+4 Parafuso de travament 5 Trava 6 Porca sextavada 
+a 0 mm     
+Fig. 7-7 Ajuste dos parafusos de travamento 
+ 
+(ver Fig. 7-6 Montagem do calibrador de pressão de vedação) 
+• Feche as folhas de porta (2) e (3) de modo que a a s borrachas não se deformem e a trava seja acionada . 
+• Fixe as folhas de porta (2) e (3) utilizando o cal ibrador de pressão de vedação (1). 
+• Ajuste a fonte de energia com  16 VCC / 1,5 A (por um tempo máximo de 5 min caso contrário, o mot or 
+pode ser danificado!). 
+ 
+(ver Fig. 7-7 Ajuste dos parafusos de travamento 
+) 
+• Solte as porcas sextavadas (6) dos pinos de travam ento (4). 
+• Com as mãos, pressione o pino de travamento (4) na  direção da trava (5) até que o encaixe esteja 
+perfeito. 
+• Verifique se o se a medida (a) está correta, ou se ja, igual a 0 mm. 
+• Garanta que o pino de travamento (4) esteja perpen dicularmente ajustado. 
+• Aplique Loctite 243 nos parafusos em que as porcas  sextavadas (6) estão presas. 
+• Aperte as porcas sextavadas (6) com o torque de ap erto indicado. 
+• Faça a marcação das porcas sextavadas (6) com tint a lacre. 
+ 
+(ver Fig. 7-6 Montagem do calibrador de pressão de vedação) 
+• Remova o calibrador de pressão de vedação (1) das folhas de porta (2) e (3). 
+• Desligue a fonte de energia alternativa. 
+• Verifique se a função de travamento funciona corre tamente. 
+• Somente agora é permitido energizar o motor da por ta com o valor de ajuste para trazer em direção do 
+fechamento. 
+ 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 31 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 31/40  
+ 
+ 
+Torques de aperto indicados. 
+Item  Descrição/Dimensão  Torque de 
+aperto 
+Loctite  
+243  
+Massa 
+Optimol  
+Tinta 
+lacre  
+      6 Porca sextavada – M10 45,5 Nm Sim Não Sim 
+ 
+ 
+ 
+ 
+OBSERVAÇÃO 
+As dimensões das folgas para os ajustes só são váli das se as borrachas 
+de vedação da porta estiverem lubrificadas e a uma temperatura ambiente 
+superior a 5° C. 
+ 
+ 
+OBSERVAÇÃO 
+Se o sistema da porta estiver em operação por muito  tempo (ou seja, por 
+mais 1.000 ciclos de abertura e fechamento), as dim ensões especificadas 
+têm de ser reduzidas até 25% . 
+ 
+ 
+Verifique: 
+Se com esses valores, o sistema da porta trava e de strava sem problemas. Caso contrário, os ajustes tê m de 
+ser feitos novamente de acordo com este manual. 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 32 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 32/40 
+ 
+ 
+8 Ajuste do vão de abertura da porta 
+ 
+1
+a
+IL-03255 
+2
+1
+ 
+ 
+1 Batoque de borracha a 1290 ± 10 mm 
+2 Porca sextavada   
+Fig. 8-1 Vão de abertura da porta 
+ 
+(ver Fig. 8-1 Vão de abertura da porta 
+) 
+• Abra as folhas de porta completamente, ou seja, at é a posição final do curso. 
+• Verifique a medida (a). 
+• Se a medida (a) estiver diferente do especificado,  solte a porca sextavada (2) em ambos os batoques ( 1). 
+• Ajuste o vão de abertura (a) regulando os batoques  de borracha (1). 
+• Aperte a porca sextavada (2). 
+ 
+ 
+OBSERVAÇÃO 
+Ambos os batoques de borracha (1) têm que tocar o b atente 
+simultaneamente quando a porta se abrir. 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 33 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 33/40  
+ 
+ 
+9 Montagem do dispositivo (chave) de serviço 
+ 
+9.1 Preparação do “Bowden Cable” 
+ 
+• Feche as folhas de portas até a posição de travame nto para efetuar a instalação e ajuste. 
+ 
+9.2 Montagem do “Bowden Cable” no mecanismo de port a 
+ 
+IL-00984 
+4
+3
+2
+1
+5
+7
+6
+ 
+ 
+1 Cupilha  3 Bowden cable 5 Suporte 7 Esticador 
+2 Pino regulável 4 Alavanca  6 Porca sextavada   
+Fig. 9-1 Fixação do “Bowden Cable” no mecanismo de porta 
+ 
+(ver Fig. 9-1 Fixação do “Bowden Cable” no mecanismo de porta 
+) 
+• Remova a cupilha (1) da alavanca (4). 
+• Faça a montagem do ”Bowden Cable” (3) na alavanca (4) e fixe-o com o pino regulável (2). 
+• Faça a montagem do esticador (7) no suporte (5). 
+• Aperte a porca sextavada (6). 
+• Entre o pino regulável (2) e a alavanca (4) deve h aver um vão de 1 mm quando o dispositivo de 
+emergência estiver na posição neutra. 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 34 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 34/40 
+ 
+ 
+ 
+9.3 Montagem do dispositivo (chave) de serviço 
+ 
+IL-03252 
+3
+3
+5
+6
+4
+21
+ 
+ 
+1 Parafuso escareado 2 Dispositivo de serviço 
+3 Porca M8 4 Parafuso regulável M4 
+5 Bowden Cable 6 Bujão 
+Fig. 9-2 Montagem do dispositivo de serviço 
+ 
+Torques de aperto indicados 
+Item  Descrição/Dimensão  Torque de 
+aperto 
+Loctite  
+243  
+Massa 
+Optimol  
+Tinta 
+lacre  
+      1 Parafuso escareado M5x12 2,5 Nm Sim Não Não  
+4 Parafuso regulável M4 2,5 Nm Não  Não Sim  
+ 
+(ver Fig. 9-2 Montagem do dispositivo de serviço 
+) 
+• Faça a montagem do bujão (6) no dispositivo de eme rgência (2). 
+• Coloque o “Bowden Cable” (5) no canal do dispositi vo de serviço (2) e no bujão (6). 
+• Fixe o “Bowden Cable” (5) por meio parafuso regulá vel (4) no bujão (6). 
+• Aperte o parafuso regulável (4) com torque nominal . 
+• Faça a marcação do parafuso regulável (4) com tint a lacre. 
+• Aplique Loctite 243 nos parafusos escareados (1). 
+• Fixe o dispositivo de serviço (2) com parafusos es careados (1) no portal. 
+• Aperte os parafusos escareados (1) com o torque de  aperto indicado. 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 35 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 35/40  
+ 
+ 
+10 Montagem do dispositivo (chave) de emergência 
+ 
+10.1 Preparação do “Bowden Cable” 
+ 
+• Feche as folhas de portas até a posição de travame nto para efetuar a instalação e ajuste. 
+ 
+10.2 Montagem do “Bowden Cable” no mecanismo de por ta 
+ 
+IL-00984
+1
+2
+3
+4
+5 6 7
+ 
+ 
+1 Cupilha  3 Bowden cable 5 Suporte 7 Esticador 
+2 Pino regulável 4 Alavanca  6 Porca sextavada   
+Fig. 10-1 Fixação do “Bowden Cable” no mecanismo de porta 
+ 
+(ver Fig. 10-1 Fixação do “Bowden Cable” no mecanismo de porta 
+) 
+• Remova a cupilha (1) da alavanca (4). 
+• Faça a montagem do ”Bowden Cable” (3) na alavanca (4) e fixe-o com o pino regulável (2). 
+• Faça a montagem do esticador (7) no suporte (5). 
+• Aperte a porca sextavada (6). 
+• Entre o pino regulável (2) e a alavanca (4) deve h aver um vão de 1 mm quando o dispositivo de 
+emergência estiver na posição neutra. 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 36 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 36/40 
+ 
+ 
+ 
+10.3 Montagem do dispositivo (chave) de emergência 
+ 
+IL-02744
+1 2 3
+3
+4
+5
+6
+ 
+ 
+1 Parafuso escareado 2 Dispositivo de emergência 
+3 Porca M8 4 Parafuso regulável M4 
+5 Bowden Cable 6 Bujão 
+Fig. 10-2 Montagem do dispositivo de emergência 
+ 
+ 
+Torques de aperto indicados 
+Item  Descrição/Dimensão  Torque de 
+aperto 
+Loctite  
+243  
+Massa 
+Optimol  
+Tinta 
+lacre  
+      1 Parafuso escareado M5x12 2,5 Nm Sim Não Não  
+4 Parafuso regulável M4 2,5 Nm Não  Não Sim  
+ 
+ 
+(ver Fig. 10-2 Montagem do dispositivo de emergência 
+ 
+• Faça a montagem do bujão (6) no dispositivo de eme rgência (2). 
+• Coloque o “Bowden Cable” (5) no canal do dispositi vo de emergência (2) e no bujão (6). 
+• Fixe o “Bowden Cable” (5) por meio parafuso regulá vel (4) no bujão (6). 
+• Aperte o parafuso regulável (4) com torque nominal . 
+• Faça a marcação do parafuso regulável (4) com tint a lacre. 
+• Aplique Loctite 243 nos parafusos escareados (1). 
+• Fixe o dispositivo de emergência (2) com parafusos  escareados (1) no portal. 
+• Aperte os parafusos escareados (1) com o torque de  aperto indicado. 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 37 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 37/40  
+ 
+ 
+10.4 Raio de instalação dos “Bowden Cables” 
+ 
+IL-03269 
+R
+ 
+ 
+R minimo 150 mm (raio de instalação) 
+Fig. 10-3 Instalação do cabo Bowden 
+ 
+• Monte o “Bowden Cable” a partir do dispositivo até  o mecanismo. 
+ 
+• Garanta que o “Bowden Cable” seja montado com raio s de no mínimo de 150 mm (ver Fig. 10-3 
+Instalação do cabo Bowden 
+• ). 
+ 
+ 
+11 Instruções de montagem dos revestimentos interno s (sanca) 
+ 
+ 
+OBSERVAÇÃO 
+Não pode ocorrer nenhuma interferência entre os rev estimentos internos 
+(sanca, chapas e estrutura) e o mecanismo e as folhas de porta. 
+ 
+Caso ocorra alguma interferência entre os revestime ntos internos dos carros e o sistema de portas 
+(mecanismo e folhas) o conjunto pode apresentar mal  funcionamento. 
+ 
+ 
+12 Verificação dos elementos de fixação 
+ 
+• Garanta que todos os parafusos estejam apertados c om o torque indicado. 
+• Garanta que todos os parafusos estejam marcados co m tinta lacre. 
+ 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 38 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 38/40 
+ 
+ 
+13 Lubrificação inicial 
+ 
+ 
+OBSERVAÇÃO 
+Limpe os trilhos da porta utilizando um produto de limpeza adequado. 
+ 
+• Lubrifique o sistema da porta de acordo com a Inst rução de Lubrificação DDTSE20344E05. 
+ 
+ 
+14 Verificação dos ajustes 
+ 
+ 
+OBSERVAÇÃO 
+É obrigatório guardar as listas de verificação (che cklists) preenchidas dos 
+sistemas que estão sendo montados. 
+Cada lista de verificação deve ser enviada para a K NORR / IFE, se 
+solicitada. 
+ 
+• Verifique os ajustes mecânicos e elétricos de acor do com a lista de verificação DDTSE20344E06, e 
+mantenha os registros. 
+ 
+ 
+15 Comissionamento elétrico 
+ 
+• Inicie o sistema da porta de acordo com a Instruçã o de Configuração DDTSE20344E07. 
+• Verifique o funcionamento de acordo com a descriçã o de função DDTSE20344E03 e descrição de 
+diagnóstico DDTSE20344E13. 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 39 ---
+DDTSE20344E04-BR_01 Manual de Montagem e Ajuste  
+ 
+ 
+Página 39/40  
+ 
+ 
+16 Índice de Revisões 
+ 
+revisão data preparado verificado/liberado 
+ 
+00  31.12.2011 Társis Tezza  Flavio Pereira 
+01 04.03.2014 Flavio Pereira Talles Cristian 
+ 
+Item Modificação 
+00 Baseado no original em inglês DDTSE20344E04_00 
+01 Alterações considerando novos códigos (R03 e R04 ) 
+ 
+ 
+ 
+
+--- DDTSE20344E04-BR_01 (Manual de Montagem e Ajuste).pdf | PÁGINA 40 ---
+Manual de Montagem e Ajuste DDTSE20344E04-BR_01  
+ 
+Página 40/40 
+ 
+ 
+ 
+17 Apêndice – Lista de figuras 
+ 
+Figura Página  
+Fig. 3-1 Layout do carro ............................................................................. ............................ 8 
+Fig. 4-1 Desvio – diagonal do portal ................................................................. .................... 12  
+Fig. 4-2 Desvio – vertical do portal ................................................................. ...................... 14  
+Fig. 4-3 Elemento de vedação ......................................................................... .................... 15  
+Fig. 5-1 Peças de instalação do mecanismo de porta ................................................... ....... 17  
+Fig. 5-2 Peças para instalação do mecanismo de porta ....................................................... 18  
+Fig. 5-3 Paralelismo entre o piso e o mecanismo ...................................................... ........... 19  
+Fig. 6-1 Posição da folha de porta na guia inferior ............................................................... 20  
+Fig. 6-2 Montagem das folhas de porta no mecanismo ................................................... ..... 21  
+Fig. 6-3 Posição da folha de porta – Ângulo do portal .......................................................... 22  
+Fig. 7-1 Ajuste do “v” de porta ...................................................................... ........................ 24  
+Fig. 7-2 Ajuste do contra-rolete ..................................................................... ....................... 25  
+Fig. 7-3 Ajuste do rolete excêntrico no suporte da porta ............................................. ......... 25  
+Fig. 7-4 Ajuste do contra-rolete ..................................................................... ....................... 27  
+Fig. 7-5 Vão nos pinos de travamento ................................................................. ................. 28  
+Fig. 7-6 Montagem do calibrador de pressão de vedação .................................................... 29  
+Fig. 7-7 Ajuste dos parafusos de travamento .......................................................... ............. 30  
+Fig. 8-1 Vão de abertura da porta .................................................................... .................... 32  
+Fig. 9-1 Fixação do “Bowden Cable” no mecanismo de porta .............................................. 33  
+Fig. 9-2 Montagem do dispositivo de serviço .......................................................... ............. 34  
+Fig. 10-1 Fixação do “Bowden Cable” no mecanismo de porta ............................................ 35  
+Fig. 10-2 Montagem do dispositivo de emergência ...................................................... ........ 36  
+Fig. 10-3 Instalação do cabo Bowden .................................................................. ................ 37  
+ 

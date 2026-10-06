@@ -1,0 +1,145 @@
+=========================================
+MANUAL: tds_silikonpaste_p.pdf
+=========================================
+
+--- tds_silikonpaste_p.pdf | PÁGINA 1 ---
+ 
+   
+ 
+ Technical data sheet for  WACKER® SILICONE PASTE P / Version: 1.2 / Date of last alteration: 12.06.2012  1 / 2 
+ 
+Product description 
+ 
+WACKER® SILICONE PASTE P  is a translucent, 
+vaseline-like, relatively stiff, waterrepellent paste. 
+WACKER® SILICONE PASTE P  becomes softer 
+when subjected to shear stress or other mechanical 
+stress such as kneading, which in many instances 
+makes processing easier. 
+The pasty consistency is litt le affected by changes in 
+temperature. The components of Paste P are on the 
+positive lists of the following Regulations for food 
+contact: Regulation (EU) No. 10/2011, 
+Recommendation XV. Silicones of the BfR (Federal 
+Institute for Risk Assessment) and the FDA Code of 
+Federal Regulations Title 21 §175.3570 Lubricants 
+with Incidental Food Contact.  
+ 
+ 
+Application 
+ 
+Assembly aid and lubricant for elastomers, especially 
+O-rings. 
+ 
+WACKER® SILICONE PASTE P is easy to apply. 
+There is no dripping as when using oil. Larger parts 
+are greased with the pure paste by hand or with a 
+brush; smaller parts in large quantities are put into a 
+plastic bag with some paste and kneaded until the 
+paste has been distributed over their surfaces. 
+ 
+Silicon pastes have only a slight swelling effect on 
+most organic elastomers. For lubricating purposes and 
+as assembly aid for materials with critical swelling 
+characteristics we would, however, recommend using 
+silicone products such as WACKER®POWERSIL® 
+PASTE AP or WACKER®POWERSIL® PASTE AF. 
+ 
+Heat-resistance  release agent for 
+ 
+- extruder die rings 
+- slightly porous surfaces of moulds for demoulding 
+   rubber and plastics mouldings and cast resin parts 
+- heat-sealing instruments such as used for 
+   Packaging Film, where a thin film of 
+   WACKER® SILICONE PASTE P applied to the 
+   welding bars prevents sticking  
+ 
+ 
+Storage 
+ 
+The 'Best use before end' date of each batch is shown 
+on the product label. 
+ 
+Storage beyond the date specified on the label does 
+not necessarily mean that the product is no longer 
+usable. In this case however, the properties required 
+for the intended use must be checked for quality 
+assurance reasons.  
+ 
+Safety notes 
+ 
+Comprehensive instructions are given in the 
+corresponding Material Safety Data Sheets. They are 
+available on request from WACKER subsidiaries or 
+may be printed via WACKER web site 
+http://www.wacker.com.  
+  
+ 
+WACKER® SILICONE PASTE P  
+SILICONE PASTE 
+ 
+
+--- tds_silikonpaste_p.pdf | PÁGINA 2 ---
+ 
+ 
+ 
+ Technical data sheet for  WACKER® SILICONE PASTE P / Version: 1.2 / Date of last alteration: 12.06.2012  2 / 2 
+ 
+ 
+Product data    
+  
+Typical general characteristics Inspection Method Value 
+Color   colorless, opaque   
+Density at 25 °C  DIN 51757 approx. 1 g/cm³ 
+Consistency a) unworked penetration DIN ISO 2137 180 - 220 1/10 mm   
+Consistency b) worked penetration (60 strokes) DIN ISO 2137 > 250 1/10 mm   
+Solidifying point   approx.  -45 °C  
+Operating temperature range   -40 to +200°C   
+Volatiles  FED-STD 791 M 321; 
+30h/200°C 
+max. 2 %  
+Bleeding  FED-STD 791 M 321; 
+30h/200°C 
+max. 8 %  
+Dielectric strength   IEC 60243 20  kV/mm 
+Dielectric Constant (50 Hz)   IEC 60250 2,8  εr 
+Dissipation Factor (50 Hz)  IEC 60250 5 x 10 -4   
+Insoluble in   water, methanol, ethanol, 
+glycerol, glycol   
+Soluble or dispersible in   methylene chloride, 
+benzine, white spirit, 
+petroleum ether, toluene, 
+kerosene, ethyl acetate etc.
+ 
+These figures are only intended as a guide and should not be used in preparing specifications.  
+ 
+The data presented in this leaflet are in accordance with the present state of 
+our knowledge, but do not absolve the user from carefully checking all 
+supplies immediately on receipt. We reserve the right to alter product 
+constants within the scope of technical progress or new developments. The 
+recommendations made in this leaflet should be checked by preliminary 
+trials because of conditions during processing over which we have no 
+control, especially where other companies' raw materials are also being 
+used. The recommendations do not absolve the user from the obligation of 
+investigating the possibility of infringement of third parties' rights and, if 
+necessary, clarifying the position. Recommendations for use do not 
+constitute a warranty, either express or implied, of the fitness or suitability of 
+the products for a particular purpose. 
+The management system has been 
+certified according to DIN EN ISO 
+9001 and DIN EN ISO 14001 
+ 
+WACKER is a trademark of  Wacker 
+Chemie AG. 
+ 
+ 
+For technical, quality, or product 
+safety questions, please contact:  
+ 
+Wacker Chemie AG 
+Hanns-Seidel-Platz 4 
+81737 München, Germany 
+info.silicones@wacker.com  
+ 
+www.wacker.com  

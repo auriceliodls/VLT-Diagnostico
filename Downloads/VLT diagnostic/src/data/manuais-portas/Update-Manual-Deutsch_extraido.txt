@@ -1,0 +1,700 @@
+=========================================
+MANUAL: Update-Manual-Deutsch.pdf
+=========================================
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 1 ---
+ 
+ 
+Änderung 
+00 
+erstellt 
+Kremser M. 
+02.10.2019 
+geprüft 
+Lanzenbacher F. 
+02.10.2019 
+freigegeben 
+Zöchmann M. 
+02.10.2019 
+Seitenanzahl 
+22 
+Seite 
+1 
+ 
+Division of KNORR -BREMSE GmbH • 33.a Stra ße 1 • A - 3331 Kematen/Ybbs  
+ 
+Dokumentations-Nr.: 
+E403420P64_DE 
+ 
+ 
+Division of KNORR-BREMSE GmbH • 33.a Straße 1 • A - 3331 Kematen/Ybbs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Software Benutzerhandbuch 
+IFE-Update 6.4 
+ 
+Alle Rechte vorbehalten. Ohne Erlaubnis des Herstellers darf kein Teil dieses Dokuments in irgendeiner 
+Form reproduziert werden. Wed er elektronisch noch drucktechnisch (dies beinhaltet auch fotokopieren, 
+Aufzeichnen auf jegliche Datenträger oder Aufbereitung durch Widerherstellungssysteme).  
+ 
+Produkte, auf die in diesem Dokument verwiesen werden sind entweder Markenprodukte und/oder 
+registrierte Warenzeichen des jeweiligen Herstellers. 
+ 
+Obwohl alle Vorkehrungen in der Vorbereitung dieses Dokuments getroffen worden sind, übernimmt der 
+Herausgeber und Autor keine Verantwortung auf Fehler, Unvollständigkeit oder Schäden resultierend 
+aufgrund von Informationen aus diesem Dokument od. Verwendung des Programms. Der Herausgeber und 
+Autor haftet auf keinen Fall für Verlust von Gewinn oder andere kommerzielle Schäden verursacht oder 
+vermeintlich verursacht (direkt od. indirekt) durch dieses Dokument. 
+ 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 2 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 2/22 
+ 
+Inhaltsverzeichnis 
+ 
+Inhalt Seite 
+1 Einführung ...................................................................................................................................................... 3 
+1.1 Spezielle Definitionen und Abkürzungen .............................................................................................. 3 
+1.2 Funktionsmerkmale ............................................................................................................................... 3 
+1.3 Minimale Systemvoraussetzung ........................................................................................................... 3 
+1.4 Netzwerk Voraussetzungen .................................................................................................................. 4 
+2 Installationsanleitung .................................................................................................................................... 6 
+3 Bedienungsanleitung .................................................................................................................................... 7 
+3.1 Hauptfenster.......................................................................................................................................... 7 
+3.2 Verbindungsdialog .............................................................................................................................. 10 
+3.2.1 Ethernet ................................................................................................................................... 10 
+3.2.2 Serielle Schnittstelle (RS232 / COM) ........................................................................................ 11 
+3.2.3 HTTP ......................................................................................................................................... 11 
+3.3 Verwendung des Boot Strap Loaders (MDC und PMC) ..................................................................... 11 
+3.4 Einstellungen Dialog ........................................................................................................................... 12 
+3.4.1 Ethernet ................................................................................................................................... 12 
+3.4.2 Serielle Schnittstelle ................................................................................................................. 14 
+3.4.3 Verbindungseinstellungen ....................................................................................................... 15 
+3.4.4 Datenerhalt .............................................................................................................................. 15 
+3.4.5 Sprache ..................................................................................................................................... 16 
+3.4.6 Tools ......................................................................................................................................... 17 
+3.5 Log-Datei Dialog ................................................................................................................................. 17 
+3.6 Kommandozeilenschnittstelle ............................................................................................................. 18 
+4 Fehlerursachen und Fehlerbehebung ....................................................................................................... 20 
+4.1 Verbindung zu einem Türsteuergerät kann nicht hergestellt werden ................................................. 20 
+4.2 KCF Datei kann nicht erzeugt werden ................................................................................................ 20 
+4.3 Die Softwareübertragung ist fehlgeschlagen (falsche Prüfsumme und/oder Softwarev ersion, 
+Zeitüberschreitung der Programmierung) ................................................................................................. 20 
+4.4 Kommandozeilenaufruf funktioniert nicht ............................................................................................ 21 
+A Änderungshistorie ..................................................................................................................................... 22 
+ 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 3 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 3/22 
+ 
+1 Einführung 
+IFE-Update 6.4 ist eine Software von Knorr Bremse, Division IFE, welche zum Überspielen von Software auf 
+die Türsteuergeräte verwendet wird. Die graphische Benutzeroberfläche unterstützt dabei diesen Vorgang 
+und zeigt alle nötigen Informationen über die Programmdatei und die Verbindung zum Türsteuergerät an.  
+1.1 Spezielle Definitionen und Abkürzungen 
+DCU Door Control Unit; Türsteuerung 
+PMC Programmable motor control; 
+Programmierbare Motor-Steuerung 
+KCF Knorr Container File 
+ETH Ethernet 
+TFTP Trivial File Transfer Protocol 
+HTTP Hypertext Transfer Protocol 
+TCP Transmission Control Protocol 
+IP Internet Protocol 
+{Inatallationspfad} Eine Abkürzung für den Installationspfad von 
+IFE-Update 6.4 
+1.2 Funktionsmerkmale 
+Die folgende Auflistung zeigt die Funktionsmerkmale von IFE-Update 6.4. 
+• Die Suche nach angeschlossenen Türsteuergeräten mit ETH bzw. der seriellen Schnittstelle 
+und die Anzeige derer Informationen. 
+• Öffnen der Türsteuergerätsoftwaredatei, Überprüfung des Inhaltes und Anzeige der 
+wichtigsten Informationen (z.B. Softwareversion, Prüfsumme) 
+• Übertragung neuer oder modifizierter Türsteuergerätsoftware in die ausgewählten Geräte. 
+• Einfügen einer Türsteuersoftware-Binärdatei in eine KCF Datei (nicht für FLEX DCU 
+unterstützt). 
+• Extrahieren von Türsteuersoftware-Binärdateien aus einer KCF Datei (nicht für FLEX DCU 
+unterstützt) 
+• Gleichzeitige Softwareübertragung auf mehrere Türsteuergeräte über Ethernet (TFTP, http 
+(TCP/IP)) oder die serielle Schnittstelle. 
+• Die Kommandozeilenschnittstelle von IFE-Update 6.4 ermöglicht die Einbindungen in andere 
+Software bzw. Batch-Dateien. 
+• Überprüfung auf Änderung der geöffneten KCF Datei durch andere Programme.  
+1.3 Minimale Systemvoraussetzung 
+Um IFE-Update 6.4 installieren und betreiben zu können sind folgende Anforderungen an die PC 
+Hard- und Software nötig: 
+ 
+Getestete Betriebssysteme Windows 7, Windows 10 
+Abhängigkeiten Microsoft .NET Framework 4.6 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 4 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 4/22 
+ 
+Festplattenspeicher 10MB benötigt (wenn das .NET Framework 4.6 bereits installiert ist) 
+Arbeitsspeicher 40MB benötigt von IFE-Update 6.4 
+Schnittstellen Eine LAN und/oder W-LAN Verbindung für die netzwerkbasierte 
+Softwareübertragung auf die Türsteuergeräte. 
+Eine RS232(COM) Schnittstelle oder einen USB zu RS232 
+Umsetzer (getestet mit ROLINE USB to Serial Converter 
+12.02.1089RW; andere Typen funktionieren möglicherweise auch). 
+Netzwerk-Konfiguration Folgende Dienste und Kommunikations-Ports dürfen von keiner Art 
+von Firewall blockiert werden (Service PC, Netzwerk-Geräte, …): 
++ UDP-Port   18756  (Info Dienst für IFE-Update) 
++ UDP-Port      69 (TFTP Protokoll) 
+ 
+Achtung: 
+Gibt es keinen aktiven DHCP Server im Netzwerk, welcher IP-Adressen an alle Netzwerkgeräte 
+vergibt, muss eine statische IP-Adresse am Service-Gerät (PC/Laptop) konfiguriert werden, damit eine 
+Verbindung zu einer DCU aufgebaut werden kann. Die DCUs selbst werden automatisch mit 
+projektspezifischen, statischen IPs konfiguriert. Um eine Kommunikation zu ermöglichen muss sich die 
+IP des Service-PCs im selben Subnetz-Adressbereich der DCUs befinden. Die Konfiguration einer 
+statischen IP-Adresse ist bei vielen Systemen unterschiedlich und wird deshalb nicht in diesem 
+Dokument behandelt. Kontaktieren Sie dafür ihre lokale IT-Abteilung. 
+1.4 Netzwerk Voraussetzungen 
+Zum Hochladen der Software (Kapitel 3.2) via Ethernet (TFTP oder HTTP) ist es notwendig, dass die 
+DCU mit einem Ethernet-Netzwerk oder direkt mit einem Service-PC verbunden wird. Verwendet wird 
+dazu auf Seiten der DCU der eingebaute M12-Stecker. 
+ 
+Abbildung 1 Männlicher M12-Stecker 
+ 
+Abbildung 2 Runder 4 Pin M12-Stecker (Front-Ansicht) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabelle 1 Pin-Zuweisung des M12 Ethernet-Rundsteckers 
+Signal Function Pin number 
+TD+ Daten-Sendleitung + 1 
+RD+ Daten-Empfangsleitung + 2 
+TD- Daten-Sendeleitung - 3 
+RD- Daten-Empfangsleitung - 4 
+ 
+Die IP Adressen, die von den DCUs benutzt werden, dürfen nicht von der Netzwerk-Infrastruktur 
+blockiert werden. Außerdem dürfen folgende Kommunikations-Ports ebenfalls nicht blockiert werden: 
++ UDP-Port   18756  (Info-Dienst für IFE-Update) 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 5 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 5/22 
+ 
++ UDP-Port      69  (TFTP Protokoll) 
+Für Informationen über diese Konfigurationen kontaktieren Sie bitte ihre lokale IT -Abteilung. 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 6 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 6/22 
+ 
+2 Installationsanleitung 
+ 
+Abbildung 3: IFE-Update Setup Assistent 
+IFE-Update 6.4 wird mit einem Standard-Setup (IFEUpdate6.4-Setup.exe) ausgeliefert und kann damit 
+einfach auf einem PC installiert werden. Dieser muss die im Abschnitt 1.3 angeführten minimalen 
+Systemanforderungen erfüllen. Für die Installation IFE-Update 6.4 bitte folgende Anweisungsliste befolgen: 
+1. Starten sie die Setup-Datei IFEUpdate6.4-Setup.exe 
+2. Wählen sie die bevorzugte Sprache für das Setup und die IFE-Update Benutzeroberfläche aus. 
+3. IFE-Update 6.4 benötigt das Microsoft .NET Framework 4.6. Das Setup überprüft selbstständig ob 
+das .NET Framework 4.6 auf ihrem System vorhanden ist. Ist es nicht vorhanden, versucht es die 
+.NET Installationsdatei (wenn vorhanden) vom Setup Verzeichnis zu starten und zu installieren. Ist 
+dies nicht möglich, schließt sich das Setup selbstständig. 
+4. Befolgen sie die Anweisungen des Setup Assistenten (siehe Abbildung 3). 
+5. Der Setup Assistent beendet die Installation mit einer Meldung über die erfolgreiche Installation.  
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 7 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 7/22 
+ 
+3 Bedienungsanleitung 
+Dieser Abschnitt behandelt die Verwendung von IFE-Update 6.4 und die vorhandenen Features. Die 
+Hauptfunktion von IFE-Update 6.4 ist die Übertragung einer Türsteuergerätsoftware in ein Türsteuergerät 
+(DCU). Dies wird mit folgenden Schritten erreicht: 
+1. Öffnen sie IFE-Update 6.4 mit dem Symbol am Desktop oder über den Start-Menü Eintrag in 
+Windows. 
+2. Öffnen sie die zu überspielende Datei (*.kcf) mit der Türsteuergerätsoftware über das Menü, dem 
+Symbol in der Symbolleiste (siehe Abbildung 4) oder durch Ziehen der Datei aus dem Explorer in 
+das IFE-Update 6.4 Fenster. 
+3. Verbinden sie sich mit dem Türsteuergerät mit den Menüeintrag Aktion→Verbinden … (siehe 
+Kapitel 3.2). Wurde das Türsteuergerät gefunden (bzw. mehrere Türsteuergeräte), wird es in der 
+DCU Auflistung angezeigt. 
+4. Haken sie diejenigen Türsteuergeräte in der Liste an, auf die die neue Türsteuergerätsoftware 
+übertragen werden soll. 
+5. Mit dem Menüpunkt Aktion→Datei übertragen … wird nun die Softwareübertragung gestartet. Der 
+Fortschritt der Übertragung ist in der Statusanzeige der Türsteuergeräte sichtbar.  
+6. Nachdem die Übertragung fertig ist überprüfen sie, ob die Softwareversion und Prüf summe der 
+Türsteuergeräte mit der Softwareversion und Prüfsumme der KCF Datei übereinstimmt. Die 
+Übereinstimmung wird durch einen grünen Hintergrund der Felder in der DCU Auflistung angezeigt 
+(siehe Abbildung 5). 
+3.1 Hauptfenster 
+ 
+Abbildung 4: Das Hauptfenster von IFE-Update; TFTP Übertragung ist im Gange 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 8 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 8/22 
+ 
+ 
+Abbildung 5: Das Hauptfenster von IFE-Update; Softwareübertragung und -aktualisierung war erfolgreich 
+Das Hauptfenster von IFE-Update 6.4 ist in Abbildung 4 dargestellt und ist wie folgt gegliedert (von 
+oben nach unten): 
+• Das Hauptmenü von IFE-Update 6.4 (die Tastenkürzel für die vorhandenen Befehle können 
+den Menüeinträgen entnommen werden). 
+• Die Werkzeugliste beinhaltet die am häufigsten benötigten Funktonen (von links nach rechts: 
+Datei öffnen, Übertragung starten, alle TFTP Übertragungen stoppen, Verbindung herstellen, 
+Verbindung trennen). 
+• Dateiinhalt: Diese Auflistung beinhaltet alle in der geöffneten KCF Datei enthaltenen Blöcke. 
+Normalerweise ist ein Block mit der Türsteuergerätsoftware vorhanden. 
+• DCU-Auflistung: Diese Tabelle zeigt alle Türsteuergeräte an, die gefunden wurden. Dabei ist 
+das Ergebnis der Suche von den angegebenen Verbindungsparameter abhängig (siehe 
+Statuszeile am unteren Ende des Fensters). 
+• Statuszeile: Die aktuellen Verbindungsparameter werden in dieser Zeile angezeigt.  
+Der aktuelle Status der einzelnen Türsteuergeräte ist in der DCU-Auflistung (vgl. Abbildung 5) 
+ersichtlich. Dabei werden die folgenden Zustände des Türsteuergerätes angezeigt: 
+• Verbinde …: IFE-Update 6.4 versucht über die serielle Schnittstelle eine Verbindung mit dem 
+Türsteuergerät aufzubauen. 
+• TST ausschalten (warte 5s): IFE-Update 6.4 versucht einen Neustart der Türsteuerung mit 
+Hilfe des Benutzers zu bewirken. Bei dieser Meldung schalten sie die Türsteuerung innerhalb 
+von 5 Sekunden aus. 
+• TST einschalten (warte 5s): IFE-Update 6.4 versucht einen Neustart der Türsteuerung mit 
+Hilfe des Benutzers zu bewirken. Bei dieser Meldung schalten sie die Türsteuerung innerhalb 
+von 5 Sekunden ein. 
+• Starte Softwareloader: Der Softwareloader wird auf dem Türsteuergerät aktiviert, damit die 
+Softwareübertragung über die serielle Schnittstelle durchgeführt werden kann.  
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 9 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 9/22 
+ 
+• Bereit: Das Türsteuergerät ist bereit und wartet auf neue Anweisungen. 
+• Unbekannt: Das Türsteuergerät befindet sich in einem unbekannten Status. Ein Neustart der 
+des Türsteuergerätes und eine erneute Verbindung könnten das Problem lösen.  
+• Datei Übertragung …: Die Softwareübertragung über TFTP/HTTP ist im Gange. 
+• Übertragung …: Die Softwareübertragung über die serielle Schnittstelle ist im Gange. 
+• Lösche Speicher: Der Programmspeicher des Türsteuergerätes wird gelöscht. 
+• Aktiviere Programmierung: Der Befehl für die Aktivierung des Programmiervorganges wird 
+über ETH an das Türsteuergerät gesendet. 
+• Programmiere …: Das Türsteuergerät überträgt die neue Software in den Programmspeicher 
+und startet anschließend neu. Während dem Programmiervorgang ist das Türsteuergerät über 
+Ethernet nicht erreichbar. Antwortet die Steuerung innerhalb des Programmiervorgang 
+Zeitlimits (siehe 3.4.2) nicht, wird dies durch die Meldung Zeitüberschreitung 
+Programmierung angezeigt. 
+• Verbindungsproblem: Die Verbindung zum Türsteuergerät wurde unterbrochen. Ein erneuter 
+Verbindungsaufbau könnte das Problem beheben. 
+• Türsteuerung Neustart: Die Softwareübertragung über die serielle Schnittstelle wurde 
+erfolgreich abgeschlossen und der Befehl für den Neustart an die Türsteuerung übertragen.  
+• Software-Version Grün/Rot: Die Hintergrundfarbe ROT des Software-Version Feldes zeigt 
+an, dass die Software-Version des Türsteuergerätes mit der Software-Version der zu 
+überspielenden Datei nicht übereinstimmt. GRÜN hingegen zeigt eine Übereinstimmung an 
+und bestätigt, dass am Türsteuergerät dieselbe Softwareversion läuft. 
+• Prüfsumme Grün/Rot: Die Hintergrundfarbe ROT des Prüfsummenfeldes zeigt an, dass die 
+Prüfsumme des Türsteuergerätes mit der Prüfsumme der zu überspielenden Datei nicht 
+übereinstimmt. GRÜN hingegen zeigt eine Übereinstimmung an und bestätigt, dass am 
+Türsteuergerät dieselbe Softwareversion läuft. 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 10 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 10/22 
+ 
+3.2 Verbindungsdialog 
+ 
+Abbildung 6: Verbindungsdialog zur Konfiguration der Ethernet-Verbindung. 
+Mit dem Menüeintrag Aktion→Verbinden … oder dem Symbol in der Werkzeugliste (siehe Abbildung 
+4) wird der Verbindungsdialog in Abbildung 6 geöffnet. Der Dialog bietet eine Auswahl an 
+unterschiedlichen Verbindungsmöglichkeiten zu den Türsteuergeräten an. 
+3.2.1 Ethernet 
+Hinweis: 
+Die Erfüllung der Systemvoraussetzungen aus Kapitel 1.3 (“Netzwerk-Konfiguration“) ist wichtig für 
+einen erfolgreichen Verbindungsaufbau und sollte überprüft werden, wenn Fehler auftreten.  
+ 
+Broadcast: Um alle Geräte, die mit dem derzeitigen Netzwerk verbunden sind, zu finden ohne eine 
+IP-Adresse einzugeben, kann die Option Alle Geräte ausgewählt werden. Dabei werden Broadcast-
+Nachrichten an alle Netzwerkgeräte gesendet mit der Anfrage, Informationen über die Türst euerung 
+zurückzusenden. Geräte, die keine Türsteuerungen sind (PCs, Laptops, …) ignorieren diese 
+Nachrichten. 
+Damit diese Methode funktioniert, müssen ausgehende Broadcast-Nachrichten einerseits von der 
+Netzwerk-Infrastruktur unterstützt werden und dürfen andererseits nicht von der Firewall des Service-
+Computers (Kapitel 1.3) blockiert werden. 
+Unicast: Um sich mit bestimmten Türsteuerungen mit einer bekannten IP-Adresse zu verbinden, kann 
+die Option Benutzerdefiniert verwendet werden. Das Eingabefeld kann mit mehreren Einträgen 
+befüllt werden, welche mit dem Zeichen „;“ voneinander getrennt werden. Ein solcher Eintrag kann 
+entweder eine einzelne IP-Adresse sein, oder ein Bereich von IP-Adressen (zwei IP-Adressen, die mit 
+„-“ getrennt werden). Ein Beispiel für eine gültige Eingabe befindet sich unter dem Eingabefeld. Um die 
+Benutzbarkeit zu erhöhen, werden die zuletzt benutzten Verbindungseinstellungen gespeichert und 
+können aus einer Liste ausgewählt werden. 
+Vorsicht: Werden sehr große Bereiche von IP-Adressen (z.B. mehr als 1000) verwendet, verlangsamt 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 11 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 11/22 
+ 
+sich dadurch die Programmausführung deutlich, weil viele unicast Nachrichten separat gesendet 
+werden müssen, wohingegen ein Broadcast die Netzwerk-Infrastruktur effektiv ausnutzen kann.   
+3.2.2 Serielle Schnittstelle (RS232 / COM) 
+IFE-Update 6.4 bietet auch die Funktion der Softwareübertragung über die RS232(COM) serielle 
+Schnittstelle. Für den Verbindungsaufbau wählen Sie den entsprechenden DCU Typ  und die 
+entsprechende Schnittstelle aus, wobei in der Auflistung die verwendbaren Schnittstellen angeführt 
+sind.  
+3.2.3 HTTP 
+Eine ähnliche Funktionalität wie die unicast Ethernet-Verbindung wird durch die HTTP-Option 
+geboten. Zur Eingabe der IP-Adressen wird dasselbe Text-Format verwendet (siehe Kapitel 3.2.1). 
+Diese Verbindungsoption kann notwendig sein, wenn das Netzwerk keine TFTP -Uploads unterstützt, 
+sondern nur TCP/IP-Kommunikation. Ein Broadcast an alle verfügbaren Geräte ist mi t dieser Technik 
+nicht möglich. Es müssen einzelne IP-Adressen oder Adress-Bereiche eingegeben werden. Zusätzlich 
+zur Adresse muss ein Port eingegeben werden. Der Standard-Port für http-Kommunikation ist 80, 
+kann sich aber in verschiedenen Projekten unterscheiden. Weiters müssen ein Benutzername und ein 
+Passwort zur Authentifizierung eingegeben werden. Schlägt die Authentifizierung fehl, wird die 
+Türsteuerung nicht in der Liste der verfügbaren Geräte angezeigt. Wenn keine Authentifizierung nötig 
+ist, können die Felder für Benutzername und Passwort freigelassen werden. Alle benötigten 
+Informationen können aus dem Webserver-Beschreibungsdokument des Projektes entnommen 
+werden. 
+Vorsicht: Dieselben Einschränkungen für große IP-Adressbereiche, die auch bei der Ethernet unicast 
+Verbindung gelten, gelten auch für die HTTP-Verbindung. 
+ 
+Mit der Schaltfläche Verbinden kann nun die Verbindung aufgebaut werden. 
+3.3 Verwendung des Boot Strap Loaders (MDC und PMC) 
+Wenn eine ungültige oder beschädigte Software am Türsteuergerät läuft kann durch anhaken des 
+BSL der Boot Strap Loader aktiviert werden. Im Falle eines älteren Türsteuergerätes muss eventuell 
+ein Jumper in der Hardware gesetzt werden, um den BSL zu aktivieren. Bei den MDC 
+Türsteuergeräten wird der BSL über die serielle Schnittstelle durch IFE-Update 6.4 aktiviert. 
+Der Boot Strap Loader ist ein fixer Bestandteil des Türsteuergerätes und ermöglicht eine 
+Softwareübertragung, wenn einer der folgenden Ereignisse eingetreten ist und eine normale 
+Softwareübertragung nicht mehr funktioniert: 
+• Das Türsteuergerät ist neu und die erste Softwareübertragung wird durchgeführt 
+(normalerweise vom Hersteller). 
+• Die Software im Speicher des Türsteuergerätes ist durch eine Unterbrechung des 
+Programmiervorganges mit IFE-Update 6.4 (oder früherer Version) beschädigt oder ein 
+Problem in der Software verhindert einen Verbindungsaufbau mit IFE-Update 6.4. Einige 
+Gründe für eine beschädigte Software sind in der folgenden Auflistung angeführt und sollten 
+vermieden werden: 
+o Unterbrechung der RS232(COM) Verbindung während des Programmiervorganges  
+o Unterbrechung der Stromversorgung des Türsteuergerätes während des 
+Programmiervorganges 
+o Eine beschädigte oder falsche Datei mit der Software wurde in das Türsteuergerät 
+übertragen. 
+o Die überspielte Software passt nicht zum Typ des Türsteuergerätes. 
+Der Boot Strap Loader kann mit der RS232(COM) seriellen Schnittstelle verwendet werden. Der 
+Ablauf der Boot Strap Loader Aktivierung ist vom Typ der Türsteuerung abhängig:  
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 12 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 12/22 
+ 
+• FLEX: 
+o Die FLEX DCU unterstützt den Boot Strap Loader Mechanismus nicht! 
+• MDC: 
+o Setzen sie das Häkchen verwende BSL im Verbindungsdialog (siehe 3.2.2), wählen 
+sie die entsprechende RS232(COM) serielle Schnittstelle und drücken sie auf 
+Verbinden. 
+o Schalten sie die Stromversorgung des Türsteuergerätes AUS (wenn nicht bereits 
+geschehen). Dieser Hinweis wird auch im Statusfeld in der Türsteuergeräteauflistung 
+angezeigt. 
+o Schalten sie die Stromversorgung des Türsteuergerätes EIN. Dieser Hinweis wird 
+auch im Statusfeld in der Türsteuergeräteauflistung angezeigt. 
+o Der Boot Strap Loader sollte nun aktiv sein und die Verbindung zum Türsteuergerät 
+wird hergestellt. Die Softwareübertragung kann wie gewohnt durchgeführt werden. 
+• PMC: 
+Einige der PMC Türsteuergerät Typen besitzen keinen Boot Strap Loader. Bei den anderen 
+PMC Typen kann der Boot Strap Loader durch einen Jumper in der Elektronik aktiviert 
+werden. In beiden Fällen fordern sie Unterstützung von IFE an. 
+3.4 Einstellungen Dialog 
+Benutzen Sie den Menü-Eintrag Aktion→Einstellungen… des Hauptfensters, um den Dialog, der in 
+Abbildung 7 zu sehen ist, aufzurufen. Dort können unter anderem die Parameter der Applikation und 
+die Sprache angepasst werden. Diese Einstellungen werden in der Datei 
+{Inatallationspfad}\update.ini gespeichert. 
+3.4.1 Ethernet 
+ 
+Abbildung 7: IFE-Update Einstellungen Dialog – Ethernet-Einstellungen 
+ 
+DCU lebendig ohne Antwort Dauer Wenn IFE-Update 6.4 innerhalb dieser Zeitdauer keine 
+Antwort vom Türsteuergerät bekommt, wird davon ausgegangen, 
+dass das Gerät kein aktiver Teilnehmer am Netzwerk ist und somit 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 13 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 13/22 
+ 
+von der DCU-Auflistung entfernt wird. Die Zeitdauer wird in 
+Millisekunden angegeben. 
+Programmiervorgang Zeitbeschränkung Während das Türsteuergerät die neue Software in 
+den internen Programmspeicher überträgt ist eine 
+Ethernetverbindung nicht möglich. Wird die hier angegebene 
+Zeitdauer, welche etwas länger ist als die maximale 
+Programmierdauer ist, überschritten, wird davon ausgegangen, dass 
+beim Türsteuergerät ein unbekanntes Problem vorliegt. 
+ 
+TFTP 
+Max. TFTP Übertragungen gleichzeitig  Mit diesem Parameter können die maximale Anzahl 
+an gleichzeitigen Softwareübertragungen festgelegt werden. Durch 
+eine Erhöhung des Wertes kann die Softwareübertragung auf eine 
+Vielzahl von Türsteuergeräten beschleunigt werden. 
+DCU Suchintervall Intervall in Millisekunden mit dem die Suche nach den 
+Türsteuergeräten wiederholt wird. Wenn die Netzwerkverbindung 
+sehr langsam ist und die Geräte nicht gefunden werden, kann dieser 
+Parameter erhöht werden. 
+HTTP 
+Max. parallele HTTP-Uploads Mit diesem Parameter können die maximale Anzahl an 
+gleichzeitigen Softwareübertragungen festgelegt werden. Durch eine 
+Erhöhung des Wertes kann die Softwareübertragung auf eine 
+Vielzahl von Türsteuergeräten beschleunigt werden. 
+DCU Suchintervall Intervall in Millisekunden mit dem die Suche nach den 
+Türsteuergeräten wiederholt wird. Wenn die Netzwerkverbindung 
+sehr langsam ist und die Geräte nicht gefunden werden, kann dieser 
+Parameter erhöht werden. 
+Max. parallele HTTP Anfragen The maximale Anzahl an parallelen Anfragen, die während eines 
+Suchintervalls ausgesendet werden. Bei PCs/Laptops mit geringer 
+Leistung kann sich eine Erhöhung dieses Wertes negativ auf die 
+Applikationsgeschwindigkeit auswirken, weshalb eine Erhöhung nur 
+in kleinen Maßen durchgeführt werden sollte. Wenn die Anzahl an 
+IP-Adressen, die sich im angegebenen Such-Bereich befinden, 
+größer ist als diese Einstellung, wird ein Fehler angezeigt bevor eine 
+Verbindung zu den DCUs erfolgen kann. 
+ 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 14 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 14/22 
+ 
+3.4.2 Serielle Schnittstelle 
+ 
+Abbildung 8: IFE-Update Einstellungen Dialog – Serielle Einstellungen 
+ 
+Zeitüberschreitung Programmierung Während das Türsteuergerät die neue Software in den 
+internen Programmspeicher überträgt (nach dem Hochladen über 
+die serielle Schnittstelle) ist eine Ethernet-Verbindung nicht möglich. 
+Wird die hier angegebene Zeitdauer, welche etwas länger ist als die 
+maximale Programmierdauer ist, überschritten, wird davon 
+ausgegangen, dass beim Türsteuergerät ein unbekanntes Problem 
+vorliegt. 
+Verwende Boost Mode für RS232 Übertragung : Ab IFE-Update 6.4 steht ein neuer Bootloader zur 
+Verfügung, der den Software Upload für manche Türsteuerung über 
+die serielle Schnittstelle wesentlich beschleunigt. Falls Probleme 
+auftreten sollten, kann diese Option deaktiviert und der Software 
+Upload erneut versucht werden. 
+ 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 15 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 15/22 
+ 
+3.4.3 Verbindungseinstellungen 
+ 
+Abbildung 9: IFE-Update Einstellungen Dialog – Verbindungseinstellungen 
+ 
+Verbindungsvoreinstellungen Mit CONN1, CONN2, CONN3 und CONN4 können häufig benötigte 
+Verbindungen voreingestellt werden. Später kann über die 
+Kommandozeile oder den Verbindungsdialog mit CONN1, CONN2, 
+CONN3 bzw. CONN4 die voreingestellte Verbindung ausgewählt 
+werden. 
+ 
+3.4.4 Datenerhalt 
+ 
+Abbildung 10: IFE-Update Einstellungen Dialog – Datenerhalt-Einstellungen 
+ 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 16 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 16/22 
+ 
+Datenerhalt  Bei einem FLEX Türsteuergerät kann die Option „Erzwinge Update 
+aller Komponenten“ ausgewählt werden. Dieser Modus erzwingt ein 
+Softwareupdate auch von kritischen Komponenten (z.B. Bootloader) 
+wodurch bei Spannungsverlust die Türsteuerung funktionslos wird 
+und nur durch den Hersteller wiederinstandgesetzt werden kann. 
+Dieser Update Modus ist nur zum Neuprogrammieren von 
+Speicherkomponenten mit begrenzter Datenerhaltung zu verwenden 
+(Stichwort „Data Retention“). 
+ 
+3.4.5 Sprache 
+ 
+Abbildung 11: IFE-Update Einstellungen Dialog – Sprach-Einstellungen 
+ 
+Verwendete Sprache Damit kann die Sprache der Bedienoberfläche festgelegt werden. 
+Unicode <-> Ascii Tool Werden in eines der beiden Eingabefelder Zeichen eingegeben, 
+werden diese im anderen Feld in das entsprechende Zeichenformat 
+konvertiert. Dabei ist eine Konvertierung in beide Richtungen 
+möglich. 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 17 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 17/22 
+ 
+3.4.6 Tools 
+ 
+Abbildung 12: IFE-Update Einstellungen Dialog – Tools 
+Diese Einstellungs-Seite kann verwendet werden um Schnellzugriffe einzurichten, mit denen 
+Programme für die ausgewählte DCU gestartet werden können. Dabei ist auch die Verwendung von 
+Kommandozeilenparametern möglich. Das zu startende Programm muss jedoch bereits am System 
+installiert sein. Gestartet können diese Programme über den Menüpunkt „Extras“ i n der 
+Werkzeugleiste des Hauptfensters. 
+Titel: Gibt den Namen des Schnellzugriffes in der „Extras“ Menü-Liste an   
+Programm: Gibt den Namen des zu startenden Programmes an 
+Argumente: Kommandozeilenparameter, die beim Start des Programmes übergeben werden  
+3.5 Log-Datei Dialog 
+ 
+Abbildung 13: Log-Datei Dialog 
+IFE-Update 6.4 zeichnet während dem Betrieb alle wichtigen Aktionen vom Benutzer, von den 
+Türsteuergeräten und von sich selbst auf und speichert die Informationen in der Log -Datei 
+{Installationspfad}\Update.log ab. Mit dem Menüeintrag Datei→Log-Datei anzeigen können die 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 18 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 18/22 
+ 
+Aufzeichnungen betrachtet werden. Jeder Eintrag besteht dabei aus drei Spalten (siehe  Abbildung 
+13): 
+ 
+Zeitstempel Der Zeitstempel des Eintrags. 
+Auslöser Wer hat die Aktion ausgelöst? 
+USER … der Benutzer hat die Aktion durchgeführt 
+UPDATE … IFE-Update 6.4 machte die Aktion selbst 
+DEVICE … eine Aktion des Türsteuergerätes 
+Aktion Eine Beschreibung der Aktion. 
+Der Log-Datei Dialog ermöglicht auch individuelle Kommentare in die Log-Datei einzutragen. Mit der 
+Schaltfläche Log-Datei speichern kann eine Kopie der Log-Datei in ein beliebiges Verzeichnis 
+gespeichert werden um sie z.B. für eine Problemlösung per E-Mail zu versenden. 
+3.6 Kommandozeilenschnittstelle 
+Dieses Programm verfügt über eine Kommandozeilenschnittstelle womit es aus dem Terminal-Fenster 
+(cmd.exe), mit einer Batch-Datei oder von einem anderen Programm (z.B. eine 
+Entwicklungsumgebung) aufgerufen werden kann. 
+Wenn IFE-Update 6.4 bereits läuft und erneut mit Kommandozeilenparameter aufgerufen wird, werden 
+diese Parameter an das bereits laufende Programm übergeben und von diesem verarbeitet.  
+Die Kommandozeilenschnittstelle ist wie folgt aufgebaut (Groß-/Kleinschreibung beachten): 
+ 
+IFEUpdate.exe  [--Filename <fn>] 
+[--Connect [xxx.xxx.xxx.xxx] ;[COMx[BSL];] [/AutoStart] [/AutoClose]] 
+[/CreateLanguageFileTemplate] [/SkipEqual] [/CompatibilityCheckOff] 
+[/DataRetentionUpdate] 
+ 
+--Filename <fn> Gibt die zu benutzende Datei an. Wenn die Datei keine KCF 
+Erweiterung hat, wird diese automatisch in eine KCF Datei gepackt 
+und in dasselbe Verzeichnis abgespeichert und von IFE-Update 6.4 
+verwendet. 
+--Connect <Verbindung> Übergibt IFE-Update 6.4 einen Verbindungsstring mit dem eine 
+Verbindung aufgebaut werden soll. Wenn -- Connect 
+255.255.255.255;COM1;COM3BSL angegeben wird, wird nach 
+möglichst allen Türsteuergeräten über ETH gesucht. Zusätzlich wird 
+eine Verbindungsaufbau über die seriellen Schnittstellen COM1 und 
+COM3 initiiert, wobei für COM3 der Boot Strap Loader aktiviert ist. 
+Die Verwendung von den Verbindungsvoreinstellungen CONN1, 
+CONN2, CONN3 und CONN4 ist an dieser Stelle auch möglich. 
+ Wenn über die serielle Schnittstelle eine Verbindung mit der FLEX-
+DCU hergestellt werden soll, so muss vor der zu verwendenden 
+COM Schnittstelle der Präfix „FLEX_“ verwendet werden (z.B. 
+„FLEX_COM1“). 
+/AutoStart Wenn die mit --Connect definierten Türsteuergeräte gefunden 
+wurden, werden diese Geräte automatisch markiert und die 
+Softwareübertragung gestartet. 
+/AutoClose Wurde die Softwareübertragung auf allen ausgewählten Geräten 
+beendet, schließt sich IFE-Update 6.4 von selbst. 
+/CreateLanguageFileTemplate Mit diesem Parameter wird eine Vorlage für eine Sprachdatei 
+({Installationspfad}\template.lng) erzeugt und anschließend IFE-
+Update 6.4 geschlossen. Diese Vorlage kann verwendet werden um 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 19 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 19/22 
+ 
+eine Sprachübersetzung der Bedienoberfläche durchführen zu 
+können. 
+/SkipEqual Mit diesem Parameter wird das Programmieren der Software 
+übersprungen, wenn bereits die korrekte Software geladen ist (d.h. 
+Software-Version und CRC gleich sind). 
+/CompatibilityCheckOff Mit diesem Parameter wird die Kompatibilität von Türsteuerung und 
+zu programmierender Software nicht geprüft. 
+/DataRetentionUpdate Mit diesem Parameter wird für FLEX DCUs die Einstellung 
+„Datenerhalt“ aktiviert (siehe 3.4 „Datenerhalt“). Dadurch werden 
+beim Softwareupdate auch kritische Komponenten (z.B. Bootloader) 
+aktualisiert. Diese Option sollte mit Vorsicht verwendet werden, da 
+im Falle eines Spannungsverlustes während eines Updatevorgang 
+die Türsteuerung funktionslos wird. 
+Beispiel:  IFEUpdate.exe --Filename C:\E123456.A01.kcf 
+--Connect 255.255.255.255;COM1BSL;CONN3 /AutoStart 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 20 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 20/22 
+ 
+4 Fehlerursachen und Fehlerbehebung 
+Dieser Abschnitt soll Anhaltspunkte für die Suche von Fehlerursachen und deren Behebung bereitstellen. 
+4.1 Verbindung zu einem Türsteuergerät kann nicht hergestellt werden 
+Wenn sie den Verbindungsdialog in Abbildung 6 verwendet haben und das Türsteuergerät trotzdem 
+nicht in der DCU Auflistung aufscheint (siehe Abbildung 4 und Abbildung 5) überprüfen sie die 
+folgenden Punkte um das Problem zu lösen: 
+Verbindung über ETH: 
+• Überprüfung der Netzwerkverbindung von PC und Türsteuergerät 
+• Wenn die Broadcastadresse (255.255.255.255) verwendet wurde, tragen sie die IP Adresse 
+des gewünschten Türsteuergerätes im Textfeld Benutzerdefiniert des Verbindungsdialoges 
+(siehe Abbildung 6) ein und verbinden sie erneut. 
+• Wenn die Software am Türsteuergerät kein Ethernet bzw. kein Update über Ethernet 
+unterstützt, wird dieses Gerät von IFE-Update 6.4 nicht erkannt. 
+• Befindet sich das Türsteuergeräte gerade im Updatevorgang (d.h. Überspielung der Software 
+in den Programmspeicher), kann dieses über Ethernet nicht erreicht und somit von IFE-
+Update 6.4 nicht erkannt werden. 
+Verbindung über die serielle Schnittstelle: 
+• Überprüfung der seriellen Schnittstelle (wurde der richtige COM-Port ausgewählt; Kabel 
+angeschlossen; ausgekreuztes serielles Kabel). 
+• Deaktivieren sie den Boost Mode (siehe Abschnitt 3.4.2) und versuchen sie den 
+Verbindungsaufbau erneut. 
+4.2 KCF Datei kann nicht erzeugt werden 
+Mit dem Menüeintrag Extras→KCF Datei erstellen können sie eine vorhandene Binärdatei der 
+Türsteuerungsgerätsoftware in eine KCF Datei konvertieren. Wenn dieser Vorgang Probleme bereitet, 
+kann einer der folgenden Punkte die Ursache dafür sein: 
+• Die Datei beinhaltet keinen gültigen Informationsblock. Dieser beinhaltet die notwendigen 
+Informationen über die Binärdatei für das Türsteuergerät. 
+• Die KCF Datei existiert bereits und ist schreibgeschützt. 
+4.3 Die Softwareübertragung ist fehlgeschlagen (falsche Prüfsumme und/oder 
+Softwareversion, Zeitüberschreitung der Programmierung) 
+Manchmal kann eine Softwareübertragung fehlschlagen. Die folgende Auflistung soll einige Hinweise 
+liefern um dieses Problem zu lösen: 
+• Versuchen sie die Übertragung erneut. Vielleicht war eine Störung der TFTP Übertragu ng die 
+Ursache, dass das übertragene Programm fehlerhaft und deshalb die 
+Prüfsummenüberprüfung die Aktivierung des Programmiervorganges und die 
+Softwareaktualisierung verhindert hat. Dieser Überprüfung verhindert, dass eine beschädigte 
+Software auf der Türsteuerung übernommen wird. 
+• Wurde eine falsche Software übertragen (z.B. die Software ist für diesen Türsteuerungstyp 
+nicht gedacht; keine Netzwerkunterstützung; keine Ethernet-Update Unterstützung), kann die 
+Software eventuell nicht richtig arbeiten und deshalb eine Zeitüberschreitung 
+Programmierung Meldung hervorrufen. In diesem Fall kann nur eine Programmierung über 
+die RS232 Schnittstelle das Problem beheben (siehe Abschnitt 3.2). 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 21 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 21/22 
+ 
+• Wenn die RS232 Schnittstelle verwendet wird, deaktivieren sie den Boost Mode (siehe 
+Abschnitt 3.4.2) und versuchen sie den Softwareübertragung erneut. 
+4.4 Kommandozeilenaufruf funktioniert nicht 
+Falls der Aufruf von IFE-Update 6.4 über die Kommandozeile Probleme bereitet, überprüfen sie die 
+folgenden Punkte, welche Hinweise für die Problemlösung geben können:  
+• Überprüfen sie die Syntax des Aufrufes wie in Abschnitt 3.6 beschrieben. Beachten sie auch 
+die Groß- und Kleinschreibung der Argumente. 
+• Überprüfen sie die Pfadangaben. 
+• Wenn die Pfadangaben für die EXE Datei von IFE-Update 6.4 selbst oder für die zu 
+überspielende Datei Leerzeichen beinhaltet müssen diese mit dem Anführungszeichen (“) 
+angegeben werden. 
+Beispiel: 
+"C:\Program Files\IFE\IFEUpdate\IFEUpdate.exe" 
+--Filename "D:\Project A\E123456.A01.kcf" 
+
+--- Update-Manual-Deutsch.pdf | PÁGINA 22 ---
+Software-Benutzerhandbuch IFE-Update 6.4 E403420P64_DE - Änderung “00” 
+ Seite 22/22 
+ 
+A Änderungshistorie 
+ 
+Änderung Datum erstellt geprüft freigegeben 
+ 
+00 02.10.2019 Kremser M. Lanzenbacher F. Zöchmann M. 
+ 
+  
+ Erste Version des Benutzerhandbuches für IFE-Update 6.4. 
+ 

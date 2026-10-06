@@ -1,0 +1,348 @@
+# MANUAL: 506_S4D630-BF03-04_datasheet_distribuidor_ebmpapst (2).pdf
+
+--- INÍCIO DA PÁGINA 1 ---
+Nominal data
+Type Motor VAC Hz rpm kW A µF/VDB Pa °C p. 126
+A 3~480Y 60 1650 2.91 4.91 — 350 -40 to +60
+*4D630 M4D138-LA -10° B 3~400Y 60 1585 2.67 4.92 — 325 -40 to +60 F1b)/F2b)
+C 3~230 ∆ 60 1585 2.67 8.52 — 325 -40 to +60
+D 3~480Y 60 1610 3.30 5.48 — 250 -40 to +60
+*4D630 M4D138-NA -5° E 3~400Y 60 1520 2.96 5.49 — 225 -40 to +60 F1b)/F2b)
+F 3~230 ∆ 60 1520 2.96 9.50 — 225 -40 to +60
+22
+elgna
+edalB evruC
+egatlov
+lanimoN ycneuqerF )1(
+deepS
+)1(
+tupni
+rewop
+.xaM
+)1(
+ward
+tnerruc
+.xaM
+roticapaC
+egnar
+evitarepo
+.xaM
+.pmet
+.pma
+.mreP
+noitcennoc
+.rtcelE
+AC axial fans - HyBlade®
+Ø 630
+– Material: Guard grille: Steel, phosphated and coated in black plastic
+Wall ring: Sheet steel, pre-galvanised and coated in black plastic
+Blades: Insertion part made of sheet aluminium, extrusion-coated in PP plastics
+Rotor: Encased in aluminium
+– Number of blades:5
+– Direction of rotation:Direction of air flow "V"clockwise,
+direction of air flow "A"counter-clockwise, seen on rotor
+– Type of protection:IP 54(in accordance with EN 60529)
+– Insulation class: "F"
+– Mounting position:Shaft horizontal or rotor on bottom; rotor on top on request
+– Condensate discharge holes:Rotor-side
+– Mode of operation:Continuous operation (S1)
+– Bearings:Maintenance-free ball bearings
+subject to alterations (1) Nominal data in operating point 3 with maximum load
+0 2000 4000
+4000 8000 12000 16000
+]aP[ ]OH
+ni[
+2
+3
+3
+A
+300
+2
+2
+200
+1
+1
+100 B
+C
+6000 8000 10000 [CFM]
+[m3/h]
+0,1
+5,0
+Curves
+n P1 I LwA
+[rpm] [kW] [A] [dB(A)]
+A 1 1695 2.32 4.27 81
+A 2 1680 2.66 4.64 84
+A 3 1650 2.91 4.91 88
+B 1 1640 2.16 4.10 80
+B 2 1610 2.44 4.56 82
+B 3 1585 2.67 4.92 87
+C 1 1640 2.16 7.10 80
+C 2 1610 2.44 7.90 82
+C 3 1585 2.67 8.52 87
+
+**Tabela 1 (Página 1):**
+| )1( )1( egnar tupni ward .pmet noitcennoc egatlov evitarepo elgna rewop tnerruc .pma lanimoN ycneuqerF )1( roticapaC edalB evruC deepS .xaM .xaM .xaM .mreP .rtcelE Nominal data |  |  |  |  |
+| Type | Motor |  | VAC Hz rpm kW A µF/VDB Pa °C | p. 126 |
+|  |  |  |  |  |
+| *4D630 | M4D138-LA | -10° | A 3~480Y 60 1650 2.91 4.91 — 350 -40 to +60 | F1b)/F2b) |
+|  |  |  | B 3~400Y 60 1585 2.67 4.92 — 325 -40 to +60 |  |
+|  |  |  | C 3~230 ∆ 60 1585 2.67 8.52 — 325 -40 to +60 |  |
+| *4D630 | M4D138-NA | -5° | D 3~480Y 60 1610 3.30 5.48 — 250 -40 to +60 | F1b)/F2b) |
+|  |  |  | E 3~400Y 60 1520 2.96 5.49 — 225 -40 to +60 |  |
+|  |  |  | F 3~230 ∆ 60 1520 2.96 9.50 — 225 -40 to +60 |  |
+| subject to alterations (1) Nominal data in operating point 3 with maximum load |  |  |  |  |
+
+**Tabela 2 (Página 1):**
+| ]aP[ 300 200 100 |  |
+|  | 4000 8000 12000 16000 [m3/h] |
+
+**Tabela 3 (Página 1):**
+|  |  |  |  |  | 3 |  |  |  |  |
+|  |  |  |  |  | 3 | A |  |  |  |
+|  |  |  |  |  |  | 2 | 2 |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  | 1 |  |
+|  |  |  |  |  |  |  | 1 |  |  |
+|  |  |  |  |  |  |  | B C |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+
+**Tabela 4 (Página 1):**
+| 1695 |
+| 1680 |
+| 1650 |
+
+**Tabela 5 (Página 1):**
+| 2.32 |
+| 2.66 |
+| 2.91 |
+
+**Tabela 6 (Página 1):**
+| 4.27 |
+| 4.64 |
+| 4.91 |
+
+**Tabela 7 (Página 1):**
+| 81 |
+| 84 |
+| 88 |
+
+**Tabela 8 (Página 1):**
+| 1640 |
+| 1610 |
+| 1585 |
+
+**Tabela 9 (Página 1):**
+| 2.16 |
+| 2.44 |
+| 2.67 |
+
+**Tabela 10 (Página 1):**
+| 4.10 |
+| 4.56 |
+| 4.92 |
+
+**Tabela 11 (Página 1):**
+| 80 |
+| 82 |
+| 87 |
+
+**Tabela 12 (Página 1):**
+| 1640 |
+| 1610 |
+| 1585 |
+
+**Tabela 13 (Página 1):**
+| 2.16 |
+| 2.44 |
+| 2.67 |
+
+**Tabela 14 (Página 1):**
+| 7.10 |
+| 7.90 |
+| 8.52 |
+
+**Tabela 15 (Página 1):**
+| 80 |
+| 82 |
+| 87 |
+
+--- FIM DA PÁGINA 1 ---
+
+--- INÍCIO DA PÁGINA 2 ---
+– Motor protection: Design with thermal overload protector
+– Cable exit:Via terminal box
+– Protection class:I(in accordance with EN 61800-5-1)
+– Product conforming to standard:CE
+– Approvals:UL, VDE (in accordance with EN 60034)
+Curves
+0
+23
+]aP[ ]OH
+ni[
+2
+240
+200
+160
+120
+80
+40
+[CFM]
+[m3/h]
+9,0
+8,0
+7,0
+6,0
+5,0
+4,0
+3,0
+2,0
+3
+3
+D
+2
+2
+E
+F 1
+1
+1,0
+"V" A4D630-AF03 -03 W4D630-GF03 -03 S4D630-CF03 -03 S4D630-AF03 -03 — —
+"A" A4D630-AF03 -04 W4D630-DF03 -04 — — S4D630-BF03 -04 —
+"V" A4D630-AB03 -03 W4D630-GB03 -03 S4D630-CB03 -03 S4D630-AB03 -03 — —
+"A" A4D630-AB03 -04 W4D630-DB03 -04 — — S4D630-BB03 -04 —
+n P1 I LwA
+[rpm] [kW] [A] [dB(A)]
+D 1 1645 2.86 4.89 81
+D 2 1630 3.08 5.15 80
+D 3 1610 3.30 5.48 82
+E 1 1575 2.61 4.89 79
+E 2 1550 2.79 5.17 79
+E 3 1520 2.96 5.49 80
+F 1 1575 2.61 8.50 79
+F 2 1550 2.79 8.99 79
+F 3 1520 2.96 9.50 80
+2000 4000 6000 8000 10000
+4000 8000 12000 16000 20000
+wolf
+ria
+fo
+noitceriD
+†"V"/"A" ‡ †"V"/"A" ‡ †"V" †"V" "A" ‡ "A" ‡
+Without attach- With full square With guard grille With guard grille With guard grille With guard grille
+ments nozzle for full nozzle for short nozzle for full nozzle for short nozzle
+noitamrofni
+lareneG
+snaf
+laixa
+CA
+drawkcab
+,lagufirtnec
+CA
+drawrof
+,lagufirtnec
+CA
+seirosseccA
+snoitcennoc
+lacirtcelE
+sevitatneserpeR
+Drawings Motor protection Electr. connections
+p. 24 f. p. 122 f. p. 126
+
+**Tabela 1 (Página 2):**
+|  |  |  |  |  |  |  | noitamrofni lareneG |
+|  |  |  |  |  |  |  | snaf laixa CA |
+|  |  |  |  |  |  |  | drawkcab ,lagufirtnec CA |
+| wolf ria fo noitceriD †"V"/"A" ‡ †"V"/"A" ‡ †"V" †"V" "A" ‡ "A" ‡ |  |  |  |  |  |  |  |
+|  | Without attach- ments | With full square nozzle | With guard grille for full nozzle | With guard grille for short nozzle | With guard grille for full nozzle | With guard grille for short nozzle |  |
+|  |  |  |  |  |  |  |  |
+| "V" | A4D630-AF03 -03 | W4D630-GF03 -03 | S4D630-CF03 -03 | S4D630-AF03 -03 | — | — |  |
+| "A" | A4D630-AF03 -04 | W4D630-DF03 -04 | — | — | S4D630-BF03 -04 | — | drawrof ,lagufirtnec CA |
+| "V" | A4D630-AB03 -03 | W4D630-GB03 -03 | S4D630-CB03 -03 | S4D630-AB03 -03 | — | — |  |
+| "A" | A4D630-AB03 -04 | W4D630-DB03 -04 | — | — | S4D630-BB03 -04 | — |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | seirosseccA |
+|  |  |  |  |  |  |  | snoitcennoc lacirtcelE |
+|  |  |  |  |  |  |  | sevitatneserpeR |
+
+**Tabela 2 (Página 2):**
+| ]aP[ 240 200 160 120 80 40 |  |
+|  | 4000 8000 12000 16000 20000[m3/h] |
+
+**Tabela 3 (Página 2):**
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  | 3 |  |  |  |
+|  |  |  |  |  |  | 3 |  |  |  |
+|  |  |  |  |  |  |  | D |  |  |
+|  |  |  |  |  |  |  | 2 |  |  |
+|  |  |  |  |  |  |  | 2 |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | E F | 1 |  |
+|  |  |  |  |  |  |  |  | 1 |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+
+**Tabela 4 (Página 2):**
+| 1645 |
+| 1630 |
+| 1610 |
+
+**Tabela 5 (Página 2):**
+| 2.86 |
+| 3.08 |
+| 3.30 |
+
+**Tabela 6 (Página 2):**
+| 4.89 |
+| 5.15 |
+| 5.48 |
+
+**Tabela 7 (Página 2):**
+| 81 |
+| 80 |
+| 82 |
+
+**Tabela 8 (Página 2):**
+| 1575 |
+| 1550 |
+| 1520 |
+
+**Tabela 9 (Página 2):**
+| 2.61 |
+| 2.79 |
+| 2.96 |
+
+**Tabela 10 (Página 2):**
+| 4.89 |
+| 5.17 |
+| 5.49 |
+
+**Tabela 11 (Página 2):**
+| 79 |
+| 79 |
+| 80 |
+
+**Tabela 12 (Página 2):**
+| 1575 |
+| 1550 |
+| 1520 |
+
+**Tabela 13 (Página 2):**
+| 2.61 |
+| 2.79 |
+| 2.96 |
+
+**Tabela 14 (Página 2):**
+| 8.50 |
+| 8.99 |
+| 9.50 |
+
+**Tabela 15 (Página 2):**
+| 79 |
+| 79 |
+| 80 |
+
+--- FIM DA PÁGINA 2 ---
+

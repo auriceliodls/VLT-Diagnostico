@@ -1,0 +1,696 @@
+=========================================
+MANUAL: DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf
+=========================================
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 1 ---
+ 
+ 
+K N O R R  B R E M S E  
+SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA.  
+ 
+ 
+ 
+ 
+Todos os direitos reservados. Qualquer aplicação in devida desta descrição, especificamente a reproduçã o ou transmissão a terceiros 
+de qualquer modo, poderá estar sujeita à punição conforme a lei civil ou processo penal. Confidencial, somente para uso interno! 
+Revisão Nº: 
+ 
+01 
+preparado/modificado 
+31/12/2011 
+Társis Tezza 
+verificado/liberado 
+31/12/2011 
+Flavio Pereira 
+Total 
+de páginas 
+17  
+Página 
+Nº 
+1 
+ 
+KNORR-BREMSE  Documentação nº: 
+DDTSE20344E05-BR Sistemas para Veículos Ferroviários Ltda. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manual de Lubrificação  
+Porta Deslizante de Folha Dupla S3-E2 
+(5080291AR01/R02/R03/R04) 
+VLT (BOM SINAL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 2 ---
+Manual de Lubrificação DDTSE20344E05-BR_01  
+ 
+ 
+Página 2/17 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aviso - Aviso - Aviso - Aviso - Aviso 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendamos para proteção contra riscos que a instalação ou operação de nossos produtos 
+ou componentes sejam executadas somente por pessoal  autorizado de acordo com as 
+instruções de operação apropriadas. 
+ 
+ 
+ 
+     
+ 
+ 
+Não nos responsabilizamos perante as leis de garantia do produto por danos diretos ou 
+consequentes, decorrentes de operação, instalação ou manuseio incorretos dos produtos ou 
+componentes fornecidos por nós. 
+ 
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 3 ---
+DDTSE20344E05-BR_01 Manual de Lubrificação  
+ 
+ 
+Página 3/17  
+ 
+ 
+Lista de conteúdos 
+ 
+Conteúdos Página  
+ 
+1 Documentos requeridos ..................................................................................................................... 4 
+2 Avisos e recomendações gerais ........................................................................................................ 4 
+3 Introdução ............................................................................................................................................ 5 
+3.1  Observações de segurança ................................................................................................................... 5 
+3.2  Geral ...................................................................................................................................................... 5 
+3.3  Especificação dos tipos de graxa .......................................................................................................... 5 
+3.4  Layout do carro ...................................................................................................................................... 7 
+3.5  Visão geral dos componentes ............................................................................................................... 8 
+4 Lubrificação antes do comissionamento dos carros .................................................................... 10  
+4.1  Fusos ................................................................................................................................................... 10  
+4.2  Travas e pinos de travamento ............................................................................................................. 11  
+4.3  Borrachas de vedação das folhas de porta ......................................................................................... 12  
+5 Procedimento para as lubrificações de manutenção .................................................................... 13  
+5.1  Fusos ................................................................................................................................................... 13  
+5.2  Sistema de travamento do módulo ...................................................................................................... 13  
+5.3  Alavancas das chaves de serviço e emergência ................................................................................. 15  
+5.4  Travas e pinos de travamento ............................................................................................................. 16  
+5.5  Borrachas de vedação das folhas de porta ......................................................................................... 16  
+5.6  Molas de torção ................................................................................................................................... 16  
+6 Índice de revisões .............................................................................................................................. 17  
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 4 ---
+Manual de Lubrificação DDTSE20344E05-BR_01  
+ 
+ 
+Página 4/17 
+  
+ 
+ 
+1 Documentos requeridos 
+ 
+ 
+Nº do documento / desenho Descrição 
+ 
+5080291AR01 Desenho de montagem 
+5080291AR01 Escopo de fornecimento 
+5080291AR02 Escopo de fornecimento 
+5080291AR03 Desenho de montagem 
+5080291AR03 Escopo de fornecimento 
+5080291AR04 Escopo de fornecimento 
+DDTSE20344E01-BR Introdução e Instruções Gerais 
+DDTSE20344E09-BR Plano de Manutenção 
+ 
+ 
+2 Avisos e recomendações gerais 
+ 
+Este manual inclui os seguintes alertas categorizados em diferentes classes de risco: 
+ 
+ 
+PERIGO 
+O descumprimento destas instruções causará feriment os pessoais 
+irreversíveis ou morte. 
+ 
+ 
+ADVERTÊNCIA 
+O descumprimento destas instruções pode causar feri mentos pessoais 
+graves ou morte. 
+ 
+ 
+CUIDADO 
+O descumprimento destas instruções pode causar feri mentos pessoais, 
+bem como danos ao equipamento e/ou ambiente. 
+ 
+Explicação sobre a estrutura dos avisos (por exemplo, PERIGO): 
+ 
+ 
+PERIGO 
+Causa do perigo 
+Conseqüência do perigo 
+Medidas corretivas 
+ 
+As recomendações não contêm conteúdo relevante de s egurança. São listadas aqui para fins de 
+complementação. 
+ 
+ 
+OBSERVAÇÃO 
+As observações fornecem dicas úteis e informações a dicionais acerca do 
+equipamento. 
+ 
+Em caso de serviços especiais, os avisos em outros capítulos deste manual indicarão os riscos específi cos. 
+Geralmente, os avisos e recomendações precedem o procedimento abordado. 
+ 
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 5 ---
+DDTSE20344E05-BR_01 Manual de Lubrificação  
+ 
+ 
+Página 5/17  
+ 
+ 
+3 Introdução 
+ 
+3.1 Observações de segurança 
+ 
+ 
+ADVERTÊNCIA 
+Partes móveis do sistema de porta se movimentam de repente. 
+Risco de ferimentos graves para pessoas e/ou danos ao equipamento. 
+Desligue a alimentação de energia antes de iniciar qualquer atividade no 
+sistema de porta! 
+ 
+ 
+ADVERTÊNCIA 
+Durante a execução de algum trabalho nos componente s do sistema de 
+porta com fornecimento de energia temporário, a det ecção de obstrução 
+não estará ativa! 
+Risco de ferimentos graves para pessoas e/ou danos ao equipamento. 
+Desligue a alimentação de energia antes de iniciar qualquer atividade no 
+sistema de porta! 
+ 
+ 
+3.2 Geral 
+ 
+A instrução de lubrificação deve ser utilizada para  o engraxamento do sistema de porta antes do 
+comissionamento, e também para as lubrificações a s erem realizadas durante os procedimentos de 
+manutenção preventiva conforme os intervalos indicados no plano de manutenção DDTSE20344E09. 
+ 
+• Os lubrificantes não estão incluídos no escopo de fornecimento, portanto devem ser adquiridos pelo 
+cliente no mercado ou diretamente da KNORR-BREMSE S ISTEMAS PARA VEÍCULOS FERROVIÁRIOS 
+LTDA.  
+ 
+• A lubrificação do sistema de porta é uma condição essencial para o bom funcionamento do conjunto 
+mecanismo e folhas, portanto, caso a lubrificação n ão esteja de acordo com o especificado neste manual  
+a KNORR-BREMSE SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA se isentará de quaisquer 
+responsabilidades sobre eventuais problemas que pod em ocorrer (desgaste prematuro do sistema de 
+porta, travamento do módulo central, etc.) e nenhum a reivindicação de garantia será aceita pela KNORR-
+BREMSE. 
+ 
+ 
+OBSERVAÇÃO 
+A lubrificação do sistema de porta deve ser executa da exclusivamente por 
+pessoal treinado. 
+ 
+ 
+OBSERVAÇÃO 
+Antes de iniciar a lubrificação, todos os serviços mecânicos e elétricos 
+devem estar concluídos. 
+ 
+ 
+OBSERVAÇÃO 
+Essa instrução se refere apenas aos componentes inc lusos no escopo de 
+fornecimento KBB/IFE. 
+ 
+ 
+OBSERVAÇÃO 
+As ilustrações nessa instrução nem sempre exibem vi sões detalhadas do 
+sistema de porta; porém, seu propósito é fornecer a s informações 
+necessárias. 
+ 
+3.3 Especificação dos tipos de graxa 
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 6 ---
+Manual de Lubrificação DDTSE20344E05-BR_01  
+ 
+ 
+Página 6/17 
+  
+ 
+ 
+ADVERTÊNCIA 
+A utilização incorreta de produtos químicos pode ca usar danos à saúde 
+das pessoas! 
+Portanto siga corretamente todas as instruções de u tilização dos produtos 
+que são fornecidas pelos fabricantes! 
+ 
+ 
+CUIDADO 
+A utilização incorreta de produtos químicos pode ca usar danos aos 
+equipamentos! 
+Portanto siga corretamente todas as instruções de u tilização dos produtos 
+que são fornecidas pelos fabricantes! 
+ 
+Descrição  Escopo de 
+fornecimento  Utilização  Código KBB/IFE  Aplicação  
+Klüber Barrierta L 
+25 DL 
+Cliente Exigido 0VN300160R19 Graxa para a lubrifica ção 
+dos perfis de borracha 
+Klüber Isoflex LDS 
+18 Spezial A 
+Cliente Exigido 0UN300160R08 Graxa para a lubrifica ção 
+dos fusos 
+Klüber Isoflex 
+Topas NB 52 
+Cliente Exigido 0UN300160R15 Graxa para a lubrifica ção 
+das travas do módulo. 
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 7 ---
+DDTSE20344E05-BR_01 Manual de Lubrificação  
+ 
+ 
+Página 7/17  
+ 
+ 
+3.4 Layout do carro 
+ 
+ 
+Fig. 3-1 Layout do carro 
+ 
+CARRO CABINE ESQUERDO: 
+ 
+1 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+ 
+CARRO INTERMEDIÁRIO 1: 
+ 
+1 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+ 
+CARRO INTERMEDIÁRIO 2 (se houver): 
+ 
+1 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+ 
+ 
+CARRO CABINE DIREITO: 
+ 
+1 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+ 
+ 
+ 
+ 
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 8 ---
+Manual de Lubrificação DDTSE20344E05-BR_01  
+ 
+ 
+Página 8/17 
+  
+ 
+3.5  Visão geral dos componentes 
+ 
+3.5.1 Área da porta 
+ 
+ 
+Fig. 3-2 Visão geral dos componentes – Área da porta 
+ 
+O número de itens não corresponde com o escopo dos itens de entrega! 
+ 
+ 
+1 Mecanismo de´porta completo  2 Folha de porta direita 
+3 Folha de porta esquerda 4 Dispositivo de emergência interno 
+5 Bowden cable 6 Dispositivo de emergência externo 
+7 Bowden cable 8 Unidade de controle de porta (DCU)  
+9 Suporte de montagem 10 Suporte de montagem 
+11 Trilho   
+ 
+ 
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 9 ---
+DDTSE20344E05-BR_01 Manual de Lubrificação  
+ 
+ 
+Página 9/17  
+ 
+ 
+3.5.2 Trilho de acionamento 
+ 
+ 
+Fig. 3-3 Visão geral dos componentes – Área do acionamento 
+ 
+ 
+O número de itens não corresponde com o escopo dos itens de entrega! 
+ 
+ 
+12 Suporte da folha direita 13 Suporte da folha esquerda 
+14 Fuso direito 15 Fuso esquerdo 
+16 Rolete excêntrico 17 Rolete  
+18 Módulo de acionamento 19 Batoque de fim de curso 
+20 Conector (X31) 21 Chave de serviço (S6) 
+22 Micro-chave de porta “fechada e travada” (S1) 23 Micro-chave de “emergência” (S3) 
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 10 ---
+Manual de Lubrificação DDTSE20344E05-BR_01  
+ 
+ 
+Página 10/17 
+  
+ 
+4 Lubrificação antes do comissionamento dos carros  
+ 
+ 
+ 
+OBSERVAÇÃO 
+Antes da lubrificação limpe os componentes removend o todos os 
+resíduos de graxa e sujeira. 
+ 
+4.1 Fusos 
+ 
+Lubrificante exigido 
+ 
+Código KBB/IFE Descrição Aplicação 
+0UN300160R08 Klüber Isoflex LDS 18 Spezial A  Lubrificação dos fusos 
+ 
+3
+21
+IL-01119 
+5
+4
+ 
+ 
+1 Acionamento 2 Módulo do fuso direito 
+3 Fuso direito 4 Módulo do fuso esquerdo 
+5 Fuso esquerdo   
+Fig. 4-1 Fusos 
+ 
+(ver  Fig. 4-1 Fusos 
+) 
+• Desligue a alimentação de energia elétrica. 
+• Com o uso de um pincel lubrifique o fuso com uma f ina camada da graxa Klüber Isoflex LDS 18 Spezial A. 
+• Abra e feche as portas manualmente de 3 a 5 vezes para espalhar bem a graxa pelo fuso. 
+• Religue a alimentação de energia elétrica. 
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 11 ---
+DDTSE20344E05-BR_01 Manual de Lubrificação  
+ 
+ 
+Página 11/17  
+ 
+ 
+4.2 Travas e pinos de travamento 
+ 
+Lubrificante exigido 
+ 
+Código KBB/IFE Descrição Aplicação 
+0UN300160R15 Klüber Isoflex Topas NB 52 Lubrificaçã o das travas do módulo. 
+ 
+A
+3
+IL-01129 
+2
+1
+A
+4
+ 
+ 
+1 Trava direita 3 Pino de travamento esquerdo A Superfície de contato 
+2 Trava esquerda 4 Pino de travamento direito   
+Fig. 4-2 Sistema de travamento do módulo 
+ 
+(veja Fig. 4-2 Sistema de travamento do módulo 
+) 
+• Desligue a alimentação de energia elétrica.  
+• Com o uso de um pincel lubrifique as superfícies d e contato (A) das travas (1) e (2) e os pinos de 
+travamento (3) e (4) com a graxa Klüber Isoflex Topas NB 52. 
+• Abra e feche as portas manualmente de 3 a 5 vezes para espalhar bem a graxa por toda a região da 
+trava. 
+• Religue a alimentação de energia elétrica. 
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 12 ---
+Manual de Lubrificação DDTSE20344E05-BR_01  
+ 
+ 
+Página 12/17 
+  
+ 
+ 
+4.3 Borrachas de vedação das folhas de porta 
+ 
+Lubrificante exigido 
+ 
+Código KBB/IFE Descrição Aplicação 
+0VN300160R19 Klüber Barrierta L 25 DL Lubrificação das borrachas de 
+vedação da porta 
+ 
+ 
+• Desligue a alimentação de energia elétrica.  
+• Abra as portas completamente até o final do curso.  
+• Aplique uma camada da graxa Klüber Barrierta L 25 DL nas borrachas de vedação da porta. 
+• Após isso, remova o excesso de graxa das borrachas  com um pano seco. 
+• Religue a alimentação de energia elétrica. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 13 ---
+DDTSE20344E05-BR_01 Manual de Lubrificação  
+ 
+ 
+Página 13/17  
+ 
+ 
+5 Procedimento para as lubrificações de manutenção 
+ 
+ 
+OBSERVAÇÃO 
+Antes da lubrificação limpe os componentes removend o todos os 
+resíduos de graxa e sujeira. 
+ 
+5.1 Fusos 
+ 
+Lubrificante exigido 
+ 
+Código KBB/IFE Descrição Aplicação 
+0UN300160R08 Klüber Isoflex LDS 18 Spezial A  Lubrificação dos fusos 
+ 
+Lubrifique conforme instrução do item 4.1. 
+ 
+ 
+5.2 Sistema de travamento do módulo 
+ 
+Lubrificante exigido 
+ 
+Código KBB/IFE Descrição Aplicação 
+0UN300160R15 Klüber Isoflex Topas NB 52 Lubrificaçã o das travas do módulo. 
+ 
+ 
+ 
+1 Alavanca de travamento 2 Trava 
+A Superfície de contato   
+Fig. 5-1 Alavanca de travamento 
+(ver Fig. 5-1 Alavanca de travamento 
+) 
+• Desligue a alimentação de energia elétrica.  
+• Com um pincel lubrifique a superfície de contato ( A) entre a alavanca de travamento (1) e a trava (2)  com 
+a graxa Klüber Isoflex Topas NB 52. 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 14 ---
+Manual de Lubrificação DDTSE20344E05-BR_01  
+ 
+ 
+Página 14/17 
+  
+ 
+ 
+ 
+1
+IL-01120 
+AA
+ 
+ 
+1 Alavanca de travamento A Superfície deslizante 
+Fig. 5-2 Alavanca de travamento 
+ 
+(ver Fig. 5-2 Alavanca de travamento 
+) 
+• Com um pincel lubrifique a superfície de contato ( A) da alavanca de travamento (1) com a graxa Klüber  
+Isoflex Topas NB 52. 
+• Abra e feche as portas manualmente de 3 a 5 vezes para espalhar bem a graxa por toda a região da 
+trava. 
+• Religue a alimentação de energia elétrica. 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 15 ---
+DDTSE20344E05-BR_01 Manual de Lubrificação  
+ 
+ 
+Página 15/17  
+ 
+ 
+5.3 Alavancas das chaves de serviço e emergência 
+ 
+Lubrificante exigido 
+ 
+Código KBB/IFE Descrição Aplicação 
+0UN300160R15 Klüber Isoflex Topas NB 52 Lubrificação das alavancas do 
+módulo. 
+ 
+1
+IL-01128 
+2
+A
+3
+ 
+ 
+1 Alavanca de liberação direita 3 Alavanca de liberação esquerda 
+2 Pino da alavanca  direita A Superfície de contato 
+Fig. 5-3 Alavancas das chaves de serviço e emergência 
+ 
+(ver Fig. 5-3 Alavancas das chaves de serviço e emergência 
+) 
+• Desligue a alimentação de energia elétrica.  
+• Engraxe as superfícies de contato (A) e o pino da alavanca de liberação direita (2) com a graxa Klübe r 
+Isoflex Topas NB 52 utilizando um pincel. 
+• Abra e feche as portas manualmente de 3 a 5 vezes para espalhar bem a graxa por toda a região das 
+alavancas. 
+• Religue a alimentação de energia elétrica. 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 16 ---
+Manual de Lubrificação DDTSE20344E05-BR_01  
+ 
+ 
+Página 16/17 
+  
+ 
+ 
+5.4 Travas e pinos de travamento 
+ 
+Lubrificante exigido 
+ 
+Código KBB/IFE Descrição Aplicação 
+0UN300160R15 Klüber Isoflex Topas NB 52 Lubrificaçã o das travas do módulo. 
+ 
+Lubrifique conforme instrução do item 4.2. 
+ 
+ 
+ 
+5.5 Borrachas de vedação das folhas de porta 
+ 
+Lubrificante exigido 
+ 
+Código KBB/IFE Descrição Aplicação 
+0VN300160R19 Klüber Barrierta L 25 DL Lubrificação das borrachas de 
+vedação da porta 
+ 
+Lubrifique conforme instrução do item 4.3. 
+ 
+ 
+ 
+5.6 Molas de torção 
+ 
+Lubrificante exigido 
+ 
+Código KBB/IFE Descrição Aplicação 
+0UN300160R15 Klüber Isoflex Topas NB 52 Lubrificaçã o das travas do módulo. 
+ 
+Lubrifique todas as molas de torção do módulo centr al com a graxa Klüber Isoflex Topas NB 52 utilizand o um 
+pincel. 
+ 
+ 
+
+--- DDTSE20344E05-BR_01 (Manual de Lubrificação).pdf | PÁGINA 17 ---
+DDTSE20344E05-BR_01 Manual de Lubrificação  
+ 
+ 
+Página 17/17  
+ 
+ 
+6 Índice de revisões 
+ 
+revisão data preparado verificado/liberado 
+ 
+00  31/12/2011  Társis Tezza  Flavio Pereira 
+01 04/03/2014  Flavio Pereira Talles Cristian 
+ 
+Item Modificação 
+00 Baseado no original em inglês DDTSE20344E05_00 
+01 Alterações considerando novos códigos (R03 e R04 ) 
+ 
+ 
+ 

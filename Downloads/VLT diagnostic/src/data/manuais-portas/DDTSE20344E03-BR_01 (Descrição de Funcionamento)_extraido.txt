@@ -1,0 +1,1004 @@
+=========================================
+MANUAL: DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf
+=========================================
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 1 ---
+ 
+ 
+K N O R R  B R E M S E  
+SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA.  
+ 
+ 
+ 
+Todos os direitos reservados. Qualquer aplicação in devida desta descrição, especificamente a reproduçã o ou transmissão a terceiros 
+de qualquer modo, poderá estar sujeita à punição conforme a lei civil ou processo penal. Confidencial, somente para uso interno! 
+Revisão Nº: 
+ 
+01 
+preparado/modificado 
+31/12/2011 
+Társis Tezza 
+verificado/liberado 
+31/12/2011 
+Flavio Pereira 
+Total 
+de páginas 
+18  
+Página 
+Nº 
+1 
+ 
+KNORR-BREMSE  Documentação nº: 
+DDTSE20344E03-BR Sistemas para Veículos Ferroviários Ltda. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Descrição de Funcionamento  
+Porta Deslizante de Folha Dupla S3-E2 
+(5080291AR01/R02/R03/R04) 
+VLT (BOM SINAL) 
+ 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 2 ---
+Descrição de Funcionamento DDTSE20344E03-BR_01  
+ 
+Página 2/18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aviso - Aviso - Aviso - Aviso - Aviso 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendamos para proteção contra riscos que a instalação ou operação de nossos produtos 
+sejam executadas somente por pessoal autorizado de acordo com instruções técnicas 
+apropriadas. 
+ 
+ 
+ 
+ 
+ 
+ 
+Não nos responsabilizamos perante as leis de garantia do produto por danos diretos ou 
+consequentes, decorrentes de operação, instalação ou manuseio incorretos dos produtos ou 
+componentes fornecidos por nós. 
+ 
+ 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 3 ---
+DDTSE20344E03-BR_01 Descrição de Funcionamento  
+ 
+ 
+Página 3/18  
+ 
+ 
+Índice 
+ 
+Conteúdos Página  
+1 Documentos requeridos ..................................................................................................................... 4 
+1.1  Documentos requeridos ........................................................................................................................ 4 
+1.2  Abreviações ........................................................................................................................................... 4 
+2 Geral ...................................................................................................................................................... 5 
+2.1  Descrição geral ...................................................................................................................................... 5 
+2.2  Indicação da versão do software ........................................................................................................... 5 
+2.3  Dados técnicos da MDC-24RS4 ............................................................................................................ 6 
+2.4  Dados do sistema .................................................................................................................................. 6 
+3 Elementos de controle, ajustes e sinais I/O da DCU........................................................................ 7 
+3.1  Elementos de controle em cada entrada de porta................................................................................. 7 
+3.2  Elementos localizados na unidade de controle da porta ....................................................................... 8 
+3.3  LED´s indicadores na DCU ................................................................................................................... 8 
+3.4  Sinais de entrada e saída da DCU ........................................................................................................ 9 
+3.5  Codificação da porta .............................................................................................................................. 9 
+4 Sinais entre o controle do veículo e a unidade de controle da porta .......................................... 10  
+4.1  Controle do veículo (VCU)  unidade de controle da porta (DCU) .................................................... 10  
+4.2  Unidade de controle da porta (DCU)  controle do veículo (VCU) .................................................... 11  
+5 Descrição das funções da porta ...................................................................................................... 12  
+5.1  Ativação da unidade de controle da porta (DCU) ................................................................................ 12  
+5.2  Relé de segurança interno................................................................................................................... 12  
+5.3  Sinal “velocidade zero (v-zero)” ........................................................................................................... 13  
+5.4  Sinal “Central open” ............................................................................................................................. 13  
+5.5  Abertura de porta ................................................................................................................................. 13  
+5.6  Fechamento de porta .......................................................................................................................... 13  
+5.7  Dispositivo de emergência .................................................................................................................. 14  
+5.8  Detecção de obstrução ........................................................................................................................ 15  
+5.9  Isolação mecânica da porta ................................................................................................................. 16  
+5.10  Isolação elétrica da porta..................................................................................................................... 16  
+5.11  Desligamento da alimentação de energia (chave de serviço on/off “toggle switch”) .......................... 16  
+5.12  Botão “SOCO” ..................................................................................................................................... 16  
+5.13  Elementos de aviso e indicação .......................................................................................................... 16  
+5.14  Parâmetros ajustáveis da porta ........................................................................................................... 17  
+5.15  Monitoramento de porta fechada ......................................................................................................... 17  
+5.16  Movimento de porta ............................................................................................................................. 17  
+6 Índice de revisões ............................................................................................................................. 18  
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 4 ---
+Descrição de Funcionamento DDTSE20344E03-BR_01  
+ 
+Página 4/18 
+ 
+ 
+ 
+1 Documentos requeridos 
+ 
+ 
+1.1 Documentos requeridos 
+ 
+Nº do documento / desenho  Descrição 
+ 
+ED01029R11 Diagrama elétrico 
+DDTSE20344E01-BR Introdução e Instruções Gerais 
+DDTSE20344E03-BR Descrição de Funcionamento 
+DDTSE20344E13-BR Manual de Diagnóstico de Falha 
+5080291AR01 Escopo de fornecimento (dispositivo de emergência interno) 
+5080291AR02 Escopo de fornecimento (dispositivo de emergência interno e externo) 
+5080291AR01 Desenho de conjunto (para ambos os esco pos de fornecimento) 
+5080291AR03 Escopo de fornecimento (dispositivo de emergência interno) 
+5080291AR04 Escopo de fornecimento (dispositivo de emergência interno e externo) 
+5080291AR03 Desenho de conjunto (para ambos os esco pos de fornecimento) 
+ED00922R29 Unidade de controle de porta MDC-24RS4 
+E404727E04 Manual de usuários DIAG (Inglês) 
+ 
+ 
+ 
+1.2 Abreviações 
+ 
+ 
+Abreviações utilizadas no(s) documento(s) associado(s): 
+ 
+DCU .............................................. Unidade de controle de porta (microprocessador controlado) 
+DIAG V3 ........................................ Software de diagnóstico IFE para diagnósticos em controladores de porta 
+DIP ................................................ Chave “DIP switch” 
+EPROM ......................................... Memória programável apenas para leitura 
+LED ............................................... Diodo emissor de luz 
+Contato N.C. ................................. Contato normal-fechado 
+Contato N.O. ................................. Contato normal-aberto 
+UPDATE ....................................... IFE Update software para carregamento de novas revisões no DCU 
+MONIT ME ...................................  IFE MONIT ME software para modificação de parâmetros de software  
+TL .................................................. “Train Line” 
+VDC............................................... Volts em corrente contínua 
+VCU............................................... Unidade de controle do veículo (principal controlador do sistema de porta) 
+ 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 5 ---
+DDTSE20344E03-BR_01 Descrição de Funcionamento  
+ 
+ 
+Página 5/18  
+ 
+ 
+2 Geral 
+ 
+2.1 Descrição geral 
+ 
+Cada composição é formada por 3 carros, os quais sã o equipados com 6 portas de folha dupla (3 portas d e 
+cada lado do carro) conforme o diagrama do veículo.  Os sistemas de porta são do tipo S3-E2, portas 
+deslizantes operadas eletricamente. 
+ 
+Diagrama do veículo: 
+Consultar “Diagrama elétrico” ED01029R11 
+ 
+Em cada sistema de porta é utilizado uma unidade de controle de porta MDC-24RS4. As unidades de controle 
+de porta comunicam-se via barramento RS485. 
+A DCU controla o motor de acionamento da porta na d ireção de abertura ou fechamento de acordo com os 
+sinais da região da porta (p. ex: micro-chaves, sen sor de posição de porta, etc.) e da cabine de condu ção 
+(velocidade zero, “central close”, etc.). Esses sinais são enviados “via cabo”. 
+ 
+A unidade de controle da porta é uma central lógica  programável para processamento das funções de 
+controle do sistema de porta e também do motor, poi s inclui os dispositivos eletrônicos necessários pa ra o 
+fornecimento de energia ao motor de acionamento da porta. 
+ 
+As saídas e entradas digitais da DCU são gerenciadas pelo software contido na memória do sistema. 
+ 
+Devido à possibilidade de programação da DCU, é pos sível executar diferentes lógicas de controle com a  
+mesma unidade, de acordo com as especificações técn icas do projeto e preferências do cliente. Ou seja,  
+conforme necessário, diferentes solicitações de controle podem ser processadas apenas mudando o software 
+operacional. 
+A atualização do software operacional deve ser feita via interface de serviço da DCU, utilizando um la ptop e o 
+software de aplicação “UPDATE“ da IFE. 
+ 
+O sistema de diagnóstico da DCU memoriza as falhas ocorridas, e utilizando o DIAG V3 e um laptop é 
+possível extrair relatórios detalhados acerca dessas falhas via interface de serviço.   
+ 
+A interface de serviço padrão da DCU é a RS232, cas o o laptop não possua essa entrada pode ser utiliza do 
+um adaptador USB / RS232. 
+ 
+ 
+2.2 Indicação da versão do software 
+ 
+A versão do software operacional DCU pode ser visualizada com o auxílio do “UPDATE”. 
+Adicionalmente a versão do software atual também es tá indicada em um adesivo, localizado no corpo do 
+DCU, designado por “Software Mod.” com campos de inscrição numerados de “01“ a “20“. 
+Neste adesivo a versão do software está marcada com  um X sobre o campo com o número correspondente, 
+por exemplo, numa DCU em que o campo “01“ estiver marcado com um X a versão do software será a 01. 
+Caso haja uma modificação, a versão do software ser á atualizada com uma nova marcação na etiqueta 
+mencionada (“02“ para versão 02 e assim por diante). 
+Caso vários números estejam marcados com um X, o nú mero mais alto será o número da versão atualmente 
+instalada. 
+ 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 6 ---
+Descrição de Funcionamento DDTSE20344E03-BR_01  
+ 
+Página 6/18 
+ 
+ 
+ 
+2.3 Dados técnicos da MDC-24RS4 
+ 
+• Alimentação de energia: 24VCC +/- 30% (16,8 – 31,2  VCC) 
+• Consumo próprio: < 25 W 
+• Máxima corrente do motor: 20 A, a prova de curto c ircuito 
+ 
+• Entradas digitais: 14 pinos (E1-E14) comutação de sinal positiva (10 mA em 24VCC) 
+2 pinos (E15-E16) entradas com fiação dupla  
+2 pinos (E17-E18) comutação de sinal negativa, para sensor de posição 
+de porta 
+ 
+• Saídas digitais: 7 pinos (A1-A4, A6-A8) comutação de sinal positiva (36 W, a prova de 
+curto circuito, carga de lâmpada máxima 21 W) 
+1 pino (A5); comutação de sinal positiva (65 W, prova e curto circuito, 
+carga de lâmpada máxima 21 W) 
+ 
+• Sinalização via LED: “SAFETY RELAY OFF“  
+“POWER SUPPLY (5 VCC)“  
+“ERROR“  
+“STATUS INFO“ 
+ 
+• Variação de temperatura: -40° C até +70° C 
+• Testado conforme: EN 50155 (equipamentos eletrônic os utilizados em veículos ferroviários) 
+EN 50121-3-2  (compatibilidade eletromagnética parte 3-2: Material 
+rodante - aparato) 
+IEC571 (equipamento eletrônico usado em veículos ferroviários) 
+ 
+• Número do programa: E405642 
+• Peso: ~3,4kg 
+ 
+ 
+2.4 Dados do sistema 
+ 
+• tempo de abertura: 3 +0,5 s (ajustável conforme it em 5.14) 
+• tempo de fechamento: 3 +0,5 s (ajustável conforme item 5.14) 
+• vão de abertura livre: 1.290 ± 10 mm 
+ 
+• faixa de temperatura:  -25° C até +70° C 
+ 
+• Consumo médio de energia da porta: < 160 W (movime nto de abertura) 
+   < 100 W (movimento de fechamento) 
+• Consumo máximo de energia da porta: < 500 W (< 500  ms) (fechamento, abertura, reciclo) 
+ 
+• Sobre-pressão máxima ocasionada pela ventilação de ntro do carro:  
+< 50 Pa 
+ 
+• Gabarito de teste para detecção de obstáculo na po rta: 
+a) Ø 30mm 
+b) peça retangular 10 x 100 mm 
+O gabarito de teste representa o menor obstáculo 
+detectável e deve ser mantida reto e rígido entre as folhas 
+de porta durante o fechamento. 
+ 
+• forças de compressão no fechamento: < 150N primeir a tentativa 
+     < 200N efetivo  tentativas posteriores 
+< 300N pico  (dependendo também do tempo de fechamento 
+conforme item 
+ 5.14) 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 7 ---
+DDTSE20344E03-BR_01 Descrição de Funcionamento  
+ 
+ 
+Página 7/18  
+ 
+ 
+3 Elementos de controle, ajustes e sinais I/O da DC U 
+ 
+3.1 Elementos de controle em cada entrada de porta 
+ 
+ 
+elemento nº localização fornecimento 
+============================================================================= 
+unidade de controle de porta MDC-24RS4 
+ 
+A1 mecanismo de acionamento KBB / IFE 
+disjuntor 
+ 
+F1 fiação do carro Cliente 
+buzzer de alerta 
+ 
+H1 área da porta Cliente 
+lâmpada de alerta 
+ 
+H2 área da porta Cliente 
+motor de acionamento da porta com 
+sensor de posição 
+ 
+M1 mecanismo de acionamento KBB / IFE 
+micro-chave de porta fechada e travada 
+ 
+S1 mecanismo de acionamento KBB / IFE 
+micro-chave de dispositivo de emergência 
+  
+S3-1 mecanismo de acionamento KBB / IFE 
+micro-chave de porta fora de serviço 
+ 
+S4-1 mecanismo de acionamento KBB / IFE 
+chave de serviço “toggle switch” 
+ 
+S6 mecanismo de acionamento KBB / IFE 
+botão “SOCO” 
+ 
+S21 área da porta Cliente 
+outros conectores 
+ 
+X... consultar o diagrama ED01029R11 
+ 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 8 ---
+Descrição de Funcionamento DDTSE20344E03-BR_01  
+ 
+Página 8/18 
+ 
+ 
+ 
+3.2 Elementos localizados na unidade de controle da  porta 
+ 
+Os seguintes elementos são montados do lado de fora do MDC-24RS4: 
+ 
+BOTÃO DE SERVIÇO: *) “Push-button” de serviço (para equipe de manutenção): permite fechar a porta ver 
+item 5.6.2. 
+  
+*) Reset da posição de final de curso / curva da cor rente do motor: Para efetuar o 
+reset da posição de final de curso / curva da corre nte do motor deve-se primeiro 
+desligar o sistema de porta e abrir o vão de porta até o máximo curso, após isso 
+manter o push-botton pressionado e religar a chave geral, nesse instante o led 
+vermelho “ERROR” irá acender e ficará aceso por um período t >1.5s quando este 
+irá piscar e apagar, neste momento o push-botton de ve ser aliviado e o sistema de 
+porta irá se fechar automaticamente numa velocidade  mais lenta que o normal de 
+operação para efetuar a leitura e salvar a nova condição (ver item seção 5.8.1). 
+ 
+INTERFACE DE SERVIÇO (X8): 
+A interface de serviço RS232 também pode ser usada através de um adaptador 
+USB / RS232  
+        
+*) Programação da memória interna (Upload do softwar e E405642P.. por meio de 
+laptop e do software “UPDATE” na memória Flash-EPRO M da DCU). 
+ 
+*) Para obtenção de diagnósticos: (a capacidade de d iagnóstico da DCU, bem como 
+o uso do software “DIAG PC”, é descrito no document o “Descrição de Diagnóstico 
+da Porta” DDS20166R13). 
+ 
+CAN bus (X6, X7): Conexão CAN-bus para comunicação de dados (não utilizada neste projeto); 
+ 
+DIP switch (4 chaves): Os quatro DIP switches para codificação estão ao lado dos LED’s (conforme item 
+3.3), protegidos por uma capa de metal. 
+ 
+ 
+RS485 (X9, X10): Interface de barramento de dados R S485, usada para comunicação entre as DCU´s 
+e a unidade de controle do veículo 
+ 
+ 
+3.3 LED´s indicadores na DCU 
+  
+Os LED´s no painel frontal da unidade de controle da porta (DCU) permitem uma fácil verificação do sistema 
+da porta, sem necessidade de qualquer equipamento de adicional. 
+ 
+As seguintes condições são indicadas nos LED’s da DCU: 
+ 
+Nome do LED  Cor  Função  
+5VCC  verde Indica se a DCU está ligada 
+ERROR vermelho Indica falhas na DCU  
+STATUS INFO  amarelo Sem função 
+SAFETY RELAY OFF  verde Indica a posição do relé de segurança: aceso => relé off, 
+apagado => relé on.  
+ 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 9 ---
+DDTSE20344E03-BR_01 Descrição de Funcionamento  
+ 
+ 
+Página 9/18  
+ 
+ 
+3.4 Sinais de entrada e saída da DCU 
+ 
+Designação dos pinos dos sinais de entrada e saída: 
+ 
+Módulo lógico 
+X1.1 E1 “Central open” “1” = comando de abertura 
+X1.2 E2 “Central close” “1” = comando de fechamento 
+X1.3 E3 Velocidade zero (v-zero) “1” = velocidade zero 
+X1.4 E4 Isolação elétrica da porta “1” = porta isolada 
+X1.5 E5 “Central open” “1” = comando de abertura 
+X1.6 E6 Velocidade zero (v-zero) “1” = velocidade zero 
+X1.7 E7 Disponível  
+X1.8 E8 Botão “SOCO” “1” = botão acionado 
+X1.9 E9 Não usado  
+X1.10 E10 Não usado  
+X1.11 E11 Micro-chave de porta fora de serviço “0“ = fora  de serviço 
+X1.12 E12 Micro-chave do dispositivo de emergência 
+(interno e externo) 
+“1” = dispositivo acionado 
+X1.13 E13 Micro-chave porta fechada e travada “0” = porta  fechada e travada 
+X1.14 E14 Disponível  
+X1.15 KL(-) Não usado  
+X1.16 E15 Não usado  
+X1.17 KL(-) Não usado  
+X1.18 E16 Não usado  
+X1.19 E17 Sensor de posição da porta (direção) “0” = puls o 
+X1.20 E18 Sensor de posição da porta (pulso) “0” = pulso 
+ 
+Módulo de força 
+X2.8 A1 Não usado  
+X2.7 A2 Não usado  
+X2.6 A3 Disponível  
+X2.5 A4 Não usado  
+X2.4 A5 Disponível  
+X2.3 A6 Buzzer de alerta “1” = buzzer acionado 
+X2.2 A7 Lâmpada de alerta “1” = lâmpada acionada 
+X2.1 A8 Não usado  
+ 
+Obs.: Os níveis lógicos mencionados acima correspon dem aos níveis dos sinais nas entradas e saídas do 
+DCU. 
+ 
+ 
+3.5 Codificação da porta 
+ 
+Cada porta é codificada pelos DIP switches localizados na DCU. 
+A codificação individual de cada tipo de porta está listada no “Diagrama elétrico” (ED01029R11). 
+ 
+Caso a DCU detectar uma codificação de porta inváli da durante a partida, ou seja, uma codificação dife rente 
+das especificadas, todas as funções da unidade de controle da porta serão desativadas. 
+Esta condição é indicada pelo LED “ERROR” na DCU (v er item 3.3) e a DCU gera um código de falha para 
+diagnóstico (consultar o Manual de Diagnóstico de Falha DDTSE20344E13-BR). 
+As funções da porta serão reativadas somente se a DCU for reiniciada com uma codificação de porta válida. 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 10 ---
+Descrição de Funcionamento DDTSE20344E03-BR_01  
+ 
+Página 10/18 
+ 
+ 
+ 
+4 Sinais entre o controle do veículo e a unidade de  controle da porta 
+ 
+4.1 Controle do veículo (VCU)  unidade de controle da porta (DCU) 
+ 
+4.1.1 Sinais transmitidos via cabo 
+ 
+* velocidade zero (v-zero)  
+Sinal contínuo de +24 VCC enquanto a velocidade do veículo for zero. As entradas E3 e E6 devem ter o 
+mesmo estado lógico para o sinal ser aceito pela DCU. 
+ 
+* “central open” 
+Pulso de +24 VCC, de pelo menos 50 ms. As entradas E1 e E5 devem ter o mesmo estado lógico para o 
+sinal ser aceito pela DCU. 
+ 
+* “central close” 
+ Pulso de +24 VCC, de pelo menos 50 ms para ser ace ito pela DCU. 
+ 
+* isolação elétrica da porta  
+ Sinal contínuo de +24VCC enquanto a porta estiver eletricamente isolada. 
+ 
+ 
+4.1.2 Sinais transmitidos via RS485 
+ 
+Nenhum sinal de comando é transmitido pelo barramento RS485. 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 11 ---
+DDTSE20344E03-BR_01 Descrição de Funcionamento  
+ 
+ 
+Página 11/18  
+ 
+ 
+4.2 Unidade de controle da porta (DCU)  controle do veículo (VCU) 
+ 
+4.2.1 Sinais transmitidos via cabo 
+ 
+* porta fechada & loop de travamento  
+O sinal de porta fechada e do loop de travamento é composto por uma interligação em série de: 
+* Contato N.O. da micro-chave “porta fechada e travada” S1. 
+* O possível contato livre do relé de segurança interno DCU (ver item 5.2). 
+ 
+Para movimentar o trem, o sinal de porta fechada e loop de travamento deve estar em ”1”. No caso de 
+interrupção do loop durante a movimentação do trem, a tração será interrompida. 
+Se o isolamento mecânico da porta for feito de form a adequada, conforme item 5.9, este sinal irá se 
+sobrepor ao loop.  
+ 
+* sinal de emergência  
+ Contato N.C. da micro-chave do dispositivo de emer gência S3-1. 
+ 
+* lâmpada de alerta  
+Sinal +24VCC enquanto a lâmpada estiver acionada. 
+ 
+* “buzzer” de alerta  
+Sinal +24VCC enquanto o buzzer estiver acionado. 
+ 
+ 
+4.2.2 Sinais transmitidos via RS485  
+ 
+Porta fechada e travada   “1” = porta fechada e tra vada  contínuo 
+Porta completamente aberta  “1” = porta completamen te aberta contínuo 
+Dispositivo de emergência ativado  “1” = emergência  ativa   contínuo 
+Porta isolada (travada mecanicamente) “0” = porta f ora de serviço  contínuo 
+Porta isolada eletricamente  “1” = porta isolada   contínuo 
+Comunicação RS485 OK               “1” = RS485 comu nicação OK  contínuo 
+Detecção de obstrução acionada  “1” = detecção acio nada  contínuo *) 
+Botão “SOCO” acionado   “1” = botão “SOCO” acionado   contínuo 
+ 
+Todos os códigos de diagnóstico conforme descrito na “Descrição de diagnóstico de porta”. 
+Prioridade de falha A   “1” = falha ativa de priori dade A  contínuo 
+Prioridade de falha B   “1” = falha ativa de priori dade B  contínuo 
+ 
+*) O sinal é comutado para o estado “1” quando uma obstrução é detectada na 2ª tentativa de fechamento  
+(exceto quando N5 = 1, neste caso o sinal é comutad o para o estado “1” na 1ª tentativa de fechamento) e 
+volta ao estado “0” quando a porta for fechada (ver também o item 5.8.1).   
+ 
+ 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 12 ---
+Descrição de Funcionamento DDTSE20344E03-BR_01  
+ 
+Página 12/18 
+ 
+ 
+ 
+5 Descrição das funções da porta 
+ 
+5.1 Ativação da unidade de controle da porta (DCU) 
+ 
+Ativação do DCU através do acionamento da alimentação de energia: 
+Sequências operacionais: 
+ 
+a) Porta fechada e travada: 
+A porta será ativada e irá permanecer fechada e operará conforme os comandos enviados pela VCU. 
+ 
+b)  Porta aberta (com o sinal de porta fechada e tr avada = “0”): 
+A porta será ativada e imediatamente irá operar no sentido do fechamento mesmo se um comando de 
+abertura for enviado. 
+A unidade de controle da porta (DCU) não pode monit orar a posição verdadeira da porta após a 
+inicialização, portanto a porta irá se fechar duran te a rotina de inicialização até que se tenha ating ido a 
+posição de fechada e travada (indicada pela micro-c have S1). O sistema de detecção de obstrução 
+estará em operação (ver item 5.8.1). 
+Após isso a porta irá seguir os comandos enviados pela VCU. 
+ 
+Se no acionamento da DCU estiverem presentes os sin ais indicados conforme o item 5.2.1 o relé de 
+segurança será ativado. 
+ 
+ 
+5.2 Relé de segurança interno 
+ 
+5.2.1 Ativação do relé de segurança 
+ 
+O relé de segurança interno fica localizado na DCU e permite a energização do motor de acionamento da 
+porta no sentido da abertura. Quando o relé de segurança está ativado a porta pode ser aberta pelo software 
+da DCU. 
+Enquanto o relé de segurança está ativado, o loop de porta fechada e travada é interrompido (ver item 4.2.1) 
+ 
+Para energização do relé de segurança os seguintes sinais devem estar presentes: 
+• “central open” 
+E 
+• um sinal de permissão interna para ativação enviad o pelo software da DCU (através de uma chave  
+transistorizada), e isto ocorre quando os seguintes sinais estão ativos: 
+• velocidade zero (v-zero)   
+E 
+• “central open”  
+ 
+O acionamento do dispositivo de emergência não influi na ativação do relé de segurança (ou seja, se a porta 
+está com o dispositivo de emergência acionado, o relé de segurança será ativado em conformidade com as 
+condições listadas acima). 
+ 
+O relé de segurança é alimentado diretamente pelo sinal via cabo “central open”. 
+ 
+5.2.2 Desativação do relé de segurança 
+ 
+Uma vez que o relé de segurança está ativado, este é travado através de um by-pass interno na DCU. 
+O by-pass é removido quando: 
+• O sinal “central open” é desativado E 
+• Nenhum código de diagnóstico com prioridade A está  ativo E 
+• A porta está fechada e travada       E 
+• O dispositivo de emergência não está acionado 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 13 ---
+DDTSE20344E03-BR_01 Descrição de Funcionamento  
+ 
+ 
+Página 13/18  
+ 
+ 
+5.3 Sinal “velocidade zero (v-zero)” 
+ 
+O sinal de velocidade zero sobrepõe-se a todos os o utros sinais de ativação, abertura e emergência. A 
+abertura das portas somente é possível quando o sinal de velocidade zero está presente (ver 5.2.1). 
+ 
+Como fator de segurança, uma porta aberta (sem o si nal de porta fechada e travada) se fechará 
+imediatamente caso o sinal de velocidade zero for desativado (ver 5.6.3). 
+ 
+Quando o trem está em movimento a porta não pode se r aberta por causa do travamento mecânico do 
+mecanismo e caso o dispositivo de emergência seja a cionado desativando a trava mecânica o motor não 
+permitirá a abertura da porta pois o sinal de velocidade zero não estará presente e por conseqüência o relé de 
+segurança estará desativado. 
+ 
+O sinal de velocidade zero é formado por duas entra das na DCU, E3 e E6. Caso os estados lógicos das 
+entradas forem diferentes, um código de diagnóstico  será gerado (ver Manual de Diagnóstico de Falha 
+DDTSE20344R13-BR) e o sinal de velocidade zero não será aceito pela DCU. Portanto o sistema de porta i rá 
+funcionar considerando v-zero = “0”. 
+ 
+ 
+5.4 Sinal “Central open” 
+ 
+O sinal “central open” é aceito somente se o trem não estiver em movimento (ou seja, em velocidade zer o) e 
+este sinal é necessário para o acionamento do relé de segurança (ver item 5.2.1) e posteriormente para  
+permitir a abertura da porta. 
+ 
+Caso o DCU detecte que o sinal “central open” apare ce antes do sinal de velocidade zero, um código par a 
+diagnóstico de falha é gerado e transmitido ao sist ema de barramento RS485 (ver Manual de Diagnóstico de 
+Falha DDTSE20344R13-BR). 
+ 
+O sinal “central open” é formado por duas entradas na DCU, E1 e E5. Caso os estados lógicos das entrad as 
+forem diferentes, um código de diagnóstico será ger ado (ver Manual de Diagnóstico de Falha 
+DDTSE20344R13-BR) e o sinal “central open” não será  aceito pela DCU. Portanto o sistema de porta irá 
+funcionar “central open” = “0”. 
+   
+Os elementos de indicação serão ativados de acordo com o item 5.13. 
+ 
+ 
+5.5 Abertura de porta 
+Os elementos de alerta (buzzer e lâmpada) atuarão c onforme o item 5.13. Todos os parâmetros são 
+ajustáveis conforme descrito no item 5.14. 
+Detecção de obstrução está ativa conforme item 5.8.2. 
+Para todas as sequências de abertura o relé de segu rança tem de ser ativado de conforme descrito no it em 
+5.2.1. 
+ 
+5.5.1 Abertura através de sinal “central open” 
+Uma porta fechada ou em fechamento pode ser aberta pelo condutor com o comando “central open”. 
+ 
+5.5.2 Abertura de porta manual 
+Uma porta pode ser aberta manualmente se a alimenta ção de energia for desligada e a porta for destrava da 
+manualmente usando uma alavanca presente no módulo central do mecanismo de acionamento (a mesma 
+alavanca é usada pelo dispositivo de emergência para abertura da porta). 
+ 
+ 
+5.6 Fechamento de porta 
+Os elementos de alerta (buzzer e lâmpada) atuarão c onforme o item 5.13. Todos os parâmetros são 
+ajustáveis conforme descrito no item 5.14. 
+A detecção de obstrução, conforme descrito no item 5.8, será ativada a cada comando de fechamento, 
+exceções estão descritas no capítulo correspondente. 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 14 ---
+Descrição de Funcionamento DDTSE20344E03-BR_01  
+ 
+Página 14/18 
+ 
+ 
+5.6.1 Fechamento através do sinal “central close” 
+Caso o condutor acione o comando “central close” a porta irá começar a se fechar após um tempo de atra so 
+T3, padrão 3 segundos. Se o sinal for enviado duran te o movimento de abertura a porta irá parar na pos ição 
+atual e se fechar após T3. 
+A porta poderá ser aberta novamente pelo condutor com o comando “central open”. 
+ 
+5.6.2 Fechamento de porta através do botão de servi ço da DCU 
+O acionamento do botão de serviço (push-button) da DCU gera o fechamento imediato de uma porta que está 
+aberta ou em seqüência de abertura, entretanto não gera o acionamento dos elementos de alerta (buzzer e 
+lâmpada). 
+ 
+5.6.3 Fechamento da porta por perda do sinal de vel ocidade zero 
+Caso o sinal de velocidade zero for desativado (ou uma das duas entradas E3 ou E3, estiver indicando a  
+desativação de v-zero), uma porta aberta será fechada imediatamente. 
+Esta operação será realizada com prioridade total, e mesmo que o sinal “central open” estiver ativado a porta 
+irá se fechar. 
+ 
+ 
+5.7 Dispositivo de emergência 
+ 
+Em caso de emergência a porta pode ser aberta manua lmente, pois cada porta está equipada com um 
+dispositivo de emergência interno no formato de um manipulo rotativo. O manipulo permanecerá em posiçã o 
+de abertura após o acionamento. 
+Algumas portas também possuem um dispositivo de eme rgência externo, no formato de um pino rotativo com  
+um ponto de travamento e pode ser operado manualmente através da chave padrão. 
+A DCU não difere qual dos dispositivos de emergência (interno ou externo) está acionado. 
+ 
+Caso o trem esteja desligado, ou seja, sem nenhum f ornecimento de energia (rede ou bateria) se algum 
+dispositivo de emergência for acionado, nenhum elemento de alerta (buzzer e lâmpada) será acionado. 
+ 
+A porta é destravada por ambos os dispositivos de e mergência através de um cabo de aço “bowden cable” e 
+pode ser aberta manualmente. 
+ 
+5.7.1 Acionamento do dispositivo de emergência inte rno/externo 
+ 
+O acionamento do dispositivo de emergência irá: 
+• acionar a micro-chave “emergency device” (S3-1) 
+• enviar um sinal à DCU e ao veículo (S3-1.1/2 está interrompido) 
+• o sinal “dispositivo de emergência acionado” será transmitido via RS485 (ver item 4.2.2) 
+ 
+Se não existir nenhum fornecimento de energia (rede  ou bateria), não é possível que o motor atue no se ntido 
+de fechamento da porta (conforme descrito acima) ca so o dispositivo de emergência seja acionado sem o 
+sinal de velocidade zero. 
+ 
+ 
+ 
+ 
+com velocidade zero 
+ 
+• Ao receber o sinal, a DCU desliga as funções da po rta. 
+ 
+• Com o acionamento, o “bowden cable” irá destravar a 
+porta, e esta vai deixar de estar na posição fechad a e 
+travada (detectada pela micro-chave S1). 
+ 
+• A porta poderá ser aberta manualmente. 
+ 
+• O loop de porta fechada e travada será interrompid o. 
+ sem velocidade zero 
+ 
+• Ao receber o sinal de acionamento do dispositivo d e 
+emergência, a DCU ativa o motor do mecanismo no 
+sentido de fechamento da porta por no máximo 5 
+minutos (razões técnicas) ou até que o sinal de 
+velocidade zero seja enviado. Se o sinal de velocid ade 
+zero não for enviado, após 5 minutos o motor será 
+desativado e a porta funcionará como se o sinal de 
+velocidade zero estivesse presente. 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 15 ---
+DDTSE20344E03-BR_01 Descrição de Funcionamento  
+ 
+ 
+Página 15/18  
+ 
+5.7.2 Retorno de posição do dispositivo de emergênc ia interno/externo 
+ 
+Para que os dispositivos de emergência, interno e e xterno retornem a posição neutra é preciso que se u tilize 
+a chave padrão para girar o pino central.  
+Após o retornar para a posição neutra, a micro-chav e do dispositivo de emergência será desativada e a porta 
+será acionada no sentido do fechamento. 
+Os sinais ativados conforme descrito no item 5.7.1 serão desligados e o sistema de detecção de obstruç ão 
+(ver item 5.8.1) voltará a funcionar. Se a porta fo i aberta com o uso do dispositivo de emergência e n enhum 
+sinal “central open” foi dado nesse intervalo, ou seja, o relé de segurança não está ativado, então a porta não 
+poderá retroceder no caso de uma detecção de obstrução durante a seqüência de fechamento. 
+A reabertura durante o fechamento de porta é possível conforme descrito no item 5.5.1. 
+ 
+ 
+5.8 Detecção de obstrução 
+ 
+5.8.1 Detecção de obstrução durante a seqüência de fechamento 
+ 
+Durante a sequência de fechamento os obstáculos presos são monitorados pelos seguintes sistemas: 
+ 
+a) Monitoramento da corrente do motor: 
+Monitora se a corrente consumida pelo motor durante o fechamento excede o valor da corrente nominal do 
+motor. O valor da corrente nominal do motor não é c onstante, pois depende da posição em que a porta se  
+encontra durante o fechamento, e essa curva de corr ente do motor é salva na memória da DCU durante a 
+realização de uma seqüência de fechamento prévia (a uto-armazenamento da curva, ver item 3.2 “BOTÃO 
+DE SERVIÇO”). 
+A curva da corrente da corrente nominal do motor pe rmanece armazenada na DCU mesmo quando a 
+alimentação de energia é desligada.  
+Caso a DCU seja substituída, um novo reset da curva  da corrente do motor é necessário e deve ser feito  
+conforme o item 3.2. 
+ 
+b) Monitoramento do curso / tempo: 
+A DCU monitora e divide o curso da porta em pequenas distâncias utilizando o sensor de posição da porta. 
+Caso a porta em movimento não percorra a distância apropriada dentro de um tempo fixo, a detecção de 
+obstrução é ativada. 
+ 
+O sistema de detecção de obstrução é automaticament e desativado quando a porta chega à posição de 
+fechada e travada. 
+ 
+Comandos de fechamento conforme os itens 5.6.1 e 5.6.2: 
+Caso a detecção de obstrução esteja ativada, a port a irá funcionar normalmente, ou seja, com o comando  
+“central open” o sistema de porta irá se abrir completamente até que a posição final de abertura seja atingida 
+(curso máximo). Após o envio do comando “central cl ose” os elementos de alerta (buzzer e lâmpada) serã o 
+ativados e a porta irá se fechar. Caso uma obstruçã o seja detectada durante uma tentativa de fechament o (a 
+quantidade de tentativas de fechamento é definida p elo parâmetro ajustável N5) a porta irá reabrir em 
+aproximadamente 100 mm (~50 por folha da porta) e depois se fechará imediatamente. 
+Após a execução de todas as tentativas de fechament o (reciclos) definidas por N5 (valor padrão de N5 =  3, 
+ver também o item 5.14), a porta irá reabrir até a posição final de curso e parar de funcionar até que seja feita 
+a reativação. 
+Para a reativação do sistema de porta ver Manual de Diagnóstico de Falha DDTSE20344R13-BR. 
+ 
+Perda de velocidade zero conforme o item 5.6.3: 
+Caso a detecção de obstrução esteja ativada, e o si nal de v-zero for perdido, a porta irá se fechar, e ntretanto 
+caso encontre uma obstrução não ocorrerá à reabertu ra da porta (100 mm), a porta somente deixará de 
+forçar o fechamento por um período de 1 segundo e e sse procedimento se repetirá por N5 tentativas. Apó s a 
+execução do número de tentativas o motor irá forçar  o fechamento da porta continuamente, ou seja, fica rá 
+forçando o obstáculo, por um período máximo de 5 mi nutos (razões técnicas). Após esse tempo o motor se rá 
+desligado e a porta será colocada pelo sistema na condição de “fora de serviço”. 
+Para a reativação do sistema de porta ver Manual de Diagnóstico de Falha DDTSE20344R13-BR. 
+ 
+Será gerado um código de falha para diagnóstico na DCU após as tentativas de fechamento concluídas e 
+transmitidas (ver Manual de Diagnóstico de Falha DDTSE20344R13-BR). 
+ 
+Os elementos de alerta (buzzer e lâmpada) serão ativados conforme o item 5.13. 
+ 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 16 ---
+Descrição de Funcionamento DDTSE20344E03-BR_01  
+ 
+Página 16/18 
+ 
+ 
+5.8.2 Sistema de monitoramento do movimento da port a durante a seqüência de abertura: 
+ 
+Durante a sequência de abertura da porta, o monitor amento da corrente do motor e o monitoramento do 
+curso / tempo estarão em funcionamento. 
+Caso a detecção de obstrução esteja ativa, se ocorr er uma obstrução durante a seqüência de abertura a 
+porta irá interromper a abertura por 2 segundos antes de continuar o movimento de abertura (os elementos de 
+alerta se mantém ativados).  
+Caso a obstrução seja detectada novamente, a porta repete a sequência. 
+Após exceder um número pré-ajustado de tentativas d e abertura (ver Manual de Diagnóstico de Falha 
+DDTSE20344R13-BR) a porta irá parar em sua posição atual e os elementos de alerta (buzzer e lâmpada) 
+serão desativados. Entretanto a DCU irá aceitar est a posição como a posição de abertura máxima (final de 
+curso) e irá operar normalmente conforme os comandos que forem enviados em seqüência. 
+ 
+ 
+5.9 Isolação mecânica da porta 
+ 
+Uma trava mecânica para isolação da porta é montada  diretamente no módulo central do mecanismo 
+(sistema “Cut Out Device”), e é acionada de dentro do carro através da chave padrão. 
+Ao girar a chave para a posição “Fora de Serviço” (a porta deve estar em posição completamente fechada  e 
+travada) o dispositivo de isolação ativa um trinco mecânico que trava as folhas da porta na posição fe chada e 
+travada e aciona a micro-chave S4-1 (“porta fora de serviço”). 
+ 
+E essa operação causará as seguintes operações de controle: 
+ 
+•   o sensor de fim de curso S4-1 envia um sinal para DCU, que desliga as funções da porta 
+•   o loop de porta fechada e travada é desviado pela micro-chave S4-1 (ver também 4.2.1) 
+•   o sinal “porta isolada” é transmitido pelo barramento RS485 conforme item 4.2.2 
+•   nenhum código novo de falha para diagnóstico será armazenado ou transmitido 
+ 
+ 
+5.10 Isolação elétrica da porta 
+ 
+Através do sinal transmitido via cabo “isolação elé trica da porta” as funções da porta podem ser desli gadas. 
+Caso este sinal esteja ativo a DCU não reagirá a ne nhum comando de abertura e transmite o sinal “porta  
+isolada eletricamente” pelo barramento RS485. Se a porta estiver aberta será fechada imediatamente. 
+Ver a lista de sinais enviados e recebidos nos itens 4.1 e 4.2 
+ 
+O loop de porta fechada e travado não é desviado, e  uma abertura de emergência conforme descrita no it em 
+5.7 é possível a qualquer momento caso a velocidade zero esteja presente. 
+ 
+ 
+5.11 Desligamento da alimentação de energia (chave de serviço on/off “toggle switch”) 
+ 
+Para operações de manutenção, o fornecimento de ene rgia para o sistema de porte pode ser desligado pel a 
+chave on/off  S6.  
+O loop de porta fechada e travada não é desviado. 
+ 
+ 
+5.12 Botão “SOCO” 
+ 
+Ao lado de cada porta está instalado um botão “SOCO”. Assim que este botão for acionado um sinal via cabo 
+será enviado para DCU e para VCU. 
+A DCU também envia um sinal via barramento RS485 pa ra a VCU enquanto o botão “SOCO” estiver 
+acionado. Nenhuma outra funcionalidade do sistema de porta será afetada.  
+ 
+ 
+5.13 Elementos de aviso e indicação 
+ 
+Todos os parâmetros ajustáveis são ajustáveis conforme descrito no item 5.14. 
+ 
+5.13.1   “Buzzer” de alerta H1 
+ 
+O “buzzer” de alerta é ativado: 
+• Alarme constante durante o tempo T3; antes de a po rta iniciar o fechamento (ver 5.6.1) 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 17 ---
+DDTSE20344E03-BR_01 Descrição de Funcionamento  
+ 
+ 
+Página 17/18  
+ 
+ 
+5.13.2 Lâmpada de aviso H2 
+ 
+A lâmpada de alerta é ativada: 
+• Com uma freqüência de 1 Hz para T3; antes da porta  iniciar o fechamento (ver item 5.6.1) 
+• Com uma freqüência de 1 Hz caso uma obstrução seja  detectada até que a porta esteja fechada e 
+travada ou até que a porta seja reiniciada 
+• Como um sinal contínuo enquanto a porta estiver co m o dispositivo de emergência acionado 
+ 
+ 
+5.14 Parâmetros ajustáveis da porta 
+ 
+Os seguintes parâmetros são ajustáveis via interface RS485: 
+ 
+Parâmetro  valor padrão  intervalo de ajuste  escala  Referência  
+T1 3 s *) 2 – 4 (tol. de +0.5 s) 0,1 segundo Tempo de abertura da porta; ver item 2.4 
+T2 3 s *) 2 – 4 (tol. de +0.5 s) 0,1 segundo Tempo de abertura da porta; ver item 2.4 
+T3 3 s 1 – 10 s 0,1 segundo Atraso de tempo antes do fechamento; ver 
+item 5.6.1 (“central close”) 
+N5 3 tentativas 1 – 10 tentativas 1 tentativa Tentativas de fechamento após detecção 
+de obstrução 
+ 
+*) forças de compressão não podem ser garantidas po r períodos de fechamento < 2,5 segundos; Devido ao 
+sistema de auto-armazenamento da curva da corrente do motor (ver item 5.8.1a)) o tempo ajustável somen te 
+será atingido após vários ciclos de abertura/fechamento. 
+ 
+ 
+5.15 Monitoramento de porta fechada 
+ 
+Caso a porta deixe a posição fechada e travada sem um comando de abertura, por ex.: no caso de uma falha, 
+o motor de acionamento da porta será ativado automa ticamente para operar no sentido de fechamento e a 
+porta será fechada novamente. 
+A detecção de obstrução não estará em funcionamento neste caso. 
+ 
+ 
+5.16 Movimento de porta 
+ 
+Ao analisar os pulsos do sensor de posição da porta  a DCU detecta a posição atual da porta atual em 
+qualquer momento e dependendo da informação controla o motor de acionamento da porta. 
+Quando a DCU é ligada, esta não consegue monitorar a posição da porta imediatamente (exceto se a porta  
+estiver na posição fechada e travada). 
+Portanto em uma porta fora da posição fechada e travada todos os movimentos serão executados conforme a 
+rotina de inicialização (ver item 5.1) até que esta atinja a posição fechada e travada. 
+ 
+
+--- DDTSE20344E03-BR_01 (Descrição de Funcionamento).pdf | PÁGINA 18 ---
+Descrição de Funcionamento DDTSE20344E03-BR_01  
+ 
+Página 18/18 
+ 
+ 
+ 
+6 Índice de revisões 
+ 
+revisão data preparado verificado/liberado 
+ 
+00 31/12/2011 Társis Tezza  Flavio Pereira  
+01 04/03/2014 Flavio Pereira Talles Cristian 
+ 
+item modificação 
+00 Baseado no original em inglês DDTSE20344E03_04 
+01 Alterações considerando novos códigos (R03 e R04 ) 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

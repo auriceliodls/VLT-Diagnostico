@@ -1,0 +1,2653 @@
+# MANUAL: Alternador - Service Guide.pdf
+
+--- INÍCIO DA PÁGINA 1 ---
+Alternator Service Guide
+
+**Tabela 1 (Página 1):**
+| Alternator Service Guide |  |
+|  | uide |
+
+--- FIM DA PÁGINA 1 ---
+
+--- INÍCIO DA PÁGINA 2 ---
+**Tabela 1 (Página 2):**
+|  |
+|  |
+
+--- FIM DA PÁGINA 2 ---
+
+--- INÍCIO DA PÁGINA 3 ---
+Introduction
+Scheduled service and repair are vital to the operated in adverse or unusual environmental
+reliable operation of your alternator and the conditions, the service intervals may need
+safety of those who come in contact with it. to be more frequent. The alternator should
+The service activities included in this guide be continually monitored between service to
+are intended to maximise the life of the identify any potential failure modes, signs of
+alternator, but will not vary, extend or change misuse, or excessive wear and tear.
+the terms of the manufacturer’s standard
+warranty or your obligations in that warranty.
+Each service interval should be used as a
+guide only, and developed on the basis that
+the alternator was installed and is operated
+in accordance with the manufacturer’s
+guidelines. If the alternator is located and/or
+
+**Tabela 1 (Página 3):**
+| Introduction Scheduled service and repair are vital to the operated in adverse or unusual environmental reliable operation of your alternator and the conditions, the service intervals may need safety of those who come in contact with it. to be more frequent. The alternator should The service activities included in this guide be continually monitored between service to are intended to maximise the life of the identify any potential failure modes, signs of alternator, but will not vary, extend or change misuse, or excessive wear and tear. the terms of the manufacturer’s standard warranty or your obligations in that warranty. Each service interval should be used as a guide only, and developed on the basis that the alternator was installed and is operated in accordance with the manufacturer’s guidelines. If the alternator is located and/or |
+|  |
+
+--- FIM DA PÁGINA 3 ---
+
+--- INÍCIO DA PÁGINA 4 ---
+Disclaimer
+This guide contains guidance and This guide states service intervals and key
+instructions for servicing and maintenance of components to inspect throughout the life
+the alternator only. of the alternator. Refer to the full instructions
+Before operating the alternator, refer to the in the Installation, Service & Maintenance
+Installation, Service and Maintenance manual manual when servicing the alternator.
+to make sure that all personnel who work on This guide is written for skilled electrical
+the equipment have access to the manual and mechanical technicians and engineers,
+and all additional documentation supplied who have prior knowledge and experience
+with it. Misuse and failure to follow the of generating equipment of this type. If in
+instructions, and the use of non-approved doubt, please seek expert advice or contact
+parts, may invalidate the product warranty your local Cummins Generator Technologies
+and lead to potential accidents. subsidiary.
+The manual is an essential part of the
+alternator and should be available to all users
+throughout its life.
+
+**Tabela 1 (Página 4):**
+| Disclaimer This guide contains guidance and This guide states service intervals and key instructions for servicing and maintenance of components to inspect throughout the life the alternator only. of the alternator. Refer to the full instructions Before operating the alternator, refer to the in the Installation, Service & Maintenance Installation, Service and Maintenance manual manual when servicing the alternator. to make sure that all personnel who work on This guide is written for skilled electrical the equipment have access to the manual and mechanical technicians and engineers, and all additional documentation supplied who have prior knowledge and experience with it. Misuse and failure to follow the of generating equipment of this type. If in instructions, and the use of non-approved doubt, please seek expert advice or contact parts, may invalidate the product warranty your local Cummins Generator Technologies and lead to potential accidents. subsidiary. The manual is an essential part of the alternator and should be available to all users throughout its life. |
+|  |
+
+--- FIM DA PÁGINA 4 ---
+
+--- INÍCIO DA PÁGINA 5 ---
+Disclaimer Notice
+Information in this guide was correct at time
+of going to print. It may be superseded due
+to our policy of continuous improvement.
+Please visit:
+www.stamford-avk.com
+for latest documentation.
+
+**Tabela 1 (Página 5):**
+| Notice Information in this guide was correct at time of going to print. It may be superseded due to our policy of continuous improvement. Please visit: www.stamford-avk.com for latest documentation. |
+|  |
+
+--- FIM DA PÁGINA 5 ---
+
+--- INÍCIO DA PÁGINA 6 ---
+Safety Precautions
+Safety Information and Notices
+Danger, Warning and Caution panels are used in this manual to describe the sources of hazards, their
+consequences and how to avoid injury. Notice panels emphasize important or critical instructions.
+DANGER
+Danger indicates a hazardous situation which, if not avoided, WILL result in death or serious injury.
+WARNING
+Warning indicates a hazardous situation which, if not avoided, COULD result in death or serious injury.
+CAUTION
+Caution indicates a hazardous situation which, if not avoided, COULD result in minor or
+moderate injury.
+NOTICE
+Caution indicates a hazardous situation which, if not avoided, COULD result in minor or
+moderate injury.
+
+**Tabela 1 (Página 6):**
+| DANGER |
+| Danger indicates a hazardous situation which, if not avoided, WILL result in death or serious injury. |
+
+**Tabela 2 (Página 6):**
+| WARNING |
+| Warning indicates a hazardous situation which, if not avoided, COULD result in death or serious injury. |
+
+**Tabela 3 (Página 6):**
+| CAUTION |
+| Caution indicates a hazardous situation which, if not avoided, COULD result in minor or moderate injury. |
+
+**Tabela 4 (Página 6):**
+| NOTICE |
+| Caution indicates a hazardous situation which, if not avoided, COULD result in minor or moderate injury. |
+
+--- FIM DA PÁGINA 6 ---
+
+--- INÍCIO DA PÁGINA 7 ---
+Safety Precautions
+General Guidance
+NOTICE
+These safety precautions are for general guidance and supplement your own safety procedures and all
+applicable laws and standards.
+Skill Requirements of Personnel
+Service and maintenance procedures must only be carried out by experienced and qualified
+engineers, who are familiar with the procedures and the equipment.
+Risk Assessment
+A risk assessment has been performed on this product by Cummins, however a separate risk
+assessment must be performed by the user/operating company to establish all personnel-related
+risks. All affected users must be trained on the identified risks. Access to the Power PlanUGenerator
+Set during operation must be restricted to persons who have been trained on these risks.
+
+**Tabela 1 (Página 7):**
+| NOTICE |
+| These safety precautions are for general guidance and supplement your own safety procedures and all applicable laws and standards. |
+
+--- FIM DA PÁGINA 7 ---
+
+--- INÍCIO DA PÁGINA 8 ---
+Personal Protective Equipment (PPE)
+All persons operating, servicing, maintaining or working in or with a power plant or a generator set
+must wear appropriate Personal Protective Equipment (PPE) Recommended PPE includes:
+• Ear and Eye Protection
+• Head and face protection
+• Safety footwear
+• Overalls that protect the lower arms and legs
+Ensure that all persons are fully aware of the emergency procedures in case of accidents.
+Noise
+WARNING
+Noise from a running alternator can cause serious injury by permanent hearing damage.
+To prevent injury, wear appropriate personal protection equipment (PPE).
+Maximum A-weighted noise emissions depend on alternator type. Contact the supplier for
+application-specific details.
+
+**Tabela 1 (Página 8):**
+| WARNING |
+| Noise from a running alternator can cause serious injury by permanent hearing damage. To prevent injury, wear appropriate personal protection equipment (PPE). |
+
+--- FIM DA PÁGINA 8 ---
+
+--- INÍCIO DA PÁGINA 9 ---
+Electrical Equipment
+DANGER
+Live electrical conductors can cause serious injury or death by electric shock and burns.
+To prevent injury and before removing covers over electrical conductors, isolate the generator set
+from all energy sources, remove stored energy and use lock out/tag out safety procedures.
+All electrical equipment can be dangerous if not operated correctly. Always install, service and
+maintain the alternator in accordance with this manual. Work that requires access to electrical
+conductors must comply with all applicable local and national electrical safety procedures for the
+voltages involved and any site specific rules. Always use genuine branded replacement parts.
+Lock Out/Tag Out
+WARNING
+Reconnected Energy Source
+Accidental reconnection of energy sources during service and maintenance work can cause serious
+injury or death by electric shock, burns, crushing, severing or trapping.
+To prevent injury and before starting service and maintenance work, use appropriate lock out/tag out
+safety procedures to keep the generator set isolated from energy sources. Do not defeat or bypass the
+lock out/tag out safety procedures.
+
+**Tabela 1 (Página 9):**
+| DANGER |
+| Live electrical conductors can cause serious injury or death by electric shock and burns. To prevent injury and before removing covers over electrical conductors, isolate the generator set from all energy sources, remove stored energy and use lock out/tag out safety procedures. |
+
+**Tabela 2 (Página 9):**
+| WARNING |
+| Reconnected Energy Source Accidental reconnection of energy sources during service and maintenance work can cause serious injury or death by electric shock, burns, crushing, severing or trapping. To prevent injury and before starting service and maintenance work, use appropriate lock out/tag out safety procedures to keep the generator set isolated from energy sources. Do not defeat or bypass the lock out/tag out safety procedures. |
+
+--- FIM DA PÁGINA 9 ---
+
+--- INÍCIO DA PÁGINA 10 ---
+Lifting
+DANGER
+Falling mechanical parts can cause serious injury or death by impact, crushing, severing or trapping.
+To prevent injury and before lifting:
+• Check the capacity, condition and attachment of lifting equipment (crane, hoists and jacks,
+including attachments to anchor, fix or support the equipment).
+• Check the capacity, condition and attachment of accessories for lifting (hooks, slings, shackles
+and eye bolts for attaching loads to lifting equipment).
+• Check the capacity, condition and attachment of lifting fixtures on the load.
+• Check the mass, integrity and stability (e.g. unbalanced or shifting center of gravity) of the load.
+WARNING
+Falling mechanical parts can cause serious injury or death by impact, crushing, severing or
+trapping.
+To prevent injury and before lifting the alternator:
+• Do not lift the complete generator set by the alternator lifting fixtures.
+• Keep the alternator horizontal when lifting.
+• Fit drive end and non-drive end transit fittings to single bearing alternators to keep the main rotor
+in the frame.
+Do not remove the lifting label attached to one of the lifting points.
+
+**Tabela 1 (Página 10):**
+| DANGER |
+| Falling mechanical parts can cause serious injury or death by impact, crushing, severing or trapping. To prevent injury and before lifting: • Check the capacity, condition and attachment of lifting equipment (crane, hoists and jacks, including attachments to anchor, fix or support the equipment). • Check the capacity, condition and attachment of accessories for lifting (hooks, slings, shackles and eye bolts for attaching loads to lifting equipment). • Check the capacity, condition and attachment of lifting fixtures on the load. • Check the mass, integrity and stability (e.g. unbalanced or shifting center of gravity) of the load. |
+
+**Tabela 2 (Página 10):**
+| WARNING |
+| Falling mechanical parts can cause serious injury or death by impact, crushing, severing or trapping. To prevent injury and before lifting the alternator: • Do not lift the complete generator set by the alternator lifting fixtures. • Keep the alternator horizontal when lifting. • Fit drive end and non-drive end transit fittings to single bearing alternators to keep the main rotor in the frame. |
+
+--- FIM DA PÁGINA 10 ---
+
+--- INÍCIO DA PÁGINA 11 ---
+Alternator Operating Areas
+WARNING
+Debris ejected during catastrophic failure can cause serious injury or death by impact, severing or
+stabbing.
+To prevent injury:
+• Keep away from the air inlet and air outlet when the alternator is running.
+• Do not put operator controls near the air inlet and air outlet.
+• Do not cause overheating by running the alternator outside rating plate parameters.
+• Do not overload the alternator.
+• Do not run an alternator with excessive vibration.
+• Do not synchronize parallel alternators outside the specified parameters.
+Always wear suitable PPE when working in the hatched areas
+shown in the diagram or directly in-line with any air inlet/outlet.
+Make sure this consideration is captured in your risk assessment.
+
+**Tabela 1 (Página 11):**
+| WARNING |
+| Debris ejected during catastrophic failure can cause serious injury or death by impact, severing or stabbing. To prevent injury: • Keep away from the air inlet and air outlet when the alternator is running. • Do not put operator controls near the air inlet and air outlet. • Do not cause overheating by running the alternator outside rating plate parameters. • Do not overload the alternator. • Do not run an alternator with excessive vibration. • Do not synchronize parallel alternators outside the specified parameters. |
+
+--- FIM DA PÁGINA 11 ---
+
+--- INÍCIO DA PÁGINA 12 ---
+Hazard Warning Labels
+WARNING
+Safety Cover Removed
+A hazard exposed when a safety cover is removed can cause serious injury or death.
+To prevent injury:
+• Fit the safety labels at the locations shown on the back of the label sheet supplied.
+• Observe the safety labels.
+• Refer to the service manual before removing covers.
+The generator set manufacturer is responsible for fitting the self-adhesive hazard warning labels
+supplied with the alternator.
+Replace labels that are missing, damaged or painted over.
+
+**Tabela 1 (Página 12):**
+| WARNING |
+| Safety Cover Removed A hazard exposed when a safety cover is removed can cause serious injury or death. To prevent injury: • Fit the safety labels at the locations shown on the back of the label sheet supplied. • Observe the safety labels. • Refer to the service manual before removing covers. |
+
+--- FIM DA PÁGINA 12 ---
+
+--- INÍCIO DA PÁGINA 13 ---
+Hazard Warning Labels - continued
+
+--- FIM DA PÁGINA 13 ---
+
+--- INÍCIO DA PÁGINA 14 ---
+P0/P1
+Alternator
+
+--- FIM DA PÁGINA 14 ---
+
+--- INÍCIO DA PÁGINA 15 ---
+P0/P1
+Alternator
+Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours
+6 Month Service 1 Year Service 2 Year Service 5 Year Service
+
+**Tabela 1 (Página 15):**
+|  | P0/P1 Alternator |
+| Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours 6 Month Service 1 Year Service 2 Year Service 5 Year Service |  |
+
+--- FIM DA PÁGINA 15 ---
+
+--- INÍCIO DA PÁGINA 16 ---
+rotanretlA
+1P/0P
+Commission
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Alternator rating ■ Synchronisation settings ■ Condition of windings ■ Condition of bearings
+■ Bedplate arrangement ■ Customer settings for ■ Customer settings for
+■ Coupling arrangement Test temperature sensors temperature sensors
+■ Environmental conditions ■ Initial AVR set up
+and cleanliness ■ AVR settings while Test Test
+■ Complete machine damage, alternator is running ■ Insulation resistance of all ■ Temperature sensors while
+loose parts and earth bonds ■ Customer connections of windings (P0/P1 test for LV) alternator is running
+■ Guards, screens, warning auxiliaries ■ Insulation resistance of
+and safety labels ■ Function of auxiliaries rotor, exciter and EBS
+■ Maintenance access ■ Synchronisation while ■ Temperature sensors while
+alternator is running alternator is running
+Test
+■ Ambient temperature (inside Cooling Rectifier Terminal Box
+and outside)
+■ Electrical nominal operating Inspect Inspect Inspect
+conditions and excitations ■ Air flow (rate and direction ■ Diodes and varistors ■ All alternator/customer
+while alternator is running while alternator is running) ■ Connections and cabling
+■ Vibration while alternator is ■ Condition of fan
+running
+Test
+■ Condition of air filter
+
+**Tabela 1 (Página 16):**
+| rotanretlA 1P/0P | Commission |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Alternator rating ■ Bedplate arrangement ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts and earth bonds ■ Guards, screens, warning and safety labels ■ Maintenance access Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Synchronisation settings Test ■ Initial AVR set up ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings ■ Customer settings for temperature sensors Test ■ Insulation resistance of all windings (P0/P1 test for LV) ■ Insulation resistance of rotor, exciter and EBS ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings ■ Customer settings for temperature sensors Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Air flow (rate and direction while alternator is running) ■ Condition of fan Test ■ Condition of air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer ■ Connections and cabling |
+
+--- FIM DA PÁGINA 16 ---
+
+--- INÍCIO DA PÁGINA 17 ---
+rotanretlA
+1P/0P
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Function of auxiliaries Test
+l b o o o n s d e s parts, and earth ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I w n i s n u d la in t g io s n (P re 0 s / is P t 1 a n te c s e t o fo f r a L ll V)
+■ Guards, screens, warning
+and safety labels ■ Insulation resistance of
+rotor, exciter and EBS
+■ Temperature sensors while
+Test alternator is running
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 17):**
+| rotanretlA 1P/0P | Post Commission 250 Hours/6 Months |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR settings while alternator is running ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P0/P1 test for LV) ■ Insulation resistance of rotor, exciter and EBS ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 17 ---
+
+--- INÍCIO DA PÁGINA 18 ---
+rotanretlA
+1P/0P
+1,000 Hours/1 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Customer connections of Test Test
+loose parts, and earth auxiliaries
+bonds ■ Function of auxiliaries ■ I w n i s n u d la in t g io s n (P re 0 s / is P t 1 a n te c s e t o fo f r a L ll V) ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I r n o s to u r l , a t e io xc n i t r e e r s , i a st n a d n c E e B S of
+■ Temperature sensors while
+Test alternator is running
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 18):**
+| rotanretlA 1P/0P | 1,000 Hours/1 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P0/P1 test for LV) ■ Insulation resistance of rotor, exciter, and EBS ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 18 ---
+
+--- INÍCIO DA PÁGINA 19 ---
+rotanretlA
+1P/0P
+10,000 Hours/2 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Condition of bearings
+■ Environmental conditions
+and cleanliness Test Test
+■ Complete machine damage, ■ AVR settings while ■ Insulation resistance of all
+loose parts, and earth alternator is running windings (P0/P1 test for LV)
+bonds
+■ Customer connections of ■ Temperature sensors while
+■ Guards, screens, warning auxiliaries alternator is running
+and safety labels
+■ Function of auxiliaries
+■ Synchronisation while
+Test alternator is running
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Inspect Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 19):**
+| rotanretlA 1P/0P | 10,000 Hours/2 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Anti condensation heater Test ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P0/P1 test for LV) ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 19 ---
+
+--- INÍCIO DA PÁGINA 20 ---
+P0/P1 Alternator 30,000 Hours/5 Year Service Kits
+For the 30,000 hour service interval Kit Number Contents
+we recommend replacing several
+components in order to optimise the
+A051C107 ■ Rectifier Service Kit
+alternator’s performance.
+(P0/P1 1 Bearing 30,000 Hour Service Kit) ■ NDE Bearing Kit
+For the P0/P1 alternator, the kits
+detailed in this table contain all parts A051C115 ■ Rectifier Service Kit
+necessary to execute the maintenance P0/P1 2 Bearing 30,000 Hour Service Kit) ■ DE and NDE Bearing Kit
+and repairs.
+Frame Part Number Description
+P0/P1 45-1161 Heater Kit UL 230V
+P0/P1 45-1162 Heater Kit UL 115V
+P0/P1 45-1163 Heater Kit UL 24V
+P0/P1 45-1164 Heater Kit UL 12V
+
+**Tabela 1 (Página 20):**
+| Kit Number | Contents |
+|  |  |
+| A051C107 (P0/P1 1 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit |
+| A051C115 P0/P1 2 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE and NDE Bearing Kit |
+
+**Tabela 2 (Página 20):**
+| Frame | Part Number | Description |
+| P0/P1 | 45-1161 | Heater Kit UL 230V |
+| P0/P1 | 45-1162 | Heater Kit UL 115V |
+| P0/P1 | 45-1163 | Heater Kit UL 24V |
+| P0/P1 | 45-1164 | Heater Kit UL 12V |
+
+--- FIM DA PÁGINA 20 ---
+
+--- INÍCIO DA PÁGINA 21 ---
+rotanretlA
+1P/0P
+30,000 Hours/5 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Replace Inspect Replace
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Bearings
+■ Environmental conditions
+and cleanliness Test Test
+■ Complete machine damage, ■ AVR settings while ■ Insulation resistance of all
+loose parts, and earth alternator is running windings (P0/P1 test for LV)
+bonds
+■ Customer connections of ■ Temperature sensors while
+■ Guards, screens, warning auxiliaries alternator is running
+and safety labels
+■ Function of auxiliaries ■ Insulation resistance of
+■ Synchronisation while rotor, exciter and EBS
+Test alternator is running
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Replace Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of Air filter
+
+**Tabela 1 (Página 21):**
+| rotanretlA 1P/0P | 30,000 Hours/5 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Replace ■ Anti condensation heater Test ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P0/P1 test for LV) ■ Temperature sensors while alternator is running ■ Insulation resistance of rotor, exciter and EBS | Replace ■ Bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of Air filter | Replace ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 21 ---
+
+--- INÍCIO DA PÁGINA 22 ---
+S0/S1
+Alternator
+
+--- FIM DA PÁGINA 22 ---
+
+--- INÍCIO DA PÁGINA 23 ---
+S0/S1
+Alternator
+Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours
+6 Month Service 1 Year Service 2 Year Service 5 Year Service
+
+**Tabela 1 (Página 23):**
+|  | S0/S1 Alternator |
+| Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours 6 Month Service 1 Year Service 2 Year Service 5 Year Service |  |
+
+--- FIM DA PÁGINA 23 ---
+
+--- INÍCIO DA PÁGINA 24 ---
+rotanretlA
+1S/0S
+Commission
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Alternator rating ■ Initial AVR set up ■ Condition of windings ■ Condition of bearings
+■ Bedplate arrangement ■ AVR settings while
+■ Coupling arrangement alternator is running Test
+■ Environmental conditions ■ Customer connections of ■ Insulation resistance of all
+and cleanliness auxiliaries windings (S0/S1 test for LV)
+■ Complete machine damage, ■ Function of auxiliaries ■ Insulation resistance of
+loose parts and earth bonds ■ Synchronisation while rotor, exciter and auxiliary
+■ Guards, screens, warning alternator is running
+and safety labels
+■ Maintenance access
+Test
+■ Ambient temperature (inside Cooling Rectifier Terminal Box
+and outside)
+■ Electrical nominal operating Inspect Inspect Inspect
+conditions and excitations ■ Air flow (rate and direction ■ Diodes and varistors ■ All alternator/customer
+while alternator is running while alternator is running) connections and cabling
+■ Vibration while alternator is ■ Condition of fan
+running
+
+**Tabela 1 (Página 24):**
+| rotanretlA 1S/0S | Commission |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Alternator rating ■ Bedplate arrangement ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts and earth bonds ■ Guards, screens, warning and safety labels ■ Maintenance access Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ Initial AVR set up ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (S0/S1 test for LV) ■ Insulation resistance of rotor, exciter and auxiliary | Inspect ■ Condition of bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Air flow (rate and direction while alternator is running) ■ Condition of fan | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 24 ---
+
+--- INÍCIO DA PÁGINA 25 ---
+rotanretlA
+1S/0S
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Function of auxiliaries Test
+loose parts, and earth
+bonds ■ Insulation resistance of all
+windings (S0/S1 test for LV)
+■ Guards, screens, warning
+and safety labels ■ Insulation resistance of
+rotor, exciter and auxiliary
+Test
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+
+**Tabela 1 (Página 25):**
+| rotanretlA 1S/0S | Post Commission 250 Hours/6 Months |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR settings while alternator is running ■ Function of auxiliaries | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (S0/S1 test for LV) ■ Insulation resistance of rotor, exciter and auxiliary | Inspect ■ Condition of bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 25 ---
+
+--- INÍCIO DA PÁGINA 26 ---
+rotanretlA
+1S/0S
+1,000 Hours/1 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Customer connections of Test
+loose parts, and earth auxiliaries
+bonds ■ Function of auxiliaries ■ I w n i s n u d la in t g io s n (S re 0 s / is S t 1 a n te c s e t o fo f r a L ll V)
+■ Guards, screens, warning
+and safety labels ■ Insulation resistance of
+rotor, exciter, and auxiliary
+■ Temperature sensors while
+Test alternator is running
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+
+**Tabela 1 (Página 26):**
+| rotanretlA 1S/0S | 1,000 Hours/1 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (S0/S1 test for LV) ■ Insulation resistance of rotor, exciter, and auxiliary ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 26 ---
+
+--- INÍCIO DA PÁGINA 27 ---
+rotanretlA
+1S/0S
+10,000 Hours/2 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Condition of bearings
+■ Environmental conditions
+and cleanliness Test Test
+■ Complete machine damage, ■ AVR settings while ■ Insulation resistance of all
+loose parts, and earth alternator is running windings (S0/S1 test for LV)
+bonds
+■ Customer connections of
+■ Guards, screens, warning auxiliaries
+and safety labels
+■ Function of auxiliaries
+Test
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Inspect Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+
+**Tabela 1 (Página 27):**
+| rotanretlA 1S/0S | 10,000 Hours/2 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Anti condensation heater Test ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (S0/S1 test for LV) | Inspect ■ Condition of bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 27 ---
+
+--- INÍCIO DA PÁGINA 28 ---
+S0/S1 Alternator 30,000 Hours/5 Year Service Kits
+For the 30,000 hour service interval Kit Number Contents
+we recommend replacing several
+components in order to optimise the
+A051C107 ■ Rectifier Service Kit
+alternator’s performance.
+(S1 Bearing 30,000 Hour Service Kit) ■ NDE Bearing Kit
+For the S0/S1 alternator, the kits
+detailed in this table contain all parts A054N489 ■ Rectifier Service Kit
+necessary to execute the maintenance (S0 Bearing 30,000 Hour Service Kit) ■ NDE Bearing Kit
+and repairs.
+Frame Part Number Description
+S0/S1 A054K278 Heater Kit UL 12V
+S0/S1 A054K280 Heater Kit UL 24V
+S0/S1 A054K282 Heater Kit UL 115V
+S0/S1 A054K284 Heater Kit UL 230V
+
+**Tabela 1 (Página 28):**
+| Kit Number | Contents |
+|  |  |
+| A051C107 (S1 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit |
+| A054N489 (S0 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit |
+
+**Tabela 2 (Página 28):**
+| Frame | Part Number | Description |
+| S0/S1 | A054K278 | Heater Kit UL 12V |
+| S0/S1 | A054K280 | Heater Kit UL 24V |
+| S0/S1 | A054K282 | Heater Kit UL 115V |
+| S0/S1 | A054K284 | Heater Kit UL 230V |
+
+--- FIM DA PÁGINA 28 ---
+
+--- INÍCIO DA PÁGINA 29 ---
+rotanretlA
+1S/0S
+30,000 Hours/5 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Replace Inspect Replace
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Bearings
+■ Environmental conditions
+and cleanliness Test Test
+■ Complete machine damage, ■ AVR settings while ■ Insulation resistance of all
+loose parts, and earth alternator is running windings (S0/S1 test for LV)
+bonds
+■ Customer connections of ■ Insulation resistance of
+■ Guards, screens, warning auxiliaries rotor, exciter and auxiliary
+and safety labels
+■ Function of auxiliaries
+Test
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Replace Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of Air filter
+
+**Tabela 1 (Página 29):**
+| rotanretlA 1S/0S | 30,000 Hours/5 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Replace ■ Anti condensation heater Test ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (S0/S1 test for LV) ■ Insulation resistance of rotor, exciter and auxiliary | Replace ■ Bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of Air filter | Replace ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 29 ---
+
+--- INÍCIO DA PÁGINA 30 ---
+UC22/UC27
+Alternator
+
+**Tabela 1 (Página 30):**
+| Alternator |  |
+
+--- FIM DA PÁGINA 30 ---
+
+--- INÍCIO DA PÁGINA 31 ---
+UC22/UC27
+Alternator
+Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours
+6 Month Service 1 Year Service 2 Year Service 5 Year Service
+
+**Tabela 1 (Página 31):**
+|  | UC22/UC27 Alternator |
+| Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours 6 Month Service 1 Year Service 2 Year Service 5 Year Service |  |
+
+--- FIM DA PÁGINA 31 ---
+
+--- INÍCIO DA PÁGINA 32 ---
+rotanretlA
+72CU/22CU
+Commission
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Alternator rating ■ Synchronisation settings ■ Condition of windings ■ Condition of bearings
+■ Bedplate arrangement ■ Customer settings for ■ Customer settings for
+■ Coupling arrangement Test temperature sensors temperature sensors
+■ Environmental conditions ■ Initial AVR set up
+and cleanliness ■ AVR settings while Test Test
+■ Complete machine damage, alternator is running ■ Insulation resistance of all ■ Temperature sensors while
+loose parts and earth bonds ■ Customer connections of windings (UC22/UC27 test alternator is running
+■ Guards, screens, warning auxiliaries for LV/MV)
+and safety labels ■ Function of auxiliaries ■ Temperature sensors while
+■ Maintenance access ■ Synchronisation while alternator is running
+alternator is running
+Test
+■ Ambient temperature (inside Cooling Rectifier Terminal Box
+and outside)
+■ Electrical nominal operating Inspect Inspect Inspect
+conditions and excitations ■ Air flow (rate and direction ■ Diodes and varistors ■ All alternator/customer
+while alternator is running while alternator is running) ■ Three phase rectifier connections and cabling
+■ Vibration while alternator is ■ Condition of fan (if fitted)
+running
+Test
+■ Condition of air filter
+
+**Tabela 1 (Página 32):**
+| rotanretlA 72CU/22CU | Commission |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Alternator rating ■ Bedplate arrangement ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts and earth bonds ■ Guards, screens, warning and safety labels ■ Maintenance access Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Synchronisation settings Test ■ Initial AVR set up ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings ■ Customer settings for temperature sensors Test ■ Insulation resistance of all windings (UC22/UC27 test for LV/MV) ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings ■ Customer settings for temperature sensors Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Air flow (rate and direction while alternator is running) ■ Condition of fan Test ■ Condition of air filter | Inspect ■ Diodes and varistors ■ Three phase rectifier (if fitted) | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 32 ---
+
+--- INÍCIO DA PÁGINA 33 ---
+rotanretlA
+72CU/22CU
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Function of auxiliaries Test Test
+l b o o o n s d e s parts, and earth ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I w n i s n u d la in t g io s n (U re C si 2 s 2 ta / n U c C e 2 o 7 f t a e l s l t ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+■ Guards, screens, warning for LV/MV)
+and safety labels
+■ Insulation resistance of
+rotor, exciter and PMG
+Test ■ Temperature sensors while
+■ Ambient temperature (inside alternator is running
+and outside) ■ Insulation resistance of
+■ Electrical nominal operating rotor, exciter and PMG
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+■ Three phase rectifier connections and cabling
+Test (if fitted)
+■ Condition of air filter
+
+**Tabela 1 (Página 33):**
+| rotanretlA 72CU/22CU | Post Commission 250 Hours/6 Months |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR settings while alternator is running ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (UC22/UC27 test for LV/MV) ■ Insulation resistance of rotor, exciter and PMG ■ Temperature sensors while alternator is running ■ Insulation resistance of rotor, exciter and PMG | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter | Inspect ■ Diodes and varistors ■ Three phase rectifier (if fitted) | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 33 ---
+
+--- INÍCIO DA PÁGINA 34 ---
+rotanretlA
+72CU/22CU
+1,000 Hours/1 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Customer connections of Test Test
+loose parts, and earth auxiliaries
+bonds ■ Function of auxiliaries ■ I w n i s n u d la in t g io s n (U re C si 2 s 2 ta / n U c C e 2 o 7 f t a e l s l t ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+■ Guards, screens, warning ■ Synchronisation while for LV/MV)
+and safety labels alternator is running ■ Insulation resistance of
+rotor, exciter, and PMG
+Test ■ Temperature sensors while
+■ Ambient temperature (inside alternator is running
+and outside)
+■ Electrical nominal operating
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+■ Three phase rectifier connections and cabling
+Test (if fitted)
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 34):**
+| rotanretlA 72CU/22CU | 1,000 Hours/1 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (UC22/UC27 test for LV/MV) ■ Insulation resistance of rotor, exciter, and PMG ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors ■ Three phase rectifier (if fitted) | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 34 ---
+
+--- INÍCIO DA PÁGINA 35 ---
+rotanretlA
+72CU/22CU
+10,000 Hours/2 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Condition of bearings
+■ Environmental conditions
+and cleanliness Test Test Test
+■ Complete machine damage, ■ AVR settings while ■ Insulation resistance of all ■ Temperature sensors while
+loose parts, and earth alternator is running windings (UC22/UC27 test alternator is running
+bonds ■ Customer connections of for LV/MV
+■ Guards, screens, warning auxiliaries ■ Temperature sensors while
+and safety labels ■ Function of auxiliaries alternator is running
+■ Synchronisation while
+Test alternator is running
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Inspect Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+■ Three phase rectifier connections and cabling
+Test (if fitted)
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 35):**
+| rotanretlA 72CU/22CU | 10,000 Hours/2 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Anti condensation heater Test ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (UC22/UC27 test for LV/MV ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors ■ Three phase rectifier (if fitted) | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 35 ---
+
+--- INÍCIO DA PÁGINA 36 ---
+UC22/UC27 Alternator 30,000 Hours/5 Year Service Kits
+For the 30,000 hour service interval Kit Number Contents
+we recommend replacing several
+components in order to optimise the A051C212 ■ Rectifier Service Kit
+alternator’s performance. (UC22 1 Bearing 30,000 Hour Service Kit) ■ NDE Bearing Kit
+For the UC22/UC27 alternator, the kits A051C216 ■ Rectifier Service Kit
+detailed in this table contain all parts (UC22 2 Bearing 30,000 Hour Service Kit) ■ DE and NDE Bearing Kit
+necessary to execute the maintenance
+and repairs.
+A051C218 ■ Rectifier Service Kit
+(UC27 1 Bearing 30,000 Hour Service Kit) ■ DE and NDE Bearing Kit
+A051C222 ■ Rectifier Service Kit
+(UC27 2 Bearing 30,000 Hour Service Kit) ■ DE and NDE Bearing Kit
+Frame Part Number Description
+UC22/UC27 A053N107 Heater Kit UL 110-125V
+UC22/UC27 A053N108 Heater Kit UL 220-260V
+
+**Tabela 1 (Página 36):**
+| Kit Number | Contents |
+|  |  |
+| A051C212 (UC22 1 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit |
+| A051C216 (UC22 2 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE and NDE Bearing Kit |
+| A051C218 (UC27 1 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE and NDE Bearing Kit |
+| A051C222 (UC27 2 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE and NDE Bearing Kit |
+
+**Tabela 2 (Página 36):**
+| Frame | Part Number | Description |
+| UC22/UC27 | A053N107 | Heater Kit UL 110-125V |
+| UC22/UC27 | A053N108 | Heater Kit UL 220-260V |
+
+--- FIM DA PÁGINA 36 ---
+
+--- INÍCIO DA PÁGINA 37 ---
+rotanretlA
+72CU/22CU
+30,000 Hours/5 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Replace Inspect Replace
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Bearings
+■ Environmental conditions
+and cleanliness Test Test Test
+■ Complete machine damage, ■ AVR settings while ■ Insulation resistance of all ■ Temperature sensors while
+loose parts, and earth alternator is running windings (UC22/UC27 test alternator is running
+bonds ■ Customer connections of for LV/MV)
+■ Guards, screens, warning auxiliaries ■ Temperature sensors while
+and safety labels ■ Function of auxiliaries alternator is running
+■ Synchronisation while ■ Insulation resistance of
+Test alternator is running rotor, exciter and PMG
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Replace Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+
+**Tabela 1 (Página 37):**
+| rotanretlA 72CU/22CU | 30,000 Hours/5 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Replace ■ Anti condensation heater Test ■ AVR settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (UC22/UC27 test for LV/MV) ■ Temperature sensors while alternator is running ■ Insulation resistance of rotor, exciter and PMG | Replace ■ Bearings Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter | Replace ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 37 ---
+
+--- INÍCIO DA PÁGINA 38 ---
+HC4/HC5/HC6
+Alternator
+
+--- FIM DA PÁGINA 38 ---
+
+--- INÍCIO DA PÁGINA 39 ---
+HC4/HC5/HC6
+Alternator
+Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours
+6 Month Service 1 Year Service 2 Year Service 5 Year Service
+
+**Tabela 1 (Página 39):**
+|  | HC4/HC5/HC6 Alternator |
+| Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours 6 Month Service 1 Year Service 2 Year Service 5 Year Service |  |
+
+--- FIM DA PÁGINA 39 ---
+
+--- INÍCIO DA PÁGINA 40 ---
+rotanretlA
+6CH/5CH/4CH
+Commission
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Alternator rating ■ Synchronisation settings ■ Condition of windings ■ Condition of bearings
+■ Bedplate arrangement ■ Customer settings for ■ Customer settings for
+■ Coupling arrangement Test temperature sensors temperature sensors
+■ Environmental conditions ■ Initial AVR and PFC set up
+and cleanliness ■ AVR and PFC settings Test Test
+■ Complete machine damage, while alternator is running ■ Insulation resistance of all ■ Temperature sensors while
+loose parts and earth bonds ■ Customer connections of windings (HC4/HC5/HC6 alternator is running
+■ Guards, screens, warning auxiliaries test for LV/MV)
+and safety labels ■ Function of auxiliaries ■ Temperature sensors while
+■ Maintenance access ■ Synchronisation while alternator is running
+alternator is running
+Test
+■ Ambient temperature (inside Cooling Rectifier Terminal Box
+and outside)
+■ Electrical nominal operating Inspect Inspect Inspect
+conditions and excitations ■ Air flow (rate and direction ■ Diodes and varistors ■ All alternator/customer
+while alternator is running while alternator is running) connections and cabling
+■ Vibration while alternator is ■ Condition of fan
+running
+Test
+■ Condition of air filter
+
+**Tabela 1 (Página 40):**
+| rotanretlA 6CH/5CH/4CH | Commission |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Alternator rating ■ Bedplate arrangement ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts and earth bonds ■ Guards, screens, warning and safety labels ■ Maintenance access Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Synchronisation settings Test ■ Initial AVR and PFC set up ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings ■ Customer settings for temperature sensors Test ■ Insulation resistance of all windings (HC4/HC5/HC6 test for LV/MV) ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings ■ Customer settings for temperature sensors Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Air flow (rate and direction while alternator is running) ■ Condition of fan Test ■ Condition of air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 40 ---
+
+--- INÍCIO DA PÁGINA 41 ---
+rotanretlA
+6CH/5CH/4CH
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Function of auxiliaries Test Test
+l b o o o n s d e s parts, and earth ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I w n i s n u d la in t g io s n (H re C si 4 s / ta H n C c 5 e / H of C a 6 ll ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning test for LV/MV) Clean
+■ Insulation resistance of ■ Grease exhaust and trap
+rotor, exciter and PMG (Re-greasable bearings only)
+Test ■ Temperature sensors while
+■ Ambient temperature (inside alternator is running Replace
+and outside) ■ Insulation resistance of ■ Grease for re-greasable
+■ Electrical nominal operating rotor, exciter and PMG bearings
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 41):**
+| rotanretlA 6CH/5CH/4CH | Post Commission 250 Hours/6 Months |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR and PFC settings while alternator is running ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (HC4/HC5/HC6 test for LV/MV) ■ Insulation resistance of rotor, exciter and PMG ■ Temperature sensors while alternator is running ■ Insulation resistance of rotor, exciter and PMG | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 41 ---
+
+--- INÍCIO DA PÁGINA 42 ---
+rotanretlA
+6CH/5CH/4CH
+1,000 Hours/1 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Test
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Temperature sensors while
+and cleanliness alternator is running alternator is running
+■ Complete machine damage, ■ Customer connections of Test
+l b o o o n s d e s parts, and earth ■ a F u u x n i c lia ti r o ie n s of auxiliaries ■ I w n i s n u d la in t g io s n (H re C si 4 s / ta H n C c 5 e / H of C a 6 ll R ■ e p B la ea c r e ing greasee
+■ Guards, screens, warning ■ Synchronisation while test for LV/MV)
+and safety labels alternator is running ■ Insulation resistance of Clean
+rotor, exciter, and PMG
+Test ■ Temperature sensors while ■ Grease exhaust and trap
+■ Ambient temperature (inside alternator is running
+and outside)
+■ Electrical nominal operating
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 42):**
+| rotanretlA 6CH/5CH/4CH | 1,000 Hours/1 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (HC4/HC5/HC6 test for LV/MV) ■ Insulation resistance of rotor, exciter, and PMG ■ Temperature sensors while alternator is running | Test ■ Temperature sensors while alternator is running Replace ■ Bearing greasee Clean ■ Grease exhaust and trap |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 42 ---
+
+--- INÍCIO DA PÁGINA 43 ---
+rotanretlA
+6CH/5CH/4CH
+10,000 Hours/2 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Test
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Temperature sensors while
+■ Environmental conditions alternator is running
+and cleanliness Test Test
+■ Complete machine damage, ■ AVR and PFC settings while ■ Insulation resistance of all Replace
+loose parts, and earth alternator is running windings (HC4/HC5/HC6 ■ Bearing grease
+bonds ■ Customer connections of test for LV/MV)
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning ■ a F u u x n i c lia ti r o ie n s of auxiliaries ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while C ■ l e G an rease exhaust and trap
+■ Synchronisation while
+Test alternator is running
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Inspect Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 43):**
+| rotanretlA 6CH/5CH/4CH | 10,000 Hours/2 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Anti condensation heater Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (HC4/HC5/HC6 test for LV/MV) ■ Temperature sensors while alternator is running | Test ■ Temperature sensors while alternator is running Replace ■ Bearing grease Clean ■ Grease exhaust and trap |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 43 ---
+
+--- INÍCIO DA PÁGINA 44 ---
+HC4/HC5/HC6 Alternator 30,000
+Hours/5 Year Service Kits Kit Number Contents
+A051C225 ■ Rectifier Service Kit
+For the 30,000 hour service interval (HC4 1 Bearing 30,000 Hour Service Kit) ■ NDE Bearing Kit
+we recommend replacing several A051C230 ■ Rectifier Service Kit
+components in order to optimise the (HC4 2 Bearing 30,000 Hour Service Kit) ■ DE and NDE Bearing Kit
+alternator’s performance. A051C232 ■ Rectifier Service Kit
+For the HC4/HC5/HC6 alternator, ( S H e C rv 5 ic 1 e S K E it A ) LED Bearing 30,000 Hour ■ NDE Bearing Kit
+the kits detailed in this table contain A051Z125 ■ Rectifier Service Kit
+all parts necessary to execute the (HC5 1 RE-GREASABLE Bearing 30,000 ■ Re-grease NDE Bearing Kit
+maintenance and repairs. Hour Service Kit) ■ Cartridge and Cap
+A051C234 ■ Rectifier Service Kit
+(HC5 2 SEALED Bearing 30,000 Hour ■ DE and NDE Bearing Kit
+Service Kit) ■ Cartridge and Cap
+Frame Part Description A051Z131 ■ Rectifier Service Kit
+Number (HC5 2 RE-GREASABLE Bearing 30,000 ■ Regrease DE and NDE Bearing Kit
+Hour Service Kit) ■ Cartridge and Cap
+HC4 A053M965 Heater Kit UL 220-260V A051C237 ■ Rectifier Service Kit
+(HC6 1 SEALED Bearing 30,000 Hour ■ NDE Bearing Kit
+Service Kit) ■ Cartridge and Cap
+HC4 A053M957 Heater Kit UL 110-125V
+A051Z133 ■ Rectifier Service Kit
+(HC6 1 RE-GREASABLE Bearing 30,000 ■ Re-grease NDE Bearing Kit
+HC5/HC6 A053N002 Heater Kit UL 220-260V Hour Service Kit) ■ Cartridge and Cap
+A051C243 ■ Rectifier Service Kit
+HC5/HC6 A053M968 Heater Kit Ul 110-125V (HC6 2 SEALED Bearing 30,000 Hour ■ DE and NDE Bearing Kit
+Service Kit) ■ Cartridge and Cap
+A051Z137 ■ Rectifier Service Kit
+(HC6 2 RE-GREASABLE Bearing 30,000 ■ Regrease DE and NDE Bearing Kit
+Hour Service Kit) ■ Cartridge and Cap
+
+**Tabela 1 (Página 44):**
+|  |  |  |  | Kit Number | Contents |
+|  |  |  |  |  |  |
+|  |  |  |  | A051C225 (HC4 1 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit |
+|  |  |  |  | A051C230 (HC4 2 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE and NDE Bearing Kit |
+|  |  |  |  | A051C232 (HC5 1 SEALED Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit |
+|  |  |  |  | A051Z125 (HC5 1 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Re-grease NDE Bearing Kit ■ Cartridge and Cap |
+|  |  |  |  | A051C234 (HC5 2 SEALED Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE and NDE Bearing Kit ■ Cartridge and Cap |
+| Frame | Part Number | Description |  | A051Z131 (HC5 2 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Regrease DE and NDE Bearing Kit ■ Cartridge and Cap |
+| HC4 | A053M965 | Heater Kit UL 220-260V |  |  |  |
+|  |  |  |  | A051C237 (HC6 1 SEALED Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit ■ Cartridge and Cap |
+| HC4 | A053M957 | Heater Kit UL 110-125V |  |  |  |
+|  |  |  |  | A051Z133 (HC6 1 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Re-grease NDE Bearing Kit ■ Cartridge and Cap |
+| HC5/HC6 | A053N002 | Heater Kit UL 220-260V |  |  |  |
+|  |  |  |  | A051C243 (HC6 2 SEALED Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE and NDE Bearing Kit ■ Cartridge and Cap |
+| HC5/HC6 | A053M968 | Heater Kit Ul 110-125V |  |  |  |
+|  |  |  |  | A051Z137 (HC6 2 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Regrease DE and NDE Bearing Kit ■ Cartridge and Cap |
+
+--- FIM DA PÁGINA 44 ---
+
+--- INÍCIO DA PÁGINA 45 ---
+rotanretlA
+6CH/5CH/4CH
+30,000 Hours/5 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Replace Inspect Replace
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of Windings ■ Bearings (sealed &
+■ Environmental conditions re-greasable
+and cleanliness Test Test ■ Bearing grease
+■ Complete machine damage, ■ AVR and PFC settings while ■ Insulation resistance of all
+loose parts, and earth alternator is running windings (HC4/HC5/HC6 Test
+bonds ■ Customer connections of test for LV/MV) ■ Temperature sensors while
+■ Guards, screens, warning auxiliaries ■ Temperature sensors while alternator is running
+and safety labels ■ Function of auxiliaries alternator is running
+■ Synchronisation while ■ Insulation resistance of Clean
+Test alternator is running rotor, exciter and PMG ■ Grease exhaust & trap
+■ Ambient temperature (inside (re-greasable bearings only)
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Replace Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 45):**
+| rotanretlA 6CH/5CH/4CH | 30,000 Hours/5 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Replace ■ Anti condensation heater Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of Windings Test ■ Insulation resistance of all windings (HC4/HC5/HC6 test for LV/MV) ■ Temperature sensors while alternator is running ■ Insulation resistance of rotor, exciter and PMG | Replace ■ Bearings (sealed & re-greasable ■ Bearing grease Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust & trap (re-greasable bearings only) |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Replace ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 45 ---
+
+--- INÍCIO DA PÁGINA 46 ---
+S4/S5/S6
+Alternator
+
+--- FIM DA PÁGINA 46 ---
+
+--- INÍCIO DA PÁGINA 47 ---
+S4/S5/S6
+Alternator
+Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours
+6 Month Service 1 Year Service 2 Year Service 5 Year Service
+
+**Tabela 1 (Página 47):**
+|  | S4/S5/S6 Alternator |
+| Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours 6 Month Service 1 Year Service 2 Year Service 5 Year Service |  |
+
+--- FIM DA PÁGINA 47 ---
+
+--- INÍCIO DA PÁGINA 48 ---
+rotanretlA
+6S/5S/4S
+Commission
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Alternator rating ■ Synchronisation settings ■ Condition of windings ■ Condition of bearings
+■ Bedplate arrangement ■ Customer settings for ■ Customer settings for
+■ Coupling arrangement Test temperature sensors temperature sensors
+■ Environmental conditions ■ Initial AVR and PFC set up
+and cleanliness ■ AVR and PFC settings Test Test
+■ Complete machine damage, while alternator is running ■ Insulation resistance of all ■ Temperature sensors while
+loose parts and earth bonds ■ Customer connections of windings alternator is running
+■ Guards, screens, warning auxiliaries ■ Temperature sensors while
+and safety labels ■ Function of auxiliaries alternator is running
+■ Maintenance access ■ Synchronisation while
+alternator is running
+Test
+■ Ambient temperature (inside Cooling Rectifier Terminal Box
+and outside)
+■ Electrical nominal operating Inspect Inspect Inspect
+conditions and excitations ■ Air flow (rate and direction ■ Diodes and varistors ■ All alternator/customer
+while alternator is running while alternator is running) connections and cabling
+■ Vibration while alternator is ■ Condition of fan
+running
+Test
+■ Condition of air filter
+
+**Tabela 1 (Página 48):**
+| rotanretlA 6S/5S/4S | Commission |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Alternator rating ■ Bedplate arrangement ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts and earth bonds ■ Guards, screens, warning and safety labels ■ Maintenance access Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Synchronisation settings Test ■ Initial AVR and PFC set up ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings ■ Customer settings for temperature sensors Test ■ Insulation resistance of all windings ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings ■ Customer settings for temperature sensors Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Air flow (rate and direction while alternator is running) ■ Condition of fan Test ■ Condition of air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 48 ---
+
+--- INÍCIO DA PÁGINA 49 ---
+rotanretlA
+6S/5S/4S
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Function of auxiliaries Test Test
+l b o o o n s d e s parts, and earth ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I w n i s n u d la in t g io s n resistance of all ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+■ Guards, screens, warning
+and safety labels ■ Insulation resistance of Clean
+rotor, exciter and PMG ■ Grease exhaust and trap
+■ Temperature sensors while (Re-greasable bearings only)
+Test alternator is running
+■ Ambient temperature (inside ■ Insulation resistance of Replace
+and outside) rotor, exciter and PMG ■ Grease for re-greasable
+■ Electrical nominal operating bearings
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 49):**
+| rotanretlA 6S/5S/4S | Post Commission 250 Hours/6 Months |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR and PFC settings while alternator is running ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings ■ Insulation resistance of rotor, exciter and PMG ■ Temperature sensors while alternator is running ■ Insulation resistance of rotor, exciter and PMG | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 49 ---
+
+--- INÍCIO DA PÁGINA 50 ---
+rotanretlA
+6S/5S/4S
+1,000 Hours/1 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Test
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Temperature sensors while
+and cleanliness alternator is running alternator is running
+■ Complete machine damage, ■ Customer connections of Test
+l b o o o n s d e s parts, and earth ■ a F u u x n i c lia ti r o ie n s of auxiliaries ■ I w n i s n u d la in t g io s n resistance of all R ■ e p B la ea c r e ing grease
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I r n o s to u r l , a t e io xc n i t r e e r s , i a st n a d n c P e M o G f Clean
+Test ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while ■ Grease exhaust and trap
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 50):**
+| rotanretlA 6S/5S/4S | 1,000 Hours/1 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings ■ Insulation resistance of rotor, exciter, and PMG ■ Temperature sensors while alternator is running | Test ■ Temperature sensors while alternator is running Replace ■ Bearing grease Clean ■ Grease exhaust and trap |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 50 ---
+
+--- INÍCIO DA PÁGINA 51 ---
+rotanretlA
+6S/5S/4S
+10,000 Hours/2 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Test
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Temperature sensors while
+■ Environmental conditions alternator is running
+and cleanliness Test Test
+■ Complete machine damage, ■ AVR and PFC settings while ■ Insulation resistance of all Replace
+loose parts, and earth alternator is running windings ■ Bearing grease
+bonds
+■ Customer connections of ■ Temperature sensors while
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning auxiliaries alternator is running Clean
+■ Function of auxiliaries ■ Grease exhaust and trap
+■ Synchronisation while
+Test alternator is running
+■ Ambient temperature (inside
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Inspect Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 51):**
+| rotanretlA 6S/5S/4S | 10,000 Hours/2 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Anti condensation heater Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings ■ Temperature sensors while alternator is running | Test ■ Temperature sensors while alternator is running Replace ■ Bearing grease Clean ■ Grease exhaust and trap |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 51 ---
+
+--- INÍCIO DA PÁGINA 52 ---
+S4/S5/S6 Alternator 30,000
+Kit Number Contents
+Hours/5 Year Service Kits
+A051C225 ■ Rectifier Service Kit
+(HC4/S4 1 Bearing 30,000 Hour Service Kit) ■ NDE Bearing Kit
+For the 30,000 hour service interval
+A051C230 ■ Rectifier Service Kit
+we recommend replacing several (HC4/S4 2 Bearing 30,000 Hour Service Kit) ■ DE and NDE Bearing Kit
+components in order to optimise the
+A051C232 ■ Rectifier Service Kit
+alternator’s performance. ( H H o C u 5 r / S S e 5 rv / i S c 5 e D K i 1 t) SEALED Bearing 30,000 ■ NDE Bearing Kit
+For the S4/S5/S6 alternator, the A051Z125 ■ Rectifier Service Kit
+kits detailed in this table contain (HC5 / S5 1 RE-GREASABLE Bearing ■ Regrease NDE Bearing Kit
+30,000 Hour Service Kit ■ Cartridge and Cap
+all parts necessary to execute the
+A051C234 ■ Rectifier Service Kit
+maintenance and repairs. (HC5 / S5 2 SEALED Bearing 30,000 Hour ■ Sealed DE and NDE Bearing Kit
+Service Kit) ■ Cartridge and Cap
+Frame Part Description A051Z131 ■ Rectifier Service Kit
+Number (HC5 / S5 2 RE-GREASABLE Bearing ■ Regrease DE and NDE Bearing Kit
+30,000 Hour Service Kit) ■ Cartridge and Cap
+S4 A053M965 Heater Kit UL 220-260V A051C237 ■ Rectifier Service Kit
+(HC6/S6/S6L1D G-H Core 1 SEALED ■ Sealed DE and NDE Bearing Kit
+Bearing 30,000 Hour Service Kit) ■ Cartridge and Cap
+S4 A053M957 Heater Kit UL 110-125V A051C243 ■ Rectifier Service Kit
+(HC6/S6/S6L1D G-H Core 2 SEALED ■ Sealed DE and NDE Bearing Kit
+Bearing 30,000 Hour Service Kit) ■ Cartridge and Cap
+S5/S6 A053N002 Heater Kit UL 220-260V
+A059R029 ■ Rectifier Service Kit
+(S6L1D C-F Core 2 SEALED Bearing ■ Sealed DE and NDE Bearing Kit
+S5/S6 A053M968 Heater Kit UL 110-125V 30,000 Hour Service Kit) ■ Cartridge and Cap
+A051Z133 ■ Rectifier Service Kit
+(HC6/S6 1 RE-GREASABLE Bearing 30,000 ■ Regrease NDE Bearing Kit
+Hour Service Kit) ■ Cartridge and Cap
+A051Z137 ■ Rectifier Service Kit
+(HC6/S6 2 RE-GREASABLE Bearing 30,000 ■ Regrease DE and NDE Bearing Kit
+Hour Service Kit) ■ Cartridge and Cap
+
+**Tabela 1 (Página 52):**
+| Kit Number | Contents |
+| A051C225 (HC4/S4 1 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit |
+| A051C230 (HC4/S4 2 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE and NDE Bearing Kit |
+| A051C232 (HC5/ S5/S5D 1 SEALED Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit |
+| A051Z125 (HC5 / S5 1 RE-GREASABLE Bearing 30,000 Hour Service Kit | ■ Rectifier Service Kit ■ Regrease NDE Bearing Kit ■ Cartridge and Cap |
+| A051C234 (HC5 / S5 2 SEALED Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Sealed DE and NDE Bearing Kit ■ Cartridge and Cap |
+| A051Z131 (HC5 / S5 2 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Regrease DE and NDE Bearing Kit ■ Cartridge and Cap |
+| A051C237 (HC6/S6/S6L1D G-H Core 1 SEALED Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Sealed DE and NDE Bearing Kit ■ Cartridge and Cap |
+| A051C243 (HC6/S6/S6L1D G-H Core 2 SEALED Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Sealed DE and NDE Bearing Kit ■ Cartridge and Cap |
+| A059R029 (S6L1D C-F Core 2 SEALED Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Sealed DE and NDE Bearing Kit ■ Cartridge and Cap |
+| A051Z133 (HC6/S6 1 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Regrease NDE Bearing Kit ■ Cartridge and Cap |
+| A051Z137 (HC6/S6 2 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Regrease DE and NDE Bearing Kit ■ Cartridge and Cap |
+
+**Tabela 2 (Página 52):**
+| Frame | Part Number | Description |
+| S4 | A053M965 | Heater Kit UL 220-260V |
+| S4 | A053M957 | Heater Kit UL 110-125V |
+| S5/S6 | A053N002 | Heater Kit UL 220-260V |
+| S5/S6 | A053M968 | Heater Kit UL 110-125V |
+
+--- FIM DA PÁGINA 52 ---
+
+--- INÍCIO DA PÁGINA 53 ---
+rotanretlA
+6S/5S/4S
+30,000 Hours/5 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Replace Inspect Replace
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of Windings ■ Bearings (sealed &
+■ Environmental conditions re-greasable
+and cleanliness Test Test ■ Bearing grease
+■ Complete machine damage, ■ AVR and PFC settings while ■ Insulation resistance of all
+loose parts, and earth alternator is running windings Test
+bonds
+■ Customer connections of ■ Temperature sensors while ■ Temperature sensors while
+■ Guards, screens, warning auxiliaries alternator is running alternator is running
+and safety labels
+■ Function of auxiliaries ■ Insulation resistance of
+■ Synchronisation while rotor, exciter and PMG Clean
+Test alternator is running ■ Grease exhaust & trap
+■ Ambient temperature (inside (re-greasable bearings only)
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Replace Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 53):**
+| rotanretlA 6S/5S/4S | 30,000 Hours/5 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Replace ■ Anti condensation heater Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of Windings Test ■ Insulation resistance of all windings ■ Temperature sensors while alternator is running ■ Insulation resistance of rotor, exciter and PMG | Replace ■ Bearings (sealed & re-greasable ■ Bearing grease Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust & trap (re-greasable bearings only) |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Replace ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 53 ---
+
+--- INÍCIO DA PÁGINA 54 ---
+P7
+Alternator
+
+--- FIM DA PÁGINA 54 ---
+
+--- INÍCIO DA PÁGINA 55 ---
+P7
+Alternator
+Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours
+6 Month Service 1 Year Service 2 Year Service 5 Year Service
+
+**Tabela 1 (Página 55):**
+|  | P7 Alternator |
+| Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours 6 Month Service 1 Year Service 2 Year Service 5 Year Service |  |
+
+--- FIM DA PÁGINA 55 ---
+
+--- INÍCIO DA PÁGINA 56 ---
+rotanretlA
+1P/0P
+Commission
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Generator Rating ■ Synchronization Settngs ■ Condition of Windings ■ Condition of Bearings
+■ Bedplate Arrangement ■ Customer Settngs for ■ Customer settngs for
+■ Coupling Arrangement Test temperature sensors temperature sensors
+■ Environmental Conditions ■ Initial AVR & PFC set up
+and Cleanliness ■ AVR &PFC settngs while Test Test
+■ Complete machine damage, generator is running ■ Insulation resistance of all ■ Temperature Sensors while
+loose parts and earth bonds ■ Customer connections of windings (PI test for MH/VH) generator is running
+■ Guards, Screens, Warning auxiliaries ■ Insulation resistance of
+and Safety Labels ■ Function of auxiliaries rotor, exciter and PMG
+■ Maintenance Access ■ Synchronization while ■ Temperature sensors while
+generator is running generator is running
+Test
+■ Ambient Temperature (inside Cooling Rectifier Terminal Box
+and outside)
+■ Electrical Nominal Operating Inspect Inspect Inspect
+Conditions and Excitations ■ Air Flow (rate and direction ■ Diodes and varistors ■ All generator/customer
+while generator is running while generator is running) ■ connections and cabling
+■ Vibration while generator ■ Condition of fan
+is running
+Test
+■ Condition of Air filter
+rotanretlA
+7P
+Commission
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Alternator rating ■ Synchronisation settings ■ Condition of windings ■ Condition of bearings
+■ Bedplate arrangement ■ Customer settings for ■ Customer settings for
+■ Coupling arrangement Test temperature sensors temperature sensors
+■ Environmental conditions ■ Initial AVR and PFC set up
+and cleanliness ■ AVR and PFC settings Test Test
+■ Complete machine damage, settings while alternator is ■ Insulation resistance of all ■ Temperature sensors while
+loose parts and earth bonds running windings (P7 test for LV/MV) alternator is running
+■ Guards, screens, warning ■ Customer connections of ■ Temperature sensors while
+and safety labels auxiliaries alternator is running
+■ Maintenance access ■ Function of auxiliaries
+■ Synchronisation while
+Test alternator is running
+■ Ambient temperature (inside Cooling Rectifier Terminal Box
+and outside)
+■ Electrical nominal operating Inspect Inspect Inspect
+conditions and excitations ■ Air flow (rate and direction ■ Diodes and varistors ■ All alternator/customer
+while alternator is running while alternator is running) connections and cabling
+■ Vibration while alternator is ■ Condition of fan
+running
+Test
+■ Condition of air filter
+
+**Tabela 1 (Página 56):**
+| rroottaannrreettllAA 17PP/0P | CCoommmmiissssiioonn |  |  |  |
+|  | AAlltteerrnnaattoorr | CCoonnttrroollss aanndd AAuuxxiilliiaarriieess | WWiinnddiinnggss | BBeeaarriinnggss |
+|  | IInnssppeecctt ■■ GAletenrenraattoorr rRaatintingg ■■ BBeeddppllaattee Aarrrraannggeemmeenntt ■■ CCoouupplliinngg Aarrrraannggeemmeenntt ■■ EEnnvviirroonnmmeennttaall Ccoonnddiittiioonnss aanndd Cclleeaannllinineessss ■■ CCoommpplleettee mmaacchhiinnee ddaammaaggee,, lloooossee ppaarrttss aanndd eeaarrtthh bboonnddss ■■ GGuuaarrddss,, Ssccrreeeennss,, wWaarrnniningg aanndd Ssaaffeettyy lLaabbeelsls ■■ MMaaiinntteennaannccee Aacccceessss TTeesstt ■■ AAmmbbiieenntt Tteemmppeerraattuurree ((iinnssiiddee aanndd oouuttssiiddee)) ■■ EElleeccttrriiccaall Nnoommiinnaall oOppeeraratitningg Ccoonnddititiioonnss aanndd eExxccititaattioionnss wwhhiillee galetenrenraattoorr iiss rruunnnniinngg ■■ VViibbrraattiioonn wwhhiillee galetenrenraattoorr is irsu nrunninnging | IInnssppeecctt ■■ SSyynncchhrroonniizsaattiioonn Sseettttinnggss TTeesstt ■■ IInniittiiaall AAVVRR &an PdF PCF sCe ts eutp up ■■ AAVVRR &anPdF CP FsCet tsnegttsin wgsh ile gseetntienrgasto wr hisi leru anlnteinrngator is ■ Cruunsntionmger connections of ■ aCuuxsiltioamrieesr connections of ■ Fauuxnicliatioriens of auxiliaries ■■ SFuynnccthioronn oizfa atiuoxnil iwarhieilse ■ gSeynnecrhartoonri sisa triuonnn winhgile alternator is running | IInnssppeecctt ■■ CCoonnddiittiioonn ooff wWininddininggss ■■ CCuussttoommeerr sSeettttinnggss ffoorr tteemmppeerraattuurree sseennssoorrss TTeesstt ■■ IInnssuullaattiioonn rreessiissttaannccee ooff aallll wwiinnddiinnggss ((PP7I t etesst tf oforr M LVH//MVHV)) ■■ TInesmuplaetiroantu rrees sisetannsocers o wf hile aroltteorrn, aetxocri ties rr uannndi nPgMG ■ Temperature sensors while generator is running | IInnssppeecctt ■■ CCoonnddiittiioonn ooff bBeeaarriinnggss ■■ CCuussttoommeerr sseettttinnggss ffoorr tteemmppeerraattuurree sseennssoorrss TTeesstt ■■ TTeemmppeerraattuurree sSeennssoorrss wwhhiillee agletenrenraattoorr iiss rruunnnniinngg |
+|  |  | CCoooolliinngg | RReeccttiififieerr | TTeerrmmiinnaall BBooxx |
+|  |  | IInnssppeecctt ■■ AAiirr Ffloloww (r(raattee aanndd ddirireeccttioionn wwhhiillee galetenrenraattoorr iiss rruunnnniinngg)) ■■ CCoonnddiittiioonn ooff ffaann TTeesstt ■■ CCoonnddiittiioonn ooff Aaiirr fifilltteerr | IInnssppeecctt ■■ DDiiooddeess aanndd vvaarriissttoorrss | IInnssppeecctt ■■ AAllll agletenrenraattoorr//ccuussttoommeerr ■ ccoonnnneeccttiioonnss aanndd ccaabblliinngg |
+
+--- FIM DA PÁGINA 56 ---
+
+--- INÍCIO DA PÁGINA 57 ---
+rotanretlA
+1P/0P
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Test
+■ Environmental Conditions ■ AVR &PFC settings while ■ Condition of Windings ■ Temperature Sensors while
+and Cleanliness generator is running generator is running
+■ Complete machine damage, ■ Function of auxiliaries Test
+loose parts, & earth bonds ■ Synchronization while ■ Insulation resistance of all ■ Guards, Screens, Warning generator is running windings (PI test for MH/VH)
+and Safety Labels
+■ Insulation resistance of
+rotor, exciter and PMG
+Test ■ Temperature sensors while
+■ Ambient Temperature (inside generator is running
+and outside)
+■ Electrical Nominal Operating
+Conditions and Excitations
+while generator is running
+■ Vibration while generator Cooling Rectifier Terminal Box
+is running
+Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All generator/customer
+connections and cabling
+Test
+■ Condition of Air filter
+rotanretlA
+7P
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Function of auxiliaries Test Test
+l b o o o n s d e s parts, and earth ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I w n i s n u d la in t g io s n (P re 7 s i t s e ta st n c fo e r o LV f a /M ll V) ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+■ Guards, screens, warning
+and safety labels ■ Insulation resistance of Clean
+rotor, exciter and PMG ■ Grease exhaust and trap
+■ Temperature sensors while (Re-greasable bearings only)
+Test alternator is running
+■ Ambient temperature (inside Replace
+and outside) ■ Grease for re-greasable
+■ Electrical nominal operating bearings
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 57):**
+| rroottaannrreettllAA 17PP/0P | PPoosstt CCoommmmiissssiioonn 225500 HHoouurrss//66 MMoonntthhss |  |  |  |
+|  | AAlltteerrnnaattoorr | CCoonnttrroollss aanndd AAuuxxiilliiaarriieess | WWiinnddiinnggss | BBeeaarriinnggss |
+|  | IInnssppeecctt ■■ EEnnvviirroonnmmeennttaall Ccoonnddiittiioonnss aanndd Cclleeaannllinineessss ■■ CCoommpplleettee mmaacchhiinnee ddaammaaggee,, lloooossee ppaarrttss,, &an eda ertahr tbho nds ■ Gbounadrdss, Screens, Warning ■ aGnuda rSdasf,e styc rLeaebnesl,s warning and safety labels Test ■Te sAtmbient Temperature (inside ■ aAnmdb oieuntts itdeem)perature (inside ■ Eanledc toriuctasli dNeo)minal Operating ■ CEloencdtriitcioanl ns oamndin aElx ocpitaetriaotninsg wcohnilde itgioennse raantodr eisx cruitantnioinngs ■ Vwihbirlea taioltne rwnhaitloer g ise nruenrantionrg ■ iVsi brurantnioinng while alternator is running | TTeesstt ■■ AAVVRR &anPdF CP FsCet tsinetgtsin gwsh iwleh ile galetenrenraattoorr iiss rruunnnniinngg ■■ FFuunnccttiioonn ooff aauuxxiilliiaarriieess ■■ SSyynncchhrroonniizsaattiioonn wwhhiillee galetenrenraattoorr iiss rruunnnniinngg | IInnssppeecctt ■■ CCoonnddiittiioonn ooff Wwininddininggss TTeesstt ■■ IInnssuullaattiioonn rreessiissttaannccee ooff aallll wwiinnddiinnggss ((PPI7 t etesst tf ofor rM LVH//MVHV)) ■■ IInnssuullaattiioonn rreessiissttaannccee ooff rroottoorr,, eexxcciitteerr aanndd PPMMGG ■■ TTeemmppeerraattuurree sseennssoorrss wwhhiillee galetenrenraattoorr iiss rruunnnniinngg | TInessptect ■■ TCeomndpietiroantu oref bSeeanrsinogrss while generator is running Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | CCoooolliinngg | RReeccttiififieerr | TTeerrmmiinnaall BBooxx |
+|  |  | IInnssppeecctt ■■ CCoonnddiittiioonn ooff ffaann TTeesstt ■■ CCoonnddiittiioonn ooff Aaiirr fifilltteerr Clean ■ Air filter | IInnssppeecctt ■■ DDiiooddeess aanndd vvaarriissttoorrss | IInnssppeecctt ■■ AAllll galetenrenraattoorr//ccuussttoommeerr ccoonnnneeccttiioonnss aanndd ccaabblliinngg |
+
+--- FIM DA PÁGINA 57 ---
+
+--- INÍCIO DA PÁGINA 58 ---
+rotanretlA
+1P/0P
+Commission
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Generator Rating ■ Synchronization Settngs ■ Condition of Windings ■ Condition of Bearings
+■ Bedplate Arrangement ■ Customer Settngs for ■ Customer settngs for
+■ Coupling Arrangement Test temperature sensors temperature sensors
+■ Environmental Conditions ■ Initial AVR & PFC set up and Cleanliness ■ AVR &PFC settngs while Test Test ■ Complete machine damage, generator is running ■ Insulation resistance of all ■ Temperature Sensors while loose parts and earth bonds ■ Customer connections of windings (PI test for MH/VH) generator is running
+■ Guards, Screens, Warning auxiliaries ■ Insulation resistance of
+and Safety Labels ■ Function of auxiliaries rotor, exciter and PMG
+■ Maintenance Access ■ Synchronization while ■ Temperature sensors while generator is running generator is running
+Test
+■ Ambient Temperature (inside Cooling Rectifier Terminal Box
+and outside)
+■ Electrical Nominal Operating Inspect Inspect Inspect
+Conditions and Excitations ■ Air Flow (rate and direction ■ Diodes and varistors ■ All generator/customer
+while generator is running while generator is running) ■ connections and cabling
+■ Vibration while generator ■ Condition of fan is running
+Test
+■ Condition of Air filter
+rotanretlA
+7P
+1,000 Hours/1 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Customer connections of Test Test
+loose parts, and earth auxiliaries ■ Temperature sensors while
+bonds ■ Function of auxiliaries ■ I w n i s n u d la in t g io s n (P re 7 s i t s e ta st n c fo e r o LV f a /M ll V) alternator is running ■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I r n o s to u r l , a t e io xc n i t r e e r s , i a st n a d n c P e M o G f C ■ l e G an rease exhaust and trap
+■ Temperature sensors while (Re-greasable bearings only)
+Test alternator is running
+■ Ambient temperature (inside Replace and outside) ■ Grease for re-greasable
+■ Electrical nominal operating bearings
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 58):**
+| rroottaannrreettllAA 17PP/0P | C1,o0m00m Hisosuiorsn/1 Year Service |  |  |  |
+|  | AAlltteerrnnaattoorr | CCoonnttrroollss aanndd AAuuxxiilliiaarriieess | WWiinnddiinnggss | BBeeaarriinnggss |
+|  | IInnssppeecctt ■■ GEnevnireorantmoer nRtaatl incgo nditions ■ Banedd pcllaetaen Alinrreasnsgement ■■ CCooumpplilnegte A mrraacnhgienme ednatmage, loose parts, and earth ■ Ebonvnidrosnmental Conditions and Cleanliness ■ Guards, screens, warning ■ Canodm spalefetety mlaabcehlsine damage, loose parts and earth bonds ■ Guards, Screens, Warning Tesatnd Safety Labels ■■ MAmaibniteennta tnecmep Aecracteusrse (inside and outside) ■ Electrical nominal operating Tesctonditions and excitations ■ Awmhiblei eanltte Trenmatpore risa truurnen (iinngside ■ aVnibdr aotuiotns idweh)ile alternator is ■ Erulencntinricgal Nominal Operating Conditions and Excitations while generator is running ■ Vibration while generator is running | ITnessptect ■■ SAVynRc ahnrodn PizFaCtio sne Stteintgtnsg wshile alternator is running T ■ e sCtustomer connections of auxiliaries ■ Initial AVR & PFC set up ■ Function of auxiliaries ■ AVR &PFC settngs while ■ gSeynnecrhartoonri sisa triuonnn winhgile alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronization while generator is running | IInnssppeecctt ■■ CCoonnddiittiioonn ooff Wwininddininggss ■ Customer Settngs for Testtemperature sensors ■ Insulation resistance of all Teswtindings (P7 test for LV/MV) ■■ IInnssuullaattiioonn rreessiissttaannccee ooff all wroitnodr,i negxsc i(tPeIr ,t easntd f oPrM MGH /VH) ■■ ITnesmulpaetiroantu rrees issetannscoers o wf hile raoltteorrn, aetxocri tiesr r aunndni nPgMG ■ Temperature sensors while generator is running | IInnssppeecctt ■■ CCoonnddiittiioonn ooff Bbeeaarriinnggss ■ Customer settngs for Testtemperature sensors ■ Temperature sensors while alternator is running Test ■Cl eTaenmperature Sensors while ■ gGerenaesraet oerx hisa ruusnt nainngd trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | CCoooolliinngg | RReeccttiififieerr | TTeerrmmiinnaall BBooxx |
+|  |  | IInnssppeecctt ■■ ACior nFdloitwio n(r aotfe f aannd direction while generator is running) ■ Te sCtondition of fan ■ Condition of air filter Test ■ Cl eCanondition of Air filter ■ Air filter | IInnssppeecctt ■■ DDiiooddeess aanndd vvaarriissttoorrss | IInnssppeecctt ■■ AAllll galetenrenraattoorr//ccuussttoommeerr ■ ccoonnnneeccttiioonnss aanndd ccaabblliinngg |
+
+--- FIM DA PÁGINA 58 ---
+
+--- INÍCIO DA PÁGINA 59 ---
+rotanretlA
+1P/0P
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Test
+■ Environmental Conditions ■ AVR &PFC settings while ■ Condition of Windings ■ Temperature Sensors while
+and Cleanliness generator is running generator is running
+■ Complete machine damage, ■ Function of auxiliaries Test
+loose parts, & earth bonds ■ Synchronization while ■ Insulation resistance of all ■ Guards, Screens, Warning generator is running windings (PI test for MH/VH)
+and Safety Labels
+■ Insulation resistance of
+rotor, exciter and PMG Test ■ Temperature sensors while
+■ Ambient Temperature (inside generator is running
+and outside)
+■ Electrical Nominal Operating
+Conditions and Excitations
+while generator is running
+■ Vibration while generator Cooling Rectifier Terminal Box
+is running
+Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All generator/customer
+connections and cabling
+Test
+■ Condition of Air filter
+rotanretlA
+7P
+10,000 Hours/2 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Condition of bearings
+■ Environmental conditions
+and cleanliness Test Test Test
+■ C lo o o m se p p le a te rt s m , a a c n h d i n e e a r d th a mage, ■ A al V te R r n a a n t d o r P is F C ru n se n t in ti g ngs while ■ I w n i s n u d la in t g io s n (P re 7 s i t s e ta st n c fo e r o LV f a /M ll V) ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+bonds
+■ Customer connections of ■ Temperature sensors while Clean
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning auxiliaries alternator is running ■ Grease exhaust and trap ■ Function of auxiliaries (Re-greasable bearings only)
+■ Synchronisation while
+Test alternator is running Replace
+■ Ambient temperature (inside ■ Grease for re-greasable
+and outside) bearings
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Inspect Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 59):**
+| rroottaannrreettllAA 17PP/0P | P10o,s0t 0C0o Hmomuirsss/2io nY e2a5r0 S Herovuircse/6 Months |  |  |  |
+|  | AAlltteerrnnaattoorr | CCoonnttrroollss aanndd AAuuxxiilliiaarriieess | WWiinnddiinnggss | BBeeaarriinnggss |
+|  | IInnssppeecctt ■■ ECnovuirpolinnmg eanrrtaanl gCeomndeintito ns ■ aEnndvi rColnemanelninteasl sconditions ■ Canodm cpleleatne limneascshine damage, ■ lCooomsep pleatert sm, a&c ehainrteh dbaomnadgse, ■ Glouoaserd psa, rStsc,r eaennds ,e aWrtahr ning abnodn dSsafety Labels ■ Guards, screens, warning Tesatnd safety labels ■ Ambient Temperature (inside Tesatnd outside) ■■ EAlmecbtireicnat l tNemompeinraatl uOrep e(irnastiidneg Canodn doiutitosnidse a)nd Excitations ■ wElheicletr igceanl enroamtoinr aisl orupnenraintging ■ Vcoibnrdaittiioonn sw ahniled geexnceitaratitoonr s iws hruilen nailntegrnator is running ■ Vibration while alternator is running | TInessptect ■■ AAVntRi c&oPnFdCe nsseatttiiongn sh weahtieler generator is running ■ Te sFtunction of auxiliaries ■■ SAVynRc ahnrodn PizFaCtio sne wttihnigles while galetenrenraattoorr iiss rruunnnniinngg ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | IInnssppeecctt ■■ CCoonnddiittiioonn ooff Wwininddininggss TTeesstt ■■ IInnssuullaattiioonn rreessiissttaannccee ooff aallll wwiinnddiinnggss ((PPI7 t etesst tf ofor rM LVH//MVHV)) ■■ ITnesmulpaetiroantu rrees issetannscoers o wf hile raoltteorrn, aetxocri tiesr r aunndni nPgMG ■ Temperature sensors while generator is running | TInessptect ■■ TCeomndpietiroantu oref bSeeanrsinogrss while generator is running Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | CCoooolliinngg | RReeccttiififieerr | TTeerrmmiinnaall BBooxx |
+|  |  | IInnssppeecctt ■■ CCoonnddiittiioonn ooff ffaann TTeesstt ■■ CCoonnddiittiioonn ooff Aaiirr fifilltteerr Clean ■ Air filter | IInnssppeecctt ■■ DDiiooddeess aanndd vvaarriissttoorrss | IInnssppeecctt ■■ AAllll galetenrenraattoorr//ccuussttoommeerr ccoonnnneeccttiioonnss aanndd ccaabblliinngg |
+
+--- FIM DA PÁGINA 59 ---
+
+--- INÍCIO DA PÁGINA 60 ---
+P7 Alternator 30,000 Hours/5 Year Service Kits
+For the 30,000 hour service interval Kit Number Contents
+we recommend replacing several
+components in order to optimise the A051C251 ■ Rectifier Service Kit
+alternator’s performance. (P7/S7 LV & S7 HV 1 RE-GREASABLE Bearing ■ NDE Bearing Kit
+30,000 Hour Service Kit) ■ Cartridge and Cap
+For the P7 alternator, the kits detailed
+in this table contain all parts necessary A051Z145 ■ Rectifier Service Kit
+to execute the maintenance and (P7/S7 LV & S7 HV 1 SEALED Bearing 30,000 ■ NDE Bearing Kit
+repairs. HourService Kit) ■ Cartridge and Cap
+A051C255 ■ Rectifier Service Kit
+(P7 A-E core/S7 LV C-F core 2 RE-GREASABLE ■ DE Bearing Kit
+Bearing 30,000 Hour Service Kit) ■ Cartridge and Cap
+A051C257 ■ Rectifier Service Kit
+(P7 F-G core/S7 LV G-J core & S7 HV G-J ■ DE Bearing Kit
+core 2 RE-GREASABLE Bearing 30,000 Hour
+Service Kit) ■ Cartridge and Cap
+Frame Part Number Description
+P7 A-F A053N003 Heater Kit UL 220-260V
+P7 A-F A053M969 Heater Kit UL 110-125V
+P7 G-H A053N109 Heater Kit UL 220-260V
+P7 G-H A053M999 Heater Kit UL 110-125V
+
+**Tabela 1 (Página 60):**
+| Kit Number | Contents |
+| A051C251 (P7/S7 LV & S7 HV 1 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit ■ Cartridge and Cap |
+| A051Z145 (P7/S7 LV & S7 HV 1 SEALED Bearing 30,000 HourService Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit ■ Cartridge and Cap |
+| A051C255 (P7 A-E core/S7 LV C-F core 2 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE Bearing Kit ■ Cartridge and Cap |
+| A051C257 (P7 F-G core/S7 LV G-J core & S7 HV G-J core 2 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE Bearing Kit ■ Cartridge and Cap |
+
+**Tabela 2 (Página 60):**
+| Frame | Part Number | Description |
+| P7 A-F | A053N003 | Heater Kit UL 220-260V |
+| P7 A-F | A053M969 | Heater Kit UL 110-125V |
+| P7 G-H | A053N109 | Heater Kit UL 220-260V |
+| P7 G-H | A053M999 | Heater Kit UL 110-125V |
+
+--- FIM DA PÁGINA 60 ---
+
+--- INÍCIO DA PÁGINA 61 ---
+rotanretlA
+1P/0P
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Test
+■ Environmental Conditions ■ AVR &PFC settings while ■ Condition of Windings ■ Temperature Sensors while
+and Cleanliness generator is running generator is running
+■ Complete machine damage, ■ Function of auxiliaries Test
+loose parts, & earth bonds ■ Synchronization while ■ Insulation resistance of all
+■ Guards, Screens, Warning generator is running windings (PI test for MH/VH)
+and Safety Labels
+■ Insulation resistance of
+rotor, exciter and PMG
+Test ■ Temperature sensors while
+■ Ambient Temperature (inside generator is running
+and outside)
+■ Electrical Nominal Operating
+Conditions and Excitations
+while generator is running
+■ Vibration while generator Cooling Rectifier Terminal Box
+is running
+Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All generator/customer
+connections and cabling
+Test
+■ Condition of Air filter
+rotanretlA
+7P
+30,000 Hours/5 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Replace Inspect Replace
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Bearings (Sealed &
+■ Environmental conditions re-greasable)
+and cleanliness Test Test ■ Bearing grease
+■ Complete machine damage, ■ AVR and PFC settings while ■ Insulation resistance of all
+loose parts, and earth alternator is running windings (P7 test for LV/MV) Test
+bonds
+■ Customer connections of ■ Temperature sensors while ■ Temperature sensors while
+■ Guards, screens, warning auxiliaries alternator is running alternator is running
+and safety labels ■ Function of auxiliaries ■ Insulation resistance of
+■ Synchronisation while rotor, exciter and PMG Clean
+Test alternator is running ■ Grease exhaust & trap
+■ Ambient temperature (inside (re-greasable bearings only)
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Replace Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 61):**
+| rroottaannrreettllAA 17PP/0P | P30o,s0t 0C0o Hmomuirsss/5io nY e2a5r0 S Herovuircse/6 Months |  |  |  |
+|  | AAlltteerrnnaattoorr | CCoonnttrroollss aanndd AAuuxxiilliiaarriieess | WWiinnddiinnggss | BBeeaarriinnggss |
+|  | IInnssppeecctt ■■ ECnovuirpolinnmg eanrrtaanl gCeomndeintito ns ■ aEnndvi rColnemanelninteasl sconditions ■ Canodm cpleleatne limneascshine damage, ■ lCooomsep pleatert sm, a&c ehainrteh dbaomnadgse, ■ Glouoaserd psa, rStsc,r eaennds ,e aWrtahr ning abnodn dSsafety Labels ■ Guards, screens, warning Tesatnd safety labels ■ Ambient Temperature (inside Tesatnd outside) ■■ EAlmecbtireicnat l tNemompeinraatl uOrep e(irnastiidneg Canodn doiutitosnidse a)nd Excitations ■ wElheicletr igceanl enroamtoinr aisl orupnenraintging ■ Vcoibnrdaittiioonn sw ahniled geexnceitaratitoonr s iws hruilen nailntegrnator is running ■ Vibration while alternator is running | TReesptlace ■■ A AVnRti &coPnFdCe snestattiniogns hwehaitlee r generator is running ■ Te sFtunction of auxiliaries ■■ SAVynRc ahnrodn PizFaCtio sne wttihnigles while galetenrenraattoorr iiss rruunnnniinngg ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | IInnssppeecctt ■■ CCoonnddiittiioonn ooff Wwininddininggss TTeesstt ■■ IInnssuullaattiioonn rreessiissttaannccee ooff aallll wwiinnddiinnggss ((PPI7 t etesst tf ofor rM LVH//MVHV)) ■■ ITnesmulpaetiroantu rrees issetannscoers o wf hile raoltteorrn, aetxocri tiesr r aunndni nPgMG ■■ TInesmulpaetiroantu rrees issetannscoers o wf hile groetnoer,r aetxocri tiesr raunndn inPgMG | TReesptlace ■■ TBeemarpinegrast u(Sree aSleedn s&o r s w h il e gree-ngereraatsoarb isle r) unning ■ Bearing grease Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust & trap (re-greasable bearings only) |
+|  |  | CCoooolliinngg | RReeccttiififieerr | TTeerrmmiinnaall BBooxx |
+|  |  | IInnssppeecctt ■■ CCoonnddiittiioonn ooff ffaann TTeesstt ■■ CCoonnddiittiioonn ooff Aaiirr fifilltteerr Clean ■ Air filter | IRnesppleaccte ■■ DDiiooddeess aanndd vvaarriissttoorrss | IInnssppeecctt ■■ AAllll galetenrenraattoorr//ccuussttoommeerr ccoonnnneeccttiioonnss aanndd ccaabblliinngg |
+
+--- FIM DA PÁGINA 61 ---
+
+--- INÍCIO DA PÁGINA 62 ---
+S7
+Alternator
+
+--- FIM DA PÁGINA 62 ---
+
+--- INÍCIO DA PÁGINA 63 ---
+S7
+Alternator
+Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours
+6 Month Service 1 Year Service 2 Year Service 5 Year Service
+
+**Tabela 1 (Página 63):**
+|  | S7 Alternator |
+| Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours 6 Month Service 1 Year Service 2 Year Service 5 Year Service |  |
+
+--- FIM DA PÁGINA 63 ---
+
+--- INÍCIO DA PÁGINA 64 ---
+rotanretlA
+7S
+Commission
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Alternator rating ■ Synchronisation settings ■ Condition of windings ■ Condition of bearings
+■ Bedplate arrangement ■ Customer settings for ■ Customer settings for
+■ Coupling arrangement Test temperature sensors temperature sensors
+■ Environmental conditions ■ Initial AVR and PFC set up
+and cleanliness ■ AVR and PFC settings Test Test
+■ Complete machine damage, settings while alternator is ■ Insulation resistance of all ■ Temperature sensors while
+loose parts and earth bonds running windings (P7 test for LV/MV) alternator is running
+■ Guards, screens, warning ■ Customer connections of ■ Temperature sensors while
+and safety labels auxiliaries alternator is running
+■ Maintenance access ■ Function of auxiliaries
+■ Synchronisation while
+Test alternator is running
+■ Ambient temperature (inside Cooling Rectifier Terminal Box
+and outside)
+■ Electrical nominal operating Inspect Inspect Inspect
+conditions and excitations ■ Air flow (rate and direction ■ Diodes and varistors ■ All alternator/customer
+while alternator is running while alternator is running) connections and cabling
+■ Vibration while alternator is ■ Condition of fan
+running
+Test
+■ Condition of air filter
+
+**Tabela 1 (Página 64):**
+| rotanretlA 7S | Commission |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Alternator rating ■ Bedplate arrangement ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts and earth bonds ■ Guards, screens, warning and safety labels ■ Maintenance access Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Synchronisation settings Test ■ Initial AVR and PFC set up ■ AVR and PFC settings settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings ■ Customer settings for temperature sensors Test ■ Insulation resistance of all windings (P7 test for LV/MV) ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings ■ Customer settings for temperature sensors Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Air flow (rate and direction while alternator is running) ■ Condition of fan Test ■ Condition of air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 64 ---
+
+--- INÍCIO DA PÁGINA 65 ---
+rotanretlA
+7S
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Function of auxiliaries Test Test
+l b o o o n s d e s parts, and earth ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I w n i s n u d la in t g io s n (P re 7 s i t s e ta st n c fo e r o LV f a /M ll V) ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+■ Guards, screens, warning
+and safety labels ■ Insulation resistance of Clean
+rotor, exciter and PMG ■ Grease exhaust and trap
+■ Temperature sensors while (Re-greasable bearings only)
+Test alternator is running
+■ Ambient temperature (inside Replace
+and outside) ■ Grease for re-greasable
+■ Electrical nominal operating bearings
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 65):**
+| rotanretlA 7S | Post Commission 250 Hours/6 Months |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR and PFC settings while alternator is running ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P7 test for LV/MV) ■ Insulation resistance of rotor, exciter and PMG ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 65 ---
+
+--- INÍCIO DA PÁGINA 66 ---
+rotanretlA
+7S
+1,000 Hours/1 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Customer connections of Test Test
+loose parts, and earth auxiliaries ■ Temperature sensors while
+bonds ■ Function of auxiliaries ■ I w n i s n u d la in t g io s n (P re 7 s i t s e ta st n c fo e r o LV f a /M ll V) alternator is running
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I r n o s to u r l , a t e io xc n i t r e e r s , i a st n a d n c P e M o G f C ■ l e G an rease exhaust and trap
+■ Temperature sensors while (Re-greasable bearings only)
+Test alternator is running
+■ Ambient temperature (inside Replace
+and outside) ■ Grease for re-greasable
+■ Electrical nominal operating bearings
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 66):**
+| rotanretlA 7S | 1,000 Hours/1 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P7 test for LV/MV) ■ Insulation resistance of rotor, exciter, and PMG ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 66 ---
+
+--- INÍCIO DA PÁGINA 67 ---
+rotanretlA
+7S
+10,000 Hours/2 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Condition of bearings
+■ Environmental conditions
+and cleanliness Test Test Test
+■ C lo o o m se p p le a te rt s m , a a c n h d i n e e a r d th a mage, ■ A al V te R r n a a n t d o r P is F C ru n se n t in ti g ngs while ■ I w n i s n u d la in t g io s n (P re 7 s i t s e ta st n c fo e r o LV f a /M ll V) ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+bonds
+■ Customer connections of ■ Temperature sensors while Clean
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning auxiliaries alternator is running ■ Grease exhaust and trap
+■ Function of auxiliaries (Re-greasable bearings only)
+■ Synchronisation while
+Test alternator is running Replace
+■ Ambient temperature (inside ■ Grease for re-greasable
+and outside) bearings
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Inspect Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 67):**
+| rotanretlA 7S | 10,000 Hours/2 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Anti condensation heater Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P7 test for LV/MV) ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 67 ---
+
+--- INÍCIO DA PÁGINA 68 ---
+S7 Alternator 30,000 Hours/5 Year Service Kits
+For the 30,000 hour service interval Kit Number Contents
+we recommend replacing several
+components in order to optimise the A051C251 ■ Rectifier Service Kit
+alternator’s performance. (P7/S7 LV & S7 HV 1 RE-GREASABLE Bearing ■ NDE Bearing Kit
+30,000 Hour Service Kit) ■ Cartridge and Cap
+For the S7 alternator, the kits detailed
+in this table contain all parts necessary A051Z145 ■ Rectifier Service Kit
+to execute the maintenance and (P7/S7 LV & S7 HV 1 SEALED Bearing 30,000 ■ NDE Bearing Kit
+repairs. HourService Kit) ■ Cartridge and Cap
+A051C255 ■ Rectifier Service Kit
+(P7 A-E core/S7 LV C-F core 2 RE-GREASABLE ■ DE Bearing Kit
+Bearing 30,000 Hour Service Kit) ■ Cartridge and Cap
+A051C257 ■ Rectifier Service Kit
+(P7 F-G core/S7 LV G-J core & S7 HV G-J ■ DE Bearing Kit
+core 2 RE-GREASABLE Bearing 30,000 Hour
+Service Kit) ■ Cartridge and Cap
+Frame Part Number Description
+S7 C-G A053N003 Heater Kit UL 220-260V
+S7 C-G A053M969 Heater Kit UL 110-125V
+S7 H-J A053N109 Heater Kit UL 220-260V
+S7 H-J A053M999 Heater Kit UL 110-125V
+A053M999 Heater Kit UL 110V
+S7 HV
+A064T028 Heater Kit UL 240V
+
+**Tabela 1 (Página 68):**
+| Kit Number | Contents |
+| A051C251 (P7/S7 LV & S7 HV 1 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit ■ Cartridge and Cap |
+| A051Z145 (P7/S7 LV & S7 HV 1 SEALED Bearing 30,000 HourService Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit ■ Cartridge and Cap |
+| A051C255 (P7 A-E core/S7 LV C-F core 2 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE Bearing Kit ■ Cartridge and Cap |
+| A051C257 (P7 F-G core/S7 LV G-J core & S7 HV G-J core 2 RE-GREASABLE Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ DE Bearing Kit ■ Cartridge and Cap |
+
+**Tabela 2 (Página 68):**
+| Frame | Part Number | Description |
+| S7 C-G | A053N003 | Heater Kit UL 220-260V |
+| S7 C-G | A053M969 | Heater Kit UL 110-125V |
+| S7 H-J | A053N109 | Heater Kit UL 220-260V |
+| S7 H-J | A053M999 | Heater Kit UL 110-125V |
+| S7 HV | A053M999 A064T028 | Heater Kit UL 110V Heater Kit UL 240V |
+
+--- FIM DA PÁGINA 68 ---
+
+--- INÍCIO DA PÁGINA 69 ---
+rotanretlA
+7S
+30,000 Hours/5 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Replace Inspect Replace
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Bearings (Sealed &
+■ Environmental conditions re-greasable)
+and cleanliness Test Test ■ Bearing grease
+■ Complete machine damage, ■ AVR and PFC settings while ■ Insulation resistance of all
+loose parts, and earth alternator is running windings (S7 test for LV) Test
+bonds
+■ Customer connections of ■ Temperature sensors while ■ Temperature sensors while
+■ Guards, screens, warning auxiliaries alternator is running alternator is running
+and safety labels
+■ Function of auxiliaries ■ Insulation resistance of
+■ Synchronisation while rotor, exciter and PMG Clean
+Test alternator is running ■ Grease exhaust & trap
+■ Ambient temperature (inside (re-greasable bearings only)
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Replace Inspect
+running ■ Condition of fan ■ Diodes and varistors ■ All alternator/customer
+connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 69):**
+| rotanretlA 7S | 30,000 Hours/5 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Replace ■ Anti condensation heater Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (S7 test for LV) ■ Temperature sensors while alternator is running ■ Insulation resistance of rotor, exciter and PMG | Replace ■ Bearings (Sealed & re-greasable) ■ Bearing grease Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust & trap (re-greasable bearings only) |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Replace ■ Diodes and varistors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 69 ---
+
+--- INÍCIO DA PÁGINA 70 ---
+P80
+Alternator
+
+--- FIM DA PÁGINA 70 ---
+
+--- INÍCIO DA PÁGINA 71 ---
+P80
+Alternator
+Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours
+6 Month Service 1 Year Service 2 Year Service 5 Year Service
+
+**Tabela 1 (Página 71):**
+|  | P80 Alternator |
+| Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours 6 Month Service 1 Year Service 2 Year Service 5 Year Service |  |
+
+--- FIM DA PÁGINA 71 ---
+
+--- INÍCIO DA PÁGINA 72 ---
+rotanretlA
+08P
+Commission
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Alternator rating ■ Synchronisation settings ■ Condition of windings ■ Condition of bearings
+■ Bedplate arrangement ■ Customer settings for ■ Customer settings for
+■ Coupling arrangement Test temperature sensors temperature sensors
+■ Environmental conditions ■ Initial AVR and PFC set up
+and cleanliness ■ AVR and PFC settings Test Test
+■ Complete machine damage, settings while alternator is ■ Insulation resistance of ■ Temperature sensors while
+loose parts and earth bonds running all windings (P80 test for alternator is running
+■ Guards, screens, warning ■ Customer connections of MV/HV)
+and safety labels auxiliaries ■ Temperature sensors while
+■ Maintenance access ■ Function of auxiliaries alternator is running
+■ Synchronisation while
+Test alternator is running
+■ Ambient temperature (inside Cooling Rectifier Terminal Box
+and outside)
+■ Electrical nominal operating Inspect Inspect Inspect
+conditions and excitations ■ Air flow (rate and direction ■ Diodes and surge ■ All alternator/customer
+while alternator is running while alternator is running) suppressors connections and cabling
+■ Vibration while alternator is ■ Condition of fan
+running
+Test
+■ Condition of air filter
+
+**Tabela 1 (Página 72):**
+| rotanretlA 08P | Commission |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Alternator rating ■ Bedplate arrangement ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts and earth bonds ■ Guards, screens, warning and safety labels ■ Maintenance access Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Synchronisation settings Test ■ Initial AVR and PFC set up ■ AVR and PFC settings settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings ■ Customer settings for temperature sensors Test ■ Insulation resistance of all windings (P80 test for MV/HV) ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings ■ Customer settings for temperature sensors Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Air flow (rate and direction while alternator is running) ■ Condition of fan Test ■ Condition of air filter | Inspect ■ Diodes and surge suppressors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 72 ---
+
+--- INÍCIO DA PÁGINA 73 ---
+rotanretlA
+08P
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Function of auxiliaries Test Test
+l b o o o n s d e s parts, and earth ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I a n ll s w ul i a n t d io in n g r s e s (P is 8 ta 0 n t c e e s t o f f o r ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning MV/HV) Clean
+■ Insulation resistance of ■ Grease exhaust and trap
+rotor, exciter and PMG (Re-greasable bearings only)
+Test ■ Temperature sensors while
+■ Ambient temperature (inside alternator is running Replace
+and outside) ■ Grease for re-greasable
+■ Electrical nominal operating bearings
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and surge ■ All alternator/customer
+suppressors connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 73):**
+| rotanretlA 08P | Post Commission 250 Hours/6 Months |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR and PFC settings while alternator is running ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P80 test for MV/HV) ■ Insulation resistance of rotor, exciter and PMG ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and surge suppressors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 73 ---
+
+--- INÍCIO DA PÁGINA 74 ---
+rotanretlA
+08P
+1,000 Hours/1 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Customer connections of Test Test
+loose parts, and earth auxiliaries ■ Temperature sensors while
+bonds ■ Function of auxiliaries ■ I a n ll s w ul i a n t d io in n g r s e s (P is 8 ta 0 n t c e e s t o f f o r alternator is running
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ M Ins V u /H la V tio ) n resistance of C ■ l e G an rease exhaust and trap
+rotor, exciter, and PMG (Re-greasable bearings only)
+Test ■ Temperature sensors while
+■ Ambient temperature (inside alternator is running Replace
+and outside) ■ Grease for re-greasable
+■ Electrical nominal operating bearings
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and surge ■ All alternator/customer
+suppressors connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 74):**
+| rotanretlA 08P | 1,000 Hours/1 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P80 test for MV/HV) ■ Insulation resistance of rotor, exciter, and PMG ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and surge suppressors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 74 ---
+
+--- INÍCIO DA PÁGINA 75 ---
+rotanretlA
+08P
+10,000 Hours/2 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Condition of bearings
+■ Environmental conditions
+and cleanliness Test Test Test
+■ C lo o o m se p p le a te rt s m , a a c n h d i n e e a r d th a mage, ■ A al V te R r n a a n t d o r P is F C ru n se n t in ti g ngs while ■ I a n ll s w ul i a n t d io in n g r s e s (P is 8 ta 0 n t c e e s t o f f o r ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+bonds ■ Customer connections of MV/HV) Clean
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning ■ a F u u x n i c lia ti r o ie n s of auxiliaries ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while ■ G (R r e e - a g s r e e a e s x a h b a l u e s b t e a a n r d in g tr s a p o nly)
+■ Synchronisation while
+Test alternator is running Replace
+■ Ambient temperature (inside ■ Grease for re-greasable
+and outside) bearings
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Inspect Inspect
+running ■ Condition of fan ■ Diodes and surge ■ All alternator/customer
+suppressors connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 75):**
+| rotanretlA 08P | 10,000 Hours/2 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Anti condensation heater Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P80 test for MV/HV) ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and surge suppressors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 75 ---
+
+--- INÍCIO DA PÁGINA 76 ---
+P80 Alternator 30,000 Hours/5 Year Service Kits
+For the 30,000 hour service interval Kit Number Contents
+we recommend replacing several
+components in order to optimise the
+A051C282 ■ Rectifier Service Kit
+alternator’s performance.
+(P80 1 Bearing 30,000 Hour Service Kit) ■ NDE Bearing Kit
+For the P80 alternator, the kits detailed
+in this table contain all parts necessary A051C285 ■ Rectifier Service Kit
+to execute the maintenance and (P80 2 Bearing 30,000 Hour Service Kit) ■ Bearing Kit Frame R, S, & T
+repairs.
+A051C291 ■ Rectifier Service Kit
+(P80 2 Bearing 30,000 Hour Service Kit) ■ Bearing Kit Frame X, Y, & Z
+Frame Part Number Description
+P80 45-1029 Heater Kit UL
+
+**Tabela 1 (Página 76):**
+| Kit Number | Contents |
+|  |  |
+| A051C282 (P80 1 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit |
+| A051C285 (P80 2 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Bearing Kit Frame R, S, & T |
+| A051C291 (P80 2 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Bearing Kit Frame X, Y, & Z |
+
+**Tabela 2 (Página 76):**
+| Frame | Part Number | Description |
+| P80 | 45-1029 | Heater Kit UL |
+
+--- FIM DA PÁGINA 76 ---
+
+--- INÍCIO DA PÁGINA 77 ---
+rotanretlA
+08P
+30,000 Hours/5 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Replace Inspect Replace
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Bearings (sealed &
+■ Environmental conditions re-greasable)
+and cleanliness Test Test ■ Bearing grease
+■ Complete machine damage, ■ AVR and PFC settings while ■ Insulation resistance of
+loose parts, and earth alternator is running all windings (P80 test for Test
+bonds ■ Customer connections of MV/HV) ■ Temperature sensors while
+■ Guards, screens, warning auxiliaries ■ Temperature sensors while alternator is running
+and safety labels ■ Function of auxiliaries alternator is running
+■ Synchronisation while ■ Insulation resistance of Clean
+Test alternator is running rotor, exciter and PMG ■ Grease exhaust & trap
+■ Ambient temperature (inside (re-greasable bearings only)
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Replace Inspect
+running ■ Condition of fan ■ Diodes and surge ■ All alternator/customer
+suppressors connections and cabling
+Test
+■ Condition of air filter
+
+**Tabela 1 (Página 77):**
+| rotanretlA 08P | 30,000 Hours/5 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Replace ■ Anti condensation heater Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P80 test for MV/HV) ■ Temperature sensors while alternator is running ■ Insulation resistance of rotor, exciter and PMG | Replace ■ Bearings (sealed & re-greasable) ■ Bearing grease Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust & trap (re-greasable bearings only) |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter | Replace ■ Diodes and surge suppressors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 77 ---
+
+--- INÍCIO DA PÁGINA 78 ---
+S9
+Alternator
+
+--- FIM DA PÁGINA 78 ---
+
+--- INÍCIO DA PÁGINA 79 ---
+S9
+Alternator
+Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours
+6 Month Service 1 Year Service 2 Year Service 5 Year Service
+
+**Tabela 1 (Página 79):**
+|  | S9 Alternator |
+| Commission Post Commission 1,000 Hour 10,000 Hours 30,000 Hours 6 Month Service 1 Year Service 2 Year Service 5 Year Service |  |
+
+--- FIM DA PÁGINA 79 ---
+
+--- INÍCIO DA PÁGINA 80 ---
+rotanretlA
+9S
+Commission
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Alternator rating ■ Synchronisation settings ■ Condition of windings ■ Condition of bearings
+■ Bedplate arrangement ■ Customer settings for ■ Customer settings for
+■ Coupling arrangement Test temperature sensors temperature sensors
+■ Environmental conditions ■ Initial AVR and PFC set up
+and cleanliness ■ AVR and PFC settings Test Test
+■ Complete machine damage, settings while alternator is ■ Insulation resistance of ■ Temperature sensors while
+loose parts and earth bonds running all windings (P80 test for alternator is running
+■ Guards, screens, warning ■ Customer connections of MV/HV)
+and safety labels auxiliaries ■ Temperature sensors while
+■ Maintenance access ■ Function of auxiliaries alternator is running
+■ Synchronisation while
+Test alternator is running
+■ Ambient temperature (inside Cooling Rectifier Terminal Box
+and outside)
+■ Electrical nominal operating Inspect Inspect Inspect
+conditions and excitations ■ Air flow (rate and direction ■ Diodes and surge ■ All alternator/customer
+while alternator is running while alternator is running) suppressors connections and cabling
+■ Vibration while alternator is ■ Condition of fan
+running
+Test
+■ Condition of air filter
+
+**Tabela 1 (Página 80):**
+| rotanretlA 9S | Commission |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Alternator rating ■ Bedplate arrangement ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts and earth bonds ■ Guards, screens, warning and safety labels ■ Maintenance access Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Synchronisation settings Test ■ Initial AVR and PFC set up ■ AVR and PFC settings settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings ■ Customer settings for temperature sensors Test ■ Insulation resistance of all windings (P80 test for MV/HV) ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings ■ Customer settings for temperature sensors Test ■ Temperature sensors while alternator is running |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Air flow (rate and direction while alternator is running) ■ Condition of fan Test ■ Condition of air filter | Inspect ■ Diodes and surge suppressors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 80 ---
+
+--- INÍCIO DA PÁGINA 81 ---
+rotanretlA
+9S
+Post Commission 250 Hours/6 Months
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Function of auxiliaries Test Test
+l b o o o n s d e s parts, and earth ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ I a n ll s w ul i a n t d io in n g r s e s (P is 8 ta 0 n t c e e s t o f f o r ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning MV/HV) Clean
+■ Insulation resistance of ■ Grease exhaust and trap
+rotor, exciter and PMG (Re-greasable bearings only)
+Test ■ Temperature sensors while
+■ Ambient temperature (inside alternator is running Replace
+and outside) ■ Grease for re-greasable
+■ Electrical nominal operating bearings
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and surge ■ All alternator/customer
+suppressors connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 81):**
+| rotanretlA 9S | Post Commission 250 Hours/6 Months |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR and PFC settings while alternator is running ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P80 test for MV/HV) ■ Insulation resistance of rotor, exciter and PMG ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and surge suppressors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 81 ---
+
+--- INÍCIO DA PÁGINA 82 ---
+rotanretlA
+9S
+1,000 Hours/1 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Test Inspect Inspect
+■ Environmental conditions ■ AVR and PFC settings while ■ Condition of windings ■ Condition of bearings
+and cleanliness alternator is running
+■ Complete machine damage, ■ Customer connections of Test Test
+loose parts, and earth auxiliaries ■ Temperature sensors while
+bonds ■ Function of auxiliaries ■ I a n ll s w ul i a n t d io in n g r s e s (P is 8 ta 0 n t c e e s t o f f o r alternator is running
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning ■ S al y te n r c n h a r t o o n r is is a t r i u o n n n w in h g ile ■ M Ins V u /H la V tio ) n resistance of C ■ l e G an rease exhaust and trap
+rotor, exciter, and PMG (Re-greasable bearings only)
+Test ■ Temperature sensors while
+■ Ambient temperature (inside alternator is running Replace
+and outside) ■ Grease for re-greasable
+■ Electrical nominal operating bearings
+conditions and excitations
+while alternator is running Cooling Rectifier Terminal Box
+■ Vibration while alternator is
+running Inspect Inspect Inspect
+■ Condition of fan ■ Diodes and surge ■ All alternator/customer
+suppressors connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 82):**
+| rotanretlA 9S | 1,000 Hours/1 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P80 test for MV/HV) ■ Insulation resistance of rotor, exciter, and PMG ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and surge suppressors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 82 ---
+
+--- INÍCIO DA PÁGINA 83 ---
+rotanretlA
+9S
+10,000 Hours/2 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Inspect Inspect Inspect
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Condition of bearings
+■ Environmental conditions
+and cleanliness Test Test Test
+■ C lo o o m se p p le a te rt s m , a a c n h d i n e e a r d th a mage, ■ A al V te R r n a a n t d o r P is F C ru n se n t in ti g ngs while ■ I a n ll s w ul i a n t d io in n g r s e s (P is 8 ta 0 n t c e e s t o f f o r ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while
+bonds ■ Customer connections of MV/HV) Clean
+■ G an u d a r s d a s f , e t s y c r la e b e e n l s s , warning ■ a F u u x n i c lia ti r o ie n s of auxiliaries ■ T a e lt m er p n e a r to at r u is re r u se n n n s in o g rs while ■ G (R r e e - a g s r e e a e s x a h b a l u e s b t e a a n r d in g tr s a p o nly)
+■ Synchronisation while
+Test alternator is running Replace
+■ Ambient temperature (inside ■ Grease for re-greasable
+and outside) bearings
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Inspect Inspect
+running ■ Condition of fan ■ Diodes and surge ■ All alternator/customer
+suppressors connections and cabling
+Test
+■ Condition of air filter
+Clean
+■ Air filter
+
+**Tabela 1 (Página 83):**
+| rotanretlA 9S | 10,000 Hours/2 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Inspect ■ Anti condensation heater Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P80 test for MV/HV) ■ Temperature sensors while alternator is running | Inspect ■ Condition of bearings Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust and trap (Re-greasable bearings only) Replace ■ Grease for re-greasable bearings |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter Clean ■ Air filter | Inspect ■ Diodes and surge suppressors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 83 ---
+
+--- INÍCIO DA PÁGINA 84 ---
+S9 Alternator 30,000 Hours/5 Year Service Kits
+For the 30,000 hour service interval Kit Number Contents
+we recommend replacing several
+components in order to optimise the
+A065P433 ■ Rectifier Service Kit
+alternator’s performance.
+(S9 1 Bearing 30,000 Hour Service Kit) ■ NDE Bearing Kit
+For the S9 alternator, the kits detailed
+in this table contain all parts necessary A065P434 ■ Rectifier Service Kit
+to execute the maintenance and (S9 2 Bearing 30,000 Hour Service Kit) ■ Bearing Kit Frame B - D
+repairs.
+A065P435 ■ Rectifier Service Kit
+(S9 2 Bearing 30,000 Hour Service Kit) ■ Bearing Kit Frame E - F
+A065P436 ■ Rectifier Service Kit
+(S9 2 Bearing 30,000 Hour Service Kit) ■ Bearing Kit Frame G - H
+Frame Part Number Description
+S9 A059S757 F9 Heater Kit
+
+**Tabela 1 (Página 84):**
+| Kit Number | Contents |
+|  |  |
+| A065P433 (S9 1 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ NDE Bearing Kit |
+| A065P434 (S9 2 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Bearing Kit Frame B - D |
+| A065P435 (S9 2 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Bearing Kit Frame E - F |
+| A065P436 (S9 2 Bearing 30,000 Hour Service Kit) | ■ Rectifier Service Kit ■ Bearing Kit Frame G - H |
+
+**Tabela 2 (Página 84):**
+| Frame | Part Number | Description |
+| S9 | A059S757 | F9 Heater Kit |
+
+--- FIM DA PÁGINA 84 ---
+
+--- INÍCIO DA PÁGINA 85 ---
+rotanretlA
+9S
+30,000 Hours/5 Year Service
+Alternator Controls and Auxiliaries Windings Bearings
+Inspect Replace Inspect Replace
+■ Coupling arrangement ■ Anti condensation heater ■ Condition of windings ■ Bearings (sealed &
+■ Environmental conditions re-greasable)
+and cleanliness Test Test ■ Bearing grease
+■ Complete machine damage, ■ AVR and PFC settings while ■ Insulation resistance of
+loose parts, and earth alternator is running all windings (P80 test for Test
+bonds ■ Customer connections of MV/HV) ■ Temperature sensors while
+■ Guards, screens, warning auxiliaries ■ Temperature sensors while alternator is running
+and safety labels ■ Function of auxiliaries alternator is running
+■ Synchronisation while ■ Insulation resistance of Clean
+Test alternator is running rotor, exciter and PMG ■ Grease exhaust & trap
+■ Ambient temperature (inside (re-greasable bearings only)
+and outside)
+■ Electrical nominal operating
+conditions and excitations Cooling Rectifier Terminal Box
+while alternator is running
+■ Vibration while alternator is Inspect Replace Inspect
+running ■ Condition of fan ■ Diodes and surge ■ All alternator/customer
+suppressors connections and cabling
+Test
+■ Condition of air filter
+
+**Tabela 1 (Página 85):**
+| rotanretlA 9S | 30,000 Hours/5 Year Service |  |  |  |
+|  | Alternator | Controls and Auxiliaries | Windings | Bearings |
+|  | Inspect ■ Coupling arrangement ■ Environmental conditions and cleanliness ■ Complete machine damage, loose parts, and earth bonds ■ Guards, screens, warning and safety labels Test ■ Ambient temperature (inside and outside) ■ Electrical nominal operating conditions and excitations while alternator is running ■ Vibration while alternator is running | Replace ■ Anti condensation heater Test ■ AVR and PFC settings while alternator is running ■ Customer connections of auxiliaries ■ Function of auxiliaries ■ Synchronisation while alternator is running | Inspect ■ Condition of windings Test ■ Insulation resistance of all windings (P80 test for MV/HV) ■ Temperature sensors while alternator is running ■ Insulation resistance of rotor, exciter and PMG | Replace ■ Bearings (sealed & re-greasable) ■ Bearing grease Test ■ Temperature sensors while alternator is running Clean ■ Grease exhaust & trap (re-greasable bearings only) |
+|  |  | Cooling | Rectifier | Terminal Box |
+|  |  | Inspect ■ Condition of fan Test ■ Condition of air filter | Replace ■ Diodes and surge suppressors | Inspect ■ All alternator/customer connections and cabling |
+
+--- FIM DA PÁGINA 85 ---
+
+--- INÍCIO DA PÁGINA 86 ---
+Guaranteed
+We guarantee that every product we produce
+matches the quality, robustness, and proven
+performance you expect from the STAMFORD range.
+Built to our quality assured standards, STAMFORD
+products benefit from a global support network,
+extensive research and development, and world-
+leading expertise.
+Where people need power, businesses rely on
+genuine STAMFORD alternators. Proven expertise
+in design, development, manufacturing, customer
+support and servicing, ensures quality in every aspect
+of our business.
+Visit stamford-avk.com/verify to find out how we
+are protecting our customers and their businesses
+against the dangers of illegal, counterfeit and
+imitation products and taking action.
+
+--- FIM DA PÁGINA 86 ---
+
+--- INÍCIO DA PÁGINA 87 ---
+Guaranteed The Power of More™
+Selecting the right alternator for the right What this means to you:
+application in today’s complex world is ■ 24 hour response to service emergencies,
+our goal - making your life simpler. We 7 days a week
+understand the performance requirements
+■ Trained engineers available locally,
+that each application and operating
+speaking the local language
+environment demands. Our knowledgeable
+and experienced Customer Engineers align ■ Commissioning of alternators onsite
+individual customers’ power needs with the ■ Onsite bearing maintenance and bearing
+most suitable alternator specification. condition monitoring
+We take pride in our global reputation for ■ Onsite insulation integrity checks
+Technical Support and After Sales Service, ■ AVR and accessories set up onsite
+continually adding new, trained engineers in
+■ Extensive aftermarket distribution for
+locations near to our customers, worldwide. genuine STAMFORD parts
+Cummins engineers are experienced
+professionals trained in electrical, electronic
+and mechanical engineering and are ready
+to help at any point in the STAMFORD
+alternator lifecycle, minimising risk of
+unexpected downtime.
+
+--- FIM DA PÁGINA 87 ---
+
+--- INÍCIO DA PÁGINA 88 ---
+For Customer Service:
+Americas: Powering the world with confidence since 1904
+cgta.service@cummins.com
+Phone: +1-800-367-2764
+EMEA:
+emea.service@cummins.com
+Phone: +441780484732
+APAC:
+apac.service@cummins.com
+Phone: +8651081103212
+China:
+cgt.china.service@cummins.com
+Phone: +86 400 88 12390
+India:
+CGtil.csnotify@cummins.com
+Phone: +91 (0) 20 67067639
+There for you ™
+For general enquires:
+stamford-avk@cummins.com
+Copyright 2020, Cummins Generator Technologies Ltd. All rights reserved.
+www.stamford-avk.com Cummins and the Cummins logo are registered trade marks of Cummins Inc.
+NEWAGE®, STAMFORD® and AvK® are registered trade marks of Cummins
+Generator Technologies Ltd.
+Part No. PG_SSG_P_EN_AF Rev.06
+
+--- FIM DA PÁGINA 88 ---
+

@@ -1,0 +1,26 @@
+[
+  {
+    "metadata": {
+      "manual": "VLT Bom Sinal - CBTU Recife",
+      "subsistema": "Pneumática / Freios",
+      "topico": "Diagrama Pneumático - Carro Tração (Motor M1/M2)"
+    },
+    "content": "Este diagrama abrange a distribuição do sistema de freios pneumáticos e ar comprimido no Carro Tração (Carro Motor). O esquema detalha o fluxo de ar a partir do Encanamento Principal (MRP - Pres. 10.0 BAR) e sua alimentação para o Rack de Freio (B100), válvulas niveladoras, suspensão secundária pneumática, e encanamento de reboque. O rack de freio centraliza as funções de controle de frenagem de serviço e emergência, enviando a pressão regulada para as pinças instaladas nos truques motores. Identifica-se o reservatório de ar principal e os sistemas de dreno automático. É essencial garantir a integridade das tubulações (geralmente em aço inox ou poliamida nas conexões finais) para evitar vazamentos que causem o acionamento indesejado do freio de emergência (falha abaixo de 3.5 BAR)."
+  },
+  {
+    "metadata": {
+      "manual": "VLT Bom Sinal - CBTU Recife",
+      "subsistema": "Pneumática / Freios",
+      "topico": "Diagrama Pneumático - Carro Reboque (R1/R2)"
+    },
+    "content": "O diagrama do Carro Reboque foca na extensão da linha do Encanamento Principal e de Reboque provenientes dos Carros Tração. O ar comprimido flui para o rack de freio local do reboque para atuação das pinças instaladas no truque não-motor (truque portador). O sistema mantém a mesma arquitetura de redundância pneumática e válvulas de isolamento do freio de emergência e estacionamento. A pressão de trabalho da linha de alimentação principal MRP deve ser sustentada em 10.0 BAR para pleno funcionamento dos sistemas auxiliares e atuadores pneumáticos das portas. Em caso de quebra de engate ou ruptura da mangueira inter-carros, a despressurização súbita aciona a válvula relé de emergência, bloqueando as rodas instantaneamente."
+  },
+  {
+    "metadata": {
+      "manual": "VLT Bom Sinal - CBTU Recife",
+      "subsistema": "Pneumática / Suspensão",
+      "topico": "Diagrama Sistema Suspensão Pneumática"
+    },
+    "content": "Este circuito detalha exclusivamente o controle da suspensão secundária (bolsas de ar) dos truques do VLT (KBR-XI-T). A linha principal alimenta os reservatórios auxiliares (L5 - 40L) através de válvulas de retenção. O ar flui para as válvulas niveladoras mecânicas instaladas entre o chassi do truque e a caixa do vagão. Estas válvulas ajustam a pressão interna das bolsas pneumáticas (L7.1, L7.2) de acordo com o peso dos passageiros (carga), mantendo a altura da caixa constante em relação ao nível do piso da plataforma (floor level). A variação de pressão na suspensão é também monitorada por transdutores ou enviada via válvula relé proporcional para o sistema de freios, ajustando o esforço de frenagem proporcionalmente à lotação do veículo (Load Weighing System)."
+  }
+]

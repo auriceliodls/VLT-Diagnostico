@@ -1,0 +1,182 @@
+# MANUAL: Diagrama Elétrico - A059Z094_Rev_B.pdf
+
+--- INÍCIO DA PÁGINA 1 ---
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
+L L
+K K
+J J
+I I
+H H
+G G
+F F
+E E
+D D
+C C
+B B
+A1
+A A
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
+Cummins Data Classification: This document (and the information shown thereon) is Part Number: A059Z094 Part Revision: B
+Cummins Confidential Confidential and Proprietary and shall not be disclosed to others Part Name: DIAGRAM,WIRING
+in hard copy or electronic form, reproduced by any means, or used
+for any purpose without written consent of Cummins Inc. Drawing Category: Detail State: Released
+TMG
+93:91
+1202BEF61
+:detareneG
+tnemucoD
+Sheet 1 of 3
+
+**Tabela 1 (Página 1):**
+| 15 | 14 | 13 | 12 | 11 | 10 | 9 | 8 | 7 6 | 5 | 4 | 3 2 |
+
+**Tabela 2 (Página 1):**
+| A1 |  |  |  |
+|  |  |  | K |
+|  |  |  | J |
+|  |  |  | I |
+|  |  |  | H |
+|  |  |  | G |
+|  |  |  | F |
+|  |  |  | E |
+|  |  |  | D |
+|  |  |  | C |
+|  |  |  | B |
+|  | A1 |  |  |
+
+**Tabela 3 (Página 1):**
+| K |
+| J |
+| I |
+| H |
+| G |
+| F |
+| E |
+| D |
+| C |
+| B |
+
+**Tabela 4 (Página 1):**
+|  |  |
+|  |  |
+
+--- FIM DA PÁGINA 1 ---
+
+--- INÍCIO DA PÁGINA 2 ---
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
+L L
+K K
+J J
+I I
+H H
+G G
+F F
+E E
+D D
+C C
+B B
+A1
+A A
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
+Cummins Data Classification: This document (and the information shown thereon) is Part Number: A059Z094 Part Revision: B
+Cummins Confidential Confidential and Proprietary and shall not be disclosed to others Part Name: DIAGRAM,WIRING
+in hard copy or electronic form, reproduced by any means, or used
+for any purpose without written consent of Cummins Inc. Drawing Category: Detail State: Released
+TMG
+93:91
+1202BEF61
+:detareneG
+tnemucoD
+Sheet 2 of 3
+
+**Tabela 1 (Página 2):**
+| 14 13 1 | 2 11 | 10 | 9 | 8 | 7 | 6 | 5 4 | 3 2 |
+
+**Tabela 2 (Página 2):**
+| A1 |  |  |
+|  |  | K J |
+|  |  | I |
+|  |  | H G |
+|  |  | F E D |
+|  |  | C B |
+|  | A1 |  |
+|  | 3 2 |  |
+
+**Tabela 3 (Página 2):**
+| K J |
+| I |
+| H G |
+| F E D |
+| C B |
+
+**Tabela 4 (Página 2):**
+|  |  |  |  |
+|  |  |  |  |
+
+--- FIM DA PÁGINA 2 ---
+
+--- INÍCIO DA PÁGINA 3 ---
+Part Number: A059Z094
+Change Notice CN00029952 Alternates
+Manufacturer Part (MEP) No Usage Production and Service
+Release Phase Code Production (P) Drawing Specification DSA059Z095
+External Regulations No External Regulation 3D image provided when available for visual reference only.
+Associated Specifications
+Number Name Type Category Sub-Category
+ESA030B356 SPECIFICATION,MATERIAL Engineering Specification Material Specification Prohibited and Restricted|
+Prohibited and Restricted
+Drawing Revision Information
+Description of Change(s)
+UPDATED SHEET FORMAT
+SHEET 2 - ZONE E5: ADDED D1
+Drawing Authorization
+Drafter Alessandro Valsecchi Casale Date 16FEB2021
+Checker Luis Eduardo Pivaro Date 16FEB2021
+Approver Alessandro Valsecchi Casale Date 16FEB2021
+Cummins Data Classification: This document (and the information shown thereon) is Part Number: A059Z094 Part Revision: B
+Cummins Confidential Confidential and Proprietary and shall not be disclosed to others Part Name: DIAGRAM,WIRING
+in hard copy or electronic form, reproduced by any means, or used
+for any purpose without written consent of Cummins Inc. Drawing Category: Detail State: Released
+TMG
+93:91
+1202BEF61
+:detareneG
+tnemucoD
+Sheet 3 of 3
+
+**Tabela 1 (Página 3):**
+|  |  |
+
+**Tabela 2 (Página 3):**
+| Part Number: A059Z094 |  |  |  |
+| Change Notice | CN00029952 | Alternates |  |
+| Manufacturer Part (MEP) | No | Usage | Production and Service |
+| Release Phase Code | Production (P) | Drawing Specification | DSA059Z095 |
+| External Regulations |  | No External Regulation |  |
+
+**Tabela 3 (Página 3):**
+|  |
+|  |
+
+**Tabela 4 (Página 3):**
+|  |
+|  |
+
+**Tabela 5 (Página 3):**
+| Number | Name | Type | Category | Sub-Category |
+| ESA030B356 | SPECIFICATION,MATERIAL | Engineering Specification | Material Specification | Prohibited and Restricted| Prohibited and Restricted |
+
+**Tabela 6 (Página 3):**
+| Description of Change(s) |
+| UPDATED SHEET FORMAT SHEET 2 - ZONE E5: ADDED D1 |
+
+**Tabela 7 (Página 3):**
+| Drafter | Alessandro Valsecchi Casale | Date | 16FEB2021 |
+| Checker | Luis Eduardo Pivaro | Date | 16FEB2021 |
+| Approver | Alessandro Valsecchi Casale | Date | 16FEB2021 |
+
+**Tabela 8 (Página 3):**
+|  |  |
+
+--- FIM DA PÁGINA 3 ---
+

@@ -1,0 +1,1376 @@
+=========================================
+MANUAL: DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf
+=========================================
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 1 ---
+KNORR BREMSE 
+S I S T E M A S  P A R A  V E Í C U L O S  F E R R O V I Á R I O S  L T D A .  
+ 
+                    
+ 
+                    
+DDTSE20344E20-BR 
+Rev. 01 (01/2012) - pt 
+                    
+   
+                    
+Catálogo de peças sobressalentes 
+ 
+ESCOPO DE FORNECIMENO 
+Mecanismo de Porta de Folha Dupla S3-E2  
+Conjuntos: 5080291AR01 / R02 / R03 / R04 
+Projeto: VLT (BOM SINAL) 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 2 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de 
+propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar 
+e transferir.  
+ 
+Knorr-Bremse Group  
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 3 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 3 / 52 
+ 
+ 
+ 
+ 
+ATENÇÃO 
+ 
+ 
+i. A fim de se proteger dos riscos recomendamos que  a instalação e/ou operação 
+de nossos produtos ou componentes seja executada so mente por pessoal 
+treinado e autorizado de acordo com as instruções apropriadas. 
+ 
+ 
+ii. Não nos responsabilizamos perante as leis por d anos diretos ou indiretos, 
+decorrentes de operação, instalação ou manuseio inc orretos dos produtos ou 
+componentes fornecidos por nós. 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 4 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 4 / 52 
+Endereço de contato 
+KNORR-BREMSE SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LT DA. 
+Via Cyrineu Tonolli, 1.519 - CEP: 13295-000 - Itupeva / SP 
+Depto de Engenharia de Aplicação de Sistemas de Porta 
+Telefone: (11) 4593-4400 
+www.knorr-bremse.com.br  
+ 
+Alterações técnicas 
+A KNORR-BREMSE se reserva ao direito de alterar os produtos ou este documento a qualquer 
+momento sem a necessidade de um aviso prévio. 
+Em caso de alterações técnicas nos produtos, este catálogo não será mais válido. 
+ 
+Compra de sobressalentes 
+É necessário utilizar a última revisão deste catálogo para efetuar a compra de peças sobressalentes. 
+Use somente peças originais  KNORR-BREMSE . 
+ 
+Informações gerais 
+O Catálogo de Peças Sobressalentes – uma compilação dos desenhos e listas de peças – é uma 
+forma eficiente de se encontrar os códigos de todas as peças que compõem o sistema de porta.  
+ 
+Como usar este catálogo 
+O índice lista todas as vistas explodidas dos conjuntos que compõem o sistema de porta juntamente 
+com a sua página correspondente. Para achar um código específico, deve-se procurar na vista 
+explodida o número de ordem da peça e buscar o código na lista de peças subseqüente. 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 5 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 5 / 52 
+Classificação das peças do sistema de porta 
+Neste catálogo a coluna “Tipo de Sobressalente” mostra a classificação individual das peças que são 
+divididas da seguinte forma: 
+Tipo Definição 
+A Peças sujeitas ao desgaste 
+B Peças que devem ser mantidas em estoque 
+C Peças estruturais e normalizadas que não estão di sponíveis para a venda pela KBB 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 6 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 6 / 52 
+ 
+Índice  
+T0 ESCOPO DE FORNECIMENTO 7 
+ T1 SCOPE OF SUPPLY 8 
+T2 DRIVE 12 
+T3 S3 BASIC DRIVE 16 
+T4 S3 BASIC DRIVE 18 
+T5 CABLING 20 
+T6 SPINDLE ASSEMBLY 22 
+T7 HINGED NUT 24 
+T8 SPINDLE ASSEMBLY 26 
+T9 HINGED NUT 28 
+T10 DOORHANGER 30 
+T11 SUPPORTING ROLLER 32 
+T12 SUPPORTING ROLLER 34 
+T13 DOORHANGER 36 
+T14 SUPPORTING ROLLER 38 
+T15 SUPPORTING ROLLER 40 
+T16 CABLING 42 
+T17 MOUNTING CONSOLE 45 
+T18 EMERGENCY DEVICE 47 
+T19 EMERGENCY DEVICE 49 
+T20 OPERATING LEVER 51 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 7 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 7 / 52 
+T0: ESCOPO DE FORNECIMENTO 
+ 
+T0: Descrição de fornecimento: 
+Pos.  Código Cód. cliente  Qtd Und Descrição Tipo  Pág.  
+ 
+ TA...    Conj. Trem   
+R01  5080291AR01  4 Pç CONJ. PORTAL VLT-BS (C/ EME. INT)  C 8 
+R02  5080291AR02  14 Pç CONJ. PORTAL VLT-BS (C/ EME. INT  E 
+EXT) 
+C 9 
+R03  5080291AR03  4 Pç CONJ. PORTAL VLT-BS (C/ EME. INT)  C 8 
+R04  5080291AR04  14 Pç CONJ. PORTAL VLT-BS (C/ EME. INT  E 
+EXT) 
+C 9 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 8 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 8 / 52 
+T1: ESCOPO DE FORNECIMENTO (5080291AR01 / R03) 
+
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 9 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 9 / 52 
+T1: ESCOPO DE FORNECIMENTO (5080291AR02 / R04) 
+
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 10 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 10 / 52 
+T1: ESCOPO DE FORNECIMENTO 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 11 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 11 / 52 
+T1: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 5080291AR..    SCOPE OF SUPPLY    
+1 3TD04000R36/R55   1 Pce DRIVE C 12 
+2 S/N  1 Pce NOT KB SUPPLY C  
+3 S/N  1 Pce NOT KB SUPPLY C  
+4 3T203732R92  1 Pce EMERGENCY 
+DEVICE (INTERNO) 
+C 50 
+5 3T309165R46  1 Pce BOWDEN CABLE   
+6 3T203732R91  1 Pce EMERGENCY 
+DEVICE (EXTERNO)  
+C 47 
+7 3T309165R47  1 Pce BOWDEN CABLE   
+8 3TD05505R05  1 Pce WASHER C  
+9 3TD05576R10  2 Pce MOUNTING 
+CONSOLE 
+C 45 
+10 3TD05576R10  1 Pce MOUNTING 
+CONSOLE 
+C 45 
+11 3TD05505R06  30 Pce WASHER C  
+13 SOS CUSTOMER  18 Pce HEX-HEAD BOLT 
+M8X35 
+C  
+14 SOS CUSTOMER  18 Pce SPRING WASHER 
+8 
+C  
+24 3TD05505R05  2 Pce WASHER C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 12 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 12 / 52 
+T2: DRIVE – 3TD04000R36 / R55 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 13 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 13 / 52 
+T2: DRIVE – 3TD04000R36 / R55 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 14 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 14 / 52 
+T2: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3TD04000R36/R55    DRIVE   
+1 3TD08317R02 (R36)   1 Pce GUIDE RAIL C  
+1A 3TD12857R03 (R55)   1 Pce GUIDE RAIL C  
+2 3TD05086R10  1 Pce SUPPORTING PLATE C  
+3 3TD04322R60  1 Pce S3 BASIC DRIVE C 16 
+4 3TD04450R17  1 Pce SPINDLE ASSEMBLY C 22 
+5 3TD04450R18  1 Pce SPINDLE ASSEMBLY C 26 
+6 3TD05011R01  1 Pce DRIVER C  
+7 3TD05011R02  1 Pce DRIVER C  
+8 3TD05181R11  1 Pce DOORHANGER C 30 
+9 3TD05181R12  1 Pce DOORHANGER C 36 
+10 7U9200284  2 Pce WOODRUFF KEY 
+A5X5X25 
+C  
+11 3TD16374R01  1 Pce BRACKET C  
+12 3TD16374R02  1 Pce BRACKET C  
+18 3TD16359R01  1 Pce TRY SQUARE C  
+19 3TD16363R01  1 Pce TRY SQUARE C  
+20 3TD08314R01 (R36)   1 Pce ANGLE C  
+21 3TD08314R02 (R36)   1 Pce ANGLE C  
+20A  3TD08314R05 (R55)   1 Pce ANGLE C  
+21A  3TD08314R06 (R55)   1 Pce ANGLE C  
+22 3T406422R28  2 Pce PIN C  
+23 3TD00658R21  2 Pce WASHER C  
+24 3TD01592R01  4 Pce LOCKING SCREW C  
+25 3TD08619R01  4 Pce WASHER C  
+32 7UN401337R01  2 Pce ADHESIVE LABEL C  
+36 3ED00602R18  1 Pce CABLING C 42 
+37 8EN401218R03  80 Pce CABLE TIE C  
+38 3ED00922R29  1 Pce DOOR CONTROL  UNIT 
+MDC-24RS4 
+B  
+45 452009  1 Pce HEX-HEAD BOLT 
+M6X12 
+C  
+46 466006  3 Pce HEX-HEAD BOLT 
+M6X16 
+C  
+48 476025  6 Pce COUNTERSUNK 
+SCREW M6X20 
+C  
+49 452051  4 Pce HEX-HEAD BOLT 
+M8X20 
+C  
+50 452059  6 Pce HEX-HEAD BOLT 
+M8X25 
+C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 15 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 15 / 52 
+T2: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+55 465614  36 Pce HEXAGON NUT 
+M6 
+C  
+57 464341  2 Pce HEXAGON NUT 
+M8 
+C  
+62 475964  2 Pce WASHER 
+6 
+C  
+64 452021  34 Pce HEX-HEAD BOLT 
+M6X20 
+C  
+65 475971  42 Pce SPRING WASHER 
+6 
+C  
+66 475972  10 Pce SPRING WASHER 
+8 
+C  
+67 475976  2 Pce SPRING WASHER 
+S06 
+C  
+86 7UN402019R01  2 Pce ADHESIVE LABEL C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 16 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 16 / 52 
+T3: S3 BASIC DRIVE 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 17 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 17 / 52 
+T3: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3TD04322R60    S3 BASIC DRIVE   
+1 3TD04322R51  1 Pce S3 BASIC DRIVE C 18 
+2 3TD04016R10  1 Pce BRACKET C  
+3 3TD04015R06  1 Pce BRACKET C  
+8 3TD04021R02  1 Pce LIMIT SWITCH 
+CONSOLE 
+C  
+21 7D260520Z  3 Pce COUNTERSUNK SCREW  
+M5X16 
+C  
+22 7M6108830  2 Pce SPRING WASHER D5 C  
+23 7L5201200  2 Pce HEXAGON NUT M5 C  
+24 8HN400639P01  1 Pce LIMIT SWITCH (S1) B  
+25 7UN400588P03  2 Pce SECURING CLIP B  
+29 7M6108840  2 Pce SPRING WASHER D6 C  
+30 475944  3 Pce HEX-HEAD BOLT 
+M6x16 
+C  
+31 3ED00601R14  1 Pce CABLING C 20 
+32 474785  3 Pce WASHER 
+3 
+C  
+33 7M6108810  3 Pce SPRING WASHER 
+D3 
+C  
+34 7D2202550  3 Pce OVAL-HEAD SCREW 
+M3X16 
+C  
+35 7L5200750  3 Pce HEXAGON NUT 
+M3 
+C  
+36 475975  1 Pce SPRING WASHER 
+K06 
+C  
+37 475976  1 Pce SPRING WASHER 
+S06 
+C  
+38 475964  1 Pce WASHER 6 C  
+40 7UN402019R01  4 Pce ADHESIVE LABEL C  
+41 8TN401944R06  0.032 m EDGE GUARD C  
+42 7UN401337R01  1 Pce ADHESIVE LABEL C  
+43 474968  1 Pce SPLIT PIN 2,5x45 C  
+44 8EN401218R03  1 Pce CABLE TIE C  
+45 3TD06805R01  1 Pce MOTOR CONNECTOR 
+HOLDER 
+C  
+46 7M6108821  2 Pce SPRING WASHER 
+D4 
+C  
+47 7B1200300  2 Pce MACHINE SCREW 
+M4X10 
+C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 18 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 18 / 52 
+T4: S3 BASIC DRIVE 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 19 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 19 / 52 
+T4: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3TD04322R51    S3 BASIC DRIVE   
+1 3TD04053R11  1 Pce GEARED MOTOR (M1) B  
+2 3TD04001R01  1 Pce LOCKING LEVER C  
+3 3TD04023R01  1 Pce TORSION SPRING B  
+4 3TD04003R02  0.2 Pce RING GEAR B  
+5 3TD04030R01  1 Pce PAWL C  
+6 3TD03997R01  1 Pce TORSION SPRING B  
+7 3TD04029R01  1 Pce PAWL C  
+8 3TD03997R04  1 Pce TORSION SPRING B  
+9 3TD04002R01  2 Pce PIN C  
+10 7D2203650  2 Pce OVAL-HEAD SCREW 
+M4X20 
+C  
+11 7U9244550  2 Pce SHIM 
+8X14X0,5 
+C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 20 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 20 / 52 
+T5: CABLING 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 21 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 21 / 52 
+T5: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3ED00601R14    CABLING   
+1 8FN300165R05  1 Pce CONNECTOR CPC C  
+2 8FN401144R02  10 Pce PIN C  
+3 8FN401229R03  1 Pce CONNECTOR MNL C  
+4 8FN401044R05  6 Pce CONNECTOR MNL C  
+5 8EN400260P07  12 Pce RECEPTACLE C  
+6 8EN400261P01  12 Pce INSULATING SLEEVE C  
+7 3ED01131R05  8.17 m LEAD C  
+8 3ED01131R07  0.98 m LEAD C  
+9 8EN401218R03  6 Pce CABLE TIE C  
+10 8D1002000  0.19 m TUBE C  
+11 8D1001600  0.42 m TUBE C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 22 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 22 / 52 
+T6: SPINDLE ASSEMBLY 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 23 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 23 / 52 
+T6: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3TD04450R17    SPINDLE ASSEMBLY   
+1 3TD04451R16  1 Pce SPINDLE C  
+2 3T307361R54  1 Pce HINGED NUT C 24 
+3 3TD04039R04  1 Pce BEARING BRACKET C  
+4 451001  1 Pce RETAINING RING 
+35X1,5 
+B  
+5 474990  1 Pce ANGULAR BALL BEAR. 
+3202-2RS 
+C  
+6 3TD04452R01  1 Pce SPACING SLEEVE C  
+7 7SN300229R53  1 Pce LOCKING PLATE 
+MB2 
+C  
+8 7SN300229R03  1 Pce SHAFT NUT 
+KM2 
+C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 24 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 24 / 52 
+T7: HINGED NUT 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 25 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 25 / 52 
+T7: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3T307361R54    HINGED NUT   
+1 3T203235R51  1 Pce HINGED NUT C  
+2 3KT307363R02  1 Pce PLASTIC NUT C  
+3 7UN300102P10  2 Pce BEARING BUSHING C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 26 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 26 / 52 
+T8: SPINDLE ASSEMBLY 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 27 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 27 / 52 
+T8: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3TD04450R18    SPINDLE ASSEMBLY   
+1 3TD04451R15  1 Pce SPINDLE C  
+2 3T307361R51  1 Pce HINGED NUT C 28 
+3 3TD04039R03  1 Pce BEARING BRACKET C  
+4 451001  1 Pce RETAINING RING 
+35X1,5 
+B  
+5 474990  1 Pce ANGULAR BALL BEAR. 
+3202-2RS 
+C  
+6 3TD04452R01  1 Pce SPACING SLEEVE C  
+7 7SN300229R53  1 Pce LOCKING PLATE 
+MB2 
+C  
+8 7SN300229R03  1 Pce SHAFT NUT 
+KM2 
+C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 28 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 28 / 52 
+T9: HINGED NUT 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 29 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 29 / 52 
+T9: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3T307361R51    HINGED NUT   
+1 3T203235R51  1 Pce HINGED NUT C  
+2 3KT307363R01  1 Pce PLASTIC NUT C  
+3 7UN300102P10  1 Pce BEARING BUSHING C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 30 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 30 / 52 
+T10: DOORHANGER 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 31 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 31 / 52 
+T10:  Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3TD05181R11    DOORHANGER   
+1 P5883/2  1 Pce ASSEMBLY PLATE C  
+2 3KT408790R11  1 Pce SUPPORTING ROLLER B 32 
+3 3KT408790R14  1 Pce SUPPORTING ROLLER B 34 
+4 3KT410125R03  2 Pce ECCENTRIC PIN C  
+5 3TD08320R01  2 Pce COUNTERSTAY 
+ROLLER 
+B  
+6 7SN300229R55  2 Pce LOCKING PLATE 
+MB4 
+C  
+7 7SN300229R05  2 Pce SHAFT NUT 
+KM4 
+C  
+8 475973  4 Pce SPRING WASHER 
+10 
+C  
+9 452181  4 Pce HEXAGON NUT 
+M10 
+C  
+10 463626  1 Pce HEXAGON NUT 
+BM8 
+C  
+11 3JN400826R25  1 Pce RUBBER BUFFER B  
+20 3TD05667R01  1 Pce LOCK C  
+21 476385  2 Pce COACH BOLT 
+M10X30 
+C  
+26 3TD05667R05  3 Pce SHIM C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 32 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 32 / 52 
+T11: SUPPORTING ROLLER 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 33 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 33 / 52 
+T11:  Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3KT408790R11    SUPPORTING ROLLER   
+1 3LT408791R01  1 Pce SUPPORTING ROLLER B  
+2 3KT410170R04  1 Pce ROLLER PIN C  
+3 3KT410148R01  1 Pce WASHER C  
+4 7U9601020  2 Pce BEARING C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 34 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 34 / 52 
+T12: SUPPORTING ROLLER 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 35 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 35 / 52 
+T12:  Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3KT408790R14    SUPPORTING ROLLER   
+1 3LT408791R01  1 Pce SUPPORTING ROLLER B  
+2 3KT410170R07  1 Pce ROLLER PIN C  
+3 3KT410148R01  1 Pce WASHER C  
+4 7U9601020  2 Pce BEARING C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 36 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 36 / 52 
+T13: DOORHANGER 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 37 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 37 / 52 
+T13:  Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3TD05181R12    DOORHANGER   
+1 3TD05087R14  1 Pce ASSEMBLY PLATE C  
+2 3KT408790R11  1 Pce SUPPORTING ROLLER B 38 
+3 3KT408790R14  1 Pce SUPPORTING ROLLER B 40 
+4 3KT410125R03  2 Pce ECCENTRIC PIN C  
+5 3TD08320R01  2 Pce COUNTERSTAY 
+ROLLER 
+B  
+6 7SN300229R55  2 Pce LOCKING PLATE 
+MB4 
+C  
+7 7SN300229R05  2 Pce SHAFT NUT 
+KM4 
+C  
+8 475973  4 Pce SPRING WASHER 
+10 
+C  
+9 452181  4 Pce HEXAGON NUT 
+M10 
+C  
+10 463626  1 Pce HEXAGON NUT 
+BM8 
+C  
+11 3JN400826R25  1 Pce RUBBER BUFFER B  
+20 3TD05667R11  1 Pce LOCK C  
+21 476385  2 Pce COACH BOLT 
+M10X30 
+C  
+26 3TD05667R05  3 Pce SHIM C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 38 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 38 / 52 
+T14: SUPPORTING ROLLER 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 39 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 39 / 52 
+T14:  Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3KT408790R11    SUPPORTING ROLLER   
+1 3LT408791R01  1 Pce SUPPORTING ROLLER B  
+2 3KT410170R04  1 Pce ROLLER PIN C  
+3 3KT410148R01  1 Pce WASHER C  
+4 7U9601020  2 Pce BEARING C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 40 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 40 / 52 
+T15: SUPPORTING ROLLER 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 41 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 41 / 52 
+T15:  Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3KT408790R14    SUPPORTING ROLLER   
+1 3LT408791R01  1 Pce SUPPORTING ROLLER B  
+2 3KT410170R07  1 Pce ROLLER PIN C  
+3 3KT410148R01  1 Pce WASHER C  
+4 7U9601020  2 Pce BEARING C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 42 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 42 / 52 
+T16: CABLING 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 43 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 43 / 52 
+T16: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3ED00602R18    CABLING   
+1 8FN401266R11  1 Pce CONNECTOR 
+COMBICON 
+C  
+2 3ED00231R03  1 Pce CONNECTOR 
+COMBICON 
+C  
+3 8E1205200  21 Pce WIRE END SLEEVE C  
+4 8E1205300  3 Pce WIRE END SLEEVE C  
+5 8FN402237R05  3 Pce WIRE END SLEEVE C  
+6 8FN300204R05  1 Pce CONNECTOR CPC C  
+7 8FN401144R12  10 Pce BUSH C  
+8 8FN401169R04  1 Pce CONNECTOR CPC C  
+13 8HN401198R02  1 Pce SWITCH (S6) B  
+14 8HN401514R04  1 Pce LABEL C  
+15 8EN402079R01  2 Pce RECEPTACLE C  
+16 8EN400261P12  2 Pce INSULATING SLEEVE C  
+17 3TD05080R06  1 Pce ELECTRONIC BRACKET  C  
+18 3ED00230R06  1 Pce SUPPORT RAIL C  
+19 3ED00209R01  20 Pce TERMINAL BLOCK C  
+20 8FN401611R01  20 Pce TERMINAL BLOCK C  
+21 3ED00209R10  2 Pce TERMINAL BLOCK C  
+22 8FN401182R01  2 Pce SERIES ANGLE C  
+23 8AN401900R03  48.8 m LEAD C  
+24 8AN401900R04  7.7 m LEAD C  
+25 7B1201210  2 Pce MACHINE SCREW 
+M5X12 
+C  
+26 8E1202200  4 Pce CABLE TERMINAL C  
+27 8AN402249R03  0.8 m LEAD C  
+29 8D1001600  0.6 m TUBE C  
+30 8DN401367R16  0.2 Pce TUBE C  
+31 8DN401367R20  1.1 m TUBE C  
+32 8EN401218R03  15 Pce CABLE TIE C  
+33 8D1003100  0.004 m SHRINKABLE TUBING C  
+34 3ED00209R15  1 Pce TERMINAL BLOCK C  
+35 3ED00209R20  13 Pce TERMINAL BLOCK C  
+36 7UN401337R01  1 Pce ADHESIVE LABEL C  
+37 456580  1 Pce HEX-HEAD BOLT 
+M8X30 
+C  
+38 475977  2 Pce SPRING WASHER 
+K08 
+C  
+39 465687  2 Pce HEXAGON NUT C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 44 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 44 / 52 
+T16: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+M8 
+40 475958  2 Pce WASHER 
+8 
+C  
+41 475978  1 Pce SPRING WASHER 
+S08 
+C  
+42 7M6108830  2 Pce SPRING WASHER 
+D5 
+C  
+43 7L5201200  2 Pce HEXAGON NUT 
+M5 
+C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 45 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 45 / 52 
+T17: MOUNTING CONSOLE 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 46 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 46 / 52 
+T17: Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3TD05576R10    MOUNTING CONSOLE   
+1 3TD05576R12  1 Pce ANGLE C  
+2 475835  1 Pce SETSCREW 
+M6X40 
+C  
+3 7L5201407  1 Pce HEXAGON NUT 
+M6 
+C  
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 47 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 47 / 52 
+T18: EMERGENCY DEVICE 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 48 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 48 / 52 
+T18:  Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3T203732R91    EMERGENCY DEVICE   
+1 3T307489R23  1 Pce HOUSING C  
+2 3T404246R47  1 Pce PIN C  
+3 3TD05034R01  1 Pce LATCHING DISC C  
+4 3TD05034R02  1 Pce DRUM C  
+5 3TD05034R03  1 Pce DRUM C  
+6 7UN401240R35  1 Pce THRUST MEMBER 
+M8 
+C  
+7 463626  1 Pce HEXAGON NUT 
+BM8 
+C  
+8 3TD05035R01  1 Pce COVER C  
+9 3T409379R07  1 Pce GASKET C  
+10 3N300504R07  1 Pce BEARING C  
+11 3N300504R05  1 Pce BEARING C  
+12 470035  9 Pce SHIM 
+8X14X1,5 
+C  
+13 7U9244600  3 Pce WASHER 
+8X14X1 
+C  
+14 7M6108830  1 Pce SPRING WASHER 
+D5 
+C  
+15 3T411479R01  1 Pce SCREW C  
+16 3WN300444R44  1 Pce CUP PACKING C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 49 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 49 / 52 
+T19: EMERGENCY DEVICE 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 50 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 50 / 52 
+T19:  Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3T203732R92    EMERGENCY DEVICE   
+1 3T307489R21  1 Pce HOUSING C  
+2 3T302735R22  1 Pce OPERATING LEVER C 51 
+3 3TD05034R01  1 Pce LATCHING DISC C  
+4 3TD05034R02  1 Pce DRUM C  
+5 3TD05034R03  1 Pce DRUM C  
+6 7UN401240R35  1 Pce THRUST MEMBER 
+M8 
+C  
+7 463626  1 Pce HEXAGON NUT 
+BM8 
+C  
+8 3TD05035R01  1 Pce COVER C  
+9 3T409379R07  1 Pce GASKET C  
+10 3N300504R07  1 Pce BEARING C  
+11 3N300504R05  1 Pce BEARING C  
+12 470035  9 Pce SHIM 
+8X14X1,5 
+C  
+13 7U9244600  3 Pce WASHER 
+8X14X1 
+C  
+14 7M6108830  1 Pce SPRING WASHER 
+D5 
+C  
+15 3T411479R01  1 Pce SCREW C  
+16 3WN300444R44  1 Pce CUP PACKING C  
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 51 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 51 / 52 
+T20: OPERATING LEVER 
+ 
+ 
+
+--- DDTSE20344E20-BR_01 (Catálogo de Peças Sobressalentes).pdf | PÁGINA 52 ---
+ 
+Catálogo de peças sobressalentes  
+ 
+ESCOPO DE FORNECIMENTO  
+Doc.-No.  
+DDTSE20344E20-BR  
+S3 -E2 Revisão: 01 - pt  
+ 
+Copyright 2012© Knorr-Bremse AG. Todos os direitos reservados, incluindo os direitos de propriedade industrial e aplicações dos produtos.  
+A Knorr-Bremse AG detém todos os poderes de disposição sobre esse documento, tais como copiar e transferir.  
+ 
+Knorr-Bremse Group  Page 52 / 52 
+T20:  Ordering information: 
+Pos.  Item number Cust. number Quantity  Unit Name WEC  Page 
+ 
+ 3T302735R22    OPERATING LEVER   
+1 3N401158R13  1 Pce OPERATING LEVER C  
+2 3T404246R17  1 Pce PIN C  
+3 7Q8001550  1 Pce CLAMPING PIN C  
+ 

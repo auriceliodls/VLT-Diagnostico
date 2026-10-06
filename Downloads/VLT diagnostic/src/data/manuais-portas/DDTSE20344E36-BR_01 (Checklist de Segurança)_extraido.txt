@@ -1,0 +1,1217 @@
+=========================================
+MANUAL: DDTSE20344E36-BR_01 (Checklist de Segurança).pdf
+=========================================
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 1 ---
+ 
+ 
+K N O R R  B R E M S E  
+SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA.  
+ 
+ 
+ 
+Todos os direitos reservados. Qualquer aplicação in devida desta descrição, especificamente a reproduçã o ou transmissão a terceiros 
+de qualquer modo, poderá estar sujeita à punição conforme a lei civil ou processo penal. Confidencial, somente para uso interno! 
+Revisão Nº: 
+ 
+01 
+preparado/modificado 
+31/12/2011 
+Társis Tezza 
+verificado/liberado 
+31/12/2011 
+Flavio Pereira 
+Total 
+de páginas 
+20  
+Página 
+Nº 
+1 
+ 
+KNORR-BREMSE  Documentação nº: 
+DDTSE20344E36-BR Sistemas para Veículos Ferroviários Ltda. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Checklist de Segurança  
+Porta Deslizante de Folha Dupla S3-E2 
+(5080291AR01, R02, R03, R04) 
+VLT (BOM SINAL) 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 2 ---
+Checklist de Segurança DDTSE20344E36-BR_01  
+ 
+Página 2/20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aviso - Aviso - Aviso - Aviso - Aviso 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendamos para proteção contra riscos que a instalação ou operação de nossos produtos 
+sejam executadas somente por pessoal autorizado de acordo com instruções técnicas 
+apropriadas. 
+ 
+ 
+ 
+ 
+ 
+ 
+Não nos responsabilizamos perante as leis de garantia do produto por danos diretos ou 
+consequentes, decorrentes de operação, instalação ou manuseio incorretos dos produtos ou 
+componentes fornecidos por nós. 
+ 
+ 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 3 ---
+DDTSE20344E36-BR_01 Checklist de Segurança  
+ 
+ 
+Página 3/20  
+ 
+ 
+Índice 
+ 
+Conteúdos Página  
+1 Documentos requeridos ..................................................................................................................... 4 
+2 Avisos e recomendações gerais ........................................................................................................ 4 
+3 Introdução ............................................................................................................................................ 5 
+3.1  Observações de segurança ................................................................................................................... 5 
+3.2  Geral ...................................................................................................................................................... 5 
+3.3  Ferramentas especiais .......................................................................................................................... 6 
+3.4  Suprimentos auxiliares .......................................................................................................................... 6 
+3.5  Layout do carro ...................................................................................................................................... 7 
+3.6  Visão geral dos componentes ............................................................................................................... 8 
+4 Preenchimento do “checklist” de segurança ................................................................................. 10  
+5 Checklist de segurança para o sistema de porta S3-E2 ................................................................ 11  
+6 Verificação dos códigos de diagnóstico da DCU ........................................................................... 13  
+6.1  Verifique o LED vermelho “ERROR” da DCU...................................................................................... 13  
+7 Verificação dos componentes mecânicos ...................................................................................... 14  
+7.1  Verifique a fixação da micro-chave ..................................................................................................... 14  
+7.2  Verifique o pino de articulação entre o suporte da folha de porta e o fuso ......................................... 14  
+7.3  Verifique os parafusos de fixação ....................................................................................................... 15  
+7.4  Verifique o sistema de travamento ...................................................................................................... 15  
+7.5  Verifique o dispositivo de emergência ................................................................................................. 15  
+7.6  Verifique o dispositivo de serviço ........................................................................................................ 15  
+7.7  Verifique o sistema de isolamento mecânico da porta (cut out device) .............................................. 16  
+8 Verificação dos componentes elétricos .......................................................................................... 16  
+8.1  Verifique a função de detecção de obstrução ..................................................................................... 16  
+8.2  Verifique a fiação elétrica .................................................................................................................... 17  
+8.3  Verifique o funcionamento do sistema de isolamento “cut out device” ............................................... 17  
+8.4  Verifique o funcionamento do sistema de porta .................................................................................. 18  
+8.5  Verifique o dispositivo de emergência ................................................................................................. 18  
+8.6  Verifique o dispositivo de serviço ........................................................................................................ 18  
+8.7  Verifique o funcionamento do botão SOCO ........................................................................................ 18  
+8.8  Verifique o funcionamento da lâmpada de alerta (H2) ........................................................................ 18  
+8.9  Verifique o funcionamento do buzzer de alerta (H1) ........................................................................... 18  
+9 Índice de revisões .............................................................................................................................. 19  
+10  Apêndice – Lista de figuras .............................................................................................................. 20  
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 4 ---
+Checklist de Segurança DDTSE20344E36-BR_01  
+ 
+Página 4/20 
+ 
+ 
+ 
+1 Documentos requeridos 
+ 
+Nº do documento / desenho Descrição 
+ 
+5080291AR01 Desenho de montagem 
+5080291AR01 Escopo de fornecimento 
+5080291AR02 Escopo de fornecimento 
+5080291AR03 Desenho de montagem 
+5080291AR03 Escopo de fornecimento 
+5080291AR04 Escopo de fornecimento 
+DDTSE20344E04-BR Manual de Montagem e Ajuste 
+DDTSE20344E05-BR Manual de Lubrificação 
+DDTSE20344E07-BR Manual de Configuração 
+ED01029R11 Diagrama elétrico 
+ 
+ 
+2 Avisos e recomendações gerais 
+ 
+Este manual inclui os seguintes alertas categorizados em diferentes classes de risco: 
+ 
+ 
+PERIGO 
+O descumprimento destas instruções causará feriment os pessoais 
+irreversíveis ou morte. 
+ 
+ 
+ADVERTÊNCIA 
+O descumprimento destas instruções pode causar feri mentos pessoais 
+graves ou morte. 
+ 
+ 
+CUIDADO 
+O descumprimento destas instruções pode causar feri mentos pessoais, 
+bem como danos ao equipamento e/ou ambiente. 
+ 
+Explicação sobre a estrutura dos avisos (por exemplo, PERIGO): 
+ 
+ 
+PERIGO 
+Causa do perigo 
+Conseqüência do perigo 
+Medidas corretivas 
+ 
+As recomendações não contêm conteúdo relevante de s egurança. São listadas aqui para fins de 
+complementação. 
+ 
+ 
+OBSERVAÇÃO 
+As observações fornecem dicas úteis e informações a dicionais acerca do 
+equipamento. 
+ 
+Em caso de serviços especiais, os avisos em outros capítulos deste manual indicarão os riscos específi cos. 
+Geralmente, os avisos e recomendações precedem o procedimento abordado. 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 5 ---
+DDTSE20344E36-BR_01 Checklist de Segurança  
+ 
+ 
+Página 5/20  
+ 
+ 
+3 Introdução 
+ 
+3.1 Observações de segurança 
+ 
+ 
+ADVERTÊNCIA 
+As partes móveis do sistema de porta podem se movimentar de repente. 
+Risco de ferimentos graves para pessoas e/ou danos ao equipamento. 
+Desligue a alimentação de energia antes de iniciar qualquer atividade no 
+sistema de porta! 
+ 
+ 
+ADVERTÊNCIA 
+Durante a execução de algum trabalho nos componente s do sistema de 
+porta com fornecimento de energia temporário, a det ecção de obstrução 
+não estará ativa! 
+Risco de ferimentos graves para pessoas e/ou danos ao equipamento. 
+Desligue a alimentação de energia antes de iniciar qualquer atividade no 
+sistema de porta! 
+ 
+ 
+PERIGO 
+ALIMENTAÇÃO DE ENERGIA DO SISTEMA DE PORTA 
+Risco de ferimentos irreversíveis para pessoas que podem causar morte. 
+Antes de iniciar qualquer trabalho no sistema de po rta, a alimentação de 
+energia deve ser interrompida. Para tanto, desligue  o disjuntor na cabine 
+de controle elétrico e a chave principal no mecanismo. 
+Além disso, todos os cabos elétricos do trem que es tiverem interligados ao 
+sistema da porta devem ser desconectados! 
+ 
+3.2 Geral 
+ 
+Esse manual é utilizado para realização do “checkli st” de segurança do sistema de porta. Basicamente, as 
+informações sobre a regulagem dos componentes mecân icos e elétricos estão contidas nos manuais 
+DDTSE20344E04-BR e DDTSE20344E07-BR. 
+Para o correto funcionamento do sistema de porta, a  ligação elétrica deve ser realizada conforme indic ado na 
+Descrição de Funcionamento DDTSE20344E03-BR. 
+ 
+ 
+OBSERVAÇÃO 
+De acordo com essa instrução, o “checklist” de segu rança deve ser 
+executado exclusivamente por pessoal treinado e autorizado. 
+ 
+ 
+OBSERVAÇÃO 
+Essa instrução se refere apenas aos componentes inc lusos no 
+fornecimento KBB/IFE. 
+ 
+ 
+OBSERVAÇÃO 
+As ilustrações nessa instrução nem sempre exibem vi sões detalhadas do 
+sistema de porta; porém, seu propósito é fornecer a s informações 
+necessárias. 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 6 ---
+Checklist de Segurança DDTSE20344E36-BR_01  
+ 
+Página 6/20 
+ 
+ 
+ 
+3.3 Ferramentas especiais 
+ 
+Além das ferramentas habituais, algumas ferramentas  especiais são necessárias para montagem e ajuste. 
+Caso as ferramentas especiais não estejam inclusas no escopo de fornecimento KBB/IFE, devem ser 
+adquiridas separadamente pelo cliente através da KBB: 
+ 
+KNORR-BREMSE SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA. 
+Via Cyrineu Tonolli, 1.519 - CEP: 13295-000 - Itupeva / SP 
+Depto de Engenharia de Aplicação de Sistemas de Porta 
+Telefone: (11) 4593-4400 
+www.knorr-bremse.com.br  
+ 
+ 
+3.4 Suprimentos auxiliares 
+ 
+Para montagem e ajuste, alguns suprimentos auxiliar es são necessários. Os suprimentos auxiliares 
+necessários não estão inclusos no fornecimento KBB/ IFE e devem ser adquiridos pelo cliente no comércio  ou 
+através da KBB: 
+ 
+KNORR-BREMSE SISTEMAS PARA VEÍCULOS FERROVIÁRIOS LTDA. 
+Via Cyrineu Tonolli, 1.519 - CEP: 13295-000 - Itupeva / SP 
+Depto de Engenharia de Aplicação de Sistemas de Porta 
+Telefone: (11) 4593-4400 
+www.knorr-bremse.com.br  
+ 
+ 
+ADVERTÊNCIA 
+A utilização incorreta de produtos químicos pode ca usar danos à saúde 
+das pessoas! 
+Portanto siga corretamente todas as instruções de u tilização dos produtos 
+que são fornecidas pelos fabricantes! 
+ 
+ 
+CUIDADO 
+A utilização incorreta de produtos químicos pode ca usar danos aos 
+equipamentos! 
+Portanto siga corretamente todas as instruções de u tilização dos produtos 
+que são fornecidas pelos fabricantes! 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 7 ---
+DDTSE20344E36-BR_01 Checklist de Segurança  
+ 
+ 
+Página 7/20  
+ 
+ 
+3.5 Layout do carro 
+ 
+ 
+Fig. 3-1 Layout do carro 
+ 
+ 
+CARRO CABINE ESQUERDO: 
+ 
+1 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+ 
+CARRO INTERMEDIÁRIO 1: 
+ 
+1 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+ 
+CARRO INTERMEDIÁRIO 2 (se houver): 
+ 
+1 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+ 
+ 
+CARRO CABINE DIREITO: 
+ 
+1 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+2 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+3 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+4 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+5 Porta com dispositivo de emergência interno 5080291 AR01 ou R03 
+6 Porta com dispositivo de serviço interno e externo 5080291AR02 ou R04 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 8 ---
+Checklist de Segurança DDTSE20344E36-BR_01  
+ 
+Página 8/20 
+ 
+ 
+3.6 Visão geral dos componentes 
+ 
+3.6.1 Área da porta 
+ 
+ 
+Fig. 3-2 Visão geral dos componentes – Área da porta 
+ 
+O número de itens não corresponde com o escopo dos itens de entrega! 
+ 
+ 
+1 Mecanismo de´porta completo  2 Folha de porta direita 
+3 Folha de porta esquerda 4 Dispositivo de emergência interno 
+5 Bowden cable 6 Dispositivo de emergência externo 
+7 Bowden cable 8 Unidade de controle de porta (DCU)  
+9 Suporte de montagem 10 Suporte de montagem 
+11 Trilho   
+ 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 9 ---
+DDTSE20344E36-BR_01 Checklist de Segurança  
+ 
+ 
+Página 9/20  
+ 
+ 
+3.6.2 Trilho de acionamento 
+ 
+ 
+Fig. 3-3 Visão geral dos componentes – Área do acionamento 
+ 
+ 
+O número de itens não corresponde com o escopo dos itens de entrega! 
+ 
+ 
+12 Suporte da folha direita 13 Suporte da folha esquerda 
+14 Fuso direito 15 Fuso esquerdo 
+16 Rolete excêntrico 17 Rolete  
+18 Módulo de acionamento 19 Batoque de fim de curso 
+20 Conector (X31) 21 Chave de serviço (S6) 
+22 Micro-chave de porta “fechada e travada” (S1) 23 Micro-chave de “emergência” (S3) 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 10 ---
+Checklist de Segurança DDTSE20344E36-BR_01  
+ 
+Página 10/20 
+ 
+ 
+4 Preenchimento do “checklist” de segurança  
+ 
+Exemplo de preenchimento: 
+ 
+ 
+Checklist de segurança 
+DDTSE20344E36 
+Medida real  
+1 2 3 4 
+         
+Ver item 7.1 Verifique a 
+fixação da micro-chave;  
+OK  OK  OK  OK  
+  Sim    Não    Sim    Não    Sim    Não    Sim    Não  
+ 
+ 
+    
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 11 ---
+ 
+ 
+DDTSE20344E36-BR_01 Checklist de Segurança  
+ 
+ 
+Página 11/20  
+ 
+ 
+ 
+ 
+5 Checklist de segurança para o sistema de porta S3 -E2 
+ 
+ 
+Preencha com a medida real, compare com a medida nominal e confirme com “Sim” ou “Não”. 
+ 
+Checklist de segurança 
+DDTSE20344E36 
+Medida real  
+Porta 1  Porta 2  Porta 3  Porta 4  Porta 5  Porta 6  
+ Ver item 6.1. Verifique o código flash 
+do LED vermelho “ERROR”;  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 7.1. Verifique a fixação da 
+micro-chave;  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 7.2. Verifique o pino de 
+articulação entre o suporte da folha 
+de porta e o fuso;  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 7.3. Verifique os parafusos 
+de fixação; 
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 7.4. Verifique o sistema de 
+travamento;  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 7.5. Verifique o dispositivo 
+de emergência;  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 7.6. Verifique o dispositivo 
+de serviço;  
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 7.7. Verifique o sistema de 
+isolamento mecânico da porta (cut 
+out device); 
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Carro Nº.:   
+ 
+Preenchido por:    
+ 
+Data:    
+Página 1/3  
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 12 ---
+DDTSE20344E36-BR_01 Checklist de Segurança  
+ 
+ 
+Página 12/20  
+ 
+ 
+Ver item 8.1. Verifique a função de 
+detecção de obstrução; 
+OK  OK  OK  OK  OK  OK  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 8.2. Verifique a fiação 
+elétrica; 
+OK  OK  OK  OK  OK  OK 
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+  
+Sim  
+  
+Não  
+Ver item 8.3. Verifique a micro-chave 
+de porta fora de serviço (S4-1) “cut 
+out device”;  
+OK OK OK OK OK OK 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+Ver item 8.4. Verifique o 
+funcionamento do sistema de porta; 
+OK OK OK OK OK OK 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+Ver item 8.5. Verifique o dispositivo 
+de emergência;  
+OK OK OK OK OK OK 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+Ver item 8.6. Verifique o dispositivo 
+serviço;  
+OK OK OK OK OK OK 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+Ver item 8.7. Verifique o 
+funcionamento do botão SOCO; 
+OK OK OK OK OK OK 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+Ver item 8.8. Verifique o 
+funcionamento da lâmpada de alerta 
+(H2);  
+OK OK OK OK OK OK 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+Ver item 8.9. Verifique o 
+funcionamento do buzzer de alerta 
+(H1);  
+OK OK OK OK OK OK 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+  
+Sim 
+  
+Não 
+ 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 13 ---
+DDTSE20344E36-BR_01 Checklist de Segurança  
+ 
+ 
+Página 13/20  
+ 
+ 
+6 Verificação dos códigos de diagnóstico da DCU 
+ 
+6.1 Verifique o LED vermelho “ERROR” da DCU 
+ 
+IL-02817 
+21
+ 
+ 
+1 Botão de serviço 2 LED vermelho (ERROR) 
+Fig. 6-1 Verificação do LED vermelho “ERROR” da DCU 
+(ver Fig. 7-1 Travamento da micro-chave 
+) 
+• Verifique qual é o código flash que o LED vermelho  “ERROR” está indicando. 
+• Verifique o código de diagnóstico correspondente a o código flash conforme o Manual de Diagnóstico 
+de Falha DDTSE20344E13-BR. 
+• Localize e repare a falha conforme Manual de Diagn óstico de Falha DDTSE20344E13-BR. 
+• Apague a indicação do código de diagnóstico. 
+• Faça um teste de funcionamento. 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 14 ---
+Checklist de Segurança DDTSE20344E36-BR_01  
+ 
+Página 14/20 
+ 
+ 
+ 
+7 Verificação dos componentes mecânicos 
+ 
+7.1 Verifique a fixação da micro-chave 
+ 
+ 
+ 
+1 Clip de segurança 
+Fig. 7-1 Travamento da micro-chave 
+(ver Fig. 7-1 Travamento da micro-chave 
+) 
+• Verifique se todos os clips de segurança estão int actos. 
+• Substituir o clip de segurança caso esteja danific ado. 
+ 
+ 
+7.2 Verifique o pino de articulação entre o suporte  da folha de porta e o fuso 
+ 
+IL-01905 
+1 2 3
+ 
+ 
+1 Suporte da folha de porta 2 Pino 
+3 Porca sextavada, arruela   
+Fig. 7-2 Suporte da folha de porta 
+(ver Fig. 7-2 Suporte da folha de porta 
+) 
+• Verifique se a tinta lacre da porca sextavada (3) que trava o pino (2) está danificada nos dois 
+suportes. 
+• Caso esteja danificada, remova o pino, limpe a ros ca, as porcas e arruelas e aplique Loctite 243. 
+• Aperte a porca com o torque de aperto indicado no Manual de Montagem e Ajuste DDTSE20344E04-
+BR e refaça a marcação das porcas com tinta lacre. 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 15 ---
+DDTSE20344E36-BR_01 Checklist de Segurança  
+ 
+ 
+Página 15/20  
+ 
+ 
+7.3 Verifique os parafusos de fixação 
+ 
+• Verifique em todos os parafusos de fixação se marc ação com tinta lacre está intacta. 
+• Caso esteja danificada, remova o parafuso, limpe a  rosca, as porcas e arruelas e aplique Loctite 243. 
+• Aperte a porca com o torque de aperto indicado no Manual de Montagem e Ajuste DDTSE20344E04-
+BR e refaça a marcação das porcas com tinta lacre. 
+ 
+ 
+7.4 Verifique o sistema de travamento 
+ 
+1
+1
+IL-01123 
+3
+2
+1
+ 
+ 
+1 Molas de torção 2 Travas 3 Alavanca de travamento 
+Fig. 7-3 Sistema de travamento 
+ 
+(ver Fig. 7-3 Sistema de travamento 
+) 
+• Feche completamente as folhas da porta até que a t rava seja acionada. 
+• Verifique o estado das molas de torção (1). 
+• Verifique o estado da alavanca de travamento (3) e  das travas (2) e se o sistema de travamento está 
+funcionando bem (se as travas estão sendo acionadas com facilidade). 
+ 
+ 
+7.5 Verifique o dispositivo de emergência 
+ 
+• Opere o dispositivo de emergência. 
+• Verifique se a porta destrava e se pode ser aberta  e fechada manualmente com facilidade. 
+ 
+ 
+7.6 Verifique o dispositivo de serviço 
+ 
+• Opere o dispositivo de serviço. 
+• Verifique se a porta destrava e se pode ser aberta  e fechada manualmente com facilidade. 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 16 ---
+Checklist de Segurança DDTSE20344E36-BR_01  
+ 
+Página 16/20 
+ 
+ 
+7.7 Verifique o sistema de isolamento mecânico da p orta (cut out device) 
+ 
+• Com a porta fechada e travada, opere o cut out dev ice até a posição de isolamento. 
+• Verifique se a micro-chave do cut out device foi a cionada. Tente destravar o módulo manualmente, o 
+cut out device deve bloquear o destravamento. 
+ 
+ 
+8 Verificação dos componentes elétricos 
+ 
+8.1 Verifique a função de detecção de obstrução 
+ 
+ 
+OBSERVAÇÃO 
+Para verificar a função de detecção de obstrução, d eve ser utilizado um 
+gabarito de teste (perfil quadrado ou circular) com  dimensões 10 x 100 
+mm. 
+ 
+IL-50094
+a
+b
+ 
+ 
+a 10 mm b 100 mm 
+Fig. 8-1 Gabarito de teste de detecção de obstrução 
+ 
+(ver Fig. 8-1 Gabarito de teste de detecção de obstrução 
+) 
+• Coloque o gabarito entre as folhas de porta nas po sições indicadas na figura durante o fechamento. 
+• Verifique se a porta interrompe o fechamento e ope ra conforme o que está especificado na Descrição 
+de Funcionamento DDTSE20344E03-BR. 
+ 
+ 
+OBSERVAÇÃO 
+Durante a detecção de obstrução, a micro-chave S1 n ão pode ser 
+acionada. 
+ 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 17 ---
+DDTSE20344E36-BR_01 Checklist de Segurança  
+ 
+ 
+Página 17/20  
+ 
+ 
+8.2 Verifique a fiação elétrica 
+ 
+• Verifique visualmente se a fiação elétrica está da nificada. Caso seja necessário utilize um multímetro. 
+• Verifique se os conectores estão bem encaixados. 
+ 
+ 
+8.3 Verifique o funcionamento do sistema de isolame nto “cut out device” 
+ 
+ 
+ 
+ 
+1 Micro-chave “cut out device” (S4-1) 3 Suporte ajustável 5 Alavanca de acionamento 
+2 Parafuso de fixação  4 Fuso   
+ 
+Fig. 8-2 Ajuste da micro-chave (S4-1) 
+ 
+(ver  
+1 Micro-chave “cut out device” (S4-1) 3 Suporte ajustável 5 Alavanca de acionamento 
+2 Parafuso de fixação  4 Fuso   
+ 
+• A porta deve ser movida até a posição de fechada e  travada e isolada mecanicamente através do 
+“cut out device”; 
+• Verifique se a micro-chave (S4-1) foi acionada; 
+• Teste se a porta se mantém fechada mesmo que se ac ione o dispositivo de emergência; 
+• Teste se a porta se mantém fechada mesmo que a VCU  envie o comando de “central open” com 
+velocidade zero = “1”. 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 18 ---
+Checklist de Segurança DDTSE20344E36-BR_01  
+ 
+Página 18/20 
+ 
+ 
+ 
+8.4 Verifique o funcionamento do sistema de porta 
+ 
+• Verifique se o funcionamento do sistema de porta e stá de acordo com a Descrição de 
+Funcionamento DDTSE20344E03-BR. 
+ 
+8.5 Verifique o dispositivo de emergência 
+ 
+• Com o trem em velocidade zero opere o dispositivo de emergência, a porta deve ser liberada para 
+abertura manual, verifique conforme a Descrição de Funcionamento DDTSE20344E03-BR. 
+• Com o trem em movimento opere o dispositivo de eme rgência, a porta será destravada, entretanto o 
+motor irá forçar o movimento da porta do sentido do  fechamento, verifique conforme a Descrição de 
+Funcionamento DDTSE20344E03-BR. 
+ 
+ 
+8.6 Verifique o dispositivo de serviço 
+ 
+• Com o trem em velocidade zero opere o dispositivo de emergência, a porta deve ser liberada para 
+abertura manual, verifique conforme a Descrição de Funcionamento DDTSE20344E03-BR. 
+• Com o trem em movimento opere o dispositivo de eme rgência, a porta será destravada, entretanto o 
+motor irá forçar o movimento da porta do sentido do  fechamento, verifique conforme a Descrição de 
+Funcionamento DDTSE20344E03-BR. 
+ 
+ 
+8.7 Verifique o funcionamento do botão SOCO 
+ 
+• Verifique se o botão SOCO está funcionando conform e a Descrição de Funcionamento 
+DDTSE20344E03-BR. 
+ 
+ 
+8.8 Verifique o funcionamento da lâmpada de alerta (H2) 
+ 
+• Verifique se a lâmpada de alerta (H2) está funcion ando conforme a Descrição de Funcionamento 
+DDTSE20344E03-BR. 
+ 
+ 
+8.9 Verifique o funcionamento do buzzer de alerta ( H1)  
+ 
+• Verifique se o buzzer de alerta (H1) está funciona ndo conforme a Descrição de Funcionamento 
+DDTSE20344E03-BR. 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 19 ---
+DDTSE20344E36-BR_01 Checklist de Segurança  
+ 
+ 
+Página 19/20  
+ 
+ 
+9 Índice de revisões 
+ 
+revisão data preparado verificado/liberado 
+ 
+00  31/12/2011 Társis Tezza  Flavio Pereira 
+01 22/04/2014 Flavio Pereira Talles Cristian 
+ 
+Item Modificação 
+00 Baseado no original em inglês DDTSE20344E36_00 
+01 Alterações considerando novos códigos (R03 e R04 ) 
+ 
+ 
+
+--- DDTSE20344E36-BR_01 (Checklist de Segurança).pdf | PÁGINA 20 ---
+Checklist de Segurança DDTSE20344E36-BR_01  
+ 
+Página 20/20 
+ 
+ 
+ 
+10 Apêndice – Lista de figuras 
+ 
+Figura Página  
+Fig. 3-1 Layout do carro ............................................................................. ............................ 7 
+Fig. 6-1 Verificação do LED vermelho “ERROR” da DCU .................................................. .. 13  
+Fig. 7-1 Travamento da micro-chave ................................................................... ................. 14  
+Fig. 7-2 Suporte da folha de porta ................................................................... ..................... 14  
+Fig. 7-3 Sistema de travamento ....................................................................... .................... 15  
+Fig. 8-1 Gabarito de teste de detecção de obstrução ........................................................... 16  
+Fig. 8-2 Ajuste da micro-chave (S4-1) ................................................................ .................. 17  
+ 
+ 
+ 
+ 
